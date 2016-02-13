@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<squawka date="2016-01-25" time="16:07" timezone="BST" data_freshness="16:07">
+  <data_panel>
+    <system>
+      <headline><![CDATA[Dortmund 0 - 0 Augsburg]]></headline>
+      <refresh_rate>10000</refresh_rate>
+      <state>ingame</state>
+      <show_ingame_rdp>false</show_ingame_rdp>
+    <reprocess>20160201115650</reprocess></system>
+    <game>
+      <name><![CDATA[Dortmund VS Augsburg]]></name>
+      <team id="95">
+        <long_name><![CDATA[Borussia Dortmund]]></long_name>
+        <short_name><![CDATA[Dortmund]]></short_name>
+        <logo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/clubs/crest/20150828113350_borussia-dortmund_h.png]]></logo>
+        <shirt_url><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/clubs/jersey/20150828113350_borussia-dortmund_h.png]]></shirt_url>
+        <club_url><![CDATA[borussia-dortmund]]></club_url>
+        <state>home</state>
+        <team_color><![CDATA[#bfa303]]></team_color>
+      </team>
+      <team id="98">
+        <long_name><![CDATA[FC Augsburg]]></long_name>
+        <short_name><![CDATA[Augsburg]]></short_name>
+        <logo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/clubs/crest/bundesliga/fc-augsburg-home.png]]></logo>
+        <shirt_url><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/clubs/jersey/bundesliga/fc-augsburg-home.png]]></shirt_url>
+        <club_url><![CDATA[fc-augsburg]]></club_url>
+        <state>away</state>
+        <team_color><![CDATA[#e73a33]]></team_color>
+      </team>
+      <venue><![CDATA[Signal Iduna Park]]></venue>
+      <kickoff>Sun, 25 Oct 2015 14:30:00 +0000</kickoff>
+      <timeleft>0</timeleft>
+      <competition_name><![CDATA[]]></competition_name>
+    </game>
+    <players>
+      <player id="2065" team_id="95">
+        <first_name><![CDATA[Roman]]></first_name>
+        <last_name><![CDATA[Weidenfeller]]></last_name>
+        <name><![CDATA[Roman Weidenfeller]]></name>
+        <surname><![CDATA[Weidenfeller]]></surname>
+        <team_name><![CDATA[Dortmund]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p2065c95j1.jpg]]></photo>
+        <position><![CDATA[Goalkeeper]]></position>
+        <dob>06/08/1980</dob>
+        <weight>90</weight>
+        <height>190</height>
+        <shirt_num>1</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Germany]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/roman-weidenfeller/stats]]></profile_url>
+        <x_loc>0</x_loc>
+        <y_loc>0</y_loc>
+        <state><![CDATA[bench]]></state>
+        <age>35</age>
+        <bmi>24.9</bmi>
+      </player>
+      <player id="5608" team_id="95">
+        <first_name><![CDATA[Joo-Ho]]></first_name>
+        <last_name><![CDATA[Park]]></last_name>
+        <name><![CDATA[Joo-Ho Park]]></name>
+        <surname><![CDATA[Joo-Ho Park]]></surname>
+        <team_name><![CDATA[Dortmund]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p5608c92j24.jpg]]></photo>
+        <position><![CDATA[Defender]]></position>
+        <dob>16/01/1987</dob>
+        <weight>69</weight>
+        <height>176</height>
+        <shirt_num>3</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Korea Republic]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/joo-ho-park/stats]]></profile_url>
+        <x_loc>0</x_loc>
+        <y_loc>0</y_loc>
+        <state><![CDATA[bench]]></state>
+        <age>29</age>
+        <bmi>22.3</bmi>
+      </player>
+      <player id="2071" team_id="95">
+        <first_name><![CDATA[Sven]]></first_name>
+        <last_name><![CDATA[Bender]]></last_name>
+        <name><![CDATA[Sven Bender]]></name>
+        <surname><![CDATA[Sven Bender]]></surname>
+        <team_name><![CDATA[Dortmund]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p2071c95j6.jpg]]></photo>
+        <position><![CDATA[Midfielder]]></position>
+        <dob>27/04/1989</dob>
+        <weight>80</weight>
+        <height>186</height>
+        <shirt_num>6</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Germany]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/sven-bender/stats]]></profile_url>
+        <x_loc>40</x_loc>
+        <y_loc>50</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>27</age>
+        <bmi>23.1</bmi>
+      </player>
+      <player id="3856" team_id="95">
+        <first_name><![CDATA[Jonas]]></first_name>
+        <last_name><![CDATA[Hofmann]]></last_name>
+        <name><![CDATA[Jonas Hofmann]]></name>
+        <surname><![CDATA[Jonas Hofmann]]></surname>
+        <team_name><![CDATA[Dortmund]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p3856c95j7.jpg]]></photo>
+        <position><![CDATA[Midfielder]]></position>
+        <dob>14/07/1992</dob>
+        <weight>71</weight>
+        <height>175</height>
+        <shirt_num>7</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Germany]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/jonas-hofmann/stats]]></profile_url>
+        <x_loc>0</x_loc>
+        <y_loc>0</y_loc>
+        <state><![CDATA[bench]]></state>
+        <age>24</age>
+        <bmi>23.2</bmi>
+      </player>
+      <player id="136" team_id="95">
+        <first_name><![CDATA[Ilkay]]></first_name>
+        <last_name><![CDATA[Gündogan]]></last_name>
+        <name><![CDATA[Ilkay Gündogan]]></name>
+        <surname><![CDATA[Ilkay Gündogan]]></surname>
+        <team_name><![CDATA[Dortmund]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p136c95j8.jpg]]></photo>
+        <position><![CDATA[Midfielder]]></position>
+        <dob>24/10/1990</dob>
+        <weight>80</weight>
+        <height>180</height>
+        <shirt_num>8</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Germany]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/ilkay-gundogan/stats]]></profile_url>
+        <x_loc>50</x_loc>
+        <y_loc>25</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>25</age>
+        <bmi>24.7</bmi>
+      </player>
+      <player id="4903" team_id="95">
+        <first_name><![CDATA[Adnan]]></first_name>
+        <last_name><![CDATA[Januzaj]]></last_name>
+        <name><![CDATA[Adnan Januzaj]]></name>
+        <surname><![CDATA[Januzaj]]></surname>
+        <team_name><![CDATA[Dortmund]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p4903c38j11.jpg]]></photo>
+        <position><![CDATA[Midfielder]]></position>
+        <dob>05/02/1995</dob>
+        <weight>75</weight>
+        <height>180</height>
+        <shirt_num>9</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Belgium]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/uncategorized/adnan-januzaj]]></profile_url>
+        <x_loc>0</x_loc>
+        <y_loc>0</y_loc>
+        <state><![CDATA[bench]]></state>
+        <age>21</age>
+        <bmi>23.1</bmi>
+      </player>
+      <player id="131" team_id="95">
+        <first_name><![CDATA[Marco]]></first_name>
+        <last_name><![CDATA[Reus]]></last_name>
+        <name><![CDATA[Marco Reus]]></name>
+        <surname><![CDATA[Reus]]></surname>
+        <team_name><![CDATA[Dortmund]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p131c95j11.jpg]]></photo>
+        <position><![CDATA[Midfielder]]></position>
+        <dob>31/05/1989</dob>
+        <weight>75</weight>
+        <height>180</height>
+        <shirt_num>11</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Germany]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/marco-reus/stats]]></profile_url>
+        <x_loc>75</x_loc>
+        <y_loc>85</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>27</age>
+        <bmi>23.1</bmi>
+      </player>
+      <player id="130" team_id="95">
+        <first_name><![CDATA[Mats]]></first_name>
+        <last_name><![CDATA[Hummels]]></last_name>
+        <name><![CDATA[Mats Hummels]]></name>
+        <surname><![CDATA[Hummels]]></surname>
+        <team_name><![CDATA[Dortmund]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p130c95j15.jpg]]></photo>
+        <position><![CDATA[Defender]]></position>
+        <dob>16/12/1988</dob>
+        <weight>92</weight>
+        <height>191</height>
+        <shirt_num>15</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Germany]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/mats-hummels/stats]]></profile_url>
+        <x_loc>17</x_loc>
+        <y_loc>64</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>27</age>
+        <bmi>25.2</bmi>
+      </player>
+      <player id="1415" team_id="95">
+        <first_name><![CDATA[Pierre-Emerick]]></first_name>
+        <last_name><![CDATA[Aubameyang]]></last_name>
+        <name><![CDATA[Pierre-Emerick Aubameyang]]></name>
+        <surname><![CDATA[Aubameyang]]></surname>
+        <team_name><![CDATA[Dortmund]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p1415c95j17.jpg]]></photo>
+        <position><![CDATA[Forward]]></position>
+        <dob>18/06/1989</dob>
+        <weight>80</weight>
+        <height>187</height>
+        <shirt_num>17</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Gabon]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/pierre-emerick-aubameyang/stats]]></profile_url>
+        <x_loc>80</x_loc>
+        <y_loc>50</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>27</age>
+        <bmi>22.9</bmi>
+      </player>
+      <player id="5301" team_id="95">
+        <first_name><![CDATA[Adrián]]></first_name>
+        <last_name><![CDATA[Ramos]]></last_name>
+        <name><![CDATA[Adrián Ramos]]></name>
+        <surname><![CDATA[Adrián Ramos]]></surname>
+        <team_name><![CDATA[Dortmund]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p5301c95j20.jpg]]></photo>
+        <position><![CDATA[Forward]]></position>
+        <dob>22/01/1986</dob>
+        <weight>75</weight>
+        <height>185</height>
+        <shirt_num>20</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Colombia]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/adrian-ramos/stats]]></profile_url>
+        <x_loc>0</x_loc>
+        <y_loc>0</y_loc>
+        <state><![CDATA[bench]]></state>
+        <age>30</age>
+        <bmi>21.9</bmi>
+      </player>
+      <player id="597" team_id="95">
+        <first_name><![CDATA[Shinji]]></first_name>
+        <last_name><![CDATA[Kagawa]]></last_name>
+        <name><![CDATA[Shinji Kagawa]]></name>
+        <surname><![CDATA[Kagawa]]></surname>
+        <team_name><![CDATA[Dortmund]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p597c95j23.jpg]]></photo>
+        <position><![CDATA[Midfielder]]></position>
+        <dob>17/03/1989</dob>
+        <weight>68</weight>
+        <height>175</height>
+        <shirt_num>23</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Japan]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/shinji-kagawa/stats]]></profile_url>
+        <x_loc>50</x_loc>
+        <y_loc>75</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>27</age>
+        <bmi>22.2</bmi>
+      </player>
+      <player id="151" team_id="95">
+        <first_name><![CDATA[Sokratis]]></first_name>
+        <last_name><![CDATA[Papastathopoulos]]></last_name>
+        <name><![CDATA[Sokratis]]></name>
+        <surname><![CDATA[Papastathopoulos]]></surname>
+        <team_name><![CDATA[Dortmund]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p151c95j25.jpg]]></photo>
+        <position><![CDATA[Defender]]></position>
+        <dob>09/06/1988</dob>
+        <weight>85</weight>
+        <height>186</height>
+        <shirt_num>25</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Greece]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/sokratis/stats]]></profile_url>
+        <x_loc>17</x_loc>
+        <y_loc>36</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>28</age>
+        <bmi>24.6</bmi>
+      </player>
+      <player id="214" team_id="95">
+        <first_name><![CDATA[Lukasz]]></first_name>
+        <last_name><![CDATA[Piszczek]]></last_name>
+        <name><![CDATA[Lukasz Piszczek]]></name>
+        <surname><![CDATA[Piszczek]]></surname>
+        <team_name><![CDATA[Dortmund]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p214c95j26.jpg]]></photo>
+        <position><![CDATA[Defender]]></position>
+        <dob>03/06/1985</dob>
+        <weight>79</weight>
+        <height>184</height>
+        <shirt_num>26</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Poland]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/lukasz-piszczek/stats]]></profile_url>
+        <x_loc>0</x_loc>
+        <y_loc>0</y_loc>
+        <state><![CDATA[bench]]></state>
+        <age>31</age>
+        <bmi>23.3</bmi>
+      </player>
+      <player id="3132" team_id="95">
+        <first_name><![CDATA[Gonzalo]]></first_name>
+        <last_name><![CDATA[Castro]]></last_name>
+        <name><![CDATA[Gonzalo Castro]]></name>
+        <surname><![CDATA[Gonzalo Castro]]></surname>
+        <team_name><![CDATA[Dortmund]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p3132c95j27.jpg]]></photo>
+        <position><![CDATA[Midfielder]]></position>
+        <dob>11/06/1987</dob>
+        <weight>74</weight>
+        <height>172</height>
+        <shirt_num>27</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Germany]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/gonzalo-castro-castro/stats]]></profile_url>
+        <x_loc>75</x_loc>
+        <y_loc>15</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>29</age>
+        <bmi>25</bmi>
+      </player>
+      <player id="2306" team_id="95">
+        <first_name><![CDATA[Matthias]]></first_name>
+        <last_name><![CDATA[Ginter]]></last_name>
+        <name><![CDATA[Matthias Ginter]]></name>
+        <surname><![CDATA[Ginter]]></surname>
+        <team_name><![CDATA[Dortmund]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p2306c95j28.jpg]]></photo>
+        <position><![CDATA[Defender]]></position>
+        <dob>19/01/1994</dob>
+        <weight>88</weight>
+        <height>190</height>
+        <shirt_num>28</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Germany]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/matthias-ginter/stats]]></profile_url>
+        <x_loc>21</x_loc>
+        <y_loc>15</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>22</age>
+        <bmi>24.4</bmi>
+      </player>
+      <player id="132" team_id="95">
+        <first_name><![CDATA[Marcel]]></first_name>
+        <last_name><![CDATA[Schmelzer]]></last_name>
+        <name><![CDATA[Marcel Schmelzer]]></name>
+        <surname><![CDATA[Schmelzer]]></surname>
+        <team_name><![CDATA[Dortmund]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p132c95j29.jpg]]></photo>
+        <position><![CDATA[Defender]]></position>
+        <dob>22/01/1988</dob>
+        <weight>72</weight>
+        <height>180</height>
+        <shirt_num>29</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Germany]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/marcel-schmelzer/stats]]></profile_url>
+        <x_loc>21</x_loc>
+        <y_loc>85</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>28</age>
+        <bmi>22.2</bmi>
+      </player>
+      <player id="18687" team_id="95">
+        <first_name><![CDATA[Julian]]></first_name>
+        <last_name><![CDATA[Weigl]]></last_name>
+        <name><![CDATA[Julian Weigl]]></name>
+        <surname><![CDATA[Weigl]]></surname>
+        <team_name><![CDATA[Dortmund]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p18687c95j33.jpg]]></photo>
+        <position><![CDATA[Midfielder]]></position>
+        <dob>08/09/1995</dob>
+        <weight>71</weight>
+        <height>186</height>
+        <shirt_num>33</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Germany]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/julian-weigl/stats]]></profile_url>
+        <x_loc>0</x_loc>
+        <y_loc>0</y_loc>
+        <state><![CDATA[bench]]></state>
+        <age>20</age>
+        <bmi>20.5</bmi>
+      </player>
+      <player id="12816" team_id="95">
+        <first_name><![CDATA[Roman]]></first_name>
+        <last_name><![CDATA[Bürki]]></last_name>
+        <name><![CDATA[Roman Bürki]]></name>
+        <surname><![CDATA[Roman Bürki]]></surname>
+        <team_name><![CDATA[Dortmund]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p12816c95j38.jpg]]></photo>
+        <position><![CDATA[Goalkeeper]]></position>
+        <dob>14/11/1990</dob>
+        <weight>85</weight>
+        <height>187</height>
+        <shirt_num>38</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Switzerland]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/roman-burki/stats]]></profile_url>
+        <x_loc>5</x_loc>
+        <y_loc>50</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>25</age>
+        <bmi>24.3</bmi>
+      </player>
+      <player id="3911" team_id="98">
+        <first_name><![CDATA[Alexander]]></first_name>
+        <last_name><![CDATA[Manninger]]></last_name>
+        <name><![CDATA[Alexander Manninger]]></name>
+        <surname><![CDATA[Manninger]]></surname>
+        <team_name><![CDATA[Augsburg]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p3911c98j1.jpg]]></photo>
+        <position><![CDATA[Goalkeeper]]></position>
+        <dob>04/06/1977</dob>
+        <weight>85</weight>
+        <height>189</height>
+        <shirt_num>1</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Austria]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/alexander-manninger/stats]]></profile_url>
+        <x_loc>0</x_loc>
+        <y_loc>0</y_loc>
+        <state><![CDATA[bench]]></state>
+        <age>39</age>
+        <bmi>23.8</bmi>
+      </player>
+      <player id="2160" team_id="98">
+        <first_name><![CDATA[Ragnar]]></first_name>
+        <last_name><![CDATA[Klavan]]></last_name>
+        <name><![CDATA[Ragnar Klavan]]></name>
+        <surname><![CDATA[Klavan]]></surname>
+        <team_name><![CDATA[Augsburg]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p2160c98j5.jpg]]></photo>
+        <position><![CDATA[Defender]]></position>
+        <dob>30/10/1985</dob>
+        <weight>85</weight>
+        <height>187</height>
+        <shirt_num>5</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Estonia]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/ragnar-klavan/stats]]></profile_url>
+        <x_loc>17</x_loc>
+        <y_loc>61</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>30</age>
+        <bmi>24.3</bmi>
+      </player>
+      <player id="5412" team_id="98">
+        <first_name><![CDATA[Halil]]></first_name>
+        <last_name><![CDATA[Altintop]]></last_name>
+        <name><![CDATA[Halil Altintop]]></name>
+        <surname><![CDATA[Halil Altintop]]></surname>
+        <team_name><![CDATA[Augsburg]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p5412c98j7.jpg]]></photo>
+        <position><![CDATA[Midfielder]]></position>
+        <dob>08/12/1982</dob>
+        <weight>75</weight>
+        <height>186</height>
+        <shirt_num>7</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Turkey]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/halil-altintop/stats]]></profile_url>
+        <x_loc>0</x_loc>
+        <y_loc>0</y_loc>
+        <state><![CDATA[bench]]></state>
+        <age>33</age>
+        <bmi>21.7</bmi>
+      </player>
+      <player id="1975" team_id="98">
+        <first_name><![CDATA[Markus]]></first_name>
+        <last_name><![CDATA[Feulner]]></last_name>
+        <name><![CDATA[Markus Feulner]]></name>
+        <surname><![CDATA[Feulner]]></surname>
+        <team_name><![CDATA[Augsburg]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p1975c98j8.jpg]]></photo>
+        <position><![CDATA[Midfielder]]></position>
+        <dob>12/02/1982</dob>
+        <weight>82</weight>
+        <height>183</height>
+        <shirt_num>8</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Germany]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/markus-feulner/stats]]></profile_url>
+        <x_loc>21</x_loc>
+        <y_loc>15</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>34</age>
+        <bmi>24.5</bmi>
+      </player>
+      <player id="2142" team_id="98">
+        <first_name><![CDATA[Daniel]]></first_name>
+        <last_name><![CDATA[Baier]]></last_name>
+        <name><![CDATA[Daniel Baier]]></name>
+        <surname><![CDATA[Daniel Baier]]></surname>
+        <team_name><![CDATA[Augsburg]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p2142c98j10.jpg]]></photo>
+        <position><![CDATA[Midfielder]]></position>
+        <dob>18/05/1984</dob>
+        <weight>77</weight>
+        <height>176</height>
+        <shirt_num>10</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Germany]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/daniel-baier/stats]]></profile_url>
+        <x_loc>40</x_loc>
+        <y_loc>66</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>32</age>
+        <bmi>24.9</bmi>
+      </player>
+      <player id="1978" team_id="98">
+        <first_name><![CDATA[Alexander]]></first_name>
+        <last_name><![CDATA[Esswein]]></last_name>
+        <name><![CDATA[Alexander Esswein]]></name>
+        <surname><![CDATA[Esswein]]></surname>
+        <team_name><![CDATA[Augsburg]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p1978c98j11.jpg]]></photo>
+        <position><![CDATA[Midfielder]]></position>
+        <dob>25/03/1990</dob>
+        <weight>85</weight>
+        <height>183</height>
+        <shirt_num>11</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Germany]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/alexander-esswein/stats]]></profile_url>
+        <x_loc>62</x_loc>
+        <y_loc>78</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>26</age>
+        <bmi>25.4</bmi>
+      </player>
+      <player id="2137" team_id="98">
+        <first_name><![CDATA[Tobias]]></first_name>
+        <last_name><![CDATA[Werner]]></last_name>
+        <name><![CDATA[Tobias Werner]]></name>
+        <surname><![CDATA[Tobias Werner]]></surname>
+        <team_name><![CDATA[Augsburg]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p2137c98j13.jpg]]></photo>
+        <position><![CDATA[Midfielder]]></position>
+        <dob>19/07/1985</dob>
+        <weight>70</weight>
+        <height>174</height>
+        <shirt_num>13</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Germany]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/tobias-werner/stats]]></profile_url>
+        <x_loc>0</x_loc>
+        <y_loc>0</y_loc>
+        <state><![CDATA[bench]]></state>
+        <age>31</age>
+        <bmi>23.1</bmi>
+      </player>
+      <player id="2153" team_id="98">
+        <first_name><![CDATA[Jan]]></first_name>
+        <last_name><![CDATA[Morávek]]></last_name>
+        <name><![CDATA[Jan Morávek]]></name>
+        <surname><![CDATA[Morávek]]></surname>
+        <team_name><![CDATA[Augsburg]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p2153c98j14.jpg]]></photo>
+        <position><![CDATA[Midfielder]]></position>
+        <dob>01/11/1989</dob>
+        <weight>75</weight>
+        <height>180</height>
+        <shirt_num>14</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Czech Republic]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/jan-moravek/stats]]></profile_url>
+        <x_loc>0</x_loc>
+        <y_loc>0</y_loc>
+        <state><![CDATA[bench]]></state>
+        <age>26</age>
+        <bmi>23.1</bmi>
+      </player>
+      <player id="1927" team_id="98">
+        <first_name><![CDATA[Piotr]]></first_name>
+        <last_name><![CDATA[Trochowski]]></last_name>
+        <name><![CDATA[Piotr Trochowski]]></name>
+        <surname><![CDATA[Trochowski]]></surname>
+        <team_name><![CDATA[Augsburg]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p1927c89j15.jpg]]></photo>
+        <position><![CDATA[Midfielder]]></position>
+        <dob>22/03/1984</dob>
+        <weight>72</weight>
+        <height>169</height>
+        <shirt_num>15</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Germany]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/piotr-trochowski/stats]]></profile_url>
+        <x_loc>62</x_loc>
+        <y_loc>50</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>32</age>
+        <bmi>25.2</bmi>
+      </player>
+      <player id="5311" team_id="98">
+        <first_name><![CDATA[Christoph]]></first_name>
+        <last_name><![CDATA[Janker]]></last_name>
+        <name><![CDATA[Christoph Janker]]></name>
+        <surname><![CDATA[Janker]]></surname>
+        <team_name><![CDATA[Augsburg]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p5311c98j16.jpg]]></photo>
+        <position><![CDATA[Defender]]></position>
+        <dob>14/02/1985</dob>
+        <weight>77</weight>
+        <height>185</height>
+        <shirt_num>16</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Germany]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/christoph-janker/stats]]></profile_url>
+        <x_loc>0</x_loc>
+        <y_loc>0</y_loc>
+        <state><![CDATA[bench]]></state>
+        <age>31</age>
+        <bmi>22.5</bmi>
+      </player>
+      <player id="2148" team_id="98">
+        <first_name><![CDATA[Jan-Ingwer]]></first_name>
+        <last_name><![CDATA[Callsen-Bracker]]></last_name>
+        <name><![CDATA[Jan-Ingwer Callsen-Bracker]]></name>
+        <surname><![CDATA[Callsen-Bracker]]></surname>
+        <team_name><![CDATA[Augsburg]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p2148c98j18.jpg]]></photo>
+        <position><![CDATA[Defender]]></position>
+        <dob>23/09/1984</dob>
+        <weight>88</weight>
+        <height>188</height>
+        <shirt_num>18</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Germany]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/jan-ingwer-callsen-bracker/stats]]></profile_url>
+        <x_loc>17</x_loc>
+        <y_loc>37</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>31</age>
+        <bmi>24.9</bmi>
+      </player>
+      <player id="2155" team_id="98">
+        <first_name><![CDATA[Ja-Cheol]]></first_name>
+        <last_name><![CDATA[Koo]]></last_name>
+        <name><![CDATA[Ja-Cheol Koo]]></name>
+        <surname><![CDATA[Koo]]></surname>
+        <team_name><![CDATA[Augsburg]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p2155c92j13.jpg]]></photo>
+        <position><![CDATA[Midfielder]]></position>
+        <dob>27/02/1989</dob>
+        <weight>75</weight>
+        <height>183</height>
+        <shirt_num>19</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Korea Republic]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/ja-cheol-koo/stats]]></profile_url>
+        <x_loc>62</x_loc>
+        <y_loc>22</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>27</age>
+        <bmi>22.4</bmi>
+      </player>
+      <player id="8323" team_id="98">
+        <first_name><![CDATA[Jeong-Ho]]></first_name>
+        <last_name><![CDATA[Hong]]></last_name>
+        <name><![CDATA[Jeong-Ho Hong]]></name>
+        <surname><![CDATA[Hong]]></surname>
+        <team_name><![CDATA[Augsburg]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p8323c98j20.jpg]]></photo>
+        <position><![CDATA[Defender]]></position>
+        <dob>12/08/1989</dob>
+        <weight>80</weight>
+        <height>186</height>
+        <shirt_num>20</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Korea Republic]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/jeong-ho-hong/stats]]></profile_url>
+        <x_loc>0</x_loc>
+        <y_loc>0</y_loc>
+        <state><![CDATA[bench]]></state>
+        <age>26</age>
+        <bmi>23.1</bmi>
+      </player>
+      <player id="2057" team_id="98">
+        <first_name><![CDATA[Dominik]]></first_name>
+        <last_name><![CDATA[Kohr]]></last_name>
+        <name><![CDATA[Dominik Kohr]]></name>
+        <surname><![CDATA[Kohr]]></surname>
+        <team_name><![CDATA[Augsburg]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p2057c98j21.jpg]]></photo>
+        <position><![CDATA[Midfielder]]></position>
+        <dob>31/01/1994</dob>
+        <weight>75</weight>
+        <height>183</height>
+        <shirt_num>21</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Germany]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/dominik-kohr/stats]]></profile_url>
+        <x_loc>40</x_loc>
+        <y_loc>31</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>22</age>
+        <bmi>22.4</bmi>
+      </player>
+      <player id="798" team_id="98">
+        <first_name><![CDATA[Dong-Won]]></first_name>
+        <last_name><![CDATA[Ji]]></last_name>
+        <name><![CDATA[Dong-Won Ji]]></name>
+        <surname><![CDATA[Ji]]></surname>
+        <team_name><![CDATA[Augsburg]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p798c98j22.jpg]]></photo>
+        <position><![CDATA[Forward]]></position>
+        <dob>28/05/1991</dob>
+        <weight>77</weight>
+        <height>187</height>
+        <shirt_num>22</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Korea Republic]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/dong-won-ji/stats]]></profile_url>
+        <x_loc>0</x_loc>
+        <y_loc>0</y_loc>
+        <state><![CDATA[bench]]></state>
+        <age>25</age>
+        <bmi>22</bmi>
+      </player>
+      <player id="8184" team_id="98">
+        <first_name><![CDATA[Raúl]]></first_name>
+        <last_name><![CDATA[Bobadilla]]></last_name>
+        <name><![CDATA[Raúl Bobadilla]]></name>
+        <surname><![CDATA[Bobadilla]]></surname>
+        <team_name><![CDATA[Augsburg]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p8184c98j25.jpg]]></photo>
+        <position><![CDATA[Forward]]></position>
+        <dob>18/06/1987</dob>
+        <weight>88</weight>
+        <height>181</height>
+        <shirt_num>25</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Paraguay]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/raul-bobadilla/stats]]></profile_url>
+        <x_loc>85</x_loc>
+        <y_loc>50</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>29</age>
+        <bmi>26.9</bmi>
+      </player>
+      <player id="12040" team_id="98">
+        <first_name><![CDATA[Philipp]]></first_name>
+        <last_name><![CDATA[Max]]></last_name>
+        <name><![CDATA[Philipp Max]]></name>
+        <surname><![CDATA[Max]]></surname>
+        <team_name><![CDATA[Augsburg]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p12040c100j31.png]]></photo>
+        <position><![CDATA[Defender]]></position>
+        <dob>30/09/1993</dob>
+        <weight>77</weight>
+        <height>177</height>
+        <shirt_num>31</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Germany]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/philipp-max/stats]]></profile_url>
+        <x_loc>21</x_loc>
+        <y_loc>85</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>22</age>
+        <bmi>24.6</bmi>
+      </player>
+      <player id="2373" team_id="98">
+        <first_name><![CDATA[Marwin]]></first_name>
+        <last_name><![CDATA[Hitz]]></last_name>
+        <name><![CDATA[Marwin Hitz]]></name>
+        <surname><![CDATA[Hitz]]></surname>
+        <team_name><![CDATA[Augsburg]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p2373c98j35.jpg]]></photo>
+        <position><![CDATA[Goalkeeper]]></position>
+        <dob>18/09/1987</dob>
+        <weight>86</weight>
+        <height>193</height>
+        <shirt_num>35</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Switzerland]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/marwin-hitz/stats]]></profile_url>
+        <x_loc>5</x_loc>
+        <y_loc>50</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>28</age>
+        <bmi>23.1</bmi>
+      </player>
+    </players>
+    <possession>
+      <period id="1">
+        <play_direction team_id="98">right-to-left</play_direction>
+        <play_direction team_id="95">left-to-right</play_direction>
+      </period>
+    </possession>
+  </data_panel>
+</squawka>

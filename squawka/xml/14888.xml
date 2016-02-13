@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<squawka date="2016-01-25" time="16:07" timezone="BST" data_freshness="16:07">
+  <data_panel>
+    <system>
+      <headline><![CDATA[Wolfsburg 0 - 0 Leverkusen]]></headline>
+      <refresh_rate>10000</refresh_rate>
+      <state>ingame</state>
+      <show_ingame_rdp>false</show_ingame_rdp>
+    <reprocess>20160201115650</reprocess></system>
+    <game>
+      <name><![CDATA[Wolfsburg VS Leverkusen]]></name>
+      <team id="107">
+        <long_name><![CDATA[VfL Wolfsburg]]></long_name>
+        <short_name><![CDATA[Wolfsburg]]></short_name>
+        <logo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/clubs/crest/20150828030001_wolfsburg_h.png]]></logo>
+        <shirt_url><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/clubs/jersey/20150828030001_wolfsburg_h.png]]></shirt_url>
+        <club_url><![CDATA[vfl-wolfsburg]]></club_url>
+        <state>home</state>
+        <team_color><![CDATA[#39945d]]></team_color>
+      </team>
+      <team id="94">
+        <long_name><![CDATA[Bayer 04 Leverkusen]]></long_name>
+        <short_name><![CDATA[Leverkusen]]></short_name>
+        <logo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/clubs/crest/20150828113511_bayer-leverkusen__h.png]]></logo>
+        <shirt_url><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/clubs/jersey/20150828113511_bayer-leverkusen__h.png]]></shirt_url>
+        <club_url><![CDATA[bayer-04-leverkusen]]></club_url>
+        <state>away</state>
+        <team_color><![CDATA[#555555]]></team_color>
+      </team>
+      <venue><![CDATA[Volkswagen Arena]]></venue>
+      <kickoff>Sat, 31 Oct 2015 17:30:00 +0000</kickoff>
+      <timeleft>0</timeleft>
+      <competition_name><![CDATA[]]></competition_name>
+    </game>
+    <players>
+      <player id="2372" team_id="107">
+        <first_name><![CDATA[Diego]]></first_name>
+        <last_name><![CDATA[Benaglio]]></last_name>
+        <name><![CDATA[Diego Benaglio]]></name>
+        <surname><![CDATA[Benaglio]]></surname>
+        <team_name><![CDATA[Wolfsburg]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p2372c107j1.jpg]]></photo>
+        <position><![CDATA[Goalkeeper]]></position>
+        <dob>08/09/1983</dob>
+        <weight>89</weight>
+        <height>194</height>
+        <shirt_num>1</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Switzerland]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/diego-benaglio/stats]]></profile_url>
+        <x_loc>5</x_loc>
+        <y_loc>50</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>32</age>
+        <bmi>23.6</bmi>
+      </player>
+      <player id="54" team_id="107">
+        <first_name><![CDATA[Nicklas]]></first_name>
+        <last_name><![CDATA[Bendtner]]></last_name>
+        <name><![CDATA[Nicklas Bendtner]]></name>
+        <surname><![CDATA[Bendtner]]></surname>
+        <team_name><![CDATA[Wolfsburg]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p54c107j3.jpg]]></photo>
+        <position><![CDATA[Forward]]></position>
+        <dob>16/01/1988</dob>
+        <weight>89</weight>
+        <height>194</height>
+        <shirt_num>3</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Denmark]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/nicklas-bendtner/stats]]></profile_url>
+        <x_loc>85</x_loc>
+        <y_loc>50</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>28</age>
+        <bmi>23.6</bmi>
+      </player>
+      <player id="2369" team_id="107">
+        <first_name><![CDATA[Marcel]]></first_name>
+        <last_name><![CDATA[Schäfer]]></last_name>
+        <name><![CDATA[Marcel Schäfer]]></name>
+        <surname><![CDATA[Marcel Schäfer]]></surname>
+        <team_name><![CDATA[Wolfsburg]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p2369c107j4.jpg]]></photo>
+        <position><![CDATA[Defender]]></position>
+        <dob>07/06/1984</dob>
+        <weight>75</weight>
+        <height>184</height>
+        <shirt_num>4</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Germany]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/marcel-schafer/stats]]></profile_url>
+        <x_loc>0</x_loc>
+        <y_loc>0</y_loc>
+        <state><![CDATA[bench]]></state>
+        <age>32</age>
+        <bmi>22.2</bmi>
+      </player>
+      <player id="1974" team_id="107">
+        <first_name><![CDATA[Timm]]></first_name>
+        <last_name><![CDATA[Klose]]></last_name>
+        <name><![CDATA[Timm Klose]]></name>
+        <surname><![CDATA[Timm Klose]]></surname>
+        <team_name><![CDATA[Wolfsburg]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p1974c107j5.jpg]]></photo>
+        <position><![CDATA[Defender]]></position>
+        <dob>09/05/1988</dob>
+        <weight>87</weight>
+        <height>193</height>
+        <shirt_num>5</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Switzerland]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/timm-klose/stats]]></profile_url>
+        <x_loc>17</x_loc>
+        <y_loc>61</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>28</age>
+        <bmi>23.4</bmi>
+      </player>
+      <player id="18739" team_id="107">
+        <first_name><![CDATA[Carlos]]></first_name>
+        <last_name><![CDATA[Ascues]]></last_name>
+        <name><![CDATA[Carlos Ascues]]></name>
+        <surname><![CDATA[Ascues]]></surname>
+        <team_name><![CDATA[Wolfsburg]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/no_icon.png]]></photo>
+        <position><![CDATA[Defender]]></position>
+        <dob>19/06/1992</dob>
+        <weight>78</weight>
+        <height>187</height>
+        <shirt_num>6</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Peru]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/carlos-ascues/stats]]></profile_url>
+        <x_loc>0</x_loc>
+        <y_loc>0</y_loc>
+        <state><![CDATA[bench]]></state>
+        <age>24</age>
+        <bmi>22.3</bmi>
+      </player>
+      <player id="2292" team_id="107">
+        <first_name><![CDATA[Daniel]]></first_name>
+        <last_name><![CDATA[Caligiuri]]></last_name>
+        <name><![CDATA[Daniel Caligiuri]]></name>
+        <surname><![CDATA[Daniel Caligiuri]]></surname>
+        <team_name><![CDATA[Wolfsburg]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p2292c107j7.jpg]]></photo>
+        <position><![CDATA[Midfielder]]></position>
+        <dob>15/01/1988</dob>
+        <weight>79</weight>
+        <height>182</height>
+        <shirt_num>7</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Germany]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/daniel-caligiuri/stats]]></profile_url>
+        <x_loc>62</x_loc>
+        <y_loc>78</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>28</age>
+        <bmi>23.8</bmi>
+      </player>
+      <player id="2388" team_id="107">
+        <first_name><![CDATA[Adelino André]]></first_name>
+        <last_name><![CDATA[Vieira de Freitas]]></last_name>
+        <name><![CDATA[Vieirinha]]></name>
+        <surname><![CDATA[Vieira de Freitas]]></surname>
+        <team_name><![CDATA[Wolfsburg]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p2388c107j8.jpg]]></photo>
+        <position><![CDATA[Midfielder]]></position>
+        <dob>24/01/1986</dob>
+        <weight>73</weight>
+        <height>172</height>
+        <shirt_num>8</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Portugal]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/vieirinha/stats]]></profile_url>
+        <x_loc>62</x_loc>
+        <y_loc>22</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>30</age>
+        <bmi>24.7</bmi>
+      </player>
+      <player id="2186" team_id="107">
+        <first_name><![CDATA[Julian]]></first_name>
+        <last_name><![CDATA[Draxler]]></last_name>
+        <name><![CDATA[Julian Draxler]]></name>
+        <surname><![CDATA[Draxler]]></surname>
+        <team_name><![CDATA[Wolfsburg]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p2186c100j10.jpg]]></photo>
+        <position><![CDATA[Midfielder]]></position>
+        <dob>20/09/1993</dob>
+        <weight>76</weight>
+        <height>187</height>
+        <shirt_num>10</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Germany]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/julian-draxler/stats]]></profile_url>
+        <x_loc>0</x_loc>
+        <y_loc>0</y_loc>
+        <state><![CDATA[bench]]></state>
+        <age>22</age>
+        <bmi>21.7</bmi>
+      </player>
+      <player id="2394" team_id="107">
+        <first_name><![CDATA[Bas]]></first_name>
+        <last_name><![CDATA[Dost]]></last_name>
+        <name><![CDATA[Bas Dost]]></name>
+        <surname><![CDATA[Dost]]></surname>
+        <team_name><![CDATA[Wolfsburg]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p2394c107j12.jpg]]></photo>
+        <position><![CDATA[Forward]]></position>
+        <dob>31/05/1989</dob>
+        <weight>78</weight>
+        <height>196</height>
+        <shirt_num>12</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Netherlands]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/bas-dost/stats]]></profile_url>
+        <x_loc>0</x_loc>
+        <y_loc>0</y_loc>
+        <state><![CDATA[bench]]></state>
+        <age>27</age>
+        <bmi>20.3</bmi>
+      </player>
+      <player id="134" team_id="107">
+        <first_name><![CDATA[André]]></first_name>
+        <last_name><![CDATA[Schürrle]]></last_name>
+        <name><![CDATA[André Schürrle]]></name>
+        <surname><![CDATA[Schürrle]]></surname>
+        <team_name><![CDATA[Wolfsburg]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p134c107j17.jpg]]></photo>
+        <position><![CDATA[Midfielder]]></position>
+        <dob>06/11/1990</dob>
+        <weight>72</weight>
+        <height>184</height>
+        <shirt_num>17</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Germany]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/andre-schurrle/stats]]></profile_url>
+        <x_loc>62</x_loc>
+        <y_loc>50</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>25</age>
+        <bmi>21.3</bmi>
+      </player>
+      <player id="2171" team_id="107">
+        <first_name><![CDATA[Dante Bonfim]]></first_name>
+        <last_name><![CDATA[Costa Santos]]></last_name>
+        <name><![CDATA[Dante]]></name>
+        <surname><![CDATA[Costa Santos]]></surname>
+        <team_name><![CDATA[Wolfsburg]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p2171c99j4.jpg]]></photo>
+        <position><![CDATA[Defender]]></position>
+        <dob>18/10/1983</dob>
+        <weight>87</weight>
+        <height>188</height>
+        <shirt_num>18</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Brazil]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/dante-costa-santos/stats]]></profile_url>
+        <x_loc>0</x_loc>
+        <y_loc>0</y_loc>
+        <state><![CDATA[bench]]></state>
+        <age>32</age>
+        <bmi>24.6</bmi>
+      </player>
+      <player id="2165" team_id="107">
+        <first_name><![CDATA[Luiz Gustavo]]></first_name>
+        <last_name><![CDATA[Dias]]></last_name>
+        <name><![CDATA[Luiz Gustavo]]></name>
+        <surname><![CDATA[Luiz Gustavo]]></surname>
+        <team_name><![CDATA[Wolfsburg]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p2165c107j22.jpg]]></photo>
+        <position><![CDATA[Midfielder]]></position>
+        <dob>23/07/1987</dob>
+        <weight>80</weight>
+        <height>187</height>
+        <shirt_num>22</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Brazil]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/luiz-gustavo/stats]]></profile_url>
+        <x_loc>40</x_loc>
+        <y_loc>66</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>29</age>
+        <bmi>22.9</bmi>
+      </player>
+      <player id="1409" team_id="107">
+        <first_name><![CDATA[Josuha]]></first_name>
+        <last_name><![CDATA[Guilavogui]]></last_name>
+        <name><![CDATA[Josuha Guilavogui]]></name>
+        <surname><![CDATA[Guilavogui]]></surname>
+        <team_name><![CDATA[Wolfsburg]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p1409c107j23.jpg]]></photo>
+        <position><![CDATA[Midfielder]]></position>
+        <dob>19/09/1990</dob>
+        <weight>77</weight>
+        <height>188</height>
+        <shirt_num>23</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[France]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/josuha-guilavogui/stats]]></profile_url>
+        <x_loc>0</x_loc>
+        <y_loc>0</y_loc>
+        <state><![CDATA[bench]]></state>
+        <age>25</age>
+        <bmi>21.8</bmi>
+      </player>
+      <player id="2112" team_id="107">
+        <first_name><![CDATA[Sebastian]]></first_name>
+        <last_name><![CDATA[Jung]]></last_name>
+        <name><![CDATA[Sebastian Jung]]></name>
+        <surname><![CDATA[Sebastian Jung]]></surname>
+        <team_name><![CDATA[Wolfsburg]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p2112c107j24.jpg]]></photo>
+        <position><![CDATA[Defender]]></position>
+        <dob>22/06/1990</dob>
+        <weight>72</weight>
+        <height>179</height>
+        <shirt_num>24</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Germany]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/sebastian-jung/stats]]></profile_url>
+        <x_loc>21</x_loc>
+        <y_loc>15</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>26</age>
+        <bmi>22.5</bmi>
+      </player>
+      <player id="2400" team_id="107">
+        <first_name><![CDATA[Ronaldo]]></first_name>
+        <last_name><![CDATA[Aparecido Rodrigues]]></last_name>
+        <name><![CDATA[Naldo]]></name>
+        <surname><![CDATA[Aparecido Rodrigues]]></surname>
+        <team_name><![CDATA[Wolfsburg]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p2400c107j25.jpg]]></photo>
+        <position><![CDATA[Defender]]></position>
+        <dob>10/09/1982</dob>
+        <weight>89</weight>
+        <height>198</height>
+        <shirt_num>25</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Brazil]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/naldo/stats]]></profile_url>
+        <x_loc>17</x_loc>
+        <y_loc>37</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>33</age>
+        <bmi>22.7</bmi>
+      </player>
+      <player id="2385" team_id="107">
+        <first_name><![CDATA[Maximilian]]></first_name>
+        <last_name><![CDATA[Arnold]]></last_name>
+        <name><![CDATA[Maximilian Arnold]]></name>
+        <surname><![CDATA[Maximilian Arnold]]></surname>
+        <team_name><![CDATA[Wolfsburg]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p2385c107j27.jpg]]></photo>
+        <position><![CDATA[Midfielder]]></position>
+        <dob>27/05/1994</dob>
+        <weight>74</weight>
+        <height>184</height>
+        <shirt_num>27</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Germany]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/maximilian-arnold/stats]]></profile_url>
+        <x_loc>40</x_loc>
+        <y_loc>31</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>22</age>
+        <bmi>21.9</bmi>
+      </player>
+      <player id="2027" team_id="107">
+        <first_name><![CDATA[Koen]]></first_name>
+        <last_name><![CDATA[Casteels]]></last_name>
+        <name><![CDATA[Koen Casteels]]></name>
+        <surname><![CDATA[Casteels]]></surname>
+        <team_name><![CDATA[Wolfsburg]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p2027c107j28.jpg]]></photo>
+        <position><![CDATA[Goalkeeper]]></position>
+        <dob>25/06/1992</dob>
+        <weight>86</weight>
+        <height>197</height>
+        <shirt_num>28</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Belgium]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/koen-casteels/stats]]></profile_url>
+        <x_loc>0</x_loc>
+        <y_loc>0</y_loc>
+        <state><![CDATA[bench]]></state>
+        <age>24</age>
+        <bmi>22.2</bmi>
+      </player>
+      <player id="2390" team_id="107">
+        <first_name><![CDATA[Ricardo]]></first_name>
+        <last_name><![CDATA[Rodríguez]]></last_name>
+        <name><![CDATA[Ricardo Rodríguez]]></name>
+        <surname><![CDATA[Ricardo Rodríguez]]></surname>
+        <team_name><![CDATA[Wolfsburg]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p2390c107j34.jpg]]></photo>
+        <position><![CDATA[Defender]]></position>
+        <dob>25/08/1992</dob>
+        <weight>77</weight>
+        <height>180</height>
+        <shirt_num>34</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Switzerland]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/ricardo-rodriguez/stats]]></profile_url>
+        <x_loc>21</x_loc>
+        <y_loc>85</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>23</age>
+        <bmi>23.8</bmi>
+      </player>
+      <player id="2053" team_id="94">
+        <first_name><![CDATA[Bernd]]></first_name>
+        <last_name><![CDATA[Leno]]></last_name>
+        <name><![CDATA[Bernd Leno]]></name>
+        <surname><![CDATA[Leno]]></surname>
+        <team_name><![CDATA[Leverkusen]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p2053c94j1.jpg]]></photo>
+        <position><![CDATA[Goalkeeper]]></position>
+        <dob>04/03/1992</dob>
+        <weight>83</weight>
+        <height>190</height>
+        <shirt_num>1</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Germany]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/bernd-leno/stats]]></profile_url>
+        <x_loc>5</x_loc>
+        <y_loc>50</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>24</age>
+        <bmi>23</bmi>
+      </player>
+      <player id="8642" team_id="94">
+        <first_name><![CDATA[André]]></first_name>
+        <last_name><![CDATA[Ramalho]]></last_name>
+        <name><![CDATA[André Ramalho]]></name>
+        <surname><![CDATA[André Ramalho]]></surname>
+        <team_name><![CDATA[Leverkusen]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p8642c94j2.jpg]]></photo>
+        <position><![CDATA[Defender]]></position>
+        <dob>16/02/1992</dob>
+        <weight>81</weight>
+        <height>182</height>
+        <shirt_num>2</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Brazil]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/andre-ramalho/stats]]></profile_url>
+        <x_loc>0</x_loc>
+        <y_loc>0</y_loc>
+        <state><![CDATA[bench]]></state>
+        <age>24</age>
+        <bmi>24.5</bmi>
+      </player>
+      <player id="4978" team_id="94">
+        <first_name><![CDATA[Jonathan]]></first_name>
+        <last_name><![CDATA[Tah]]></last_name>
+        <name><![CDATA[Jonathan Tah]]></name>
+        <surname><![CDATA[Tah]]></surname>
+        <team_name><![CDATA[Leverkusen]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p4978c102j28.jpg]]></photo>
+        <position><![CDATA[Defender]]></position>
+        <dob>11/02/1996</dob>
+        <weight>98</weight>
+        <height>194</height>
+        <shirt_num>4</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Germany]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/jonathan-tah/stats]]></profile_url>
+        <x_loc>17</x_loc>
+        <y_loc>37</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>20</age>
+        <bmi>26</bmi>
+      </player>
+      <player id="159" team_id="94">
+        <first_name><![CDATA[Kyriakos]]></first_name>
+        <last_name><![CDATA[Papadopoulos]]></last_name>
+        <name><![CDATA[Kyriakos Papadopoulos]]></name>
+        <surname><![CDATA[Kyriakos Papadopoulos]]></surname>
+        <team_name><![CDATA[Leverkusen]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p159c94j5.jpg]]></photo>
+        <position><![CDATA[Defender]]></position>
+        <dob>23/02/1992</dob>
+        <weight>89</weight>
+        <height>184</height>
+        <shirt_num>5</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Greece]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/kyriakos-papadopoulos/stats]]></profile_url>
+        <x_loc>17</x_loc>
+        <y_loc>61</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>24</age>
+        <bmi>26.3</bmi>
+      </player>
+      <player id="583" team_id="94">
+        <first_name><![CDATA[Javier]]></first_name>
+        <last_name><![CDATA[Hernández]]></last_name>
+        <name><![CDATA[Javier Hernández]]></name>
+        <surname><![CDATA[Javier Hernández]]></surname>
+        <team_name><![CDATA[Leverkusen]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p583c38j14.jpg]]></photo>
+        <position><![CDATA[Forward]]></position>
+        <dob>01/06/1988</dob>
+        <weight>71</weight>
+        <height>174</height>
+        <shirt_num>7</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Mexico]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/uncategorized/javier-hernandez]]></profile_url>
+        <x_loc>85</x_loc>
+        <y_loc>50</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>28</age>
+        <bmi>23.5</bmi>
+      </player>
+      <player id="4976" team_id="94">
+        <first_name><![CDATA[Hakan]]></first_name>
+        <last_name><![CDATA[Calhanoglu]]></last_name>
+        <name><![CDATA[Hakan Calhanoglu]]></name>
+        <surname><![CDATA[Calhanoglu]]></surname>
+        <team_name><![CDATA[Leverkusen]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p4976c94j10.jpg]]></photo>
+        <position><![CDATA[Midfielder]]></position>
+        <dob>08/02/1994</dob>
+        <weight>76</weight>
+        <height>178</height>
+        <shirt_num>10</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Turkey]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/hakan-calhanoglu/stats]]></profile_url>
+        <x_loc>62</x_loc>
+        <y_loc>50</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>22</age>
+        <bmi>24</bmi>
+      </player>
+      <player id="2044" team_id="94">
+        <first_name><![CDATA[Stefan]]></first_name>
+        <last_name><![CDATA[Kießling]]></last_name>
+        <name><![CDATA[Stefan Kießling]]></name>
+        <surname><![CDATA[Kießling]]></surname>
+        <team_name><![CDATA[Leverkusen]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p2044c94j11.jpg]]></photo>
+        <position><![CDATA[Forward]]></position>
+        <dob>25/01/1984</dob>
+        <weight>82</weight>
+        <height>191</height>
+        <shirt_num>11</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Germany]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/stefan-kiesling/stats]]></profile_url>
+        <x_loc>0</x_loc>
+        <y_loc>0</y_loc>
+        <state><![CDATA[bench]]></state>
+        <age>32</age>
+        <bmi>22.5</bmi>
+      </player>
+      <player id="5576" team_id="94">
+        <first_name><![CDATA[Admir]]></first_name>
+        <last_name><![CDATA[Mehmedi]]></last_name>
+        <name><![CDATA[Admir Mehmedi]]></name>
+        <surname><![CDATA[Mehmedi]]></surname>
+        <team_name><![CDATA[Leverkusen]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p5576c94j14.jpg]]></photo>
+        <position><![CDATA[Forward]]></position>
+        <dob>16/03/1991</dob>
+        <weight>81</weight>
+        <height>183</height>
+        <shirt_num>14</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Switzerland]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/admir-mehmedi/stats]]></profile_url>
+        <x_loc>62</x_loc>
+        <y_loc>78</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>25</age>
+        <bmi>24.2</bmi>
+      </player>
+      <player id="224" team_id="94">
+        <first_name><![CDATA[Sebastian]]></first_name>
+        <last_name><![CDATA[Boenisch]]></last_name>
+        <name><![CDATA[Sebastian Boenisch]]></name>
+        <surname><![CDATA[Boenisch]]></surname>
+        <team_name><![CDATA[Leverkusen]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p224c94j17.jpg]]></photo>
+        <position><![CDATA[Defender]]></position>
+        <dob>01/02/1987</dob>
+        <weight>90</weight>
+        <height>191</height>
+        <shirt_num>17</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Poland]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/sebastian-boenisch/stats]]></profile_url>
+        <x_loc>0</x_loc>
+        <y_loc>0</y_loc>
+        <state><![CDATA[bench]]></state>
+        <age>29</age>
+        <bmi>24.7</bmi>
+      </player>
+      <player id="6142" team_id="94">
+        <first_name><![CDATA[Wendell]]></first_name>
+        <last_name><![CDATA[Nascimento Borges]]></last_name>
+        <name><![CDATA[Wendell]]></name>
+        <surname><![CDATA[Nascimento Borges]]></surname>
+        <team_name><![CDATA[Leverkusen]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p6142c94j18.jpg]]></photo>
+        <position><![CDATA[Defender]]></position>
+        <dob>20/07/1993</dob>
+        <weight>66</weight>
+        <height>176</height>
+        <shirt_num>18</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Brazil]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/wendell/stats]]></profile_url>
+        <x_loc>21</x_loc>
+        <y_loc>85</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>23</age>
+        <bmi>21.3</bmi>
+      </player>
+      <player id="11370" team_id="94">
+        <first_name><![CDATA[Julian]]></first_name>
+        <last_name><![CDATA[Brandt]]></last_name>
+        <name><![CDATA[Julian Brandt]]></name>
+        <surname><![CDATA[Julian Brandt]]></surname>
+        <team_name><![CDATA[Leverkusen]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p11370c94j19.jpg]]></photo>
+        <position><![CDATA[Midfielder]]></position>
+        <dob>02/05/1996</dob>
+        <weight>82</weight>
+        <height>183</height>
+        <shirt_num>19</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Germany]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/julian-brandt/stats]]></profile_url>
+        <x_loc>0</x_loc>
+        <y_loc>0</y_loc>
+        <state><![CDATA[bench]]></state>
+        <age>20</age>
+        <bmi>24.5</bmi>
+      </player>
+      <player id="2051" team_id="94">
+        <first_name><![CDATA[Ömer]]></first_name>
+        <last_name><![CDATA[Toprak]]></last_name>
+        <name><![CDATA[Ömer Toprak]]></name>
+        <surname><![CDATA[Ömer Toprak]]></surname>
+        <team_name><![CDATA[Leverkusen]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p2051c94j21.jpg]]></photo>
+        <position><![CDATA[Defender]]></position>
+        <dob>21/07/1989</dob>
+        <weight>84</weight>
+        <height>187</height>
+        <shirt_num>21</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Turkey]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/omer-toprak/stats]]></profile_url>
+        <x_loc>0</x_loc>
+        <y_loc>0</y_loc>
+        <state><![CDATA[bench]]></state>
+        <age>27</age>
+        <bmi>24</bmi>
+      </player>
+      <player id="4962" team_id="94">
+        <first_name><![CDATA[Christoph]]></first_name>
+        <last_name><![CDATA[Kramer]]></last_name>
+        <name><![CDATA[Christoph Kramer]]></name>
+        <surname><![CDATA[Christoph Kramer]]></surname>
+        <team_name><![CDATA[Leverkusen]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p4962c94j23.jpg]]></photo>
+        <position><![CDATA[Midfielder]]></position>
+        <dob>19/02/1991</dob>
+        <weight>79</weight>
+        <height>191</height>
+        <shirt_num>23</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Germany]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/christoph-kramer/stats]]></profile_url>
+        <x_loc>40</x_loc>
+        <y_loc>31</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>25</age>
+        <bmi>21.7</bmi>
+      </player>
+      <player id="7321" team_id="94">
+        <first_name><![CDATA[Dario]]></first_name>
+        <last_name><![CDATA[Kresic]]></last_name>
+        <name><![CDATA[Dario Kresic]]></name>
+        <surname><![CDATA[Dario Kresic]]></surname>
+        <team_name><![CDATA[Leverkusen]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p7321c94j25.jpg]]></photo>
+        <position><![CDATA[Goalkeeper]]></position>
+        <dob>11/01/1984</dob>
+        <weight>96</weight>
+        <height>196</height>
+        <shirt_num>25</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Croatia]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/dario-kresic/stats]]></profile_url>
+        <x_loc>0</x_loc>
+        <y_loc>0</y_loc>
+        <state><![CDATA[bench]]></state>
+        <age>32</age>
+        <bmi>25</bmi>
+      </player>
+      <player id="2669" team_id="94">
+        <first_name><![CDATA[Giulio]]></first_name>
+        <last_name><![CDATA[Donati]]></last_name>
+        <name><![CDATA[Giulio Donati]]></name>
+        <surname><![CDATA[Giulio Donati]]></surname>
+        <team_name><![CDATA[Leverkusen]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p2669c94j26.jpg]]></photo>
+        <position><![CDATA[Defender]]></position>
+        <dob>05/02/1990</dob>
+        <weight>84</weight>
+        <height>178</height>
+        <shirt_num>26</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Italy]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/giulio-donati/stats]]></profile_url>
+        <x_loc>21</x_loc>
+        <y_loc>15</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>26</age>
+        <bmi>26.5</bmi>
+      </player>
+      <player id="15245" team_id="94">
+        <first_name><![CDATA[Vladlen]]></first_name>
+        <last_name><![CDATA[Yurchenko]]></last_name>
+        <name><![CDATA[Vladlen Yurchenko]]></name>
+        <surname><![CDATA[Vladlen Yurchenko]]></surname>
+        <team_name><![CDATA[Leverkusen]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p15245c94j35.jpg]]></photo>
+        <position><![CDATA[Midfielder]]></position>
+        <dob>22/01/1994</dob>
+        <weight>76</weight>
+        <height>181</height>
+        <shirt_num>35</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Ukraine]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/vladlen-yurchenko/stats]]></profile_url>
+        <x_loc>0</x_loc>
+        <y_loc>0</y_loc>
+        <state><![CDATA[bench]]></state>
+        <age>22</age>
+        <bmi>23.2</bmi>
+      </player>
+      <player id="2050" team_id="94">
+        <first_name><![CDATA[Karim]]></first_name>
+        <last_name><![CDATA[Bellarabi]]></last_name>
+        <name><![CDATA[Karim Bellarabi]]></name>
+        <surname><![CDATA[Bellarabi]]></surname>
+        <team_name><![CDATA[Leverkusen]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p2050c94j38.jpg]]></photo>
+        <position><![CDATA[Midfielder]]></position>
+        <dob>08/04/1990</dob>
+        <weight>80</weight>
+        <height>183</height>
+        <shirt_num>38</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Germany]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/karim-bellarabi/stats]]></profile_url>
+        <x_loc>62</x_loc>
+        <y_loc>22</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>26</age>
+        <bmi>23.9</bmi>
+      </player>
+      <player id="8644" team_id="94">
+        <first_name><![CDATA[Kevin]]></first_name>
+        <last_name><![CDATA[Kampl]]></last_name>
+        <name><![CDATA[Kevin Kampl]]></name>
+        <surname><![CDATA[Kampl]]></surname>
+        <team_name><![CDATA[Leverkusen]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p8644c95j44.jpg]]></photo>
+        <position><![CDATA[Midfielder]]></position>
+        <dob>09/10/1990</dob>
+        <weight>65</weight>
+        <height>178</height>
+        <shirt_num>44</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Slovenia]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/kevin-kampl/stats]]></profile_url>
+        <x_loc>40</x_loc>
+        <y_loc>66</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>25</age>
+        <bmi>20.5</bmi>
+      </player>
+    </players>
+    <possession>
+      <period id="1">
+        <play_direction team_id="94">left-to-right</play_direction>
+        <play_direction team_id="107">right-to-left</play_direction>
+      </period>
+    </possession>
+  </data_panel>
+</squawka>

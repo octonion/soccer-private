@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<squawka date="2016-01-25" time="16:07" timezone="BST" data_freshness="16:07">
+  <data_panel>
+    <system>
+      <headline><![CDATA[M'gladbach 0 - 0 Schalke]]></headline>
+      <refresh_rate>10000</refresh_rate>
+      <state>ingame</state>
+      <show_ingame_rdp>false</show_ingame_rdp>
+    <reprocess>20160201115655</reprocess></system>
+    <game>
+      <name><![CDATA[M'gladbach VS Schalke]]></name>
+      <team id="96">
+        <long_name><![CDATA[Borussia Mönchengladbach]]></long_name>
+        <short_name><![CDATA[M'gladbach]]></short_name>
+        <logo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/clubs/crest/20150828113714_borussia-monchengladbach_h.png]]></logo>
+        <shirt_url><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/clubs/jersey/20150828113714_borussia-monchengladbach_h.png]]></shirt_url>
+        <club_url><![CDATA[borussia-monchengladbach]]></club_url>
+        <state>home</state>
+        <team_color><![CDATA[#f1f1f1]]></team_color>
+      </team>
+      <team id="100">
+        <long_name><![CDATA[FC Schalke 04]]></long_name>
+        <short_name><![CDATA[Schalke]]></short_name>
+        <logo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/clubs/crest/20150828025314_schalke_h.png]]></logo>
+        <shirt_url><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/clubs/jersey/20150828025314_schalke_h.png]]></shirt_url>
+        <club_url><![CDATA[fc-schalke-04]]></club_url>
+        <state>away</state>
+        <team_color><![CDATA[#235c96]]></team_color>
+      </team>
+      <venue><![CDATA[Borussia-Park]]></venue>
+      <kickoff>Sun, 25 Oct 2015 16:30:00 +0000</kickoff>
+      <timeleft>0</timeleft>
+      <competition_name><![CDATA[]]></competition_name>
+    </game>
+    <players>
+      <player id="9254" team_id="96">
+        <first_name><![CDATA[Yann]]></first_name>
+        <last_name><![CDATA[Sommer]]></last_name>
+        <name><![CDATA[Yann Sommer]]></name>
+        <surname><![CDATA[Sommer]]></surname>
+        <team_name><![CDATA[M'gladbach]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p9254c96j1.jpg]]></photo>
+        <position><![CDATA[Goalkeeper]]></position>
+        <dob>17/12/1988</dob>
+        <weight>79</weight>
+        <height>183</height>
+        <shirt_num>1</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Switzerland]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/yann-sommer/stats]]></profile_url>
+        <x_loc>5</x_loc>
+        <y_loc>49.5</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>27</age>
+        <bmi>23.6</bmi>
+      </player>
+      <player id="4902" team_id="96">
+        <first_name><![CDATA[Andreas]]></first_name>
+        <last_name><![CDATA[Christensen]]></last_name>
+        <name><![CDATA[Andreas Christensen]]></name>
+        <surname><![CDATA[Andreas Christensen]]></surname>
+        <team_name><![CDATA[M'gladbach]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p4902c96j3.jpg]]></photo>
+        <position><![CDATA[Defender]]></position>
+        <dob>10/04/1996</dob>
+        <weight>74</weight>
+        <height>188</height>
+        <shirt_num>3</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Denmark]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/uncategorized/andreas-christensen]]></profile_url>
+        <x_loc>17</x_loc>
+        <y_loc>63</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>20</age>
+        <bmi>20.9</bmi>
+      </player>
+      <player id="2084" team_id="96">
+        <first_name><![CDATA[Roel]]></first_name>
+        <last_name><![CDATA[Brouwers]]></last_name>
+        <name><![CDATA[Roel Brouwers]]></name>
+        <surname><![CDATA[Brouwers]]></surname>
+        <team_name><![CDATA[M'gladbach]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p2084c96j4.jpg]]></photo>
+        <position><![CDATA[Defender]]></position>
+        <dob>28/11/1981</dob>
+        <weight>82</weight>
+        <height>192</height>
+        <shirt_num>4</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Netherlands]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/roel-brouwers/stats]]></profile_url>
+        <x_loc>0</x_loc>
+        <y_loc>0</y_loc>
+        <state><![CDATA[bench]]></state>
+        <age>34</age>
+        <bmi>22.2</bmi>
+      </player>
+      <player id="2091" team_id="96">
+        <first_name><![CDATA[Havard]]></first_name>
+        <last_name><![CDATA[Nordtveit]]></last_name>
+        <name><![CDATA[Havard Nordtveit]]></name>
+        <surname><![CDATA[Nordtveit]]></surname>
+        <team_name><![CDATA[M'gladbach]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p2091c96j6.jpg]]></photo>
+        <position><![CDATA[Midfielder]]></position>
+        <dob>21/06/1990</dob>
+        <weight>83</weight>
+        <height>188</height>
+        <shirt_num>6</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Norway]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/havard-nordtveit/stats]]></profile_url>
+        <x_loc>0</x_loc>
+        <y_loc>0</y_loc>
+        <state><![CDATA[bench]]></state>
+        <age>26</age>
+        <bmi>23.5</bmi>
+      </player>
+      <player id="7530" team_id="96">
+        <first_name><![CDATA[Mahmoud]]></first_name>
+        <last_name><![CDATA[Dahoud]]></last_name>
+        <name><![CDATA[Mahmoud Dahoud]]></name>
+        <surname><![CDATA[Dahoud]]></surname>
+        <team_name><![CDATA[M'gladbach]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p7530c96j8.jpg]]></photo>
+        <position><![CDATA[Midfielder]]></position>
+        <dob>01/01/1996</dob>
+        <weight>67</weight>
+        <height>177</height>
+        <shirt_num>8</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Germany]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/mahmoud-dahoud/stats]]></profile_url>
+        <x_loc>47</x_loc>
+        <y_loc>37</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>20</age>
+        <bmi>21.4</bmi>
+      </player>
+      <player id="5524" team_id="96">
+        <first_name><![CDATA[Josip]]></first_name>
+        <last_name><![CDATA[Drmic]]></last_name>
+        <name><![CDATA[Josip Drmic]]></name>
+        <surname><![CDATA[Drmic]]></surname>
+        <team_name><![CDATA[M'gladbach]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p5524c96j9.jpg]]></photo>
+        <position><![CDATA[Forward]]></position>
+        <dob>08/08/1992</dob>
+        <weight>80</weight>
+        <height>181</height>
+        <shirt_num>9</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Switzerland]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/josip-drmic/stats]]></profile_url>
+        <x_loc>0</x_loc>
+        <y_loc>0</y_loc>
+        <state><![CDATA[bench]]></state>
+        <age>23</age>
+        <bmi>24.4</bmi>
+      </player>
+      <player id="458" team_id="96">
+        <first_name><![CDATA[Thorgan]]></first_name>
+        <last_name><![CDATA[Hazard]]></last_name>
+        <name><![CDATA[Thorgan Hazard]]></name>
+        <surname><![CDATA[Thorgan Hazard]]></surname>
+        <team_name><![CDATA[M'gladbach]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p458c96j10.jpg]]></photo>
+        <position><![CDATA[Midfielder]]></position>
+        <dob>29/03/1993</dob>
+        <weight>69</weight>
+        <height>174</height>
+        <shirt_num>10</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Belgium]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/thorgan-hazard/stats]]></profile_url>
+        <x_loc>0</x_loc>
+        <y_loc>0</y_loc>
+        <state><![CDATA[bench]]></state>
+        <age>23</age>
+        <bmi>22.8</bmi>
+      </player>
+      <player id="4125" team_id="96">
+        <first_name><![CDATA[Raffael]]></first_name>
+        <last_name><![CDATA[Caetano de Araújo]]></last_name>
+        <name><![CDATA[Raffael]]></name>
+        <surname><![CDATA[Caetano de Araújo]]></surname>
+        <team_name><![CDATA[M'gladbach]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p4125c96j11.jpg]]></photo>
+        <position><![CDATA[Forward]]></position>
+        <dob>28/03/1985</dob>
+        <weight>69</weight>
+        <height>174</height>
+        <shirt_num>11</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Brazil]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/raffael/stats]]></profile_url>
+        <x_loc>80</x_loc>
+        <y_loc>63</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>31</age>
+        <bmi>22.8</bmi>
+      </player>
+      <player id="2270" team_id="96">
+        <first_name><![CDATA[Lars]]></first_name>
+        <last_name><![CDATA[Stindl]]></last_name>
+        <name><![CDATA[Lars Stindl]]></name>
+        <surname><![CDATA[Stindl]]></surname>
+        <team_name><![CDATA[M'gladbach]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p2270c96j13.jpg]]></photo>
+        <position><![CDATA[Midfielder]]></position>
+        <dob>26/08/1988</dob>
+        <weight>75</weight>
+        <height>180</height>
+        <shirt_num>13</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Germany]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/lars-stindl/stats]]></profile_url>
+        <x_loc>80</x_loc>
+        <y_loc>37</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>27</age>
+        <bmi>23.1</bmi>
+      </player>
+      <player id="2356" team_id="96">
+        <first_name><![CDATA[Ibrahima]]></first_name>
+        <last_name><![CDATA[Traoré]]></last_name>
+        <name><![CDATA[Ibrahima Traoré]]></name>
+        <surname><![CDATA[Ibrahima Traoré]]></surname>
+        <team_name><![CDATA[M'gladbach]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p2356c96j16.jpg]]></photo>
+        <position><![CDATA[Midfielder]]></position>
+        <dob>21/04/1988</dob>
+        <weight>61</weight>
+        <height>172</height>
+        <shirt_num>16</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Guinea]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/ibrahima-traore/stats]]></profile_url>
+        <x_loc>57</x_loc>
+        <y_loc>15</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>28</age>
+        <bmi>20.6</bmi>
+      </player>
+      <player id="2094" team_id="96">
+        <first_name><![CDATA[Oscar]]></first_name>
+        <last_name><![CDATA[Wendt]]></last_name>
+        <name><![CDATA[Oscar Wendt]]></name>
+        <surname><![CDATA[Wendt]]></surname>
+        <team_name><![CDATA[M'gladbach]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p2094c96j17.jpg]]></photo>
+        <position><![CDATA[Defender]]></position>
+        <dob>24/10/1985</dob>
+        <weight>82</weight>
+        <height>181</height>
+        <shirt_num>17</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Sweden]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/oscar-wendt/stats]]></profile_url>
+        <x_loc>21</x_loc>
+        <y_loc>85</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>30</age>
+        <bmi>25</bmi>
+      </player>
+      <player id="2026" team_id="96">
+        <first_name><![CDATA[Fabian]]></first_name>
+        <last_name><![CDATA[Johnson]]></last_name>
+        <name><![CDATA[Fabian Johnson]]></name>
+        <surname><![CDATA[Fabian Johnson]]></surname>
+        <team_name><![CDATA[M'gladbach]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p2026c96j19.png]]></photo>
+        <position><![CDATA[Defender]]></position>
+        <dob>11/12/1987</dob>
+        <weight>74</weight>
+        <height>183</height>
+        <shirt_num>19</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[USA]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/fabian-johnson/stats]]></profile_url>
+        <x_loc>57</x_loc>
+        <y_loc>85</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>28</age>
+        <bmi>22.1</bmi>
+      </player>
+      <player id="2085" team_id="96">
+        <first_name><![CDATA[Tony]]></first_name>
+        <last_name><![CDATA[Jantschke]]></last_name>
+        <name><![CDATA[Tony Jantschke]]></name>
+        <surname><![CDATA[Jantschke]]></surname>
+        <team_name><![CDATA[M'gladbach]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p2085c96j24.jpg]]></photo>
+        <position><![CDATA[Defender]]></position>
+        <dob>07/04/1990</dob>
+        <weight>74</weight>
+        <height>177</height>
+        <shirt_num>24</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Germany]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/tony-jantschke/stats]]></profile_url>
+        <x_loc>17</x_loc>
+        <y_loc>37</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>26</age>
+        <bmi>23.6</bmi>
+      </player>
+      <player id="2096" team_id="96">
+        <first_name><![CDATA[Julian]]></first_name>
+        <last_name><![CDATA[Korb]]></last_name>
+        <name><![CDATA[Julian Korb]]></name>
+        <surname><![CDATA[Julian Korb]]></surname>
+        <team_name><![CDATA[M'gladbach]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p2096c96j27.jpg]]></photo>
+        <position><![CDATA[Defender]]></position>
+        <dob>21/03/1992</dob>
+        <weight>69</weight>
+        <height>177</height>
+        <shirt_num>27</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Germany]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/julian-korb/stats]]></profile_url>
+        <x_loc>21</x_loc>
+        <y_loc>15</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>24</age>
+        <bmi>22</bmi>
+      </player>
+      <player id="4150" team_id="96">
+        <first_name><![CDATA[André]]></first_name>
+        <last_name><![CDATA[Hahn]]></last_name>
+        <name><![CDATA[André Hahn]]></name>
+        <surname><![CDATA[André Hahn]]></surname>
+        <team_name><![CDATA[M'gladbach]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p4150c96j28.jpg]]></photo>
+        <position><![CDATA[Midfielder]]></position>
+        <dob>13/08/1990</dob>
+        <weight>80</weight>
+        <height>185</height>
+        <shirt_num>28</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Germany]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/andre-hahn/stats]]></profile_url>
+        <x_loc>0</x_loc>
+        <y_loc>0</y_loc>
+        <state><![CDATA[bench]]></state>
+        <age>25</age>
+        <bmi>23.4</bmi>
+      </player>
+      <player id="2107" team_id="96">
+        <first_name><![CDATA[Branimir]]></first_name>
+        <last_name><![CDATA[Hrgota]]></last_name>
+        <name><![CDATA[Branimir Hrgota]]></name>
+        <surname><![CDATA[Hrgota]]></surname>
+        <team_name><![CDATA[M'gladbach]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p2107c96j31.jpg]]></photo>
+        <position><![CDATA[Forward]]></position>
+        <dob>12/01/1993</dob>
+        <weight>74</weight>
+        <height>185</height>
+        <shirt_num>31</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Sweden]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/branimir-hrgota/stats]]></profile_url>
+        <x_loc>0</x_loc>
+        <y_loc>0</y_loc>
+        <state><![CDATA[bench]]></state>
+        <age>23</age>
+        <bmi>21.6</bmi>
+      </player>
+      <player id="2083" team_id="96">
+        <first_name><![CDATA[Christofer]]></first_name>
+        <last_name><![CDATA[Heimeroth]]></last_name>
+        <name><![CDATA[Christofer Heimeroth]]></name>
+        <surname><![CDATA[Heimeroth]]></surname>
+        <team_name><![CDATA[M'gladbach]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p2083c96j33.jpg]]></photo>
+        <position><![CDATA[Goalkeeper]]></position>
+        <dob>01/08/1981</dob>
+        <weight>91</weight>
+        <height>194</height>
+        <shirt_num>33</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Germany]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/christofer-heimeroth/stats]]></profile_url>
+        <x_loc>0</x_loc>
+        <y_loc>0</y_loc>
+        <state><![CDATA[bench]]></state>
+        <age>34</age>
+        <bmi>24.2</bmi>
+      </player>
+      <player id="2103" team_id="96">
+        <first_name><![CDATA[Granit]]></first_name>
+        <last_name><![CDATA[Xhaka]]></last_name>
+        <name><![CDATA[Granit Xhaka]]></name>
+        <surname><![CDATA[Granit Xhaka]]></surname>
+        <team_name><![CDATA[M'gladbach]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p2103c96j34.jpg]]></photo>
+        <position><![CDATA[Midfielder]]></position>
+        <dob>27/09/1992</dob>
+        <weight>82</weight>
+        <height>185</height>
+        <shirt_num>34</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Switzerland]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/granit-xhaka/stats]]></profile_url>
+        <x_loc>47</x_loc>
+        <y_loc>63</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>23</age>
+        <bmi>24</bmi>
+      </player>
+      <player id="2189" team_id="100">
+        <first_name><![CDATA[Ralf]]></first_name>
+        <last_name><![CDATA[Fährmann]]></last_name>
+        <name><![CDATA[Ralf Fährmann]]></name>
+        <surname><![CDATA[Fährmann]]></surname>
+        <team_name><![CDATA[Schalke]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p2189c100j1.jpg]]></photo>
+        <position><![CDATA[Goalkeeper]]></position>
+        <dob>27/09/1988</dob>
+        <weight>95</weight>
+        <height>196</height>
+        <shirt_num>1</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Germany]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/ralf-fahrmann/stats]]></profile_url>
+        <x_loc>5</x_loc>
+        <y_loc>50</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>27</age>
+        <bmi>24.7</bmi>
+      </player>
+      <player id="8808" team_id="100">
+        <first_name><![CDATA[Uilson de Souza]]></first_name>
+        <last_name><![CDATA[Paula Junior]]></last_name>
+        <name><![CDATA[Junior Caicara]]></name>
+        <surname><![CDATA[Paula Junior]]></surname>
+        <team_name><![CDATA[Schalke]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p8808c100j3.jpg]]></photo>
+        <position><![CDATA[Defender]]></position>
+        <dob>27/04/1989</dob>
+        <weight>70</weight>
+        <height>173</height>
+        <shirt_num>3</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Brazil]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/junior-caicara/stats]]></profile_url>
+        <x_loc>62</x_loc>
+        <y_loc>22</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>27</age>
+        <bmi>23.4</bmi>
+      </player>
+      <player id="135" team_id="100">
+        <first_name><![CDATA[Benedikt]]></first_name>
+        <last_name><![CDATA[Höwedes]]></last_name>
+        <name><![CDATA[Benedikt Höwedes]]></name>
+        <surname><![CDATA[Höwedes]]></surname>
+        <team_name><![CDATA[Schalke]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p135c100j4.jpg]]></photo>
+        <position><![CDATA[Defender]]></position>
+        <dob>29/02/1988</dob>
+        <weight>82</weight>
+        <height>187</height>
+        <shirt_num>4</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Germany]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/benedikt-howedes/stats]]></profile_url>
+        <x_loc>17</x_loc>
+        <y_loc>37</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>28</age>
+        <bmi>23.4</bmi>
+      </player>
+      <player id="2325" team_id="100">
+        <first_name><![CDATA[Johannes]]></first_name>
+        <last_name><![CDATA[Geis]]></last_name>
+        <name><![CDATA[Johannes Geis]]></name>
+        <surname><![CDATA[Geis]]></surname>
+        <team_name><![CDATA[Schalke]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p2325c100j5.jpg]]></photo>
+        <position><![CDATA[Midfielder]]></position>
+        <dob>17/08/1993</dob>
+        <weight>81</weight>
+        <height>181</height>
+        <shirt_num>5</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Germany]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/johannes-geis/stats]]></profile_url>
+        <x_loc>40</x_loc>
+        <y_loc>31</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>22</age>
+        <bmi>24.7</bmi>
+      </player>
+      <player id="2196" team_id="100">
+        <first_name><![CDATA[Sead]]></first_name>
+        <last_name><![CDATA[Kolasinac]]></last_name>
+        <name><![CDATA[Sead Kolasinac]]></name>
+        <surname><![CDATA[Kolasinac]]></surname>
+        <team_name><![CDATA[Schalke]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p2196c100j6.jpg]]></photo>
+        <position><![CDATA[Defender]]></position>
+        <dob>20/06/1993</dob>
+        <weight>85</weight>
+        <height>183</height>
+        <shirt_num>6</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Bosnia and Herzegovina]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/sead-kolasinac/stats]]></profile_url>
+        <x_loc>0</x_loc>
+        <y_loc>0</y_loc>
+        <state><![CDATA[bench]]></state>
+        <age>23</age>
+        <bmi>25.4</bmi>
+      </player>
+      <player id="3871" team_id="100">
+        <first_name><![CDATA[Max]]></first_name>
+        <last_name><![CDATA[Meyer]]></last_name>
+        <name><![CDATA[Max Meyer]]></name>
+        <surname><![CDATA[Max Meyer]]></surname>
+        <team_name><![CDATA[Schalke]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p3871c100j7.jpg]]></photo>
+        <position><![CDATA[Midfielder]]></position>
+        <dob>18/09/1995</dob>
+        <weight>68</weight>
+        <height>173</height>
+        <shirt_num>7</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Germany]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/max-meyer/stats]]></profile_url>
+        <x_loc>62</x_loc>
+        <y_loc>50</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>20</age>
+        <bmi>22.7</bmi>
+      </player>
+      <player id="5494" team_id="100">
+        <first_name><![CDATA[Leon]]></first_name>
+        <last_name><![CDATA[Goretzka]]></last_name>
+        <name><![CDATA[Leon Goretzka]]></name>
+        <surname><![CDATA[Goretzka]]></surname>
+        <team_name><![CDATA[Schalke]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p5494c100j8.jpg]]></photo>
+        <position><![CDATA[Midfielder]]></position>
+        <dob>06/02/1995</dob>
+        <weight>79</weight>
+        <height>189</height>
+        <shirt_num>8</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Germany]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/leon-goretzka/stats]]></profile_url>
+        <x_loc>0</x_loc>
+        <y_loc>0</y_loc>
+        <state><![CDATA[bench]]></state>
+        <age>21</age>
+        <bmi>22.1</bmi>
+      </player>
+      <player id="942" team_id="100">
+        <first_name><![CDATA[Franco]]></first_name>
+        <last_name><![CDATA[Di Santo]]></last_name>
+        <name><![CDATA[Franco Di Santo]]></name>
+        <surname><![CDATA[Di Santo]]></surname>
+        <team_name><![CDATA[Schalke]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p942c108j9.jpg]]></photo>
+        <position><![CDATA[Forward]]></position>
+        <dob>07/04/1989</dob>
+        <weight>88</weight>
+        <height>193</height>
+        <shirt_num>9</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Argentina]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/franco-di-santo/stats]]></profile_url>
+        <x_loc>85</x_loc>
+        <y_loc>50</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>27</age>
+        <bmi>23.6</bmi>
+      </player>
+      <player id="2000" team_id="100">
+        <first_name><![CDATA[Eric-Maxim]]></first_name>
+        <last_name><![CDATA[Choupo-Moting]]></last_name>
+        <name><![CDATA[Eric-Maxim Choupo-Moting]]></name>
+        <surname><![CDATA[Choupo-Moting]]></surname>
+        <team_name><![CDATA[Schalke]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p2000c100j13.jpg]]></photo>
+        <position><![CDATA[Forward]]></position>
+        <dob>23/03/1989</dob>
+        <weight>91</weight>
+        <height>191</height>
+        <shirt_num>13</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Cameroon]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/eric-choupo-moting/stats]]></profile_url>
+        <x_loc>0</x_loc>
+        <y_loc>0</y_loc>
+        <state><![CDATA[bench]]></state>
+        <age>27</age>
+        <bmi>24.9</bmi>
+      </player>
+      <player id="2234" team_id="100">
+        <first_name><![CDATA[Dennis]]></first_name>
+        <last_name><![CDATA[Aogo]]></last_name>
+        <name><![CDATA[Dennis Aogo]]></name>
+        <surname><![CDATA[Aogo]]></surname>
+        <team_name><![CDATA[Schalke]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p2234c100j15.jpg]]></photo>
+        <position><![CDATA[Midfielder]]></position>
+        <dob>14/01/1987</dob>
+        <weight>85</weight>
+        <height>184</height>
+        <shirt_num>15</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Germany]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/dennis-aogo/stats]]></profile_url>
+        <x_loc>21</x_loc>
+        <y_loc>85</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>29</age>
+        <bmi>25.1</bmi>
+      </player>
+      <player id="12319" team_id="100">
+        <first_name><![CDATA[Leroy]]></first_name>
+        <last_name><![CDATA[Sané]]></last_name>
+        <name><![CDATA[Leroy Sané]]></name>
+        <surname><![CDATA[Leroy Sané]]></surname>
+        <team_name><![CDATA[Schalke]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p12319c100j19.jpg]]></photo>
+        <position><![CDATA[Midfielder]]></position>
+        <dob>11/01/1996</dob>
+        <weight>75</weight>
+        <height>183</height>
+        <shirt_num>19</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Germany]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/leroy-sane/stats]]></profile_url>
+        <x_loc>62</x_loc>
+        <y_loc>78</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>20</age>
+        <bmi>22.4</bmi>
+      </player>
+      <player id="3798" team_id="100">
+        <first_name><![CDATA[Pierre-Emile]]></first_name>
+        <last_name><![CDATA[Højbjerg]]></last_name>
+        <name><![CDATA[Pierre-Emile Højbjerg]]></name>
+        <surname><![CDATA[Højbjerg]]></surname>
+        <team_name><![CDATA[Schalke]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p3798c99j34.jpg]]></photo>
+        <position><![CDATA[Midfielder]]></position>
+        <dob>05/08/1995</dob>
+        <weight>84</weight>
+        <height>185</height>
+        <shirt_num>23</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Denmark]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/pierre-emile-hojbjerg/stats]]></profile_url>
+        <x_loc>40</x_loc>
+        <y_loc>66</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>20</age>
+        <bmi>24.5</bmi>
+      </player>
+      <player id="4320" team_id="100">
+        <first_name><![CDATA[Kaan]]></first_name>
+        <last_name><![CDATA[Ayhan]]></last_name>
+        <name><![CDATA[Kaan Ayhan]]></name>
+        <surname><![CDATA[Kaan Ayhan]]></surname>
+        <team_name><![CDATA[Schalke]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p4320c100j24.jpg]]></photo>
+        <position><![CDATA[Defender]]></position>
+        <dob>10/11/1994</dob>
+        <weight>84</weight>
+        <height>185</height>
+        <shirt_num>24</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Turkey]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/kaan-ayhan/stats]]></profile_url>
+        <x_loc>0</x_loc>
+        <y_loc>0</y_loc>
+        <state><![CDATA[bench]]></state>
+        <age>21</age>
+        <bmi>24.5</bmi>
+      </player>
+      <player id="198" team_id="100">
+        <first_name><![CDATA[Klaas-Jan]]></first_name>
+        <last_name><![CDATA[Huntelaar]]></last_name>
+        <name><![CDATA[Klaas-Jan Huntelaar]]></name>
+        <surname><![CDATA[Huntelaar]]></surname>
+        <team_name><![CDATA[Schalke]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p198c100j25.jpg]]></photo>
+        <position><![CDATA[Forward]]></position>
+        <dob>12/08/1983</dob>
+        <weight>83</weight>
+        <height>186</height>
+        <shirt_num>25</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Netherlands]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/klaas-jan-huntelaar/stats]]></profile_url>
+        <x_loc>0</x_loc>
+        <y_loc>0</y_loc>
+        <state><![CDATA[bench]]></state>
+        <age>32</age>
+        <bmi>24</bmi>
+      </player>
+      <player id="513" team_id="100">
+        <first_name><![CDATA[Sascha]]></first_name>
+        <last_name><![CDATA[Riether]]></last_name>
+        <name><![CDATA[Sascha Riether]]></name>
+        <surname><![CDATA[Riether]]></surname>
+        <team_name><![CDATA[Schalke]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p513c104j22.jpg]]></photo>
+        <position><![CDATA[Defender]]></position>
+        <dob>23/03/1983</dob>
+        <weight>70</weight>
+        <height>174</height>
+        <shirt_num>27</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Germany]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/sascha-riether/stats]]></profile_url>
+        <x_loc>21</x_loc>
+        <y_loc>15</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>33</age>
+        <bmi>23.1</bmi>
+      </player>
+      <player id="4795" team_id="100">
+        <first_name><![CDATA[Michael]]></first_name>
+        <last_name><![CDATA[Gspurning]]></last_name>
+        <name><![CDATA[Michael Gspurning]]></name>
+        <surname><![CDATA[Gspurning]]></surname>
+        <team_name><![CDATA[Schalke]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p4795c100j30.jpg]]></photo>
+        <position><![CDATA[Goalkeeper]]></position>
+        <dob>02/05/1981</dob>
+        <weight>95</weight>
+        <height>196</height>
+        <shirt_num>30</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Austria]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/michael-gspurning/stats]]></profile_url>
+        <x_loc>0</x_loc>
+        <y_loc>0</y_loc>
+        <state><![CDATA[bench]]></state>
+        <age>35</age>
+        <bmi>24.7</bmi>
+      </player>
+      <player id="2178" team_id="100">
+        <first_name><![CDATA[Joel]]></first_name>
+        <last_name><![CDATA[Matip]]></last_name>
+        <name><![CDATA[Joel Matip]]></name>
+        <surname><![CDATA[Joel Matip]]></surname>
+        <team_name><![CDATA[Schalke]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p2178c100j32.jpg]]></photo>
+        <position><![CDATA[Defender]]></position>
+        <dob>08/08/1991</dob>
+        <weight>90</weight>
+        <height>195</height>
+        <shirt_num>32</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Cameroon]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/joel-matip/stats]]></profile_url>
+        <x_loc>17</x_loc>
+        <y_loc>61</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>24</age>
+        <bmi>23.7</bmi>
+      </player>
+      <player id="2197" team_id="100">
+        <first_name><![CDATA[Roman]]></first_name>
+        <last_name><![CDATA[Neustädter]]></last_name>
+        <name><![CDATA[Roman Neustädter]]></name>
+        <surname><![CDATA[Neustädter]]></surname>
+        <team_name><![CDATA[Schalke]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p2197c100j33.jpg]]></photo>
+        <position><![CDATA[Midfielder]]></position>
+        <dob>18/02/1988</dob>
+        <weight>83</weight>
+        <height>190</height>
+        <shirt_num>33</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Germany]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/roman-neustadter/stats]]></profile_url>
+        <x_loc>0</x_loc>
+        <y_loc>0</y_loc>
+        <state><![CDATA[bench]]></state>
+        <age>28</age>
+        <bmi>23</bmi>
+      </player>
+    </players>
+    <possession>
+      <period id="1">
+        <play_direction team_id="100">right-to-left</play_direction>
+        <play_direction team_id="96">left-to-right</play_direction>
+      </period>
+    </possession>
+  </data_panel>
+</squawka>
