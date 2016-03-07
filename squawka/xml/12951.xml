@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<squawka date="2015-12-29" time="17:42" timezone="BST" data_freshness="17:41">
+<squawka date="2016-02-15" time="13:12" timezone="BST" data_freshness="16:58">
   <data_panel>
     <system>
       <headline><![CDATA[Arsenal 2 - 0 B'mouth]]></headline>
@@ -45,7 +45,7 @@
         <weight>89</weight>
         <height>193</height>
         <shirt_num>1</shirt_num>
-        <total_influence>-12</total_influence>
+        <total_influence>0</total_influence>
         <country><![CDATA[Poland]]></country>
         <profile_url><![CDATA[http://www.squawka.com/uncategorized/artur-boruc]]></profile_url>
         <x_loc>5</x_loc>
@@ -66,7 +66,7 @@
         <weight>79</weight>
         <height>183</height>
         <shirt_num>2</shirt_num>
-        <total_influence>11</total_influence>
+        <total_influence>0</total_influence>
         <country><![CDATA[England]]></country>
         <profile_url><![CDATA[http://www.squawka.com/uncategorized/simon-francis]]></profile_url>
         <x_loc>17</x_loc>
@@ -87,7 +87,7 @@
         <weight>83</weight>
         <height>185</height>
         <shirt_num>3</shirt_num>
-        <total_influence>12</total_influence>
+        <total_influence>0</total_influence>
         <country><![CDATA[England]]></country>
         <profile_url><![CDATA[http://www.squawka.com/uncategorized/steve-cook]]></profile_url>
         <x_loc>17</x_loc>
@@ -108,7 +108,7 @@
         <weight>71</weight>
         <height>178</height>
         <shirt_num>4</shirt_num>
-        <total_influence>-14</total_influence>
+        <total_influence>0</total_influence>
         <country><![CDATA[England]]></country>
         <profile_url><![CDATA[http://www.squawka.com/uncategorized/dan-gosling]]></profile_url>
         <x_loc>60</x_loc>
@@ -129,7 +129,7 @@
         <weight>73</weight>
         <height>180</height>
         <shirt_num>6</shirt_num>
-        <total_influence>32</total_influence>
+        <total_influence>0</total_influence>
         <country><![CDATA[England]]></country>
         <profile_url><![CDATA[http://www.squawka.com/uncategorized/andrew-surman]]></profile_url>
         <x_loc>40</x_loc>
@@ -150,7 +150,7 @@
         <weight>72</weight>
         <height>180</height>
         <shirt_num>7</shirt_num>
-        <total_influence>-4</total_influence>
+        <total_influence>0</total_influence>
         <country><![CDATA[England]]></country>
         <profile_url><![CDATA[http://www.squawka.com/uncategorized/marc-pugh]]></profile_url>
         <x_loc>65</x_loc>
@@ -171,7 +171,7 @@
         <weight>73</weight>
         <height>175</height>
         <shirt_num>8</shirt_num>
-        <total_influence>45</total_influence>
+        <total_influence>0</total_influence>
         <country><![CDATA[Republic of Ireland]]></country>
         <profile_url><![CDATA[http://www.squawka.com/uncategorized/harry-arter]]></profile_url>
         <x_loc>60</x_loc>
@@ -201,6 +201,27 @@
         <age>25</age>
         <bmi>23</bmi>
       </player>
+      <player id="11722" team_id="299">
+        <first_name><![CDATA[Lee]]></first_name>
+        <last_name><![CDATA[Tomlin]]></last_name>
+        <name><![CDATA[Lee Tomlin]]></name>
+        <surname><![CDATA[Tomlin]]></surname>
+        <team_name><![CDATA[B'mouth]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p11722c299j9.jpg]]></photo>
+        <position><![CDATA[Midfielder]]></position>
+        <dob>12/01/1989</dob>
+        <weight>74</weight>
+        <height>180</height>
+        <shirt_num>9</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[England]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/lee-tomlin/stats]]></profile_url>
+        <x_loc>0</x_loc>
+        <y_loc>0</y_loc>
+        <state><![CDATA[bench]]></state>
+        <age>27</age>
+        <bmi>22.8</bmi>
+      </player>
       <player id="10166" team_id="299">
         <first_name><![CDATA[Charlie]]></first_name>
         <last_name><![CDATA[Daniels]]></last_name>
@@ -213,7 +234,7 @@
         <weight>75</weight>
         <height>175</height>
         <shirt_num>11</shirt_num>
-        <total_influence>15</total_influence>
+        <total_influence>0</total_influence>
         <country><![CDATA[England]]></country>
         <profile_url><![CDATA[http://www.squawka.com/uncategorized/charlie-daniels]]></profile_url>
         <x_loc>21</x_loc>
@@ -234,7 +255,7 @@
         <weight>74</weight>
         <height>178</height>
         <shirt_num>15</shirt_num>
-        <total_influence>23</total_influence>
+        <total_influence>0</total_influence>
         <country><![CDATA[England]]></country>
         <profile_url><![CDATA[http://www.squawka.com/uncategorized/adam-smith]]></profile_url>
         <x_loc>21</x_loc>
@@ -255,7 +276,7 @@
         <weight>83</weight>
         <height>185</height>
         <shirt_num>17</shirt_num>
-        <total_influence>-23</total_influence>
+        <total_influence>0</total_influence>
         <country><![CDATA[Norway]]></country>
         <profile_url><![CDATA[http://www.squawka.com/uncategorized/joshua-king]]></profile_url>
         <x_loc>80</x_loc>
@@ -276,7 +297,7 @@
         <weight>79</weight>
         <height>180</height>
         <shirt_num>19</shirt_num>
-        <total_influence>3</total_influence>
+        <total_influence>0</total_influence>
         <country><![CDATA[England]]></country>
         <profile_url><![CDATA[http://www.squawka.com/uncategorized/junior-stanislas]]></profile_url>
         <x_loc>0</x_loc>
@@ -305,27 +326,6 @@
         <state><![CDATA[bench]]></state>
         <age>31</age>
         <bmi>25.5</bmi>
-      </player>
-      <player id="11722" team_id="299">
-        <first_name><![CDATA[Lee]]></first_name>
-        <last_name><![CDATA[Tomlin]]></last_name>
-        <name><![CDATA[Lee Tomlin]]></name>
-        <surname><![CDATA[Tomlin]]></surname>
-        <team_name><![CDATA[B'mouth]]></team_name>
-        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p11722c299j24.jpg]]></photo>
-        <position><![CDATA[Forward]]></position>
-        <dob>12/01/1989</dob>
-        <weight>74</weight>
-        <height>180</height>
-        <shirt_num>24</shirt_num>
-        <total_influence>0</total_influence>
-        <country><![CDATA[England]]></country>
-        <profile_url><![CDATA[http://www.squawka.com/players/lee-tomlin/stats]]></profile_url>
-        <x_loc>0</x_loc>
-        <y_loc>0</y_loc>
-        <state><![CDATA[bench]]></state>
-        <age>27</age>
-        <bmi>22.8</bmi>
       </player>
       <player id="472" team_id="299">
         <first_name><![CDATA[Sylvain]]></first_name>
@@ -360,7 +360,7 @@
         <weight>80</weight>
         <height>183</height>
         <shirt_num>27</shirt_num>
-        <total_influence>6</total_influence>
+        <total_influence>0</total_influence>
         <country><![CDATA[England]]></country>
         <profile_url><![CDATA[http://www.squawka.com/uncategorized/glenn-murray]]></profile_url>
         <x_loc>0</x_loc>
@@ -381,7 +381,7 @@
         <weight>70</weight>
         <height>173</height>
         <shirt_num>30</shirt_num>
-        <total_influence>12</total_influence>
+        <total_influence>0</total_influence>
         <country><![CDATA[Scotland]]></country>
         <profile_url><![CDATA[http://www.squawka.com/uncategorized/matt-ritchie]]></profile_url>
         <x_loc>65</x_loc>
@@ -402,35 +402,14 @@
         <weight>69</weight>
         <height>173</height>
         <shirt_num>32</shirt_num>
-        <total_influence>-13</total_influence>
+        <total_influence>0</total_influence>
         <country><![CDATA[Republic of Ireland]]></country>
         <profile_url><![CDATA[http://www.squawka.com/uncategorized/eunan-okane]]></profile_url>
         <x_loc>0</x_loc>
         <y_loc>0</y_loc>
         <state><![CDATA[bench]]></state>
-        <age>25</age>
+        <age>26</age>
         <bmi>23.1</bmi>
-      </player>
-      <player id="110" team_id="31">
-        <first_name><![CDATA[Mathieu]]></first_name>
-        <last_name><![CDATA[Debuchy]]></last_name>
-        <name><![CDATA[Mathieu Debuchy]]></name>
-        <surname><![CDATA[Debuchy]]></surname>
-        <team_name><![CDATA[Arsenal]]></team_name>
-        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p110c31j2.jpg]]></photo>
-        <position><![CDATA[Defender]]></position>
-        <dob>28/07/1985</dob>
-        <weight>76</weight>
-        <height>177</height>
-        <shirt_num>2</shirt_num>
-        <total_influence>0</total_influence>
-        <country><![CDATA[France]]></country>
-        <profile_url><![CDATA[http://www.squawka.com/uncategorized/mathieu-debuchy]]></profile_url>
-        <x_loc>0</x_loc>
-        <y_loc>0</y_loc>
-        <state><![CDATA[bench]]></state>
-        <age>30</age>
-        <bmi>24.3</bmi>
       </player>
       <player id="374" team_id="31">
         <first_name><![CDATA[Kieran]]></first_name>
@@ -444,7 +423,7 @@
         <weight>70</weight>
         <height>178</height>
         <shirt_num>3</shirt_num>
-        <total_influence>23</total_influence>
+        <total_influence>0</total_influence>
         <country><![CDATA[England]]></country>
         <profile_url><![CDATA[http://www.squawka.com/uncategorized/kieran-gibbs]]></profile_url>
         <x_loc>21</x_loc>
@@ -465,7 +444,7 @@
         <weight>90</weight>
         <height>198</height>
         <shirt_num>4</shirt_num>
-        <total_influence>39</total_influence>
+        <total_influence>0</total_influence>
         <country><![CDATA[Germany]]></country>
         <profile_url><![CDATA[http://www.squawka.com/uncategorized/per-mertesacker]]></profile_url>
         <x_loc>17</x_loc>
@@ -486,7 +465,7 @@
         <weight>72</weight>
         <height>185</height>
         <shirt_num>5</shirt_num>
-        <total_influence>100</total_influence>
+        <total_influence>0</total_influence>
         <country><![CDATA[Brazil]]></country>
         <profile_url><![CDATA[http://www.squawka.com/uncategorized/gabriel-paulista]]></profile_url>
         <x_loc>17</x_loc>
@@ -528,7 +507,7 @@
         <weight>76</weight>
         <height>183</height>
         <shirt_num>11</shirt_num>
-        <total_influence>74</total_influence>
+        <total_influence>0</total_influence>
         <country><![CDATA[Germany]]></country>
         <profile_url><![CDATA[http://www.squawka.com/uncategorized/mesut-ozil]]></profile_url>
         <x_loc>62</x_loc>
@@ -549,7 +528,7 @@
         <weight>88</weight>
         <height>192</height>
         <shirt_num>12</shirt_num>
-        <total_influence>7</total_influence>
+        <total_influence>0</total_influence>
         <country><![CDATA[France]]></country>
         <profile_url><![CDATA[http://www.squawka.com/uncategorized/olivier-giroud]]></profile_url>
         <x_loc>85</x_loc>
@@ -591,7 +570,7 @@
         <weight>68</weight>
         <height>176</height>
         <shirt_num>14</shirt_num>
-        <total_influence>3</total_influence>
+        <total_influence>0</total_influence>
         <country><![CDATA[England]]></country>
         <profile_url><![CDATA[http://www.squawka.com/uncategorized/theo-walcott]]></profile_url>
         <x_loc>62</x_loc>
@@ -612,13 +591,13 @@
         <weight>70</weight>
         <height>180</height>
         <shirt_num>15</shirt_num>
-        <total_influence>36</total_influence>
+        <total_influence>0</total_influence>
         <country><![CDATA[England]]></country>
         <profile_url><![CDATA[http://www.squawka.com/uncategorized/alex-oxlade-chamberlain]]></profile_url>
         <x_loc>62</x_loc>
         <y_loc>22</y_loc>
         <state><![CDATA[playing]]></state>
-        <age>22</age>
+        <age>23</age>
         <bmi>21.6</bmi>
       </player>
       <player id="377" team_id="31">
@@ -633,7 +612,7 @@
         <weight>70</weight>
         <height>177</height>
         <shirt_num>16</shirt_num>
-        <total_influence>-14</total_influence>
+        <total_influence>0</total_influence>
         <country><![CDATA[Wales]]></country>
         <profile_url><![CDATA[http://www.squawka.com/uncategorized/aaron-ramsey]]></profile_url>
         <x_loc>40</x_loc>
@@ -675,7 +654,7 @@
         <weight>66</weight>
         <height>183</height>
         <shirt_num>21</shirt_num>
-        <total_influence>30</total_influence>
+        <total_influence>0</total_influence>
         <country><![CDATA[England]]></country>
         <profile_url><![CDATA[http://www.squawka.com/uncategorized/calum-chambers]]></profile_url>
         <x_loc>40</x_loc>
@@ -683,6 +662,27 @@
         <state><![CDATA[playing]]></state>
         <age>21</age>
         <bmi>19.7</bmi>
+      </player>
+      <player id="110" team_id="31">
+        <first_name><![CDATA[Mathieu]]></first_name>
+        <last_name><![CDATA[Debuchy]]></last_name>
+        <name><![CDATA[Mathieu Debuchy]]></name>
+        <surname><![CDATA[Debuchy]]></surname>
+        <team_name><![CDATA[Arsenal]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p110c31j24.jpg]]></photo>
+        <position><![CDATA[Defender]]></position>
+        <dob>28/07/1985</dob>
+        <weight>76</weight>
+        <height>177</height>
+        <shirt_num>24</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[France]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/uncategorized/mathieu-debuchy]]></profile_url>
+        <x_loc>0</x_loc>
+        <y_loc>0</y_loc>
+        <state><![CDATA[bench]]></state>
+        <age>31</age>
+        <bmi>24.3</bmi>
       </player>
       <player id="3832" team_id="31">
         <first_name><![CDATA[Héctor]]></first_name>
@@ -696,7 +696,7 @@
         <weight>74</weight>
         <height>177</height>
         <shirt_num>24</shirt_num>
-        <total_influence>34</total_influence>
+        <total_influence>0</total_influence>
         <country><![CDATA[Spain]]></country>
         <profile_url><![CDATA[http://www.squawka.com/uncategorized/hector-bellerin]]></profile_url>
         <x_loc>21</x_loc>
@@ -717,7 +717,7 @@
         <weight>71</weight>
         <height>178</height>
         <shirt_num>28</shirt_num>
-        <total_influence>-9</total_influence>
+        <total_influence>0</total_influence>
         <country><![CDATA[Costa Rica]]></country>
         <profile_url><![CDATA[http://www.squawka.com/uncategorized/joel-campbell]]></profile_url>
         <x_loc>0</x_loc>
@@ -738,7 +738,7 @@
         <weight>90</weight>
         <height>196</height>
         <shirt_num>33</shirt_num>
-        <total_influence>41</total_influence>
+        <total_influence>0</total_influence>
         <country><![CDATA[Czech Republic]]></country>
         <profile_url><![CDATA[http://www.squawka.com/uncategorized/petr-cech]]></profile_url>
         <x_loc>5</x_loc>
@@ -777,8 +777,8 @@
         <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p17913c31j54.jpg]]></photo>
         <position><![CDATA[Forward]]></position>
         <dob>17/01/1998</dob>
-        <weight>Unknown</weight>
-        <height>182</height>
+        <weight>75</weight>
+        <height>184</height>
         <shirt_num>54</shirt_num>
         <total_influence>0</total_influence>
         <country><![CDATA[France]]></country>
@@ -787,12 +787,11 @@
         <y_loc>0</y_loc>
         <state><![CDATA[bench]]></state>
         <age>18</age>
-        <bmi>0</bmi>
+        <bmi>22.2</bmi>
       </player>
     </players>
     <possession>
       <period id="1">
-        <play_direction team_id="299">right-to-left</play_direction>
         <play_direction team_id="31">left-to-right</play_direction>
         <time_slice name="0 - 5" id="1" scored_min="5">
           <team_possession team_id="31">56</team_possession>
@@ -1082,7 +1081,7 @@
               <weight>89</weight>
               <height>193</height>
               <shirt_num>1</shirt_num>
-              <total_influence>-12</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/artur-boruc</profile_url>
               <country>Poland</country>
               <position>Goalkeeper</position>
@@ -1099,7 +1098,7 @@
               <weight>79</weight>
               <height>183</height>
               <shirt_num>2</shirt_num>
-              <total_influence>11</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/simon-francis</profile_url>
               <country>England</country>
               <position>Defender</position>
@@ -1116,7 +1115,7 @@
               <weight>83</weight>
               <height>185</height>
               <shirt_num>3</shirt_num>
-              <total_influence>12</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/steve-cook</profile_url>
               <country>England</country>
               <position>Defender</position>
@@ -1133,7 +1132,7 @@
               <weight>71</weight>
               <height>178</height>
               <shirt_num>4</shirt_num>
-              <total_influence>-14</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/dan-gosling</profile_url>
               <country>England</country>
               <position>Midfielder</position>
@@ -1150,7 +1149,7 @@
               <weight>73</weight>
               <height>180</height>
               <shirt_num>6</shirt_num>
-              <total_influence>32</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/andrew-surman</profile_url>
               <country>England</country>
               <position>Midfielder</position>
@@ -1167,7 +1166,7 @@
               <weight>72</weight>
               <height>180</height>
               <shirt_num>7</shirt_num>
-              <total_influence>-4</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/marc-pugh</profile_url>
               <country>England</country>
               <position>Midfielder</position>
@@ -1184,7 +1183,7 @@
               <weight>73</weight>
               <height>175</height>
               <shirt_num>8</shirt_num>
-              <total_influence>45</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/harry-arter</profile_url>
               <country>Republic of Ireland</country>
               <position>Midfielder</position>
@@ -1209,6 +1208,23 @@
               <x_loc>0</x_loc>
               <y_loc>0</y_loc>
             </ts_player>
+            <ts_player id="11722" team_id="299">
+              <first_name>Lee</first_name>
+              <name>Lee Tomlin</name>
+              <team_name>B'mouth</team_name>
+              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p11722c299j9.jpg</photo>
+              <dob>12/01/1989</dob>
+              <weight>74</weight>
+              <height>180</height>
+              <shirt_num>9</shirt_num>
+              <total_influence>0</total_influence>
+              <profile_url>http://www.squawka.com/players/lee-tomlin/stats</profile_url>
+              <country>England</country>
+              <position>Midfielder</position>
+              <state>bench</state>
+              <x_loc>0</x_loc>
+              <y_loc>0</y_loc>
+            </ts_player>
             <ts_player id="10166" team_id="299">
               <first_name>Charlie</first_name>
               <name>Charlie Daniels</name>
@@ -1218,7 +1234,7 @@
               <weight>75</weight>
               <height>175</height>
               <shirt_num>11</shirt_num>
-              <total_influence>15</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/charlie-daniels</profile_url>
               <country>England</country>
               <position>Defender</position>
@@ -1235,7 +1251,7 @@
               <weight>74</weight>
               <height>178</height>
               <shirt_num>15</shirt_num>
-              <total_influence>23</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/adam-smith</profile_url>
               <country>England</country>
               <position>Defender</position>
@@ -1252,7 +1268,7 @@
               <weight>83</weight>
               <height>185</height>
               <shirt_num>17</shirt_num>
-              <total_influence>-23</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/joshua-king</profile_url>
               <country>Norway</country>
               <position>Forward</position>
@@ -1269,7 +1285,7 @@
               <weight>79</weight>
               <height>180</height>
               <shirt_num>19</shirt_num>
-              <total_influence>3</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/junior-stanislas</profile_url>
               <country>England</country>
               <position>Midfielder</position>
@@ -1290,23 +1306,6 @@
               <profile_url>http://www.squawka.com/uncategorized/adam-federici</profile_url>
               <country>Australia</country>
               <position>Goalkeeper</position>
-              <state>bench</state>
-              <x_loc>0</x_loc>
-              <y_loc>0</y_loc>
-            </ts_player>
-            <ts_player id="11722" team_id="299">
-              <first_name>Lee</first_name>
-              <name>Lee Tomlin</name>
-              <team_name>B'mouth</team_name>
-              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p11722c299j24.jpg</photo>
-              <dob>12/01/1989</dob>
-              <weight>74</weight>
-              <height>180</height>
-              <shirt_num>24</shirt_num>
-              <total_influence>0</total_influence>
-              <profile_url>http://www.squawka.com/players/lee-tomlin/stats</profile_url>
-              <country>England</country>
-              <position>Forward</position>
               <state>bench</state>
               <x_loc>0</x_loc>
               <y_loc>0</y_loc>
@@ -1337,7 +1336,7 @@
               <weight>80</weight>
               <height>183</height>
               <shirt_num>27</shirt_num>
-              <total_influence>6</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/glenn-murray</profile_url>
               <country>England</country>
               <position>Forward</position>
@@ -1354,7 +1353,7 @@
               <weight>70</weight>
               <height>173</height>
               <shirt_num>30</shirt_num>
-              <total_influence>12</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/matt-ritchie</profile_url>
               <country>Scotland</country>
               <position>Midfielder</position>
@@ -1371,27 +1370,10 @@
               <weight>69</weight>
               <height>173</height>
               <shirt_num>32</shirt_num>
-              <total_influence>-13</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/eunan-okane</profile_url>
               <country>Republic of Ireland</country>
               <position>Midfielder</position>
-              <state>bench</state>
-              <x_loc>0</x_loc>
-              <y_loc>0</y_loc>
-            </ts_player>
-            <ts_player id="110" team_id="31">
-              <first_name>Mathieu</first_name>
-              <name>Mathieu Debuchy</name>
-              <team_name>Arsenal</team_name>
-              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p110c31j2.jpg</photo>
-              <dob>28/07/1985</dob>
-              <weight>76</weight>
-              <height>177</height>
-              <shirt_num>2</shirt_num>
-              <total_influence>0</total_influence>
-              <profile_url>http://www.squawka.com/uncategorized/mathieu-debuchy</profile_url>
-              <country>France</country>
-              <position>Defender</position>
               <state>bench</state>
               <x_loc>0</x_loc>
               <y_loc>0</y_loc>
@@ -1405,7 +1387,7 @@
               <weight>70</weight>
               <height>178</height>
               <shirt_num>3</shirt_num>
-              <total_influence>23</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/kieran-gibbs</profile_url>
               <country>England</country>
               <position>Defender</position>
@@ -1422,7 +1404,7 @@
               <weight>90</weight>
               <height>198</height>
               <shirt_num>4</shirt_num>
-              <total_influence>39</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/per-mertesacker</profile_url>
               <country>Germany</country>
               <position>Defender</position>
@@ -1439,7 +1421,7 @@
               <weight>72</weight>
               <height>185</height>
               <shirt_num>5</shirt_num>
-              <total_influence>100</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/gabriel-paulista</profile_url>
               <country>Brazil</country>
               <position>Defender</position>
@@ -1473,7 +1455,7 @@
               <weight>76</weight>
               <height>183</height>
               <shirt_num>11</shirt_num>
-              <total_influence>74</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/mesut-ozil</profile_url>
               <country>Germany</country>
               <position>Midfielder</position>
@@ -1490,7 +1472,7 @@
               <weight>88</weight>
               <height>192</height>
               <shirt_num>12</shirt_num>
-              <total_influence>7</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/olivier-giroud</profile_url>
               <country>France</country>
               <position>Forward</position>
@@ -1524,7 +1506,7 @@
               <weight>68</weight>
               <height>176</height>
               <shirt_num>14</shirt_num>
-              <total_influence>3</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/theo-walcott</profile_url>
               <country>England</country>
               <position>Forward</position>
@@ -1541,7 +1523,7 @@
               <weight>70</weight>
               <height>180</height>
               <shirt_num>15</shirt_num>
-              <total_influence>36</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/alex-oxlade-chamberlain</profile_url>
               <country>England</country>
               <position>Midfielder</position>
@@ -1558,7 +1540,7 @@
               <weight>70</weight>
               <height>177</height>
               <shirt_num>16</shirt_num>
-              <total_influence>-14</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/aaron-ramsey</profile_url>
               <country>Wales</country>
               <position>Midfielder</position>
@@ -1592,13 +1574,30 @@
               <weight>66</weight>
               <height>183</height>
               <shirt_num>21</shirt_num>
-              <total_influence>30</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/calum-chambers</profile_url>
               <country>England</country>
               <position>Defender</position>
               <state>playing</state>
               <x_loc>40</x_loc>
               <y_loc>31</y_loc>
+            </ts_player>
+            <ts_player id="110" team_id="31">
+              <first_name>Mathieu</first_name>
+              <name>Mathieu Debuchy</name>
+              <team_name>Arsenal</team_name>
+              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p110c31j24.jpg</photo>
+              <dob>28/07/1985</dob>
+              <weight>76</weight>
+              <height>177</height>
+              <shirt_num>24</shirt_num>
+              <total_influence>0</total_influence>
+              <profile_url>http://www.squawka.com/uncategorized/mathieu-debuchy</profile_url>
+              <country>France</country>
+              <position>Defender</position>
+              <state>bench</state>
+              <x_loc>0</x_loc>
+              <y_loc>0</y_loc>
             </ts_player>
             <ts_player id="3832" team_id="31">
               <first_name>Héctor</first_name>
@@ -1609,7 +1608,7 @@
               <weight>74</weight>
               <height>177</height>
               <shirt_num>24</shirt_num>
-              <total_influence>34</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/hector-bellerin</profile_url>
               <country>Spain</country>
               <position>Defender</position>
@@ -1626,7 +1625,7 @@
               <weight>71</weight>
               <height>178</height>
               <shirt_num>28</shirt_num>
-              <total_influence>-9</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/joel-campbell</profile_url>
               <country>Costa Rica</country>
               <position>Forward</position>
@@ -1643,7 +1642,7 @@
               <weight>90</weight>
               <height>196</height>
               <shirt_num>33</shirt_num>
-              <total_influence>41</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/petr-cech</profile_url>
               <country>Czech Republic</country>
               <position>Goalkeeper</position>
@@ -1674,8 +1673,8 @@
               <team_name>Arsenal</team_name>
               <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p17913c31j54.jpg</photo>
               <dob>17/01/1998</dob>
-              <weight>Unknown</weight>
-              <height>182</height>
+              <weight>75</weight>
+              <height>184</height>
               <shirt_num>54</shirt_num>
               <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/players/jeff-reine-adelaide/stats</profile_url>
@@ -1784,7 +1783,7 @@
               <weight>89</weight>
               <height>193</height>
               <shirt_num>1</shirt_num>
-              <total_influence>-12</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/artur-boruc</profile_url>
               <country>Poland</country>
               <position>Goalkeeper</position>
@@ -1801,7 +1800,7 @@
               <weight>79</weight>
               <height>183</height>
               <shirt_num>2</shirt_num>
-              <total_influence>11</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/simon-francis</profile_url>
               <country>England</country>
               <position>Defender</position>
@@ -1818,7 +1817,7 @@
               <weight>83</weight>
               <height>185</height>
               <shirt_num>3</shirt_num>
-              <total_influence>12</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/steve-cook</profile_url>
               <country>England</country>
               <position>Defender</position>
@@ -1835,7 +1834,7 @@
               <weight>71</weight>
               <height>178</height>
               <shirt_num>4</shirt_num>
-              <total_influence>-14</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/dan-gosling</profile_url>
               <country>England</country>
               <position>Midfielder</position>
@@ -1852,7 +1851,7 @@
               <weight>73</weight>
               <height>180</height>
               <shirt_num>6</shirt_num>
-              <total_influence>32</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/andrew-surman</profile_url>
               <country>England</country>
               <position>Midfielder</position>
@@ -1869,7 +1868,7 @@
               <weight>72</weight>
               <height>180</height>
               <shirt_num>7</shirt_num>
-              <total_influence>-4</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/marc-pugh</profile_url>
               <country>England</country>
               <position>Midfielder</position>
@@ -1886,7 +1885,7 @@
               <weight>73</weight>
               <height>175</height>
               <shirt_num>8</shirt_num>
-              <total_influence>45</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/harry-arter</profile_url>
               <country>Republic of Ireland</country>
               <position>Midfielder</position>
@@ -1911,6 +1910,23 @@
               <x_loc>0</x_loc>
               <y_loc>0</y_loc>
             </ts_player>
+            <ts_player id="11722" team_id="299">
+              <first_name>Lee</first_name>
+              <name>Lee Tomlin</name>
+              <team_name>B'mouth</team_name>
+              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p11722c299j9.jpg</photo>
+              <dob>12/01/1989</dob>
+              <weight>74</weight>
+              <height>180</height>
+              <shirt_num>9</shirt_num>
+              <total_influence>0</total_influence>
+              <profile_url>http://www.squawka.com/players/lee-tomlin/stats</profile_url>
+              <country>England</country>
+              <position>Midfielder</position>
+              <state>bench</state>
+              <x_loc>0</x_loc>
+              <y_loc>0</y_loc>
+            </ts_player>
             <ts_player id="10166" team_id="299">
               <first_name>Charlie</first_name>
               <name>Charlie Daniels</name>
@@ -1920,7 +1936,7 @@
               <weight>75</weight>
               <height>175</height>
               <shirt_num>11</shirt_num>
-              <total_influence>15</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/charlie-daniels</profile_url>
               <country>England</country>
               <position>Defender</position>
@@ -1937,7 +1953,7 @@
               <weight>74</weight>
               <height>178</height>
               <shirt_num>15</shirt_num>
-              <total_influence>23</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/adam-smith</profile_url>
               <country>England</country>
               <position>Defender</position>
@@ -1954,7 +1970,7 @@
               <weight>83</weight>
               <height>185</height>
               <shirt_num>17</shirt_num>
-              <total_influence>-23</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/joshua-king</profile_url>
               <country>Norway</country>
               <position>Forward</position>
@@ -1971,7 +1987,7 @@
               <weight>79</weight>
               <height>180</height>
               <shirt_num>19</shirt_num>
-              <total_influence>3</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/junior-stanislas</profile_url>
               <country>England</country>
               <position>Midfielder</position>
@@ -1992,23 +2008,6 @@
               <profile_url>http://www.squawka.com/uncategorized/adam-federici</profile_url>
               <country>Australia</country>
               <position>Goalkeeper</position>
-              <state>bench</state>
-              <x_loc>0</x_loc>
-              <y_loc>0</y_loc>
-            </ts_player>
-            <ts_player id="11722" team_id="299">
-              <first_name>Lee</first_name>
-              <name>Lee Tomlin</name>
-              <team_name>B'mouth</team_name>
-              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p11722c299j24.jpg</photo>
-              <dob>12/01/1989</dob>
-              <weight>74</weight>
-              <height>180</height>
-              <shirt_num>24</shirt_num>
-              <total_influence>0</total_influence>
-              <profile_url>http://www.squawka.com/players/lee-tomlin/stats</profile_url>
-              <country>England</country>
-              <position>Forward</position>
               <state>bench</state>
               <x_loc>0</x_loc>
               <y_loc>0</y_loc>
@@ -2039,7 +2038,7 @@
               <weight>80</weight>
               <height>183</height>
               <shirt_num>27</shirt_num>
-              <total_influence>6</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/glenn-murray</profile_url>
               <country>England</country>
               <position>Forward</position>
@@ -2056,7 +2055,7 @@
               <weight>70</weight>
               <height>173</height>
               <shirt_num>30</shirt_num>
-              <total_influence>12</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/matt-ritchie</profile_url>
               <country>Scotland</country>
               <position>Midfielder</position>
@@ -2073,30 +2072,13 @@
               <weight>69</weight>
               <height>173</height>
               <shirt_num>32</shirt_num>
-              <total_influence>-13</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/eunan-okane</profile_url>
               <country>Republic of Ireland</country>
               <position>Midfielder</position>
               <state>playing</state>
               <x_loc>60</x_loc>
               <y_loc>40</y_loc>
-            </ts_player>
-            <ts_player id="110" team_id="31">
-              <first_name>Mathieu</first_name>
-              <name>Mathieu Debuchy</name>
-              <team_name>Arsenal</team_name>
-              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p110c31j2.jpg</photo>
-              <dob>28/07/1985</dob>
-              <weight>76</weight>
-              <height>177</height>
-              <shirt_num>2</shirt_num>
-              <total_influence>0</total_influence>
-              <profile_url>http://www.squawka.com/uncategorized/mathieu-debuchy</profile_url>
-              <country>France</country>
-              <position>Defender</position>
-              <state>bench</state>
-              <x_loc>0</x_loc>
-              <y_loc>0</y_loc>
             </ts_player>
             <ts_player id="374" team_id="31">
               <first_name>Kieran</first_name>
@@ -2107,7 +2089,7 @@
               <weight>70</weight>
               <height>178</height>
               <shirt_num>3</shirt_num>
-              <total_influence>23</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/kieran-gibbs</profile_url>
               <country>England</country>
               <position>Defender</position>
@@ -2124,7 +2106,7 @@
               <weight>90</weight>
               <height>198</height>
               <shirt_num>4</shirt_num>
-              <total_influence>39</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/per-mertesacker</profile_url>
               <country>Germany</country>
               <position>Defender</position>
@@ -2141,7 +2123,7 @@
               <weight>72</weight>
               <height>185</height>
               <shirt_num>5</shirt_num>
-              <total_influence>100</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/gabriel-paulista</profile_url>
               <country>Brazil</country>
               <position>Defender</position>
@@ -2175,7 +2157,7 @@
               <weight>76</weight>
               <height>183</height>
               <shirt_num>11</shirt_num>
-              <total_influence>74</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/mesut-ozil</profile_url>
               <country>Germany</country>
               <position>Midfielder</position>
@@ -2192,7 +2174,7 @@
               <weight>88</weight>
               <height>192</height>
               <shirt_num>12</shirt_num>
-              <total_influence>7</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/olivier-giroud</profile_url>
               <country>France</country>
               <position>Forward</position>
@@ -2226,7 +2208,7 @@
               <weight>68</weight>
               <height>176</height>
               <shirt_num>14</shirt_num>
-              <total_influence>3</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/theo-walcott</profile_url>
               <country>England</country>
               <position>Forward</position>
@@ -2243,7 +2225,7 @@
               <weight>70</weight>
               <height>180</height>
               <shirt_num>15</shirt_num>
-              <total_influence>36</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/alex-oxlade-chamberlain</profile_url>
               <country>England</country>
               <position>Midfielder</position>
@@ -2260,7 +2242,7 @@
               <weight>70</weight>
               <height>177</height>
               <shirt_num>16</shirt_num>
-              <total_influence>-14</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/aaron-ramsey</profile_url>
               <country>Wales</country>
               <position>Midfielder</position>
@@ -2294,13 +2276,30 @@
               <weight>66</weight>
               <height>183</height>
               <shirt_num>21</shirt_num>
-              <total_influence>30</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/calum-chambers</profile_url>
               <country>England</country>
               <position>Defender</position>
               <state>playing</state>
               <x_loc>40</x_loc>
               <y_loc>31</y_loc>
+            </ts_player>
+            <ts_player id="110" team_id="31">
+              <first_name>Mathieu</first_name>
+              <name>Mathieu Debuchy</name>
+              <team_name>Arsenal</team_name>
+              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p110c31j24.jpg</photo>
+              <dob>28/07/1985</dob>
+              <weight>76</weight>
+              <height>177</height>
+              <shirt_num>24</shirt_num>
+              <total_influence>0</total_influence>
+              <profile_url>http://www.squawka.com/uncategorized/mathieu-debuchy</profile_url>
+              <country>France</country>
+              <position>Defender</position>
+              <state>bench</state>
+              <x_loc>0</x_loc>
+              <y_loc>0</y_loc>
             </ts_player>
             <ts_player id="3832" team_id="31">
               <first_name>Héctor</first_name>
@@ -2311,7 +2310,7 @@
               <weight>74</weight>
               <height>177</height>
               <shirt_num>24</shirt_num>
-              <total_influence>34</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/hector-bellerin</profile_url>
               <country>Spain</country>
               <position>Defender</position>
@@ -2328,7 +2327,7 @@
               <weight>71</weight>
               <height>178</height>
               <shirt_num>28</shirt_num>
-              <total_influence>-9</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/joel-campbell</profile_url>
               <country>Costa Rica</country>
               <position>Forward</position>
@@ -2345,7 +2344,7 @@
               <weight>90</weight>
               <height>196</height>
               <shirt_num>33</shirt_num>
-              <total_influence>41</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/petr-cech</profile_url>
               <country>Czech Republic</country>
               <position>Goalkeeper</position>
@@ -2376,8 +2375,8 @@
               <team_name>Arsenal</team_name>
               <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p17913c31j54.jpg</photo>
               <dob>17/01/1998</dob>
-              <weight>Unknown</weight>
-              <height>182</height>
+              <weight>75</weight>
+              <height>184</height>
               <shirt_num>54</shirt_num>
               <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/players/jeff-reine-adelaide/stats</profile_url>
@@ -2493,7 +2492,7 @@
               <weight>89</weight>
               <height>193</height>
               <shirt_num>1</shirt_num>
-              <total_influence>-12</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/artur-boruc</profile_url>
               <country>Poland</country>
               <position>Goalkeeper</position>
@@ -2510,7 +2509,7 @@
               <weight>79</weight>
               <height>183</height>
               <shirt_num>2</shirt_num>
-              <total_influence>11</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/simon-francis</profile_url>
               <country>England</country>
               <position>Defender</position>
@@ -2527,7 +2526,7 @@
               <weight>83</weight>
               <height>185</height>
               <shirt_num>3</shirt_num>
-              <total_influence>12</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/steve-cook</profile_url>
               <country>England</country>
               <position>Defender</position>
@@ -2544,7 +2543,7 @@
               <weight>71</weight>
               <height>178</height>
               <shirt_num>4</shirt_num>
-              <total_influence>-14</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/dan-gosling</profile_url>
               <country>England</country>
               <position>Midfielder</position>
@@ -2561,7 +2560,7 @@
               <weight>73</weight>
               <height>180</height>
               <shirt_num>6</shirt_num>
-              <total_influence>32</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/andrew-surman</profile_url>
               <country>England</country>
               <position>Midfielder</position>
@@ -2578,7 +2577,7 @@
               <weight>72</weight>
               <height>180</height>
               <shirt_num>7</shirt_num>
-              <total_influence>-4</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/marc-pugh</profile_url>
               <country>England</country>
               <position>Midfielder</position>
@@ -2595,7 +2594,7 @@
               <weight>73</weight>
               <height>175</height>
               <shirt_num>8</shirt_num>
-              <total_influence>45</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/harry-arter</profile_url>
               <country>Republic of Ireland</country>
               <position>Midfielder</position>
@@ -2620,6 +2619,23 @@
               <x_loc>0</x_loc>
               <y_loc>0</y_loc>
             </ts_player>
+            <ts_player id="11722" team_id="299">
+              <first_name>Lee</first_name>
+              <name>Lee Tomlin</name>
+              <team_name>B'mouth</team_name>
+              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p11722c299j9.jpg</photo>
+              <dob>12/01/1989</dob>
+              <weight>74</weight>
+              <height>180</height>
+              <shirt_num>9</shirt_num>
+              <total_influence>0</total_influence>
+              <profile_url>http://www.squawka.com/players/lee-tomlin/stats</profile_url>
+              <country>England</country>
+              <position>Midfielder</position>
+              <state>bench</state>
+              <x_loc>0</x_loc>
+              <y_loc>0</y_loc>
+            </ts_player>
             <ts_player id="10166" team_id="299">
               <first_name>Charlie</first_name>
               <name>Charlie Daniels</name>
@@ -2629,7 +2645,7 @@
               <weight>75</weight>
               <height>175</height>
               <shirt_num>11</shirt_num>
-              <total_influence>15</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/charlie-daniels</profile_url>
               <country>England</country>
               <position>Defender</position>
@@ -2646,7 +2662,7 @@
               <weight>74</weight>
               <height>178</height>
               <shirt_num>15</shirt_num>
-              <total_influence>23</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/adam-smith</profile_url>
               <country>England</country>
               <position>Defender</position>
@@ -2663,7 +2679,7 @@
               <weight>83</weight>
               <height>185</height>
               <shirt_num>17</shirt_num>
-              <total_influence>-23</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/joshua-king</profile_url>
               <country>Norway</country>
               <position>Forward</position>
@@ -2680,7 +2696,7 @@
               <weight>79</weight>
               <height>180</height>
               <shirt_num>19</shirt_num>
-              <total_influence>3</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/junior-stanislas</profile_url>
               <country>England</country>
               <position>Midfielder</position>
@@ -2701,23 +2717,6 @@
               <profile_url>http://www.squawka.com/uncategorized/adam-federici</profile_url>
               <country>Australia</country>
               <position>Goalkeeper</position>
-              <state>bench</state>
-              <x_loc>0</x_loc>
-              <y_loc>0</y_loc>
-            </ts_player>
-            <ts_player id="11722" team_id="299">
-              <first_name>Lee</first_name>
-              <name>Lee Tomlin</name>
-              <team_name>B'mouth</team_name>
-              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p11722c299j24.jpg</photo>
-              <dob>12/01/1989</dob>
-              <weight>74</weight>
-              <height>180</height>
-              <shirt_num>24</shirt_num>
-              <total_influence>0</total_influence>
-              <profile_url>http://www.squawka.com/players/lee-tomlin/stats</profile_url>
-              <country>England</country>
-              <position>Forward</position>
               <state>bench</state>
               <x_loc>0</x_loc>
               <y_loc>0</y_loc>
@@ -2748,7 +2747,7 @@
               <weight>80</weight>
               <height>183</height>
               <shirt_num>27</shirt_num>
-              <total_influence>6</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/glenn-murray</profile_url>
               <country>England</country>
               <position>Forward</position>
@@ -2765,7 +2764,7 @@
               <weight>70</weight>
               <height>173</height>
               <shirt_num>30</shirt_num>
-              <total_influence>12</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/matt-ritchie</profile_url>
               <country>Scotland</country>
               <position>Midfielder</position>
@@ -2782,30 +2781,13 @@
               <weight>69</weight>
               <height>173</height>
               <shirt_num>32</shirt_num>
-              <total_influence>-13</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/eunan-okane</profile_url>
               <country>Republic of Ireland</country>
               <position>Midfielder</position>
               <state>playing</state>
               <x_loc>60</x_loc>
               <y_loc>40</y_loc>
-            </ts_player>
-            <ts_player id="110" team_id="31">
-              <first_name>Mathieu</first_name>
-              <name>Mathieu Debuchy</name>
-              <team_name>Arsenal</team_name>
-              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p110c31j2.jpg</photo>
-              <dob>28/07/1985</dob>
-              <weight>76</weight>
-              <height>177</height>
-              <shirt_num>2</shirt_num>
-              <total_influence>0</total_influence>
-              <profile_url>http://www.squawka.com/uncategorized/mathieu-debuchy</profile_url>
-              <country>France</country>
-              <position>Defender</position>
-              <state>bench</state>
-              <x_loc>0</x_loc>
-              <y_loc>0</y_loc>
             </ts_player>
             <ts_player id="374" team_id="31">
               <first_name>Kieran</first_name>
@@ -2816,7 +2798,7 @@
               <weight>70</weight>
               <height>178</height>
               <shirt_num>3</shirt_num>
-              <total_influence>23</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/kieran-gibbs</profile_url>
               <country>England</country>
               <position>Defender</position>
@@ -2833,7 +2815,7 @@
               <weight>90</weight>
               <height>198</height>
               <shirt_num>4</shirt_num>
-              <total_influence>39</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/per-mertesacker</profile_url>
               <country>Germany</country>
               <position>Defender</position>
@@ -2850,7 +2832,7 @@
               <weight>72</weight>
               <height>185</height>
               <shirt_num>5</shirt_num>
-              <total_influence>100</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/gabriel-paulista</profile_url>
               <country>Brazil</country>
               <position>Defender</position>
@@ -2884,7 +2866,7 @@
               <weight>76</weight>
               <height>183</height>
               <shirt_num>11</shirt_num>
-              <total_influence>74</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/mesut-ozil</profile_url>
               <country>Germany</country>
               <position>Midfielder</position>
@@ -2901,7 +2883,7 @@
               <weight>88</weight>
               <height>192</height>
               <shirt_num>12</shirt_num>
-              <total_influence>7</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/olivier-giroud</profile_url>
               <country>France</country>
               <position>Forward</position>
@@ -2935,7 +2917,7 @@
               <weight>68</weight>
               <height>176</height>
               <shirt_num>14</shirt_num>
-              <total_influence>3</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/theo-walcott</profile_url>
               <country>England</country>
               <position>Forward</position>
@@ -2952,7 +2934,7 @@
               <weight>70</weight>
               <height>180</height>
               <shirt_num>15</shirt_num>
-              <total_influence>36</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/alex-oxlade-chamberlain</profile_url>
               <country>England</country>
               <position>Midfielder</position>
@@ -2969,7 +2951,7 @@
               <weight>70</weight>
               <height>177</height>
               <shirt_num>16</shirt_num>
-              <total_influence>-14</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/aaron-ramsey</profile_url>
               <country>Wales</country>
               <position>Midfielder</position>
@@ -3003,13 +2985,30 @@
               <weight>66</weight>
               <height>183</height>
               <shirt_num>21</shirt_num>
-              <total_influence>30</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/calum-chambers</profile_url>
               <country>England</country>
               <position>Defender</position>
               <state>playing</state>
               <x_loc>40</x_loc>
               <y_loc>31</y_loc>
+            </ts_player>
+            <ts_player id="110" team_id="31">
+              <first_name>Mathieu</first_name>
+              <name>Mathieu Debuchy</name>
+              <team_name>Arsenal</team_name>
+              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p110c31j24.jpg</photo>
+              <dob>28/07/1985</dob>
+              <weight>76</weight>
+              <height>177</height>
+              <shirt_num>24</shirt_num>
+              <total_influence>0</total_influence>
+              <profile_url>http://www.squawka.com/uncategorized/mathieu-debuchy</profile_url>
+              <country>France</country>
+              <position>Defender</position>
+              <state>bench</state>
+              <x_loc>0</x_loc>
+              <y_loc>0</y_loc>
             </ts_player>
             <ts_player id="3832" team_id="31">
               <first_name>Héctor</first_name>
@@ -3020,7 +3019,7 @@
               <weight>74</weight>
               <height>177</height>
               <shirt_num>24</shirt_num>
-              <total_influence>34</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/hector-bellerin</profile_url>
               <country>Spain</country>
               <position>Defender</position>
@@ -3037,7 +3036,7 @@
               <weight>71</weight>
               <height>178</height>
               <shirt_num>28</shirt_num>
-              <total_influence>-9</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/joel-campbell</profile_url>
               <country>Costa Rica</country>
               <position>Forward</position>
@@ -3054,7 +3053,7 @@
               <weight>90</weight>
               <height>196</height>
               <shirt_num>33</shirt_num>
-              <total_influence>41</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/petr-cech</profile_url>
               <country>Czech Republic</country>
               <position>Goalkeeper</position>
@@ -3085,8 +3084,8 @@
               <team_name>Arsenal</team_name>
               <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p17913c31j54.jpg</photo>
               <dob>17/01/1998</dob>
-              <weight>Unknown</weight>
-              <height>182</height>
+              <weight>75</weight>
+              <height>184</height>
               <shirt_num>54</shirt_num>
               <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/players/jeff-reine-adelaide/stats</profile_url>
@@ -3138,7 +3137,7 @@
               <weight>89</weight>
               <height>193</height>
               <shirt_num>1</shirt_num>
-              <total_influence>-12</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/artur-boruc</profile_url>
               <country>Poland</country>
               <position>Goalkeeper</position>
@@ -3155,7 +3154,7 @@
               <weight>79</weight>
               <height>183</height>
               <shirt_num>2</shirt_num>
-              <total_influence>11</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/simon-francis</profile_url>
               <country>England</country>
               <position>Defender</position>
@@ -3172,7 +3171,7 @@
               <weight>83</weight>
               <height>185</height>
               <shirt_num>3</shirt_num>
-              <total_influence>12</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/steve-cook</profile_url>
               <country>England</country>
               <position>Defender</position>
@@ -3189,7 +3188,7 @@
               <weight>71</weight>
               <height>178</height>
               <shirt_num>4</shirt_num>
-              <total_influence>-14</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/dan-gosling</profile_url>
               <country>England</country>
               <position>Midfielder</position>
@@ -3206,7 +3205,7 @@
               <weight>73</weight>
               <height>180</height>
               <shirt_num>6</shirt_num>
-              <total_influence>32</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/andrew-surman</profile_url>
               <country>England</country>
               <position>Midfielder</position>
@@ -3223,7 +3222,7 @@
               <weight>72</weight>
               <height>180</height>
               <shirt_num>7</shirt_num>
-              <total_influence>-4</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/marc-pugh</profile_url>
               <country>England</country>
               <position>Midfielder</position>
@@ -3240,7 +3239,7 @@
               <weight>73</weight>
               <height>175</height>
               <shirt_num>8</shirt_num>
-              <total_influence>45</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/harry-arter</profile_url>
               <country>Republic of Ireland</country>
               <position>Midfielder</position>
@@ -3265,6 +3264,23 @@
               <x_loc>0</x_loc>
               <y_loc>0</y_loc>
             </ts_player>
+            <ts_player id="11722" team_id="299">
+              <first_name>Lee</first_name>
+              <name>Lee Tomlin</name>
+              <team_name>B'mouth</team_name>
+              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p11722c299j9.jpg</photo>
+              <dob>12/01/1989</dob>
+              <weight>74</weight>
+              <height>180</height>
+              <shirt_num>9</shirt_num>
+              <total_influence>0</total_influence>
+              <profile_url>http://www.squawka.com/players/lee-tomlin/stats</profile_url>
+              <country>England</country>
+              <position>Midfielder</position>
+              <state>bench</state>
+              <x_loc>0</x_loc>
+              <y_loc>0</y_loc>
+            </ts_player>
             <ts_player id="10166" team_id="299">
               <first_name>Charlie</first_name>
               <name>Charlie Daniels</name>
@@ -3274,7 +3290,7 @@
               <weight>75</weight>
               <height>175</height>
               <shirt_num>11</shirt_num>
-              <total_influence>15</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/charlie-daniels</profile_url>
               <country>England</country>
               <position>Defender</position>
@@ -3291,7 +3307,7 @@
               <weight>74</weight>
               <height>178</height>
               <shirt_num>15</shirt_num>
-              <total_influence>23</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/adam-smith</profile_url>
               <country>England</country>
               <position>Defender</position>
@@ -3308,7 +3324,7 @@
               <weight>83</weight>
               <height>185</height>
               <shirt_num>17</shirt_num>
-              <total_influence>-23</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/joshua-king</profile_url>
               <country>Norway</country>
               <position>Forward</position>
@@ -3325,7 +3341,7 @@
               <weight>79</weight>
               <height>180</height>
               <shirt_num>19</shirt_num>
-              <total_influence>3</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/junior-stanislas</profile_url>
               <country>England</country>
               <position>Midfielder</position>
@@ -3346,23 +3362,6 @@
               <profile_url>http://www.squawka.com/uncategorized/adam-federici</profile_url>
               <country>Australia</country>
               <position>Goalkeeper</position>
-              <state>bench</state>
-              <x_loc>0</x_loc>
-              <y_loc>0</y_loc>
-            </ts_player>
-            <ts_player id="11722" team_id="299">
-              <first_name>Lee</first_name>
-              <name>Lee Tomlin</name>
-              <team_name>B'mouth</team_name>
-              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p11722c299j24.jpg</photo>
-              <dob>12/01/1989</dob>
-              <weight>74</weight>
-              <height>180</height>
-              <shirt_num>24</shirt_num>
-              <total_influence>0</total_influence>
-              <profile_url>http://www.squawka.com/players/lee-tomlin/stats</profile_url>
-              <country>England</country>
-              <position>Forward</position>
               <state>bench</state>
               <x_loc>0</x_loc>
               <y_loc>0</y_loc>
@@ -3393,7 +3392,7 @@
               <weight>80</weight>
               <height>183</height>
               <shirt_num>27</shirt_num>
-              <total_influence>6</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/glenn-murray</profile_url>
               <country>England</country>
               <position>Forward</position>
@@ -3410,7 +3409,7 @@
               <weight>70</weight>
               <height>173</height>
               <shirt_num>30</shirt_num>
-              <total_influence>12</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/matt-ritchie</profile_url>
               <country>Scotland</country>
               <position>Midfielder</position>
@@ -3427,30 +3426,13 @@
               <weight>69</weight>
               <height>173</height>
               <shirt_num>32</shirt_num>
-              <total_influence>-13</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/eunan-okane</profile_url>
               <country>Republic of Ireland</country>
               <position>Midfielder</position>
               <state>playing</state>
               <x_loc>60</x_loc>
               <y_loc>40</y_loc>
-            </ts_player>
-            <ts_player id="110" team_id="31">
-              <first_name>Mathieu</first_name>
-              <name>Mathieu Debuchy</name>
-              <team_name>Arsenal</team_name>
-              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p110c31j2.jpg</photo>
-              <dob>28/07/1985</dob>
-              <weight>76</weight>
-              <height>177</height>
-              <shirt_num>2</shirt_num>
-              <total_influence>0</total_influence>
-              <profile_url>http://www.squawka.com/uncategorized/mathieu-debuchy</profile_url>
-              <country>France</country>
-              <position>Bench</position>
-              <state>bench</state>
-              <x_loc>0</x_loc>
-              <y_loc>0</y_loc>
             </ts_player>
             <ts_player id="374" team_id="31">
               <first_name>Kieran</first_name>
@@ -3461,7 +3443,7 @@
               <weight>70</weight>
               <height>178</height>
               <shirt_num>3</shirt_num>
-              <total_influence>23</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/kieran-gibbs</profile_url>
               <country>England</country>
               <position>Bench</position>
@@ -3478,7 +3460,7 @@
               <weight>90</weight>
               <height>198</height>
               <shirt_num>4</shirt_num>
-              <total_influence>39</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/per-mertesacker</profile_url>
               <country>Germany</country>
               <position>Defender</position>
@@ -3495,7 +3477,7 @@
               <weight>72</weight>
               <height>185</height>
               <shirt_num>5</shirt_num>
-              <total_influence>100</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/gabriel-paulista</profile_url>
               <country>Brazil</country>
               <position>Defender</position>
@@ -3529,7 +3511,7 @@
               <weight>76</weight>
               <height>183</height>
               <shirt_num>11</shirt_num>
-              <total_influence>74</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/mesut-ozil</profile_url>
               <country>Germany</country>
               <position>Midfielder</position>
@@ -3546,7 +3528,7 @@
               <weight>88</weight>
               <height>192</height>
               <shirt_num>12</shirt_num>
-              <total_influence>7</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/olivier-giroud</profile_url>
               <country>France</country>
               <position>Bench</position>
@@ -3580,7 +3562,7 @@
               <weight>68</weight>
               <height>176</height>
               <shirt_num>14</shirt_num>
-              <total_influence>3</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/theo-walcott</profile_url>
               <country>England</country>
               <position>Forward</position>
@@ -3597,7 +3579,7 @@
               <weight>70</weight>
               <height>180</height>
               <shirt_num>15</shirt_num>
-              <total_influence>36</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/alex-oxlade-chamberlain</profile_url>
               <country>England</country>
               <position>Midfielder</position>
@@ -3614,7 +3596,7 @@
               <weight>70</weight>
               <height>177</height>
               <shirt_num>16</shirt_num>
-              <total_influence>-14</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/aaron-ramsey</profile_url>
               <country>Wales</country>
               <position>Midfielder</position>
@@ -3648,13 +3630,30 @@
               <weight>66</weight>
               <height>183</height>
               <shirt_num>21</shirt_num>
-              <total_influence>30</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/calum-chambers</profile_url>
               <country>England</country>
               <position>Midfielder</position>
               <state>playing</state>
               <x_loc>40</x_loc>
               <y_loc>31</y_loc>
+            </ts_player>
+            <ts_player id="110" team_id="31">
+              <first_name>Mathieu</first_name>
+              <name>Mathieu Debuchy</name>
+              <team_name>Arsenal</team_name>
+              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p110c31j24.jpg</photo>
+              <dob>28/07/1985</dob>
+              <weight>76</weight>
+              <height>177</height>
+              <shirt_num>24</shirt_num>
+              <total_influence>0</total_influence>
+              <profile_url>http://www.squawka.com/uncategorized/mathieu-debuchy</profile_url>
+              <country>France</country>
+              <position>Bench</position>
+              <state>bench</state>
+              <x_loc>0</x_loc>
+              <y_loc>0</y_loc>
             </ts_player>
             <ts_player id="3832" team_id="31">
               <first_name>Héctor</first_name>
@@ -3665,7 +3664,7 @@
               <weight>74</weight>
               <height>177</height>
               <shirt_num>24</shirt_num>
-              <total_influence>34</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/hector-bellerin</profile_url>
               <country>Spain</country>
               <position>Defender</position>
@@ -3682,7 +3681,7 @@
               <weight>71</weight>
               <height>178</height>
               <shirt_num>28</shirt_num>
-              <total_influence>-9</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/joel-campbell</profile_url>
               <country>Costa Rica</country>
               <position>Midfielder</position>
@@ -3699,7 +3698,7 @@
               <weight>90</weight>
               <height>196</height>
               <shirt_num>33</shirt_num>
-              <total_influence>41</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/petr-cech</profile_url>
               <country>Czech Republic</country>
               <position>Goalkeeper</position>
@@ -3730,8 +3729,8 @@
               <team_name>Arsenal</team_name>
               <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p17913c31j54.jpg</photo>
               <dob>17/01/1998</dob>
-              <weight>Unknown</weight>
-              <height>182</height>
+              <weight>75</weight>
+              <height>184</height>
               <shirt_num>54</shirt_num>
               <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/players/jeff-reine-adelaide/stats</profile_url>
@@ -3794,7 +3793,7 @@
               <weight>89</weight>
               <height>193</height>
               <shirt_num>1</shirt_num>
-              <total_influence>-12</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/artur-boruc</profile_url>
               <country>Poland</country>
               <position>Goalkeeper</position>
@@ -3811,7 +3810,7 @@
               <weight>79</weight>
               <height>183</height>
               <shirt_num>2</shirt_num>
-              <total_influence>11</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/simon-francis</profile_url>
               <country>England</country>
               <position>Defender</position>
@@ -3828,7 +3827,7 @@
               <weight>83</weight>
               <height>185</height>
               <shirt_num>3</shirt_num>
-              <total_influence>12</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/steve-cook</profile_url>
               <country>England</country>
               <position>Defender</position>
@@ -3845,7 +3844,7 @@
               <weight>71</weight>
               <height>178</height>
               <shirt_num>4</shirt_num>
-              <total_influence>-14</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/dan-gosling</profile_url>
               <country>England</country>
               <position>Midfielder</position>
@@ -3862,7 +3861,7 @@
               <weight>73</weight>
               <height>180</height>
               <shirt_num>6</shirt_num>
-              <total_influence>32</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/andrew-surman</profile_url>
               <country>England</country>
               <position>Midfielder</position>
@@ -3879,7 +3878,7 @@
               <weight>72</weight>
               <height>180</height>
               <shirt_num>7</shirt_num>
-              <total_influence>-4</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/marc-pugh</profile_url>
               <country>England</country>
               <position>Midfielder</position>
@@ -3896,7 +3895,7 @@
               <weight>73</weight>
               <height>175</height>
               <shirt_num>8</shirt_num>
-              <total_influence>45</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/harry-arter</profile_url>
               <country>Republic of Ireland</country>
               <position>Midfielder</position>
@@ -3921,6 +3920,23 @@
               <x_loc>0</x_loc>
               <y_loc>0</y_loc>
             </ts_player>
+            <ts_player id="11722" team_id="299">
+              <first_name>Lee</first_name>
+              <name>Lee Tomlin</name>
+              <team_name>B'mouth</team_name>
+              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p11722c299j9.jpg</photo>
+              <dob>12/01/1989</dob>
+              <weight>74</weight>
+              <height>180</height>
+              <shirt_num>9</shirt_num>
+              <total_influence>0</total_influence>
+              <profile_url>http://www.squawka.com/players/lee-tomlin/stats</profile_url>
+              <country>England</country>
+              <position>Midfielder</position>
+              <state>bench</state>
+              <x_loc>0</x_loc>
+              <y_loc>0</y_loc>
+            </ts_player>
             <ts_player id="10166" team_id="299">
               <first_name>Charlie</first_name>
               <name>Charlie Daniels</name>
@@ -3930,7 +3946,7 @@
               <weight>75</weight>
               <height>175</height>
               <shirt_num>11</shirt_num>
-              <total_influence>15</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/charlie-daniels</profile_url>
               <country>England</country>
               <position>Defender</position>
@@ -3947,7 +3963,7 @@
               <weight>74</weight>
               <height>178</height>
               <shirt_num>15</shirt_num>
-              <total_influence>23</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/adam-smith</profile_url>
               <country>England</country>
               <position>Defender</position>
@@ -3964,7 +3980,7 @@
               <weight>83</weight>
               <height>185</height>
               <shirt_num>17</shirt_num>
-              <total_influence>-23</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/joshua-king</profile_url>
               <country>Norway</country>
               <position>Forward</position>
@@ -3981,7 +3997,7 @@
               <weight>79</weight>
               <height>180</height>
               <shirt_num>19</shirt_num>
-              <total_influence>3</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/junior-stanislas</profile_url>
               <country>England</country>
               <position>Midfielder</position>
@@ -4002,23 +4018,6 @@
               <profile_url>http://www.squawka.com/uncategorized/adam-federici</profile_url>
               <country>Australia</country>
               <position>Goalkeeper</position>
-              <state>bench</state>
-              <x_loc>0</x_loc>
-              <y_loc>0</y_loc>
-            </ts_player>
-            <ts_player id="11722" team_id="299">
-              <first_name>Lee</first_name>
-              <name>Lee Tomlin</name>
-              <team_name>B'mouth</team_name>
-              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p11722c299j24.jpg</photo>
-              <dob>12/01/1989</dob>
-              <weight>74</weight>
-              <height>180</height>
-              <shirt_num>24</shirt_num>
-              <total_influence>0</total_influence>
-              <profile_url>http://www.squawka.com/players/lee-tomlin/stats</profile_url>
-              <country>England</country>
-              <position>Forward</position>
               <state>bench</state>
               <x_loc>0</x_loc>
               <y_loc>0</y_loc>
@@ -4049,7 +4048,7 @@
               <weight>80</weight>
               <height>183</height>
               <shirt_num>27</shirt_num>
-              <total_influence>6</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/glenn-murray</profile_url>
               <country>England</country>
               <position>Forward</position>
@@ -4066,7 +4065,7 @@
               <weight>70</weight>
               <height>173</height>
               <shirt_num>30</shirt_num>
-              <total_influence>12</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/matt-ritchie</profile_url>
               <country>Scotland</country>
               <position>Midfielder</position>
@@ -4083,30 +4082,13 @@
               <weight>69</weight>
               <height>173</height>
               <shirt_num>32</shirt_num>
-              <total_influence>-13</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/eunan-okane</profile_url>
               <country>Republic of Ireland</country>
               <position>Midfielder</position>
               <state>playing</state>
               <x_loc>60</x_loc>
               <y_loc>40</y_loc>
-            </ts_player>
-            <ts_player id="110" team_id="31">
-              <first_name>Mathieu</first_name>
-              <name>Mathieu Debuchy</name>
-              <team_name>Arsenal</team_name>
-              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p110c31j2.jpg</photo>
-              <dob>28/07/1985</dob>
-              <weight>76</weight>
-              <height>177</height>
-              <shirt_num>2</shirt_num>
-              <total_influence>0</total_influence>
-              <profile_url>http://www.squawka.com/uncategorized/mathieu-debuchy</profile_url>
-              <country>France</country>
-              <position>Bench</position>
-              <state>bench</state>
-              <x_loc>0</x_loc>
-              <y_loc>0</y_loc>
             </ts_player>
             <ts_player id="374" team_id="31">
               <first_name>Kieran</first_name>
@@ -4117,7 +4099,7 @@
               <weight>70</weight>
               <height>178</height>
               <shirt_num>3</shirt_num>
-              <total_influence>23</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/kieran-gibbs</profile_url>
               <country>England</country>
               <position>Bench</position>
@@ -4134,7 +4116,7 @@
               <weight>90</weight>
               <height>198</height>
               <shirt_num>4</shirt_num>
-              <total_influence>39</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/per-mertesacker</profile_url>
               <country>Germany</country>
               <position>Defender</position>
@@ -4151,7 +4133,7 @@
               <weight>72</weight>
               <height>185</height>
               <shirt_num>5</shirt_num>
-              <total_influence>100</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/gabriel-paulista</profile_url>
               <country>Brazil</country>
               <position>Defender</position>
@@ -4185,7 +4167,7 @@
               <weight>76</weight>
               <height>183</height>
               <shirt_num>11</shirt_num>
-              <total_influence>74</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/mesut-ozil</profile_url>
               <country>Germany</country>
               <position>Midfielder</position>
@@ -4202,7 +4184,7 @@
               <weight>88</weight>
               <height>192</height>
               <shirt_num>12</shirt_num>
-              <total_influence>7</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/olivier-giroud</profile_url>
               <country>France</country>
               <position>Bench</position>
@@ -4236,7 +4218,7 @@
               <weight>68</weight>
               <height>176</height>
               <shirt_num>14</shirt_num>
-              <total_influence>3</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/theo-walcott</profile_url>
               <country>England</country>
               <position>Forward</position>
@@ -4253,7 +4235,7 @@
               <weight>70</weight>
               <height>180</height>
               <shirt_num>15</shirt_num>
-              <total_influence>36</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/alex-oxlade-chamberlain</profile_url>
               <country>England</country>
               <position>Midfielder</position>
@@ -4270,7 +4252,7 @@
               <weight>70</weight>
               <height>177</height>
               <shirt_num>16</shirt_num>
-              <total_influence>-14</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/aaron-ramsey</profile_url>
               <country>Wales</country>
               <position>Midfielder</position>
@@ -4304,13 +4286,30 @@
               <weight>66</weight>
               <height>183</height>
               <shirt_num>21</shirt_num>
-              <total_influence>30</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/calum-chambers</profile_url>
               <country>England</country>
               <position>Midfielder</position>
               <state>playing</state>
               <x_loc>40</x_loc>
               <y_loc>31</y_loc>
+            </ts_player>
+            <ts_player id="110" team_id="31">
+              <first_name>Mathieu</first_name>
+              <name>Mathieu Debuchy</name>
+              <team_name>Arsenal</team_name>
+              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p110c31j24.jpg</photo>
+              <dob>28/07/1985</dob>
+              <weight>76</weight>
+              <height>177</height>
+              <shirt_num>24</shirt_num>
+              <total_influence>0</total_influence>
+              <profile_url>http://www.squawka.com/uncategorized/mathieu-debuchy</profile_url>
+              <country>France</country>
+              <position>Bench</position>
+              <state>bench</state>
+              <x_loc>0</x_loc>
+              <y_loc>0</y_loc>
             </ts_player>
             <ts_player id="3832" team_id="31">
               <first_name>Héctor</first_name>
@@ -4321,7 +4320,7 @@
               <weight>74</weight>
               <height>177</height>
               <shirt_num>24</shirt_num>
-              <total_influence>34</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/hector-bellerin</profile_url>
               <country>Spain</country>
               <position>Defender</position>
@@ -4338,7 +4337,7 @@
               <weight>71</weight>
               <height>178</height>
               <shirt_num>28</shirt_num>
-              <total_influence>-9</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/joel-campbell</profile_url>
               <country>Costa Rica</country>
               <position>Midfielder</position>
@@ -4355,7 +4354,7 @@
               <weight>90</weight>
               <height>196</height>
               <shirt_num>33</shirt_num>
-              <total_influence>41</total_influence>
+              <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/petr-cech</profile_url>
               <country>Czech Republic</country>
               <position>Goalkeeper</position>
@@ -4386,8 +4385,8 @@
               <team_name>Arsenal</team_name>
               <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p17913c31j54.jpg</photo>
               <dob>17/01/1998</dob>
-              <weight>Unknown</weight>
-              <height>182</height>
+              <weight>75</weight>
+              <height>184</height>
               <shirt_num>54</shirt_num>
               <total_influence>0</total_influence>
               <profile_url>http://www.squawka.com/players/jeff-reine-adelaide/stats</profile_url>
@@ -4807,8 +4806,8 @@
             <aa_team id="299">3</aa_team>
             <aa_player id="79" team_id="31">1</aa_player>
             <aa_player id="865" team_id="299">1</aa_player>
-            <aa_player id="377" team_id="31">2</aa_player>
             <aa_player id="582" team_id="299">2</aa_player>
+            <aa_player id="377" team_id="31">2</aa_player>
           </action_area>
           <action_area id="14">
             <aa_team id="31">1</aa_team>
@@ -5108,8 +5107,8 @@
             <aa_team id="31">4</aa_team>
             <aa_team id="299">1</aa_team>
             <aa_player id="27" team_id="31">3</aa_player>
-            <aa_player id="79" team_id="31">1</aa_player>
             <aa_player id="865" team_id="299">1</aa_player>
+            <aa_player id="79" team_id="31">1</aa_player>
           </action_area>
           <action_area id="14">
             <aa_team id="31">3</aa_team>
@@ -5967,8 +5966,8 @@
             <aa_team id="31">3</aa_team>
             <aa_team id="299">1</aa_team>
             <aa_player id="374" team_id="31">1</aa_player>
-            <aa_player id="79" team_id="31">2</aa_player>
             <aa_player id="10182" team_id="299">1</aa_player>
+            <aa_player id="79" team_id="31">2</aa_player>
           </action_area>
         </time_slice>
         <time_slice name="55 - 60" id="12">
@@ -6018,8 +6017,8 @@
             <aa_player id="374" team_id="31">1</aa_player>
             <aa_player id="742" team_id="31">3</aa_player>
             <aa_player id="10164" team_id="299">1</aa_player>
-            <aa_player id="90" team_id="31">1</aa_player>
             <aa_player id="10166" team_id="299">1</aa_player>
+            <aa_player id="90" team_id="31">1</aa_player>
           </action_area>
           <action_area id="8">
             <aa_team id="299">6</aa_team>
@@ -6115,8 +6114,8 @@
             <aa_team id="31">5</aa_team>
             <aa_team id="299">3</aa_team>
             <aa_player id="3832" team_id="31">2</aa_player>
-            <aa_player id="742" team_id="31">1</aa_player>
             <aa_player id="582" team_id="299">1</aa_player>
+            <aa_player id="742" team_id="31">1</aa_player>
             <aa_player id="10282" team_id="299">1</aa_player>
             <aa_player id="377" team_id="31">1</aa_player>
             <aa_player id="90" team_id="31">1</aa_player>
@@ -6539,10 +6538,10 @@
             <aa_player id="120" team_id="31">1</aa_player>
           </action_area>
           <action_area id="17">
-            <aa_team id="31">1</aa_team>
             <aa_team id="299">1</aa_team>
-            <aa_player id="90" team_id="31">1</aa_player>
+            <aa_team id="31">1</aa_team>
             <aa_player id="865" team_id="299">1</aa_player>
+            <aa_player id="90" team_id="31">1</aa_player>
           </action_area>
           <action_area id="7">
             <aa_team id="31">4</aa_team>
@@ -6779,8 +6778,8 @@
             <aa_team id="299">4</aa_team>
             <aa_team id="31">2</aa_team>
             <aa_player id="10282" team_id="299">2</aa_player>
-            <aa_player id="3832" team_id="31">2</aa_player>
             <aa_player id="10166" team_id="299">2</aa_player>
+            <aa_player id="3832" team_id="31">2</aa_player>
           </action_area>
         </time_slice>
       </action_areas>
@@ -6802,8 +6801,8 @@
             <loc>50.8,71.4</loc>
             <otherplayer team_id="31">742</otherplayer>
           </event>
-          <hd_result team_id="31" won="0" lost="1">0/1</hd_result>
-          <hd_result team_id="299" won="0" lost="1">0/1</hd_result>
+          <hd_result team_id="31" won="0" lost="0">0/0</hd_result>
+          <hd_result team_id="299" won="1" lost="1">1/2</hd_result>
         </time_slice>
         <time_slice name="10 - 15" id="3">
           <event player_id="374" team_id="31" action_type="Possession" mins="14" secs="20" minsec="860">
@@ -6822,8 +6821,8 @@
             <loc>55.8,46.8</loc>
             <otherplayer team_id="31">6467</otherplayer>
           </event>
-          <hd_result team_id="31" won="1" lost="0">1/1</hd_result>
-          <hd_result team_id="299" won="1" lost="0">1/1</hd_result>
+          <hd_result team_id="31" won="0" lost="0">0/0</hd_result>
+          <hd_result team_id="299" won="1" lost="1">1/2</hd_result>
         </time_slice>
         <time_slice name="25 - 30" id="6">
           <event player_id="6467" team_id="31" action_type="Possession" mins="26" secs="0" minsec="1560">
@@ -6842,8 +6841,8 @@
             <loc>24.7,58.8</loc>
             <otherplayer team_id="31">115</otherplayer>
           </event>
-          <hd_result team_id="31" won="0" lost="1">0/1</hd_result>
-          <hd_result team_id="299" won="1" lost="0">1/1</hd_result>
+          <hd_result team_id="31" won="0" lost="0">0/0</hd_result>
+          <hd_result team_id="299" won="2" lost="0">2/2</hd_result>
         </time_slice>
         <time_slice name="40 - 45" id="9">
           <event player_id="742" team_id="31" action_type="Possession" mins="43" secs="23" minsec="2603" injurytime_play="0">
@@ -6854,8 +6853,8 @@
             <loc>94.7,38.2</loc>
             <otherplayer team_id="299">582</otherplayer>
           </event>
-          <hd_result team_id="31" won="1" lost="0">1/1</hd_result>
-          <hd_result team_id="299" won="0" lost="1">0/1</hd_result>
+          <hd_result team_id="31" won="0" lost="0">0/0</hd_result>
+          <hd_result team_id="299" won="0" lost="2">0/2</hd_result>
         </time_slice>
         <time_slice name="55 - 60" id="12">
           <event player_id="3832" team_id="31" action_type="Possession" mins="57" secs="28" minsec="3448">
@@ -6890,8 +6889,8 @@
             <loc>93.7,35.3</loc>
             <otherplayer team_id="299">10150</otherplayer>
           </event>
-          <hd_result team_id="31" won="1" lost="0">1/1</hd_result>
-          <hd_result team_id="299" won="0" lost="3">0/3</hd_result>
+          <hd_result team_id="31" won="0" lost="0">0/0</hd_result>
+          <hd_result team_id="299" won="0" lost="4">0/4</hd_result>
         </time_slice>
         <time_slice name="70 - 75" id="15">
           <event player_id="582" team_id="299" action_type="Possession" mins="70" secs="43" minsec="4243">
@@ -6906,8 +6905,8 @@
             <loc>69.4,39</loc>
             <otherplayer team_id="299">10150</otherplayer>
           </event>
-          <hd_result team_id="31" won="1" lost="0">1/1</hd_result>
-          <hd_result team_id="299" won="0" lost="0">0/0</hd_result>
+          <hd_result team_id="31" won="0" lost="0">0/0</hd_result>
+          <hd_result team_id="299" won="0" lost="1">0/1</hd_result>
         </time_slice>
         <time_slice name="80 - 85" id="17">
           <event player_id="5195" team_id="299" action_type="Possession" mins="83" secs="24" minsec="5004">
@@ -6930,8 +6929,8 @@
             <loc>9.1,52.2</loc>
             <otherplayer team_id="31">1838</otherplayer>
           </event>
-          <hd_result team_id="31" won="1" lost="0">1/1</hd_result>
-          <hd_result team_id="299" won="1" lost="0">1/1</hd_result>
+          <hd_result team_id="31" won="0" lost="0">0/0</hd_result>
+          <hd_result team_id="299" won="1" lost="1">1/2</hd_result>
         </time_slice>
       </headed_duals>
       <interceptions>
@@ -12923,11 +12922,11 @@
           <event player_id="865" team_id="299" action_type="Possession" mins="1" secs="17" minsec="77" ot_id="1" ot_outcome="1">
             <loc>99.5,0.5</loc>
           </event>
-          <event player_id="377" team_id="31" action_type="Possession" mins="1" secs="2" minsec="62" ot_id="6" ot_outcome="0">
-            <loc>1.6,92.7</loc>
-          </event>
           <event player_id="582" team_id="299" action_type="Possession" mins="1" secs="2" minsec="62" ot_id="6" ot_outcome="1">
             <loc>98.4,7.3</loc>
+          </event>
+          <event player_id="377" team_id="31" action_type="Possession" mins="1" secs="2" minsec="62" ot_id="6" ot_outcome="0">
+            <loc>1.6,92.7</loc>
           </event>
           <event player_id="377" team_id="31" action_type="Defense" mins="1" secs="1" minsec="61" ot_id="7" ot_outcome="1">
             <loc>5,87.2</loc>
@@ -12990,11 +12989,11 @@
           <event player_id="3832" team_id="31" action_type="Possession" mins="13" secs="20" minsec="800" ot_id="1" ot_outcome="1">
             <loc>28.5,4.8</loc>
           </event>
-          <event player_id="90" team_id="31" action_type="Defense" mins="13" secs="0" minsec="780" ot_id="4" ot_outcome="1">
-            <loc>31,3.3</loc>
-          </event>
           <event player_id="10164" team_id="299" action_type="Defense" mins="13" secs="0" minsec="780" ot_id="4" ot_outcome="0">
             <loc>66.4,98.2</loc>
+          </event>
+          <event player_id="90" team_id="31" action_type="Defense" mins="13" secs="0" minsec="780" ot_id="4" ot_outcome="1">
+            <loc>31,3.3</loc>
           </event>
           <event player_id="10164" team_id="299" action_type="Defense" mins="12" secs="58" minsec="778" ot_id="45" ot_outcome="0">
             <loc>80.4,81.7</loc>
@@ -13055,11 +13054,11 @@
           <event player_id="27" team_id="31" action_type="Possession" mins="16" secs="46" minsec="1006" ot_id="1" ot_outcome="1">
             <loc>12.7,61.6</loc>
           </event>
-          <event player_id="79" team_id="31" action_type="Defense" mins="16" secs="20" minsec="980" ot_id="4" ot_outcome="1">
-            <loc>13.5,69</loc>
-          </event>
           <event player_id="865" team_id="299" action_type="Defense" mins="16" secs="20" minsec="980" ot_id="4" ot_outcome="0">
             <loc>84.7,27.1</loc>
+          </event>
+          <event player_id="79" team_id="31" action_type="Defense" mins="16" secs="20" minsec="980" ot_id="4" ot_outcome="1">
+            <loc>13.5,69</loc>
           </event>
           <event player_id="10148" team_id="299" action_type="Possession" mins="15" secs="28" minsec="928" ot_id="1" ot_outcome="1">
             <loc>42.3,22.6</loc>
@@ -13320,11 +13319,11 @@
           <event player_id="123" team_id="31" action_type="Possession" mins="42" secs="18" minsec="2538" ot_id="1" ot_outcome="1" injurytime_play="0">
             <loc>99.5,0.5</loc>
           </event>
-          <event player_id="377" team_id="31" action_type="Possession" mins="41" secs="55" minsec="2515" ot_id="6" ot_outcome="1" injurytime_play="0">
-            <loc>96.2,27.2</loc>
-          </event>
           <event player_id="10148" team_id="299" action_type="Possession" mins="41" secs="55" minsec="2515" ot_id="6" ot_outcome="0" injurytime_play="0">
             <loc>3.8,72.8</loc>
+          </event>
+          <event player_id="377" team_id="31" action_type="Possession" mins="41" secs="55" minsec="2515" ot_id="6" ot_outcome="1" injurytime_play="0">
+            <loc>96.2,27.2</loc>
           </event>
           <event player_id="377" team_id="31" action_type="Possession" mins="41" secs="50" minsec="2510" ot_id="1" ot_outcome="0" injurytime_play="0">
             <loc>81.5,16.7</loc>
@@ -13417,11 +13416,11 @@
           <event player_id="374" team_id="31" action_type="Possession" mins="50" secs="8" minsec="3008" ot_id="1" ot_outcome="1">
             <loc>19.5,87.4</loc>
           </event>
-          <event player_id="79" team_id="31" action_type="Defense" mins="50" secs="4" minsec="3004" ot_id="4" ot_outcome="1">
-            <loc>25.6,93.6</loc>
-          </event>
           <event player_id="10182" team_id="299" action_type="Defense" mins="50" secs="4" minsec="3004" ot_id="4" ot_outcome="0">
             <loc>74.4,6.4</loc>
+          </event>
+          <event player_id="79" team_id="31" action_type="Defense" mins="50" secs="4" minsec="3004" ot_id="4" ot_outcome="1">
+            <loc>25.6,93.6</loc>
           </event>
         </time_slice>
         <time_slice name="55 - 60" id="12">
@@ -13482,11 +13481,11 @@
           <event player_id="10282" team_id="299" action_type="Possession" mins="55" secs="24" minsec="3324" ot_id="1" ot_outcome="1">
             <loc>99.5,99.5</loc>
           </event>
-          <event player_id="90" team_id="31" action_type="Possession" mins="55" secs="1" minsec="3301" ot_id="6" ot_outcome="0">
-            <loc>8.8,26</loc>
-          </event>
           <event player_id="10166" team_id="299" action_type="Possession" mins="55" secs="1" minsec="3301" ot_id="6" ot_outcome="1">
             <loc>91.2,74</loc>
+          </event>
+          <event player_id="90" team_id="31" action_type="Possession" mins="55" secs="1" minsec="3301" ot_id="6" ot_outcome="0">
+            <loc>8.8,26</loc>
           </event>
         </time_slice>
         <time_slice name="60 - 65" id="13">
@@ -13502,11 +13501,11 @@
           <event player_id="3832" team_id="31" action_type="Possession" mins="64" secs="30" minsec="3870" ot_id="1" ot_outcome="1">
             <loc>42.4,14.7</loc>
           </event>
-          <event player_id="742" team_id="31" action_type="Defense" mins="64" secs="20" minsec="3860" ot_id="4" ot_outcome="1">
-            <loc>42.2,16.5</loc>
-          </event>
           <event player_id="582" team_id="299" action_type="Defense" mins="64" secs="20" minsec="3860" ot_id="4" ot_outcome="0">
             <loc>57.8,83.5</loc>
+          </event>
+          <event player_id="742" team_id="31" action_type="Defense" mins="64" secs="20" minsec="3860" ot_id="4" ot_outcome="1">
+            <loc>42.2,16.5</loc>
           </event>
           <event player_id="10282" team_id="299" action_type="Defense" mins="63" secs="54" minsec="3834" ot_id="7" ot_outcome="1">
             <loc>51.8,97.8</loc>
@@ -13657,11 +13656,11 @@
           <event player_id="865" team_id="299" action_type="Possession" mins="84" secs="42" minsec="5082" ot_id="1" ot_outcome="1">
             <loc>40.3,3.7</loc>
           </event>
-          <event player_id="90" team_id="31" action_type="Defense" mins="84" secs="30" minsec="5070" ot_id="4" ot_outcome="0">
-            <loc>72.9,89.8</loc>
-          </event>
           <event player_id="865" team_id="299" action_type="Defense" mins="84" secs="30" minsec="5070" ot_id="4" ot_outcome="1">
             <loc>33,4.2</loc>
+          </event>
+          <event player_id="90" team_id="31" action_type="Defense" mins="84" secs="30" minsec="5070" ot_id="4" ot_outcome="0">
+            <loc>72.9,89.8</loc>
           </event>
           <event player_id="27" team_id="31" action_type="Possession" mins="84" secs="22" minsec="5062" ot_id="1" ot_outcome="0">
             <loc>5,59.6</loc>
@@ -13761,11 +13760,11 @@
           <event player_id="10282" team_id="299" action_type="Possession" mins="90" secs="0" minsec="5439" ot_id="1" ot_outcome="0" injurytime_play="1">
             <loc>99.5,99.5</loc>
           </event>
-          <event player_id="3832" team_id="31" action_type="Possession" mins="90" secs="0" minsec="5420" ot_id="6" ot_outcome="0" injurytime_play="1">
-            <loc>6.6,13.6</loc>
-          </event>
           <event player_id="10166" team_id="299" action_type="Possession" mins="90" secs="0" minsec="5420" ot_id="6" ot_outcome="1" injurytime_play="1">
             <loc>93.4,86.4</loc>
+          </event>
+          <event player_id="3832" team_id="31" action_type="Possession" mins="90" secs="0" minsec="5420" ot_id="6" ot_outcome="0" injurytime_play="1">
+            <loc>6.6,13.6</loc>
           </event>
           <event player_id="3832" team_id="31" action_type="Defense" mins="90" secs="0" minsec="5419" ot_id="7" ot_outcome="1" injurytime_play="1">
             <loc>12.8,15</loc>
@@ -13815,7 +13814,7 @@
         </time_slice>
         <time_slice name="15 - 20" id="4">
           <event type="out" player_id="377" team_id="31" action_type="" mins="19" secs="33" minsec="1173">
-            <start>38.4,29.8</start>
+            <start>58.4,91.8</start>
             <end>66,101</end>
           </event>
           <bo_result team_id="31">1</bo_result>
@@ -13823,7 +13822,7 @@
         </time_slice>
         <time_slice name="20 - 25" id="5">
           <event type="out" player_id="614" team_id="299" action_type="" mins="22" secs="16" minsec="1336">
-            <start>41.6,72</start>
+            <start>96.6,31.8</start>
             <end>101.2,32.6</end>
           </event>
           <event type="out" player_id="742" team_id="31" action_type="" mins="21" secs="16" minsec="1276">
@@ -13851,7 +13850,7 @@
             <end>81.3,101</end>
           </event>
           <event type="out" player_id="374" team_id="31" action_type="" mins="25" secs="30" minsec="1530">
-            <start>39.4,74.6</start>
+            <start>73.5,97.1</start>
             <end>101.1,83.4</end>
           </event>
           <event type="corner" player_id="10166" team_id="299" action_type="" mins="26" secs="23" minsec="1583">
@@ -13867,11 +13866,11 @@
             <end>101,57</end>
           </event>
           <event type="out" player_id="10166" team_id="299" action_type="" mins="32" secs="56" minsec="1976">
-            <start>42.5,96.8</start>
+            <start>7.4,95.6</start>
             <end>5.2,100.9</end>
           </event>
           <event type="out" player_id="10166" team_id="299" action_type="" mins="31" secs="42" minsec="1902">
-            <start>42.5,96.8</start>
+            <start>71.5,98.2</start>
             <end>73.5,101</end>
           </event>
           <event type="out" player_id="3832" team_id="31" action_type="" mins="31" secs="17" minsec="1877">
@@ -13879,7 +13878,7 @@
             <end>40,-1.2</end>
           </event>
           <event type="out" player_id="614" team_id="299" action_type="" mins="30" secs="52" minsec="1852">
-            <start>68.9,68.6</start>
+            <start>60,1.7</start>
             <end>61.4,-1.4</end>
           </event>
           <event type="corner" player_id="3823" team_id="299" action_type="" mins="34" secs="42" minsec="2082">
@@ -13899,7 +13898,7 @@
             <end>101.4,53.8</end>
           </event>
           <event type="out" player_id="6467" team_id="31" action_type="" mins="36" secs="47" minsec="2207">
-            <start>46.8,89.3</start>
+            <start>78.7,96.4</start>
             <end>79.5,100.9</end>
           </event>
           <event type="out" player_id="115" team_id="31" action_type="" mins="35" secs="3" minsec="2103">
@@ -13911,7 +13910,7 @@
             <end>13.2,37.9</end>
           </event>
           <event type="corner" player_id="10166" team_id="299" action_type="" mins="35" secs="57" minsec="2157">
-            <start>42.5,96.8</start>
+            <start>2.8,60.8</start>
             <end>1.2,62.4</end>
           </event>
           <bo_result team_id="31">3</bo_result>
@@ -13919,11 +13918,11 @@
         </time_slice>
         <time_slice name="40 - 45" id="9">
           <event type="out" player_id="742" team_id="31" action_type="" mins="41" secs="37" minsec="2497" injurytime_play="0">
-            <start>55.6,46.4</start>
+            <start>68.8,23.4</start>
             <end>101.4,13.8</end>
           </event>
           <event type="out" player_id="377" team_id="31" action_type="" mins="40" secs="22" minsec="2422" injurytime_play="0">
-            <start>91.8,60.2</start>
+            <start>63.1,3.2</start>
             <end>67.1,-1</end>
           </event>
           <event type="corner" player_id="10148" team_id="299" action_type="" mins="41" secs="55" minsec="2515" injurytime_play="0">
@@ -13935,7 +13934,7 @@
         </time_slice>
         <time_slice name="45 - 50" id="10">
           <event type="out" player_id="10182" team_id="299" action_type="" mins="48" secs="29" minsec="2909">
-            <start>60.6,25.4</start>
+            <start>10.6,40.2</start>
             <end>38.7,101.2</end>
           </event>
           <event type="out" player_id="123" team_id="31" action_type="" mins="47" secs="33" minsec="2853">
@@ -13943,7 +13942,7 @@
             <end>55.8,-1.3</end>
           </event>
           <event type="out" player_id="10166" team_id="299" action_type="" mins="46" secs="45" minsec="2805">
-            <start>42.5,96.8</start>
+            <start>42.5,72.5</start>
             <end>44.6,101.1</end>
           </event>
           <bo_result team_id="31">1</bo_result>
@@ -13955,11 +13954,11 @@
             <end>10.1,101.4</end>
           </event>
           <event type="out" player_id="374" team_id="31" action_type="" mins="52" secs="44" minsec="3164">
-            <start>39.4,74.6</start>
+            <start>59,93.6</start>
             <end>58.6,100.8</end>
           </event>
           <event type="out" player_id="6467" team_id="31" action_type="" mins="51" secs="12" minsec="3072">
-            <start>46.8,89.3</start>
+            <start>47.3,70.9</start>
             <end>70,100.8</end>
           </event>
           <bo_result team_id="31">3</bo_result>
@@ -13991,11 +13990,11 @@
             <end>58.4,101.4</end>
           </event>
           <event type="out" player_id="6467" team_id="31" action_type="" mins="61" secs="16" minsec="3676">
-            <start>46.8,89.3</start>
+            <start>27.5,23.9</start>
             <end>41,-1.1</end>
           </event>
           <event type="corner" player_id="10166" team_id="299" action_type="" mins="64" secs="54" minsec="3894">
-            <start>42.5,96.8</start>
+            <start>8.1,80.9</start>
             <end>2.6,76</end>
           </event>
           <bo_result team_id="31">1</bo_result>
@@ -14015,7 +14014,7 @@
             <end>101.2,58.8</end>
           </event>
           <event type="out" player_id="6467" team_id="31" action_type="" mins="65" secs="19" minsec="3919">
-            <start>46.8,89.3</start>
+            <start>93.6,34.8</start>
             <end>101,45</end>
           </event>
           <bo_result team_id="31">3</bo_result>
@@ -14035,7 +14034,7 @@
         </time_slice>
         <time_slice name="75 - 80" id="16">
           <event type="out" player_id="115" team_id="31" action_type="" mins="78" secs="53" minsec="4733">
-            <start>96.2,56.2</start>
+            <start>87.2,52.9</start>
             <end>101.5,40</end>
           </event>
           <event type="out" player_id="10164" team_id="299" action_type="" mins="78" secs="21" minsec="4701">
@@ -14043,7 +14042,7 @@
             <end>92.4,-1.3</end>
           </event>
           <event type="out" player_id="115" team_id="31" action_type="" mins="75" secs="12" minsec="4512">
-            <start>96.2,56.2</start>
+            <start>32.3,90.4</start>
             <end>30,101.2</end>
           </event>
           <bo_result team_id="31">2</bo_result>

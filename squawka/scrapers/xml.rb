@@ -28,7 +28,7 @@ matches.each do |match|
 
   file_name = "xml/#{match_id}.xml"
   if (File.file?(file_name))
-    next
+    #next
   end
 
   url = "http://s3-irl-#{league_key}.squawka.com/dp/ingame/#{match_id}"
