@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<squawka date="2016-03-03" time="17:11" timezone="BST" data_freshness="17:10">
+<squawka date="2016-03-11" time="12:24" timezone="BST" data_freshness="12:23">
   <data_panel>
     <system>
       <headline><![CDATA[Leicester 2 - 2 WBA]]></headline>
@@ -927,7 +927,7 @@
           <team_possession team_id="315">71</team_possession>
           <team_possession team_id="48">29</team_possession>
           <player_inf_score id="67" possession="4.48" attack="0" defense="-17.5" goalkeeping="0" injurytime_play="0">-13.02</player_inf_score>
-          <player_inf_score id="341" possession="-1.71" attack="0" defense="-7.08" goalkeeping="0" injurytime_play="0">-8.79</player_inf_score>
+          <player_inf_score id="341" possession="-1.71" attack="-23.55" defense="-7.08" goalkeeping="0" injurytime_play="0">-32.34</player_inf_score>
           <player_inf_score id="413" possession="-11.75" attack="5.77" defense="-2.8" goalkeeping="0" injurytime_play="0">-8.78</player_inf_score>
           <player_inf_score id="572" possession="-5.85" attack="15" defense="-5.48" goalkeeping="0" injurytime_play="0">3.67</player_inf_score>
           <player_inf_score id="610" possession="9.74" attack="0" defense="-7" goalkeeping="0" injurytime_play="0">2.74</player_inf_score>
@@ -944,8 +944,8 @@
           <player_inf_score id="5231" possession="4.68" attack="0" defense="-11.5" goalkeeping="0" injurytime_play="0">-6.82</player_inf_score>
           <player_inf_score id="7342" possession="-2.02" attack="27" defense="-4.92" goalkeeping="0" injurytime_play="0">20.06</player_inf_score>
           <player_inf_score id="10686" possession="-1.3" attack="3.57" defense="-0.59" goalkeeping="0" injurytime_play="0">1.68</player_inf_score>
-          <player_inf_score id="10693" possession="6.17" attack="35.99" defense="13.17" goalkeeping="0" injurytime_play="0">55.33</player_inf_score>
-          <player_inf_score id="10695" possession="0.81" attack="9.37" defense="9.54" goalkeeping="0" injurytime_play="0">19.72</player_inf_score>
+          <player_inf_score id="10693" possession="6.17" attack="0.61" defense="13.17" goalkeeping="0" injurytime_play="0">19.95</player_inf_score>
+          <player_inf_score id="10695" possession="3.81" attack="-5.63" defense="9.54" goalkeeping="0" injurytime_play="0">7.72</player_inf_score>
           <player_inf_score id="10705" possession="-1.4" attack="5.25" defense="-4.49" goalkeeping="0" injurytime_play="0">-0.64</player_inf_score>
           <player_inf_score id="11509" possession="-4.69" attack="23.16" defense="3.97" goalkeeping="0" injurytime_play="0">22.44</player_inf_score>
         </time_slice>
@@ -953,7 +953,7 @@
           <team_possession team_id="315">49</team_possession>
           <team_possession team_id="48">51</team_possession>
           <player_inf_score id="67" possession="4.96" attack="0" defense="-17.5" goalkeeping="0" injurytime_play="0">-12.54</player_inf_score>
-          <player_inf_score id="341" possession="-5.35" attack="0" defense="-7.08" goalkeeping="0" injurytime_play="0">-12.43</player_inf_score>
+          <player_inf_score id="341" possession="-5.35" attack="-23.55" defense="-7.08" goalkeeping="0" injurytime_play="0">-35.98</player_inf_score>
           <player_inf_score id="413" possession="-10.66" attack="5.77" defense="-2.8" goalkeeping="0" injurytime_play="0">-7.69</player_inf_score>
           <player_inf_score id="572" possession="-5.16" attack="15" defense="-5.48" goalkeeping="0" injurytime_play="0">4.36</player_inf_score>
           <player_inf_score id="610" possession="7.49" attack="0" defense="-2.6" goalkeeping="0" injurytime_play="0">4.89</player_inf_score>
@@ -970,8 +970,8 @@
           <player_inf_score id="5231" possession="2.82" attack="0" defense="-11.5" goalkeeping="0" injurytime_play="0">-8.68</player_inf_score>
           <player_inf_score id="7342" possession="-1.65" attack="27" defense="-4.92" goalkeeping="0" injurytime_play="0">20.43</player_inf_score>
           <player_inf_score id="10686" possession="-1.3" attack="3.57" defense="-0.59" goalkeeping="0" injurytime_play="0">1.68</player_inf_score>
-          <player_inf_score id="10693" possession="5.85" attack="35.99" defense="13.17" goalkeeping="0" injurytime_play="0">55.01</player_inf_score>
-          <player_inf_score id="10695" possession="-1.1" attack="9.37" defense="9.54" goalkeeping="0" injurytime_play="0">17.81</player_inf_score>
+          <player_inf_score id="10693" possession="5.85" attack="0.61" defense="13.17" goalkeeping="0" injurytime_play="0">19.63</player_inf_score>
+          <player_inf_score id="10695" possession="1.9" attack="-5.63" defense="9.54" goalkeeping="0" injurytime_play="0">5.81</player_inf_score>
           <player_inf_score id="10705" possession="-2.48" attack="5.25" defense="-4.49" goalkeeping="0" injurytime_play="0">-1.72</player_inf_score>
           <player_inf_score id="11509" possession="-4.69" attack="23.16" defense="3.97" goalkeeping="0" injurytime_play="0">22.44</player_inf_score>
         </time_slice>
@@ -979,7 +979,7 @@
           <team_possession team_id="315">45</team_possession>
           <team_possession team_id="48">55</team_possession>
           <player_inf_score id="67" possession="6.04" attack="0" defense="-17.5" goalkeeping="0" injurytime_play="0">-11.46</player_inf_score>
-          <player_inf_score id="341" possession="-5.04" attack="0" defense="-5.68" goalkeeping="0" injurytime_play="0">-10.72</player_inf_score>
+          <player_inf_score id="341" possession="-5.04" attack="-23.55" defense="-5.68" goalkeeping="0" injurytime_play="0">-34.27</player_inf_score>
           <player_inf_score id="413" possession="-11.67" attack="5.77" defense="-10" goalkeeping="0" injurytime_play="0">-15.9</player_inf_score>
           <player_inf_score id="572" possession="-3.61" attack="22.6" defense="-5.48" goalkeeping="0" injurytime_play="0">13.51</player_inf_score>
           <player_inf_score id="610" possession="6.07" attack="0" defense="8" goalkeeping="0" injurytime_play="0">14.07</player_inf_score>
@@ -996,8 +996,8 @@
           <player_inf_score id="5231" possession="0.95" attack="0" defense="-11.5" goalkeeping="0" injurytime_play="0">-10.55</player_inf_score>
           <player_inf_score id="7342" possession="-0.68" attack="35.88" defense="-4.92" goalkeeping="0" injurytime_play="0">30.28</player_inf_score>
           <player_inf_score id="10686" possession="-2.07" attack="3.57" defense="2.71" goalkeeping="0" injurytime_play="0">4.21</player_inf_score>
-          <player_inf_score id="10693" possession="3.98" attack="35.99" defense="-1.23" goalkeeping="0" injurytime_play="0">38.74</player_inf_score>
-          <player_inf_score id="10695" possession="-0.04" attack="9.37" defense="11.08" goalkeeping="0" injurytime_play="0">20.41</player_inf_score>
+          <player_inf_score id="10693" possession="3.98" attack="0.61" defense="-1.23" goalkeeping="0" injurytime_play="0">3.36</player_inf_score>
+          <player_inf_score id="10695" possession="2.96" attack="-5.63" defense="11.08" goalkeeping="0" injurytime_play="0">8.41</player_inf_score>
           <player_inf_score id="10705" possession="-1.76" attack="11.22" defense="-4.49" goalkeeping="0" injurytime_play="0">4.97</player_inf_score>
           <player_inf_score id="11509" possession="-4.32" attack="23.16" defense="5.42" goalkeeping="0" injurytime_play="0">24.26</player_inf_score>
         </time_slice>
@@ -1007,7 +1007,7 @@
           <team_possession team_id="315" injurytime_play="1">50</team_possession>
           <team_possession team_id="48" injurytime_play="1">50</team_possession>
           <player_inf_score id="67" possession="6.41" attack="0" defense="-17.5" goalkeeping="0" injurytime_play="0">-11.09</player_inf_score>
-          <player_inf_score id="341" possession="-6.25" attack="0" defense="-11.48" goalkeeping="0" injurytime_play="0">-17.73</player_inf_score>
+          <player_inf_score id="341" possession="-6.25" attack="-23.55" defense="-11.48" goalkeeping="0" injurytime_play="0">-41.28</player_inf_score>
           <player_inf_score id="413" possession="-8.81" attack="23.27" defense="-6.7" goalkeeping="0" injurytime_play="0">7.76</player_inf_score>
           <player_inf_score id="572" possession="-1.29" attack="22.6" defense="-5.48" goalkeeping="0" injurytime_play="0">15.83</player_inf_score>
           <player_inf_score id="610" possession="6.76" attack="0" defense="8" goalkeeping="0" injurytime_play="0">14.76</player_inf_score>
@@ -1024,13 +1024,13 @@
           <player_inf_score id="5231" possession="1.63" attack="0" defense="-14.9" goalkeeping="0" injurytime_play="0">-13.27</player_inf_score>
           <player_inf_score id="7342" possession="-1.08" attack="35.88" defense="-4.92" goalkeeping="0" injurytime_play="0">29.88</player_inf_score>
           <player_inf_score id="10686" possession="-1.08" attack="3.57" defense="2.71" goalkeeping="0" injurytime_play="0">5.2</player_inf_score>
-          <player_inf_score id="10693" possession="3.22" attack="35.99" defense="1.77" goalkeeping="0" injurytime_play="0">40.98</player_inf_score>
-          <player_inf_score id="10695" possession="-0.04" attack="40.27" defense="14.08" goalkeeping="0" injurytime_play="0">54.31</player_inf_score>
+          <player_inf_score id="10693" possession="3.22" attack="0.61" defense="1.77" goalkeeping="0" injurytime_play="0">5.6</player_inf_score>
+          <player_inf_score id="10695" possession="2.96" attack="25.27" defense="14.08" goalkeeping="0" injurytime_play="0">42.31</player_inf_score>
           <player_inf_score id="10705" possession="-0.85" attack="11.22" defense="-4.49" goalkeeping="0" injurytime_play="0">5.88</player_inf_score>
           <player_inf_score id="11509" possession="-3.05" attack="33.1" defense="5.42" goalkeeping="0" injurytime_play="0">35.47</player_inf_score>
           <player_inf_score id="0" possession="0" attack="0" defense="0" goalkeeping="0" injurytime_play="1">0</player_inf_score>
           <player_inf_score id="67" possession="6.41" attack="0" defense="-17.5" goalkeeping="0" injurytime_play="1">-11.09</player_inf_score>
-          <player_inf_score id="341" possession="-6.25" attack="0" defense="-11.48" goalkeeping="0" injurytime_play="1">-17.73</player_inf_score>
+          <player_inf_score id="341" possession="-6.25" attack="-23.55" defense="-11.48" goalkeeping="0" injurytime_play="1">-41.28</player_inf_score>
           <player_inf_score id="413" possession="-8.81" attack="23.27" defense="-6.7" goalkeeping="0" injurytime_play="1">7.76</player_inf_score>
           <player_inf_score id="572" possession="-1.29" attack="22.6" defense="-5.48" goalkeeping="0" injurytime_play="1">15.83</player_inf_score>
           <player_inf_score id="610" possession="6.76" attack="0" defense="8" goalkeeping="0" injurytime_play="1">14.76</player_inf_score>
@@ -1047,8 +1047,8 @@
           <player_inf_score id="5231" possession="1.63" attack="0" defense="-14.9" goalkeeping="0" injurytime_play="1">-13.27</player_inf_score>
           <player_inf_score id="7342" possession="-1.08" attack="35.88" defense="-4.92" goalkeeping="0" injurytime_play="1">29.88</player_inf_score>
           <player_inf_score id="10686" possession="-1.08" attack="3.57" defense="2.71" goalkeeping="0" injurytime_play="1">5.2</player_inf_score>
-          <player_inf_score id="10693" possession="3.22" attack="35.99" defense="1.77" goalkeeping="0" injurytime_play="1">40.98</player_inf_score>
-          <player_inf_score id="10695" possession="-0.04" attack="40.27" defense="14.08" goalkeeping="0" injurytime_play="1">54.31</player_inf_score>
+          <player_inf_score id="10693" possession="3.22" attack="0.61" defense="1.77" goalkeeping="0" injurytime_play="1">5.6</player_inf_score>
+          <player_inf_score id="10695" possession="2.96" attack="25.27" defense="14.08" goalkeeping="0" injurytime_play="1">42.31</player_inf_score>
           <player_inf_score id="10705" possession="-0.85" attack="11.22" defense="-4.49" goalkeeping="0" injurytime_play="1">5.88</player_inf_score>
           <player_inf_score id="11509" possession="-3.05" attack="33.1" defense="5.42" goalkeeping="0" injurytime_play="1">35.47</player_inf_score>
         </time_slice>
@@ -1061,7 +1061,7 @@
           <team_possession team_id="48">46</team_possession>
           <player_inf_score id="0" possession="0" attack="0" defense="0" goalkeeping="0" injurytime_play="0">0</player_inf_score>
           <player_inf_score id="67" possession="3.76" attack="0" defense="-35" goalkeeping="0" injurytime_play="0">-31.24</player_inf_score>
-          <player_inf_score id="341" possession="-4.31" attack="0" defense="-11.48" goalkeeping="0" injurytime_play="0">-15.79</player_inf_score>
+          <player_inf_score id="341" possession="-4.31" attack="-23.55" defense="-11.48" goalkeeping="0" injurytime_play="0">-39.34</player_inf_score>
           <player_inf_score id="413" possession="-11.54" attack="23.27" defense="-6.7" goalkeeping="0" injurytime_play="0">5.03</player_inf_score>
           <player_inf_score id="572" possession="-1.29" attack="22.6" defense="-7.57" goalkeeping="0" injurytime_play="0">13.74</player_inf_score>
           <player_inf_score id="610" possession="5.72" attack="0" defense="1" goalkeeping="0" injurytime_play="0">6.72</player_inf_score>
@@ -1078,8 +1078,8 @@
           <player_inf_score id="5231" possession="-1.41" attack="0" defense="-14.9" goalkeeping="0" injurytime_play="0">-16.31</player_inf_score>
           <player_inf_score id="7342" possession="-3.99" attack="35.88" defense="-4.92" goalkeeping="0" injurytime_play="0">26.97</player_inf_score>
           <player_inf_score id="10686" possession="0.9" attack="3.57" defense="-2.89" goalkeeping="0" injurytime_play="0">1.58</player_inf_score>
-          <player_inf_score id="10693" possession="1.66" attack="35.99" defense="7.31" goalkeeping="0" injurytime_play="0">44.96</player_inf_score>
-          <player_inf_score id="10695" possession="-0.87" attack="40.27" defense="14.08" goalkeeping="0" injurytime_play="0">53.48</player_inf_score>
+          <player_inf_score id="10693" possession="1.66" attack="0.61" defense="7.31" goalkeeping="0" injurytime_play="0">9.58</player_inf_score>
+          <player_inf_score id="10695" possession="2.13" attack="25.27" defense="14.08" goalkeeping="0" injurytime_play="0">41.48</player_inf_score>
           <player_inf_score id="10705" possession="-3.8" attack="11.22" defense="-4.49" goalkeeping="0" injurytime_play="0">2.93</player_inf_score>
           <player_inf_score id="11509" possession="-3.05" attack="33.1" defense="2.57" goalkeeping="0" injurytime_play="0">32.62</player_inf_score>
         </time_slice>
@@ -1088,7 +1088,7 @@
           <team_possession team_id="48">43</team_possession>
           <player_inf_score id="0" possession="0" attack="0" defense="0" goalkeeping="0" injurytime_play="0">0</player_inf_score>
           <player_inf_score id="67" possession="3.76" attack="0" defense="-35" goalkeeping="0" injurytime_play="0">-31.24</player_inf_score>
-          <player_inf_score id="341" possession="-5.08" attack="0" defense="-7.08" goalkeeping="0" injurytime_play="0">-12.16</player_inf_score>
+          <player_inf_score id="341" possession="-5.08" attack="-23.55" defense="-7.08" goalkeeping="0" injurytime_play="0">-35.71</player_inf_score>
           <player_inf_score id="413" possession="-11.3" attack="23.27" defense="-6.7" goalkeeping="0" injurytime_play="0">5.27</player_inf_score>
           <player_inf_score id="572" possession="-3.41" attack="22.6" defense="-7.57" goalkeeping="0" injurytime_play="0">11.62</player_inf_score>
           <player_inf_score id="610" possession="2.19" attack="0" defense="1" goalkeeping="0" injurytime_play="0">3.19</player_inf_score>
@@ -1105,8 +1105,8 @@
           <player_inf_score id="5231" possession="-4.39" attack="0" defense="-14.9" goalkeeping="0" injurytime_play="0">-19.29</player_inf_score>
           <player_inf_score id="7342" possession="-6.67" attack="35.88" defense="-1.29" goalkeeping="0" injurytime_play="0">27.92</player_inf_score>
           <player_inf_score id="10686" possession="-4.84" attack="3.57" defense="-2.89" goalkeeping="0" injurytime_play="0">-4.16</player_inf_score>
-          <player_inf_score id="10693" possession="2.31" attack="35.99" defense="7.31" goalkeeping="0" injurytime_play="0">45.61</player_inf_score>
-          <player_inf_score id="10695" possession="0.74" attack="40.27" defense="14.08" goalkeeping="0" injurytime_play="0">55.09</player_inf_score>
+          <player_inf_score id="10693" possession="2.31" attack="0.61" defense="7.31" goalkeeping="0" injurytime_play="0">10.23</player_inf_score>
+          <player_inf_score id="10695" possession="3.74" attack="25.27" defense="14.08" goalkeeping="0" injurytime_play="0">43.09</player_inf_score>
           <player_inf_score id="10705" possession="-4.95" attack="12.89" defense="-4.49" goalkeeping="0" injurytime_play="0">3.45</player_inf_score>
           <player_inf_score id="11509" possession="-2.28" attack="33.1" defense="5.87" goalkeeping="0" injurytime_play="0">36.69</player_inf_score>
         </time_slice>
@@ -1115,7 +1115,7 @@
           <team_possession team_id="48">42</team_possession>
           <player_inf_score id="0" possession="0" attack="0" defense="0" goalkeeping="0" injurytime_play="0">0</player_inf_score>
           <player_inf_score id="67" possession="3.95" attack="0" defense="-35" goalkeeping="0" injurytime_play="0">-31.05</player_inf_score>
-          <player_inf_score id="341" possession="-1.92" attack="0" defense="-2.68" goalkeeping="0" injurytime_play="0">-4.6</player_inf_score>
+          <player_inf_score id="341" possession="-1.92" attack="-23.55" defense="-2.68" goalkeeping="0" injurytime_play="0">-28.15</player_inf_score>
           <player_inf_score id="413" possession="-3.83" attack="23.27" defense="-6.7" goalkeeping="0" injurytime_play="0">12.74</player_inf_score>
           <player_inf_score id="572" possession="-4.49" attack="22.6" defense="-3.97" goalkeeping="0" injurytime_play="0">14.14</player_inf_score>
           <player_inf_score id="610" possession="1.35" attack="0" defense="1" goalkeeping="0" injurytime_play="0">2.35</player_inf_score>
@@ -1132,8 +1132,8 @@
           <player_inf_score id="5231" possession="-2.88" attack="0" defense="-5.7" goalkeeping="0" injurytime_play="0">-8.58</player_inf_score>
           <player_inf_score id="7342" possession="-11.43" attack="35.88" defense="0.39" goalkeeping="0" injurytime_play="0">24.84</player_inf_score>
           <player_inf_score id="10686" possession="-5.71" attack="3.57" defense="-2.89" goalkeeping="0" injurytime_play="0">-5.03</player_inf_score>
-          <player_inf_score id="10693" possession="6.32" attack="35.99" defense="10.31" goalkeeping="0" injurytime_play="0">52.62</player_inf_score>
-          <player_inf_score id="10695" possession="1.08" attack="40.27" defense="14.08" goalkeeping="0" injurytime_play="0">55.43</player_inf_score>
+          <player_inf_score id="10693" possession="6.32" attack="0.61" defense="10.31" goalkeeping="0" injurytime_play="0">17.24</player_inf_score>
+          <player_inf_score id="10695" possession="4.08" attack="25.27" defense="14.08" goalkeeping="0" injurytime_play="0">43.43</player_inf_score>
           <player_inf_score id="10705" possession="-8.4" attack="12.89" defense="-4.49" goalkeeping="0" injurytime_play="0">0</player_inf_score>
           <player_inf_score id="11509" possession="-9.07" attack="33.1" defense="5.87" goalkeeping="0" injurytime_play="0">29.9</player_inf_score>
         </time_slice>
@@ -1764,7 +1764,7 @@
           </players_in_ground>
           <player_inf_score id="0" possession="0" attack="0" defense="0" goalkeeping="0" injurytime_play="0">0</player_inf_score>
           <player_inf_score id="67" possession="3.69" attack="0" defense="-35" goalkeeping="0" injurytime_play="0">-31.31</player_inf_score>
-          <player_inf_score id="341" possession="-0.21" attack="-2.31" defense="-2.68" goalkeeping="0" injurytime_play="0">-5.2</player_inf_score>
+          <player_inf_score id="341" possession="-0.21" attack="-25.86" defense="-2.68" goalkeeping="0" injurytime_play="0">-28.75</player_inf_score>
           <player_inf_score id="413" possession="-3.48" attack="23.27" defense="-6.7" goalkeeping="0" injurytime_play="0">13.09</player_inf_score>
           <player_inf_score id="572" possession="-3.82" attack="22.6" defense="-3.97" goalkeeping="0" injurytime_play="0">14.81</player_inf_score>
           <player_inf_score id="610" possession="2.08" attack="0" defense="5" goalkeeping="0" injurytime_play="0">7.08</player_inf_score>
@@ -1782,8 +1782,8 @@
           <player_inf_score id="7342" possession="-15.99" attack="35.88" defense="0.39" goalkeeping="0" injurytime_play="0">20.28</player_inf_score>
           <player_inf_score id="10242" possession="1.15" attack="0" defense="0" goalkeeping="0" injurytime_play="0">1.15</player_inf_score>
           <player_inf_score id="10686" possession="-3.42" attack="3.57" defense="-0.09" goalkeeping="0" injurytime_play="0">0.06</player_inf_score>
-          <player_inf_score id="10693" possession="4.12" attack="35.99" defense="10.31" goalkeeping="0" injurytime_play="0">50.42</player_inf_score>
-          <player_inf_score id="10695" possession="-0.95" attack="40.27" defense="14.08" goalkeeping="0" injurytime_play="0">53.4</player_inf_score>
+          <player_inf_score id="10693" possession="4.12" attack="0.61" defense="10.31" goalkeeping="0" injurytime_play="0">15.04</player_inf_score>
+          <player_inf_score id="10695" possession="2.05" attack="25.27" defense="14.08" goalkeeping="0" injurytime_play="0">41.4</player_inf_score>
           <player_inf_score id="10705" possession="-5.41" attack="12.89" defense="-4.49" goalkeeping="0" injurytime_play="0">2.99</player_inf_score>
           <player_inf_score id="10707" possession="-1.97" attack="-3" defense="0" goalkeeping="0" injurytime_play="0">-4.97</player_inf_score>
           <player_inf_score id="11509" possession="-10.59" attack="33.1" defense="9.17" goalkeeping="0" injurytime_play="0">31.68</player_inf_score>
@@ -1793,7 +1793,7 @@
           <team_possession team_id="48">46</team_possession>
           <player_inf_score id="0" possession="0" attack="0" defense="0" goalkeeping="0" injurytime_play="0">0</player_inf_score>
           <player_inf_score id="67" possession="4.57" attack="0" defense="-30.58" goalkeeping="0" injurytime_play="0">-26.01</player_inf_score>
-          <player_inf_score id="341" possession="-1.42" attack="-2.31" defense="3.52" goalkeeping="0" injurytime_play="0">-0.21</player_inf_score>
+          <player_inf_score id="341" possession="-1.42" attack="-25.86" defense="3.52" goalkeeping="0" injurytime_play="0">-23.76</player_inf_score>
           <player_inf_score id="413" possession="-3.48" attack="23.27" defense="-6.7" goalkeeping="0" injurytime_play="0">13.09</player_inf_score>
           <player_inf_score id="572" possession="-3.82" attack="22.6" defense="-3.97" goalkeeping="0" injurytime_play="0">14.81</player_inf_score>
           <player_inf_score id="610" possession="1.42" attack="0" defense="5" goalkeeping="0" injurytime_play="0">6.42</player_inf_score>
@@ -1811,8 +1811,8 @@
           <player_inf_score id="7342" possession="-19.94" attack="30.17" defense="0.39" goalkeeping="0" injurytime_play="0">10.62</player_inf_score>
           <player_inf_score id="10242" possession="1.37" attack="0" defense="0" goalkeeping="0" injurytime_play="0">1.37</player_inf_score>
           <player_inf_score id="10686" possession="-3.42" attack="3.57" defense="-0.09" goalkeeping="0" injurytime_play="0">0.06</player_inf_score>
-          <player_inf_score id="10693" possession="8.09" attack="33.16" defense="14.31" goalkeeping="0" injurytime_play="0">55.56</player_inf_score>
-          <player_inf_score id="10695" possession="-0.75" attack="37.79" defense="15.62" goalkeeping="0" injurytime_play="0">52.66</player_inf_score>
+          <player_inf_score id="10693" possession="8.09" attack="-2.22" defense="14.31" goalkeeping="0" injurytime_play="0">20.18</player_inf_score>
+          <player_inf_score id="10695" possession="2.25" attack="22.79" defense="15.62" goalkeeping="0" injurytime_play="0">40.66</player_inf_score>
           <player_inf_score id="10705" possession="-5.7" attack="19.42" defense="-0.86" goalkeeping="0" injurytime_play="0">12.86</player_inf_score>
           <player_inf_score id="10707" possession="-5.47" attack="-5.48" defense="0" goalkeeping="0" injurytime_play="0">-10.95</player_inf_score>
           <player_inf_score id="11509" possession="-11.63" attack="38.35" defense="9.17" goalkeeping="0" injurytime_play="0">35.89</player_inf_score>
@@ -1822,7 +1822,7 @@
           <team_possession team_id="48">46</team_possession>
           <player_inf_score id="0" possession="0" attack="0" defense="0" goalkeeping="0" injurytime_play="0">0</player_inf_score>
           <player_inf_score id="67" possession="2.55" attack="0" defense="-30.58" goalkeeping="0" injurytime_play="0">-28.03</player_inf_score>
-          <player_inf_score id="341" possession="-1.42" attack="-2.31" defense="3.52" goalkeeping="0" injurytime_play="0">-0.21</player_inf_score>
+          <player_inf_score id="341" possession="-1.42" attack="-25.86" defense="3.52" goalkeeping="0" injurytime_play="0">-23.76</player_inf_score>
           <player_inf_score id="413" possession="-3.48" attack="23.27" defense="-6.7" goalkeeping="0" injurytime_play="0">13.09</player_inf_score>
           <player_inf_score id="572" possession="0.4" attack="22.6" defense="-3.97" goalkeeping="0" injurytime_play="0">19.03</player_inf_score>
           <player_inf_score id="610" possession="2.08" attack="0" defense="5.28" goalkeeping="0" injurytime_play="0">7.36</player_inf_score>
@@ -1840,8 +1840,8 @@
           <player_inf_score id="7342" possession="-23.87" attack="30.17" defense="0.39" goalkeeping="0" injurytime_play="0">6.69</player_inf_score>
           <player_inf_score id="10242" possession="1.79" attack="0" defense="0" goalkeeping="0" injurytime_play="0">1.79</player_inf_score>
           <player_inf_score id="10686" possession="-3.81" attack="3.57" defense="-0.09" goalkeeping="0" injurytime_play="0">-0.33</player_inf_score>
-          <player_inf_score id="10693" possession="9.92" attack="33.16" defense="14.31" goalkeeping="0" injurytime_play="0">57.39</player_inf_score>
-          <player_inf_score id="10695" possession="-0.98" attack="37.79" defense="15.62" goalkeeping="0" injurytime_play="0">52.43</player_inf_score>
+          <player_inf_score id="10693" possession="9.92" attack="-2.22" defense="14.31" goalkeeping="0" injurytime_play="0">22.01</player_inf_score>
+          <player_inf_score id="10695" possession="2.02" attack="22.79" defense="15.62" goalkeeping="0" injurytime_play="0">40.43</player_inf_score>
           <player_inf_score id="10705" possession="-5.7" attack="19.42" defense="-0.86" goalkeeping="0" injurytime_play="0">12.86</player_inf_score>
           <player_inf_score id="10707" possession="-5.98" attack="-5.48" defense="0" goalkeeping="0" injurytime_play="0">-11.46</player_inf_score>
           <player_inf_score id="11509" possession="-15.42" attack="38.35" defense="9.17" goalkeeping="0" injurytime_play="0">32.1</player_inf_score>
@@ -2469,7 +2469,7 @@
           </swap_players>
           <player_inf_score id="0" possession="0" attack="0" defense="0" goalkeeping="0" injurytime_play="0">0</player_inf_score>
           <player_inf_score id="67" possession="3.19" attack="0" defense="-30.58" goalkeeping="0" injurytime_play="0">-27.39</player_inf_score>
-          <player_inf_score id="341" possession="0.42" attack="-2.31" defense="5.95" goalkeeping="0" injurytime_play="0">4.06</player_inf_score>
+          <player_inf_score id="341" possession="0.42" attack="-25.86" defense="5.95" goalkeeping="0" injurytime_play="0">-19.49</player_inf_score>
           <player_inf_score id="413" possession="-3.48" attack="23.27" defense="-6.7" goalkeeping="0" injurytime_play="0">13.09</player_inf_score>
           <player_inf_score id="572" possession="-0.5" attack="22.6" defense="-3.97" goalkeeping="0" injurytime_play="0">18.13</player_inf_score>
           <player_inf_score id="610" possession="2.78" attack="0" defense="13.28" goalkeeping="0" injurytime_play="0">16.06</player_inf_score>
@@ -2488,8 +2488,8 @@
           <player_inf_score id="10014" possession="0.7" attack="0" defense="0" goalkeeping="0" injurytime_play="0">0.7</player_inf_score>
           <player_inf_score id="10242" possession="5.41" attack="0" defense="0" goalkeeping="0" injurytime_play="0">5.41</player_inf_score>
           <player_inf_score id="10686" possession="-3.44" attack="3.57" defense="-2.6" goalkeeping="0" injurytime_play="0">-2.47</player_inf_score>
-          <player_inf_score id="10693" possession="11.82" attack="33.16" defense="17.31" goalkeeping="0" injurytime_play="0">62.29</player_inf_score>
-          <player_inf_score id="10695" possession="-0.77" attack="37.79" defense="15.62" goalkeeping="0" injurytime_play="0">52.64</player_inf_score>
+          <player_inf_score id="10693" possession="11.82" attack="-2.22" defense="17.31" goalkeeping="0" injurytime_play="0">26.91</player_inf_score>
+          <player_inf_score id="10695" possession="2.23" attack="22.79" defense="15.62" goalkeeping="0" injurytime_play="0">40.64</player_inf_score>
           <player_inf_score id="10705" possession="-6.08" attack="24.67" defense="-0.86" goalkeeping="0" injurytime_play="0">17.73</player_inf_score>
           <player_inf_score id="10707" possession="-3.84" attack="-5.48" defense="0" goalkeeping="0" injurytime_play="0">-9.32</player_inf_score>
           <player_inf_score id="11509" possession="-16.47" attack="38.35" defense="9.17" goalkeeping="0" injurytime_play="0">31.05</player_inf_score>
@@ -3118,7 +3118,7 @@
           <player_inf_score id="0" possession="0" attack="0" defense="0" goalkeeping="0" injurytime_play="0">0</player_inf_score>
           <player_inf_score id="67" possession="3.62" attack="0" defense="-30.58" goalkeeping="0" injurytime_play="0">-26.96</player_inf_score>
           <player_inf_score id="275" possession="0" attack="-2.36" defense="0" goalkeeping="0" injurytime_play="0">-2.36</player_inf_score>
-          <player_inf_score id="341" possession="0.42" attack="-2.31" defense="7.15" goalkeeping="0" injurytime_play="0">5.26</player_inf_score>
+          <player_inf_score id="341" possession="0.42" attack="-25.86" defense="7.15" goalkeeping="0" injurytime_play="0">-18.29</player_inf_score>
           <player_inf_score id="413" possession="-3.48" attack="23.27" defense="-6.7" goalkeeping="0" injurytime_play="0">13.09</player_inf_score>
           <player_inf_score id="572" possession="-4.7" attack="22.6" defense="-2.43" goalkeeping="0" injurytime_play="0">15.47</player_inf_score>
           <player_inf_score id="610" possession="1.83" attack="0" defense="13.28" goalkeeping="0" injurytime_play="0">15.11</player_inf_score>
@@ -3137,8 +3137,8 @@
           <player_inf_score id="10014" possession="-2.25" attack="1.71" defense="-2.19" goalkeeping="0" injurytime_play="0">-2.73</player_inf_score>
           <player_inf_score id="10242" possession="5.91" attack="0" defense="0" goalkeeping="0" injurytime_play="0">5.91</player_inf_score>
           <player_inf_score id="10686" possession="-3.44" attack="1.09" defense="12.21" goalkeeping="0" injurytime_play="0">9.86</player_inf_score>
-          <player_inf_score id="10693" possession="12.7" attack="33.16" defense="14.9" goalkeeping="0" injurytime_play="0">60.76</player_inf_score>
-          <player_inf_score id="10695" possession="1.4" attack="37.79" defense="15.62" goalkeeping="0" injurytime_play="0">54.81</player_inf_score>
+          <player_inf_score id="10693" possession="12.7" attack="-2.22" defense="14.9" goalkeeping="0" injurytime_play="0">25.38</player_inf_score>
+          <player_inf_score id="10695" possession="4.4" attack="22.79" defense="15.62" goalkeeping="0" injurytime_play="0">42.81</player_inf_score>
           <player_inf_score id="10705" possession="-5.56" attack="24.67" defense="-0.86" goalkeeping="0" injurytime_play="0">18.25</player_inf_score>
           <player_inf_score id="10707" possession="-1.93" attack="-5.48" defense="8.2" goalkeeping="0" injurytime_play="0">0.79</player_inf_score>
           <player_inf_score id="11509" possession="-15.33" attack="42.23" defense="9.17" goalkeeping="0" injurytime_play="0">36.07</player_inf_score>
@@ -3773,7 +3773,7 @@
           <player_inf_score id="0" possession="0" attack="0" defense="0" goalkeeping="0" injurytime_play="0">0</player_inf_score>
           <player_inf_score id="67" possession="3.62" attack="0" defense="-30.58" goalkeeping="0" injurytime_play="0">-26.96</player_inf_score>
           <player_inf_score id="275" possession="0" attack="-2.36" defense="0" goalkeeping="0" injurytime_play="0">-2.36</player_inf_score>
-          <player_inf_score id="341" possession="0.37" attack="-2.31" defense="-0.15" goalkeeping="0" injurytime_play="0">-2.09</player_inf_score>
+          <player_inf_score id="341" possession="0.37" attack="-25.86" defense="-0.15" goalkeeping="0" injurytime_play="0">-25.64</player_inf_score>
           <player_inf_score id="413" possession="-3.48" attack="23.27" defense="-6.7" goalkeeping="0" injurytime_play="0">13.09</player_inf_score>
           <player_inf_score id="572" possession="-4.7" attack="22.6" defense="-2.43" goalkeeping="0" injurytime_play="0">15.47</player_inf_score>
           <player_inf_score id="610" possession="0.14" attack="0" defense="13.28" goalkeeping="0" injurytime_play="0">13.42</player_inf_score>
@@ -3792,15 +3792,15 @@
           <player_inf_score id="10014" possession="-2.1" attack="1.71" defense="-2.19" goalkeeping="0" injurytime_play="0">-2.58</player_inf_score>
           <player_inf_score id="10242" possession="2.55" attack="0" defense="0" goalkeeping="0" injurytime_play="0">2.55</player_inf_score>
           <player_inf_score id="10686" possession="-6.49" attack="7.92" defense="12.21" goalkeeping="0" injurytime_play="0">13.64</player_inf_score>
-          <player_inf_score id="10693" possession="11.92" attack="33.16" defense="19.7" goalkeeping="0" injurytime_play="0">64.78</player_inf_score>
-          <player_inf_score id="10695" possession="0.32" attack="37.79" defense="15.62" goalkeeping="0" injurytime_play="0">53.73</player_inf_score>
+          <player_inf_score id="10693" possession="11.92" attack="-2.22" defense="19.7" goalkeeping="0" injurytime_play="0">29.4</player_inf_score>
+          <player_inf_score id="10695" possession="3.32" attack="22.79" defense="15.62" goalkeeping="0" injurytime_play="0">41.73</player_inf_score>
           <player_inf_score id="10705" possession="-5.56" attack="24.67" defense="-0.86" goalkeeping="0" injurytime_play="0">18.25</player_inf_score>
           <player_inf_score id="10707" possession="-2.15" attack="-5.48" defense="8.2" goalkeeping="0" injurytime_play="0">0.57</player_inf_score>
           <player_inf_score id="11509" possession="-17.39" attack="39.75" defense="18.08" goalkeeping="0" injurytime_play="0">40.44</player_inf_score>
           <player_inf_score id="0" possession="0" attack="0" defense="0" goalkeeping="0" injurytime_play="1">0</player_inf_score>
           <player_inf_score id="67" possession="4.11" attack="0" defense="-30.58" goalkeeping="0" injurytime_play="1">-26.47</player_inf_score>
           <player_inf_score id="275" possession="0" attack="-2.36" defense="0" goalkeeping="0" injurytime_play="1">-2.36</player_inf_score>
-          <player_inf_score id="341" possession="0.37" attack="-2.31" defense="-0.15" goalkeeping="0" injurytime_play="1">-2.09</player_inf_score>
+          <player_inf_score id="341" possession="0.37" attack="-25.86" defense="-0.15" goalkeeping="0" injurytime_play="1">-25.64</player_inf_score>
           <player_inf_score id="413" possession="-3.48" attack="23.27" defense="-6.7" goalkeeping="0" injurytime_play="1">13.09</player_inf_score>
           <player_inf_score id="463" possession="-3.94" attack="3.57" defense="0" goalkeeping="0" injurytime_play="1">-0.37</player_inf_score>
           <player_inf_score id="572" possession="-4.7" attack="22.6" defense="-10.23" goalkeeping="0" injurytime_play="1">7.67</player_inf_score>
@@ -3821,8 +3821,8 @@
           <player_inf_score id="10014" possession="1.79" attack="1.71" defense="-2.19" goalkeeping="0" injurytime_play="1">1.31</player_inf_score>
           <player_inf_score id="10242" possession="1.37" attack="0" defense="0" goalkeeping="0" injurytime_play="1">1.37</player_inf_score>
           <player_inf_score id="10686" possession="-7.17" attack="7.92" defense="12.21" goalkeeping="0" injurytime_play="1">12.96</player_inf_score>
-          <player_inf_score id="10693" possession="11.53" attack="33.16" defense="19.7" goalkeeping="0" injurytime_play="1">64.39</player_inf_score>
-          <player_inf_score id="10695" possession="0.32" attack="37.79" defense="15.62" goalkeeping="0" injurytime_play="1">53.73</player_inf_score>
+          <player_inf_score id="10693" possession="11.53" attack="-2.22" defense="19.7" goalkeeping="0" injurytime_play="1">29.01</player_inf_score>
+          <player_inf_score id="10695" possession="3.32" attack="22.79" defense="15.62" goalkeeping="0" injurytime_play="1">41.73</player_inf_score>
           <player_inf_score id="10705" possession="1.87" attack="24.67" defense="-0.86" goalkeeping="0" injurytime_play="1">25.68</player_inf_score>
           <player_inf_score id="10707" possession="1.06" attack="8.27" defense="8.2" goalkeeping="0" injurytime_play="1">17.53</player_inf_score>
           <player_inf_score id="11509" possession="-20.51" attack="36.45" defense="18.08" goalkeeping="0" injurytime_play="1">34.02</player_inf_score>
@@ -3914,13 +3914,12 @@
           <ga_result team_id="315" goal="0" save="0" off_target="1" blocked="0" wood_work="0" headed="0" shot="0">0/1</ga_result>
           <ga_result team_id="48" goal="0" save="0" off_target="0" blocked="0" wood_work="0" headed="0" shot="0">0/0</ga_result>
         </time_slice>
-        <time_slice name="25 - 30" id="6" attempts_count="4">
-          <event type="goal" player_id="10693" team_id="315" action_type="Attack" mins="29" secs="58" minsec="1798" uid="1702346123">
-            <assist_1 x="75.5" y="70.7" x2="74.1" y2="42.1" min="29">10695</assist_1>
-            <passlinks>[{"type":"completed_pass","sub_type":"","swere":"","period":"1","headed":0,"start_x":85.5,"start_y":49.8,"end_x":75.2,"end_y":44.7,"club_id":"48","player_id":"896","player_name":"Yacob","photo":"uploaded_icons\/players\/thumb\/p896c48j5.jpg","side":"away","min":"28","sec":"50","minsec":"1730"},{"type":"balltouch","outcome":"0","end_x":70.4,"end_y":45.8,"start_x":70.4,"start_y":45.8,"club_id":"48","player_id":"886","player_name":"Berahino","photo":"uploaded_icons\/players\/thumb\/p886c48j18.jpg","side":"away","min":"28","sec":"51","minsec":"1731"},{"type":"failed_pass","sub_type":"","swere":"","period":"1","headed":0,"start_x":"70.4","start_y":"32.3","end_x":"93.7","end_y":"63.6","club_id":"315","player_id":"413","player_name":"Albrighton","photo":"uploaded_icons\/players\/thumb\/p413c315j11.jpg","side":"home","min":"29","sec":"27","minsec":"1767"},{"type":"completed_pass","sub_type":"corner","swere":"","period":"1","headed":0,"start_x":"99.5","start_y":"99.5","end_x":"91.6","end_y":"98.5","club_id":"315","player_id":"413","player_name":"Albrighton","photo":"uploaded_icons\/players\/thumb\/p413c315j11.jpg","side":"home","min":"29","sec":"51","minsec":"1791"},{"type":"completed_pass","sub_type":"","swere":"","period":"1","headed":0,"start_x":"90.1","start_y":"92.5","end_x":"75.4","end_y":"70.6","club_id":"315","player_id":"11509","player_name":"Mahrez","photo":"uploaded_icons\/players\/thumb\/p11509c315j26.jpg","side":"home","min":"29","sec":"54","minsec":"1794"},{"type":"assists_pass","sub_type":"","swere":"","period":"1","headed":0,"start_x":"75.5","start_y":"70.7","end_x":"74.1","end_y":"42.1","club_id":"315","player_id":"10695","player_name":"Andy King","photo":"uploaded_icons\/players\/thumb\/p10695c315j10.jpg","side":"home","min":"29","sec":"56","minsec":"1796"},{"type":"goal","sub_type":"","period":"1","player_id":"10693","goal_min":30,"start_x":"74.9","start_y":"40.6","is_own":0,"end_x":"53.9","end_y":"28.5","gmouth_y":"53.9","gmouth_z":"28.5","swere":"","penalty_goal":0,"club_id":"315","player_name":"Drinkwater","photo":"uploaded_icons\/players\/thumb\/p10693c315j4.jpg","side":"home","min":"29","sec":"58","minsec":"1798"}]</passlinks>
-            <start>53.9,28.5</start>
-            <end>74.9,40.6</end>
-            <coordinates start_x="74.9" start_y="40.6" gmouth_y="53.9" gmouth_z="28.5"/>
+        <time_slice name="25 - 30" id="6" attempts_count="5">
+          <event type="goal" player_id="341" team_id="315" action_type="Attack" mins="29" secs="59" minsec="1799" uid="181570606" is_own="yes">
+            <passlinks>[{"type":"completed_pass","sub_type":"","swere":"","period":"1","headed":0,"start_x":85.5,"start_y":49.8,"end_x":75.2,"end_y":44.7,"club_id":"48","player_id":"896","player_name":"Yacob","photo":"uploaded_icons\/players\/thumb\/p896c48j5.jpg","side":"away","min":"28","sec":"50","minsec":"1730"},{"type":"balltouch","outcome":"0","end_x":70.4,"end_y":45.8,"start_x":70.4,"start_y":45.8,"club_id":"48","player_id":"886","player_name":"Berahino","photo":"uploaded_icons\/players\/thumb\/p886c48j18.jpg","side":"away","min":"28","sec":"51","minsec":"1731"},{"type":"failed_pass","sub_type":"","swere":"","period":"1","headed":0,"start_x":"70.4","start_y":"32.3","end_x":"93.7","end_y":"63.6","club_id":"315","player_id":"413","player_name":"Albrighton","photo":"uploaded_icons\/players\/thumb\/p413c315j11.jpg","side":"home","min":"29","sec":"27","minsec":"1767"},{"type":"completed_pass","sub_type":"corner","swere":"","period":"1","headed":0,"start_x":"99.5","start_y":"99.5","end_x":"91.6","end_y":"98.5","club_id":"315","player_id":"413","player_name":"Albrighton","photo":"uploaded_icons\/players\/thumb\/p413c315j11.jpg","side":"home","min":"29","sec":"51","minsec":"1791"},{"type":"completed_pass","sub_type":"","swere":"","period":"1","headed":0,"start_x":"90.1","start_y":"92.5","end_x":"75.4","end_y":"70.6","club_id":"315","player_id":"11509","player_name":"Mahrez","photo":"uploaded_icons\/players\/thumb\/p11509c315j26.jpg","side":"home","min":"29","sec":"54","minsec":"1794"},{"type":"assists_pass","sub_type":"","swere":"","period":"1","headed":0,"start_x":"75.5","start_y":"70.7","end_x":"74.1","end_y":"42.1","club_id":"315","player_id":"10695","player_name":"Andy King","photo":"uploaded_icons\/players\/thumb\/p10695c315j10.jpg","side":"home","min":"29","sec":"56","minsec":"1796"},{"type":"goal","sub_type":"","period":"1","player_id":"341","goal_min":30,"start_x":84.7,"start_y":48.7,"is_own":1,"end_x":46.2,"end_y":66.5,"gmouth_y":"53.8","gmouth_z":"33.5","swere":"","penalty_goal":0,"club_id":"48","player_name":"Jonas Olsson","photo":"uploaded_icons\/players\/thumb\/p341c48j3.jpg","side":"home","min":"29","sec":"59","minsec":"1799"}]</passlinks>
+            <start>53.8,33.5</start>
+            <end>15.3,51.3</end>
+            <coordinates start_x="15.3" start_y="51.3" gmouth_y="53.8" gmouth_z="33.5"/>
             <shot>true</shot>
           </event>
           <event type="save" player_id="10705" team_id="315" action_type="Attack" mins="26" secs="31" minsec="1591">
@@ -3929,6 +3928,12 @@
             <end>91.9,46</end>
             <coordinates start_x="91.9" start_y="46" end_x="98.5" end_y="49.8" gmouth_y="49.9" gmouth_z="17.1"/>
             <headed>true</headed>
+          </event>
+          <event type="off_target" player_id="10693" team_id="315" action_type="Attack" mins="29" secs="58" minsec="1798">
+            <start>59.5,6.9</start>
+            <end>71.9,39.2</end>
+            <coordinates start_x="71.9" start_y="39.2" gmouth_y="59.5" gmouth_z="6.9"/>
+            <shot>true</shot>
           </event>
           <event type="blocked" player_id="11509" team_id="315" action_type="Attack" mins="25" secs="53" minsec="1553">
             <start>98,38.1</start>
@@ -3944,8 +3949,8 @@
             <coordinates start_x="77.6" start_y="43.3" end_x="79.5" end_y="43.7" gmouth_y="" gmouth_z=""/>
             <shot>true</shot>
           </event>
-          <ga_result team_id="315" goal="1" save="1" off_target="0" blocked="2" wood_work="0" headed="0" shot="0">1/4</ga_result>
-          <ga_result team_id="48" goal="0" save="0" off_target="0" blocked="0" wood_work="0" headed="0" shot="0">0/0</ga_result>
+          <ga_result team_id="315" goal="0" save="1" off_target="1" blocked="2" wood_work="0" headed="0" shot="0">0/4</ga_result>
+          <ga_result team_id="48" goal="1" save="0" off_target="0" blocked="0" wood_work="0" headed="0" shot="0">1/1</ga_result>
         </time_slice>
         <time_slice name="35 - 40" id="8" attempts_count="2">
           <event type="blocked" player_id="7342" team_id="48" action_type="Attack" mins="39" secs="4" minsec="2344">
@@ -4654,6 +4659,20 @@
           </action_area>
         </time_slice>
         <time_slice name="25 - 30" id="6">
+          <action_area id="12">
+            <aa_team id="48">18</aa_team>
+            <aa_team id="315">11</aa_team>
+            <aa_player id="341" team_id="48">4</aa_player>
+            <aa_player id="413" team_id="315">6</aa_player>
+            <aa_player id="884" team_id="48">2</aa_player>
+            <aa_player id="896" team_id="48">2</aa_player>
+            <aa_player id="887" team_id="48">2</aa_player>
+            <aa_player id="800" team_id="48">4</aa_player>
+            <aa_player id="889" team_id="48">4</aa_player>
+            <aa_player id="10705" team_id="315">1</aa_player>
+            <aa_player id="11509" team_id="315">3</aa_player>
+            <aa_player id="10693" team_id="315">1</aa_player>
+          </action_area>
           <action_area id="11">
             <aa_team id="315">10</aa_team>
             <aa_team id="48">2</aa_team>
@@ -4670,20 +4689,6 @@
             <aa_team id="315">2</aa_team>
             <aa_player id="11509" team_id="315">1</aa_player>
             <aa_player id="413" team_id="315">1</aa_player>
-          </action_area>
-          <action_area id="12">
-            <aa_team id="315">11</aa_team>
-            <aa_team id="48">17</aa_team>
-            <aa_player id="413" team_id="315">6</aa_player>
-            <aa_player id="884" team_id="48">2</aa_player>
-            <aa_player id="896" team_id="48">2</aa_player>
-            <aa_player id="887" team_id="48">2</aa_player>
-            <aa_player id="800" team_id="48">4</aa_player>
-            <aa_player id="889" team_id="48">4</aa_player>
-            <aa_player id="341" team_id="48">3</aa_player>
-            <aa_player id="10705" team_id="315">1</aa_player>
-            <aa_player id="11509" team_id="315">3</aa_player>
-            <aa_player id="10693" team_id="315">1</aa_player>
           </action_area>
           <action_area id="10">
             <aa_team id="48">1</aa_team>
@@ -7909,7 +7914,7 @@
           <ap_result team_id="48" completed="6" failed="7" assists="0" longball="0" headed="0" through_ball="0" throw_ins="1">6/13</ap_result>
         </time_slice>
         <time_slice name="25 - 30" id="6">
-          <event type="completed" player_id="10695" team_id="315" action_type="Possession" mins="29" secs="56" minsec="1796" a="1" throw_ins="0">
+          <event type="completed" player_id="10695" team_id="315" action_type="Possession" mins="29" secs="56" minsec="1796" k="1" throw_ins="0">
             <start>75.5,70.7</start>
             <end>74.1,42.1</end>
             <assists>true</assists>
@@ -11034,12 +11039,6 @@
       </keepersweeper>
       <oneonones/>
       <setpieces>
-        <time_slice name="25 - 30" id="6">
-          <event player_id="10693" mins="29" secs="58" minsec="1798" team="315" gy="53.9" gz="28.5" uid="1702346123" type="corner">
-            <loc>74.9,40.6</loc>
-            <pass player_id="10695" team="315" minsec="1796" sx="75.5" sy="70.7" ex="74.1" ey="42.1"/>
-          </event>
-        </time_slice>
         <time_slice name="45 - 50" id="10">
           <event player_id="800" mins="49" secs="26" minsec="2966" team="48" gy="54.4" gz="31.6" uid="1326851467" type="direct">
             <loc>75.1,50.9</loc>
@@ -12719,7 +12718,7 @@
         </time_slice>
         <time_slice name="30 - 35" id="7">
           <event type="out" player_id="341" team_id="48" action_type="" mins="34" secs="59" minsec="2099">
-            <start>30.1,29.9</start>
+            <start>15.3,51.3</start>
             <end>17.7,-1.8</end>
           </event>
           <event type="out" player_id="5231" team_id="48" action_type="" mins="34" secs="12" minsec="2052">
@@ -12823,7 +12822,7 @@
             <end>24.2,-1.4</end>
           </event>
           <event type="out" player_id="341" team_id="48" action_type="" mins="50" secs="24" minsec="3024">
-            <start>30.1,29.9</start>
+            <start>15.3,51.3</start>
             <end>30.3,101.7</end>
           </event>
           <bo_result team_id="315">3</bo_result>
@@ -12871,7 +12870,7 @@
             <end>28.3,101.3</end>
           </event>
           <event type="out" player_id="341" team_id="48" action_type="" mins="62" secs="33" minsec="3753">
-            <start>30.1,29.9</start>
+            <start>15.3,51.3</start>
             <end>102,38.8</end>
           </event>
           <event type="out" player_id="610" team_id="315" action_type="" mins="61" secs="39" minsec="3699">
@@ -12907,7 +12906,7 @@
             <end>11.1,-0.6</end>
           </event>
           <event type="out" player_id="10693" team_id="315" action_type="" mins="67" secs="4" minsec="4024">
-            <start>40,77.7</start>
+            <start>71.9,39.2</start>
             <end>101.8,39</end>
           </event>
           <event type="out" player_id="7342" team_id="48" action_type="" mins="65" secs="56" minsec="3956">
@@ -12915,7 +12914,7 @@
             <end>102,53.8</end>
           </event>
           <event type="corner" player_id="341" team_id="48" action_type="" mins="66" secs="48" minsec="4008">
-            <start>30.1,29.9</start>
+            <start>15.3,51.3</start>
             <end>4,47.1</end>
           </event>
           <event type="corner" player_id="764" team_id="315" action_type="" mins="65" secs="28" minsec="3928">
@@ -12999,7 +12998,7 @@
             <end>102,23.8</end>
           </event>
           <event type="out" player_id="341" team_id="48" action_type="" mins="87" secs="1" minsec="5221" injurytime_play="0">
-            <start>5.7,54.2</start>
+            <start>15.3,51.3</start>
             <end>5.4,-1.4</end>
           </event>
           <event type="corner" player_id="887" team_id="48" action_type="" mins="85" secs="7" minsec="5107" injurytime_play="0">

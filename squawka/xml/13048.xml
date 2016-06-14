@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<squawka date="2016-03-02" time="16:05" timezone="BST" data_freshness="16:04">
+<squawka date="2016-04-25" time="10:27" timezone="BST" data_freshness="10:26">
   <data_panel>
     <system>
       <headline><![CDATA[Sunderland 2 - 2 C. Palace]]></headline>
@@ -66,7 +66,7 @@
         <weight>74</weight>
         <height>177</height>
         <shirt_num>3</shirt_num>
-        <total_influence>-27</total_influence>
+        <total_influence>-39</total_influence>
         <country><![CDATA[Netherlands]]></country>
         <profile_url><![CDATA[http://www.squawka.com/uncategorized/patrick-van-aanholt]]></profile_url>
         <x_loc>21</x_loc>
@@ -129,7 +129,7 @@
         <weight>80</weight>
         <height>188</height>
         <shirt_num>8</shirt_num>
-        <total_influence>3</total_influence>
+        <total_influence>-0</total_influence>
         <country><![CDATA[England]]></country>
         <profile_url><![CDATA[http://www.squawka.com/uncategorized/jack-rodwell]]></profile_url>
         <x_loc>60</x_loc>
@@ -165,13 +165,13 @@
         <name><![CDATA[Dame N'Doye]]></name>
         <surname><![CDATA[Dame N'Doye]]></surname>
         <team_name><![CDATA[Sunderland]]></team_name>
-        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p7327c222j33.png]]></photo>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p7327c45j10.jpg]]></photo>
         <position><![CDATA[Forward]]></position>
         <dob>21/02/1985</dob>
         <weight>81</weight>
         <height>186</height>
         <shirt_num>10</shirt_num>
-        <total_influence>24</total_influence>
+        <total_influence>25</total_influence>
         <country><![CDATA[Senegal]]></country>
         <profile_url><![CDATA[http://www.squawka.com/players/dame-ndoye/stats]]></profile_url>
         <x_loc>65</x_loc>
@@ -186,7 +186,7 @@
         <name><![CDATA[Jordan Pickford]]></name>
         <surname><![CDATA[Pickford]]></surname>
         <team_name><![CDATA[Sunderland]]></team_name>
-        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p3783c45j13.png]]></photo>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p3783c45j13.jpg]]></photo>
         <position><![CDATA[Goalkeeper]]></position>
         <dob>07/03/1994</dob>
         <weight>77</weight>
@@ -213,7 +213,7 @@
         <weight>75</weight>
         <height>182</height>
         <shirt_num>15</shirt_num>
-        <total_influence>-0</total_influence>
+        <total_influence>2</total_influence>
         <country><![CDATA[France]]></country>
         <profile_url><![CDATA[http://www.squawka.com/uncategorized/younes-kaboul]]></profile_url>
         <x_loc>0</x_loc>
@@ -234,7 +234,7 @@
         <weight>75</weight>
         <height>191</height>
         <shirt_num>16</shirt_num>
-        <total_influence>3</total_influence>
+        <total_influence>1</total_influence>
         <country><![CDATA[Republic of Ireland]]></country>
         <profile_url><![CDATA[http://www.squawka.com/uncategorized/john-oshea]]></profile_url>
         <x_loc>17</x_loc>
@@ -255,13 +255,13 @@
         <weight>65</weight>
         <height>171</height>
         <shirt_num>18</shirt_num>
-        <total_influence>44</total_influence>
+        <total_influence>41</total_influence>
         <country><![CDATA[England]]></country>
         <profile_url><![CDATA[http://www.squawka.com/uncategorized/jermain-defoe]]></profile_url>
         <x_loc>80</x_loc>
         <y_loc>50</y_loc>
         <state><![CDATA[playing]]></state>
-        <age>33</age>
+        <age>34</age>
         <bmi>22.2</bmi>
       </player>
       <player id="338" team_id="45">
@@ -297,7 +297,7 @@
         <weight>80</weight>
         <height>182</height>
         <shirt_num>21</shirt_num>
-        <total_influence>42</total_influence>
+        <total_influence>45</total_influence>
         <country><![CDATA[France]]></country>
         <profile_url><![CDATA[http://www.squawka.com/uncategorized/yann-mvila]]></profile_url>
         <x_loc>60</x_loc>
@@ -312,13 +312,13 @@
         <name><![CDATA[Wahbi Khazri]]></name>
         <surname><![CDATA[Khazri]]></surname>
         <team_name><![CDATA[Sunderland]]></team_name>
-        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p989c53j24.jpg]]></photo>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p989c45j22.jpg]]></photo>
         <position><![CDATA[Midfielder]]></position>
         <dob>08/02/1991</dob>
         <weight>76</weight>
         <height>182</height>
         <shirt_num>22</shirt_num>
-        <total_influence>18</total_influence>
+        <total_influence>24</total_influence>
         <country><![CDATA[Tunisia]]></country>
         <profile_url><![CDATA[http://www.squawka.com/players/wahbi-khazri/stats]]></profile_url>
         <x_loc>65</x_loc>
@@ -333,13 +333,13 @@
         <name><![CDATA[Lamine Koné]]></name>
         <surname><![CDATA[Lamine Koné]]></surname>
         <team_name><![CDATA[Sunderland]]></team_name>
-        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p1125c57j2.jpg]]></photo>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p1125c45j23.jpg]]></photo>
         <position><![CDATA[Defender]]></position>
         <dob>01/02/1989</dob>
         <weight>83</weight>
         <height>186</height>
         <shirt_num>23</shirt_num>
-        <total_influence>20</total_influence>
+        <total_influence>-1</total_influence>
         <country><![CDATA[Côte d'Ivoire]]></country>
         <profile_url><![CDATA[http://www.squawka.com/players/lamine-kone/stats]]></profile_url>
         <x_loc>17</x_loc>
@@ -354,13 +354,13 @@
         <name><![CDATA[DeAndre Yedlin]]></name>
         <surname><![CDATA[Yedlin]]></surname>
         <team_name><![CDATA[Sunderland]]></team_name>
-        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p4807c47j24.jpg]]></photo>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p4807c45j24.jpg]]></photo>
         <position><![CDATA[Defender]]></position>
         <dob>09/07/1993</dob>
         <weight>73</weight>
         <height>173</height>
         <shirt_num>24</shirt_num>
-        <total_influence>2</total_influence>
+        <total_influence>3</total_influence>
         <country><![CDATA[USA]]></country>
         <profile_url><![CDATA[http://www.squawka.com/uncategorized/deandre-yedlin]]></profile_url>
         <x_loc>21</x_loc>
@@ -381,7 +381,7 @@
         <weight>80</weight>
         <height>188</height>
         <shirt_num>25</shirt_num>
-        <total_influence>-6</total_influence>
+        <total_influence>-4</total_influence>
         <country><![CDATA[Italy]]></country>
         <profile_url><![CDATA[http://www.squawka.com/uncategorized/vito-mannone]]></profile_url>
         <x_loc>5</x_loc>
@@ -396,19 +396,19 @@
         <name><![CDATA[Jan Kirchhoff]]></name>
         <surname><![CDATA[Kirchhoff]]></surname>
         <team_name><![CDATA[Sunderland]]></team_name>
-        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p1992c99j15.jpg]]></photo>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p1992c45j27.jpg]]></photo>
         <position><![CDATA[Defender]]></position>
         <dob>01/10/1990</dob>
         <weight>90</weight>
         <height>195</height>
         <shirt_num>27</shirt_num>
-        <total_influence>1</total_influence>
+        <total_influence>-1</total_influence>
         <country><![CDATA[Germany]]></country>
         <profile_url><![CDATA[http://www.squawka.com/players/jan-kirchhoff/stats]]></profile_url>
         <x_loc>40</x_loc>
         <y_loc>50</y_loc>
         <state><![CDATA[playing]]></state>
-        <age>25</age>
+        <age>26</age>
         <bmi>23.7</bmi>
       </player>
       <player id="5187" team_id="169">
@@ -423,7 +423,7 @@
         <weight>80</weight>
         <height>180</height>
         <shirt_num>2</shirt_num>
-        <total_influence>1</total_influence>
+        <total_influence>-9</total_influence>
         <country><![CDATA[England]]></country>
         <profile_url><![CDATA[http://www.squawka.com/uncategorized/joel-ward]]></profile_url>
         <x_loc>21</x_loc>
@@ -450,7 +450,7 @@
         <x_loc>0</x_loc>
         <y_loc>0</y_loc>
         <state><![CDATA[bench]]></state>
-        <age>29</age>
+        <age>30</age>
         <bmi>24.1</bmi>
       </player>
       <player id="3613" team_id="169">
@@ -465,7 +465,7 @@
         <weight>76</weight>
         <height>188</height>
         <shirt_num>6</shirt_num>
-        <total_influence>-8</total_influence>
+        <total_influence>-9</total_influence>
         <country><![CDATA[England]]></country>
         <profile_url><![CDATA[http://www.squawka.com/uncategorized/scott-dann]]></profile_url>
         <x_loc>17</x_loc>
@@ -486,7 +486,7 @@
         <weight>71</weight>
         <height>175</height>
         <shirt_num>7</shirt_num>
-        <total_influence>19</total_influence>
+        <total_influence>9</total_influence>
         <country><![CDATA[France]]></country>
         <profile_url><![CDATA[http://www.squawka.com/uncategorized/yohan-cabaye]]></profile_url>
         <x_loc>40</x_loc>
@@ -507,7 +507,7 @@
         <weight>84</weight>
         <height>188</height>
         <shirt_num>10</shirt_num>
-        <total_influence>14</total_influence>
+        <total_influence>9</total_influence>
         <country><![CDATA[Congo DR]]></country>
         <profile_url><![CDATA[http://www.squawka.com/uncategorized/yannick-bolasie]]></profile_url>
         <x_loc>62</x_loc>
@@ -528,7 +528,7 @@
         <weight>66</weight>
         <height>180</height>
         <shirt_num>11</shirt_num>
-        <total_influence>36</total_influence>
+        <total_influence>30</total_influence>
         <country><![CDATA[England]]></country>
         <profile_url><![CDATA[http://www.squawka.com/uncategorized/wilfried-zaha]]></profile_url>
         <x_loc>62</x_loc>
@@ -570,7 +570,7 @@
         <weight>73</weight>
         <height>183</height>
         <shirt_num>13</shirt_num>
-        <total_influence>-17</total_influence>
+        <total_influence>-18</total_influence>
         <country><![CDATA[Wales]]></country>
         <profile_url><![CDATA[http://www.squawka.com/uncategorized/wayne-hennessey]]></profile_url>
         <x_loc>5</x_loc>
@@ -639,7 +639,7 @@
         <x_loc>0</x_loc>
         <y_loc>0</y_loc>
         <state><![CDATA[bench]]></state>
-        <age>25</age>
+        <age>26</age>
         <bmi>23.3</bmi>
       </player>
       <player id="799" team_id="169">
@@ -654,7 +654,7 @@
         <weight>90</weight>
         <height>191</height>
         <shirt_num>21</shirt_num>
-        <total_influence>33</total_influence>
+        <total_influence>32</total_influence>
         <country><![CDATA[England]]></country>
         <profile_url><![CDATA[http://www.squawka.com/uncategorized/connor-wickham]]></profile_url>
         <x_loc>85</x_loc>
@@ -690,7 +690,7 @@
         <name><![CDATA[Emmanuel Adebayor]]></name>
         <surname><![CDATA[Adebayor]]></surname>
         <team_name><![CDATA[C. Palace]]></team_name>
-        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p549c47j0.jpg]]></photo>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p549c169j25.jpg]]></photo>
         <position><![CDATA[Forward]]></position>
         <dob>26/02/1984</dob>
         <weight>82</weight>
@@ -738,7 +738,7 @@
         <weight>89</weight>
         <height>191</height>
         <shirt_num>27</shirt_num>
-        <total_influence>8</total_influence>
+        <total_influence>9</total_influence>
         <country><![CDATA[Republic of Ireland]]></country>
         <profile_url><![CDATA[http://www.squawka.com/uncategorized/damien-delaney]]></profile_url>
         <x_loc>17</x_loc>
@@ -759,7 +759,7 @@
         <weight>73</weight>
         <height>183</height>
         <shirt_num>28</shirt_num>
-        <total_influence>14</total_influence>
+        <total_influence>11</total_influence>
         <country><![CDATA[Wales]]></country>
         <profile_url><![CDATA[http://www.squawka.com/uncategorized/joe-ledley]]></profile_url>
         <x_loc>0</x_loc>
@@ -780,7 +780,7 @@
         <weight>77</weight>
         <height>191</height>
         <shirt_num>34</shirt_num>
-        <total_influence>-6</total_influence>
+        <total_influence>-9</total_influence>
         <country><![CDATA[England]]></country>
         <profile_url><![CDATA[http://www.squawka.com/uncategorized/martin-kelly]]></profile_url>
         <x_loc>21</x_loc>
@@ -950,7 +950,7 @@
               <weight>74</weight>
               <height>177</height>
               <shirt_num>3</shirt_num>
-              <total_influence>-27</total_influence>
+              <total_influence>-39</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/patrick-van-aanholt</profile_url>
               <country>Netherlands</country>
               <position>Defender</position>
@@ -1001,7 +1001,7 @@
               <weight>80</weight>
               <height>188</height>
               <shirt_num>8</shirt_num>
-              <total_influence>3</total_influence>
+              <total_influence>-0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/jack-rodwell</profile_url>
               <country>England</country>
               <position>Midfielder</position>
@@ -1030,12 +1030,12 @@
               <first_name>Dame</first_name>
               <name>Dame N'Doye</name>
               <team_name>Sunderland</team_name>
-              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p7327c222j33.png</photo>
+              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p7327c45j10.jpg</photo>
               <dob>21/02/1985</dob>
               <weight>81</weight>
               <height>186</height>
               <shirt_num>10</shirt_num>
-              <total_influence>24</total_influence>
+              <total_influence>25</total_influence>
               <profile_url>http://www.squawka.com/players/dame-ndoye/stats</profile_url>
               <country>Senegal</country>
               <position>Midfielder</position>
@@ -1047,7 +1047,7 @@
               <first_name>Jordan</first_name>
               <name>Jordan Pickford</name>
               <team_name>Sunderland</team_name>
-              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p3783c45j13.png</photo>
+              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p3783c45j13.jpg</photo>
               <dob>07/03/1994</dob>
               <weight>77</weight>
               <height>185</height>
@@ -1069,7 +1069,7 @@
               <weight>75</weight>
               <height>182</height>
               <shirt_num>15</shirt_num>
-              <total_influence>-0</total_influence>
+              <total_influence>2</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/younes-kaboul</profile_url>
               <country>France</country>
               <position>Defender</position>
@@ -1086,7 +1086,7 @@
               <weight>75</weight>
               <height>191</height>
               <shirt_num>16</shirt_num>
-              <total_influence>3</total_influence>
+              <total_influence>1</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/john-oshea</profile_url>
               <country>Republic of Ireland</country>
               <position>Bench</position>
@@ -1103,7 +1103,7 @@
               <weight>65</weight>
               <height>171</height>
               <shirt_num>18</shirt_num>
-              <total_influence>44</total_influence>
+              <total_influence>41</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/jermain-defoe</profile_url>
               <country>England</country>
               <position>Forward</position>
@@ -1137,7 +1137,7 @@
               <weight>80</weight>
               <height>182</height>
               <shirt_num>21</shirt_num>
-              <total_influence>42</total_influence>
+              <total_influence>45</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/yann-mvila</profile_url>
               <country>France</country>
               <position>Midfielder</position>
@@ -1149,12 +1149,12 @@
               <first_name>Wahbi</first_name>
               <name>Wahbi Khazri</name>
               <team_name>Sunderland</team_name>
-              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p989c53j24.jpg</photo>
+              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p989c45j22.jpg</photo>
               <dob>08/02/1991</dob>
               <weight>76</weight>
               <height>182</height>
               <shirt_num>22</shirt_num>
-              <total_influence>18</total_influence>
+              <total_influence>24</total_influence>
               <profile_url>http://www.squawka.com/players/wahbi-khazri/stats</profile_url>
               <country>Tunisia</country>
               <position>Midfielder</position>
@@ -1166,12 +1166,12 @@
               <first_name>Lamine</first_name>
               <name>Lamine Koné</name>
               <team_name>Sunderland</team_name>
-              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p1125c57j2.jpg</photo>
+              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p1125c45j23.jpg</photo>
               <dob>01/02/1989</dob>
               <weight>83</weight>
               <height>186</height>
               <shirt_num>23</shirt_num>
-              <total_influence>20</total_influence>
+              <total_influence>-1</total_influence>
               <profile_url>http://www.squawka.com/players/lamine-kone/stats</profile_url>
               <country>Côte d'Ivoire</country>
               <position>Defender</position>
@@ -1183,12 +1183,12 @@
               <first_name>DeAndre</first_name>
               <name>DeAndre Yedlin</name>
               <team_name>Sunderland</team_name>
-              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p4807c47j24.jpg</photo>
+              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p4807c45j24.jpg</photo>
               <dob>09/07/1993</dob>
               <weight>73</weight>
               <height>173</height>
               <shirt_num>24</shirt_num>
-              <total_influence>2</total_influence>
+              <total_influence>3</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/deandre-yedlin</profile_url>
               <country>USA</country>
               <position>Defender</position>
@@ -1205,7 +1205,7 @@
               <weight>80</weight>
               <height>188</height>
               <shirt_num>25</shirt_num>
-              <total_influence>-6</total_influence>
+              <total_influence>-4</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/vito-mannone</profile_url>
               <country>Italy</country>
               <position>Goalkeeper</position>
@@ -1217,12 +1217,12 @@
               <first_name>Jan</first_name>
               <name>Jan Kirchhoff</name>
               <team_name>Sunderland</team_name>
-              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p1992c99j15.jpg</photo>
+              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p1992c45j27.jpg</photo>
               <dob>01/10/1990</dob>
               <weight>90</weight>
               <height>195</height>
               <shirt_num>27</shirt_num>
-              <total_influence>1</total_influence>
+              <total_influence>-1</total_influence>
               <profile_url>http://www.squawka.com/players/jan-kirchhoff/stats</profile_url>
               <country>Germany</country>
               <position>Midfielder</position>
@@ -1239,7 +1239,7 @@
               <weight>80</weight>
               <height>180</height>
               <shirt_num>2</shirt_num>
-              <total_influence>1</total_influence>
+              <total_influence>-9</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/joel-ward</profile_url>
               <country>England</country>
               <position>Defender</position>
@@ -1273,7 +1273,7 @@
               <weight>76</weight>
               <height>188</height>
               <shirt_num>6</shirt_num>
-              <total_influence>-8</total_influence>
+              <total_influence>-9</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/scott-dann</profile_url>
               <country>England</country>
               <position>Defender</position>
@@ -1290,7 +1290,7 @@
               <weight>71</weight>
               <height>175</height>
               <shirt_num>7</shirt_num>
-              <total_influence>19</total_influence>
+              <total_influence>9</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/yohan-cabaye</profile_url>
               <country>France</country>
               <position>Midfielder</position>
@@ -1307,7 +1307,7 @@
               <weight>84</weight>
               <height>188</height>
               <shirt_num>10</shirt_num>
-              <total_influence>14</total_influence>
+              <total_influence>9</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/yannick-bolasie</profile_url>
               <country>Congo DR</country>
               <position>Midfielder</position>
@@ -1324,7 +1324,7 @@
               <weight>66</weight>
               <height>180</height>
               <shirt_num>11</shirt_num>
-              <total_influence>36</total_influence>
+              <total_influence>30</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/wilfried-zaha</profile_url>
               <country>England</country>
               <position>Midfielder</position>
@@ -1358,7 +1358,7 @@
               <weight>73</weight>
               <height>183</height>
               <shirt_num>13</shirt_num>
-              <total_influence>-17</total_influence>
+              <total_influence>-18</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/wayne-hennessey</profile_url>
               <country>Wales</country>
               <position>Goalkeeper</position>
@@ -1426,7 +1426,7 @@
               <weight>90</weight>
               <height>191</height>
               <shirt_num>21</shirt_num>
-              <total_influence>33</total_influence>
+              <total_influence>32</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/connor-wickham</profile_url>
               <country>England</country>
               <position>Forward</position>
@@ -1455,7 +1455,7 @@
               <first_name>Emmanuel</first_name>
               <name>Emmanuel Adebayor</name>
               <team_name>C. Palace</team_name>
-              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p549c47j0.jpg</photo>
+              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p549c169j25.jpg</photo>
               <dob>26/02/1984</dob>
               <weight>82</weight>
               <height>191</height>
@@ -1494,7 +1494,7 @@
               <weight>89</weight>
               <height>191</height>
               <shirt_num>27</shirt_num>
-              <total_influence>8</total_influence>
+              <total_influence>9</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/damien-delaney</profile_url>
               <country>Republic of Ireland</country>
               <position>Defender</position>
@@ -1511,7 +1511,7 @@
               <weight>73</weight>
               <height>183</height>
               <shirt_num>28</shirt_num>
-              <total_influence>14</total_influence>
+              <total_influence>11</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/joe-ledley</profile_url>
               <country>Wales</country>
               <position>Midfielder</position>
@@ -1528,7 +1528,7 @@
               <weight>77</weight>
               <height>191</height>
               <shirt_num>34</shirt_num>
-              <total_influence>-6</total_influence>
+              <total_influence>-9</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/martin-kelly</profile_url>
               <country>England</country>
               <position>Defender</position>
@@ -1796,7 +1796,7 @@
               <weight>74</weight>
               <height>177</height>
               <shirt_num>3</shirt_num>
-              <total_influence>-27</total_influence>
+              <total_influence>-39</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/patrick-van-aanholt</profile_url>
               <country>Netherlands</country>
               <position>Defender</position>
@@ -1847,7 +1847,7 @@
               <weight>80</weight>
               <height>188</height>
               <shirt_num>8</shirt_num>
-              <total_influence>3</total_influence>
+              <total_influence>-0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/jack-rodwell</profile_url>
               <country>England</country>
               <position>Midfielder</position>
@@ -1876,12 +1876,12 @@
               <first_name>Dame</first_name>
               <name>Dame N'Doye</name>
               <team_name>Sunderland</team_name>
-              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p7327c222j33.png</photo>
+              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p7327c45j10.jpg</photo>
               <dob>21/02/1985</dob>
               <weight>81</weight>
               <height>186</height>
               <shirt_num>10</shirt_num>
-              <total_influence>24</total_influence>
+              <total_influence>25</total_influence>
               <profile_url>http://www.squawka.com/players/dame-ndoye/stats</profile_url>
               <country>Senegal</country>
               <position>Midfielder</position>
@@ -1893,7 +1893,7 @@
               <first_name>Jordan</first_name>
               <name>Jordan Pickford</name>
               <team_name>Sunderland</team_name>
-              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p3783c45j13.png</photo>
+              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p3783c45j13.jpg</photo>
               <dob>07/03/1994</dob>
               <weight>77</weight>
               <height>185</height>
@@ -1915,7 +1915,7 @@
               <weight>75</weight>
               <height>182</height>
               <shirt_num>15</shirt_num>
-              <total_influence>-0</total_influence>
+              <total_influence>2</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/younes-kaboul</profile_url>
               <country>France</country>
               <position>Defender</position>
@@ -1932,7 +1932,7 @@
               <weight>75</weight>
               <height>191</height>
               <shirt_num>16</shirt_num>
-              <total_influence>3</total_influence>
+              <total_influence>1</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/john-oshea</profile_url>
               <country>Republic of Ireland</country>
               <position>Bench</position>
@@ -1949,7 +1949,7 @@
               <weight>65</weight>
               <height>171</height>
               <shirt_num>18</shirt_num>
-              <total_influence>44</total_influence>
+              <total_influence>41</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/jermain-defoe</profile_url>
               <country>England</country>
               <position>Forward</position>
@@ -1983,7 +1983,7 @@
               <weight>80</weight>
               <height>182</height>
               <shirt_num>21</shirt_num>
-              <total_influence>42</total_influence>
+              <total_influence>45</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/yann-mvila</profile_url>
               <country>France</country>
               <position>Midfielder</position>
@@ -1995,12 +1995,12 @@
               <first_name>Wahbi</first_name>
               <name>Wahbi Khazri</name>
               <team_name>Sunderland</team_name>
-              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p989c53j24.jpg</photo>
+              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p989c45j22.jpg</photo>
               <dob>08/02/1991</dob>
               <weight>76</weight>
               <height>182</height>
               <shirt_num>22</shirt_num>
-              <total_influence>18</total_influence>
+              <total_influence>24</total_influence>
               <profile_url>http://www.squawka.com/players/wahbi-khazri/stats</profile_url>
               <country>Tunisia</country>
               <position>Midfielder</position>
@@ -2012,12 +2012,12 @@
               <first_name>Lamine</first_name>
               <name>Lamine Koné</name>
               <team_name>Sunderland</team_name>
-              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p1125c57j2.jpg</photo>
+              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p1125c45j23.jpg</photo>
               <dob>01/02/1989</dob>
               <weight>83</weight>
               <height>186</height>
               <shirt_num>23</shirt_num>
-              <total_influence>20</total_influence>
+              <total_influence>-1</total_influence>
               <profile_url>http://www.squawka.com/players/lamine-kone/stats</profile_url>
               <country>Côte d'Ivoire</country>
               <position>Defender</position>
@@ -2029,12 +2029,12 @@
               <first_name>DeAndre</first_name>
               <name>DeAndre Yedlin</name>
               <team_name>Sunderland</team_name>
-              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p4807c47j24.jpg</photo>
+              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p4807c45j24.jpg</photo>
               <dob>09/07/1993</dob>
               <weight>73</weight>
               <height>173</height>
               <shirt_num>24</shirt_num>
-              <total_influence>2</total_influence>
+              <total_influence>3</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/deandre-yedlin</profile_url>
               <country>USA</country>
               <position>Defender</position>
@@ -2051,7 +2051,7 @@
               <weight>80</weight>
               <height>188</height>
               <shirt_num>25</shirt_num>
-              <total_influence>-6</total_influence>
+              <total_influence>-4</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/vito-mannone</profile_url>
               <country>Italy</country>
               <position>Goalkeeper</position>
@@ -2063,12 +2063,12 @@
               <first_name>Jan</first_name>
               <name>Jan Kirchhoff</name>
               <team_name>Sunderland</team_name>
-              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p1992c99j15.jpg</photo>
+              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p1992c45j27.jpg</photo>
               <dob>01/10/1990</dob>
               <weight>90</weight>
               <height>195</height>
               <shirt_num>27</shirt_num>
-              <total_influence>1</total_influence>
+              <total_influence>-1</total_influence>
               <profile_url>http://www.squawka.com/players/jan-kirchhoff/stats</profile_url>
               <country>Germany</country>
               <position>Midfielder</position>
@@ -2085,7 +2085,7 @@
               <weight>80</weight>
               <height>180</height>
               <shirt_num>2</shirt_num>
-              <total_influence>1</total_influence>
+              <total_influence>-9</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/joel-ward</profile_url>
               <country>England</country>
               <position>Defender</position>
@@ -2119,7 +2119,7 @@
               <weight>76</weight>
               <height>188</height>
               <shirt_num>6</shirt_num>
-              <total_influence>-8</total_influence>
+              <total_influence>-9</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/scott-dann</profile_url>
               <country>England</country>
               <position>Defender</position>
@@ -2136,7 +2136,7 @@
               <weight>71</weight>
               <height>175</height>
               <shirt_num>7</shirt_num>
-              <total_influence>19</total_influence>
+              <total_influence>9</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/yohan-cabaye</profile_url>
               <country>France</country>
               <position>Midfielder</position>
@@ -2153,7 +2153,7 @@
               <weight>84</weight>
               <height>188</height>
               <shirt_num>10</shirt_num>
-              <total_influence>14</total_influence>
+              <total_influence>9</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/yannick-bolasie</profile_url>
               <country>Congo DR</country>
               <position>Midfielder</position>
@@ -2170,7 +2170,7 @@
               <weight>66</weight>
               <height>180</height>
               <shirt_num>11</shirt_num>
-              <total_influence>36</total_influence>
+              <total_influence>30</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/wilfried-zaha</profile_url>
               <country>England</country>
               <position>Midfielder</position>
@@ -2204,7 +2204,7 @@
               <weight>73</weight>
               <height>183</height>
               <shirt_num>13</shirt_num>
-              <total_influence>-17</total_influence>
+              <total_influence>-18</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/wayne-hennessey</profile_url>
               <country>Wales</country>
               <position>Goalkeeper</position>
@@ -2272,7 +2272,7 @@
               <weight>90</weight>
               <height>191</height>
               <shirt_num>21</shirt_num>
-              <total_influence>33</total_influence>
+              <total_influence>32</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/connor-wickham</profile_url>
               <country>England</country>
               <position>Forward</position>
@@ -2301,7 +2301,7 @@
               <first_name>Emmanuel</first_name>
               <name>Emmanuel Adebayor</name>
               <team_name>C. Palace</team_name>
-              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p549c47j0.jpg</photo>
+              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p549c169j25.jpg</photo>
               <dob>26/02/1984</dob>
               <weight>82</weight>
               <height>191</height>
@@ -2340,7 +2340,7 @@
               <weight>89</weight>
               <height>191</height>
               <shirt_num>27</shirt_num>
-              <total_influence>8</total_influence>
+              <total_influence>9</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/damien-delaney</profile_url>
               <country>Republic of Ireland</country>
               <position>Defender</position>
@@ -2357,7 +2357,7 @@
               <weight>73</weight>
               <height>183</height>
               <shirt_num>28</shirt_num>
-              <total_influence>14</total_influence>
+              <total_influence>11</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/joe-ledley</profile_url>
               <country>Wales</country>
               <position>Midfielder</position>
@@ -2374,7 +2374,7 @@
               <weight>77</weight>
               <height>191</height>
               <shirt_num>34</shirt_num>
-              <total_influence>-6</total_influence>
+              <total_influence>-9</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/martin-kelly</profile_url>
               <country>England</country>
               <position>Defender</position>
@@ -2468,7 +2468,7 @@
               <weight>74</weight>
               <height>177</height>
               <shirt_num>3</shirt_num>
-              <total_influence>-27</total_influence>
+              <total_influence>-39</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/patrick-van-aanholt</profile_url>
               <country>Netherlands</country>
               <position>Defender</position>
@@ -2519,7 +2519,7 @@
               <weight>80</weight>
               <height>188</height>
               <shirt_num>8</shirt_num>
-              <total_influence>3</total_influence>
+              <total_influence>-0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/jack-rodwell</profile_url>
               <country>England</country>
               <position>Midfielder</position>
@@ -2548,12 +2548,12 @@
               <first_name>Dame</first_name>
               <name>Dame N'Doye</name>
               <team_name>Sunderland</team_name>
-              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p7327c222j33.png</photo>
+              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p7327c45j10.jpg</photo>
               <dob>21/02/1985</dob>
               <weight>81</weight>
               <height>186</height>
               <shirt_num>10</shirt_num>
-              <total_influence>24</total_influence>
+              <total_influence>25</total_influence>
               <profile_url>http://www.squawka.com/players/dame-ndoye/stats</profile_url>
               <country>Senegal</country>
               <position>Midfielder</position>
@@ -2565,7 +2565,7 @@
               <first_name>Jordan</first_name>
               <name>Jordan Pickford</name>
               <team_name>Sunderland</team_name>
-              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p3783c45j13.png</photo>
+              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p3783c45j13.jpg</photo>
               <dob>07/03/1994</dob>
               <weight>77</weight>
               <height>185</height>
@@ -2587,7 +2587,7 @@
               <weight>75</weight>
               <height>182</height>
               <shirt_num>15</shirt_num>
-              <total_influence>-0</total_influence>
+              <total_influence>2</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/younes-kaboul</profile_url>
               <country>France</country>
               <position>Defender</position>
@@ -2604,7 +2604,7 @@
               <weight>75</weight>
               <height>191</height>
               <shirt_num>16</shirt_num>
-              <total_influence>3</total_influence>
+              <total_influence>1</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/john-oshea</profile_url>
               <country>Republic of Ireland</country>
               <position>Bench</position>
@@ -2621,7 +2621,7 @@
               <weight>65</weight>
               <height>171</height>
               <shirt_num>18</shirt_num>
-              <total_influence>44</total_influence>
+              <total_influence>41</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/jermain-defoe</profile_url>
               <country>England</country>
               <position>Forward</position>
@@ -2655,7 +2655,7 @@
               <weight>80</weight>
               <height>182</height>
               <shirt_num>21</shirt_num>
-              <total_influence>42</total_influence>
+              <total_influence>45</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/yann-mvila</profile_url>
               <country>France</country>
               <position>Midfielder</position>
@@ -2667,12 +2667,12 @@
               <first_name>Wahbi</first_name>
               <name>Wahbi Khazri</name>
               <team_name>Sunderland</team_name>
-              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p989c53j24.jpg</photo>
+              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p989c45j22.jpg</photo>
               <dob>08/02/1991</dob>
               <weight>76</weight>
               <height>182</height>
               <shirt_num>22</shirt_num>
-              <total_influence>18</total_influence>
+              <total_influence>24</total_influence>
               <profile_url>http://www.squawka.com/players/wahbi-khazri/stats</profile_url>
               <country>Tunisia</country>
               <position>Midfielder</position>
@@ -2684,12 +2684,12 @@
               <first_name>Lamine</first_name>
               <name>Lamine Koné</name>
               <team_name>Sunderland</team_name>
-              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p1125c57j2.jpg</photo>
+              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p1125c45j23.jpg</photo>
               <dob>01/02/1989</dob>
               <weight>83</weight>
               <height>186</height>
               <shirt_num>23</shirt_num>
-              <total_influence>20</total_influence>
+              <total_influence>-1</total_influence>
               <profile_url>http://www.squawka.com/players/lamine-kone/stats</profile_url>
               <country>Côte d'Ivoire</country>
               <position>Defender</position>
@@ -2701,12 +2701,12 @@
               <first_name>DeAndre</first_name>
               <name>DeAndre Yedlin</name>
               <team_name>Sunderland</team_name>
-              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p4807c47j24.jpg</photo>
+              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p4807c45j24.jpg</photo>
               <dob>09/07/1993</dob>
               <weight>73</weight>
               <height>173</height>
               <shirt_num>24</shirt_num>
-              <total_influence>2</total_influence>
+              <total_influence>3</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/deandre-yedlin</profile_url>
               <country>USA</country>
               <position>Defender</position>
@@ -2723,7 +2723,7 @@
               <weight>80</weight>
               <height>188</height>
               <shirt_num>25</shirt_num>
-              <total_influence>-6</total_influence>
+              <total_influence>-4</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/vito-mannone</profile_url>
               <country>Italy</country>
               <position>Goalkeeper</position>
@@ -2735,12 +2735,12 @@
               <first_name>Jan</first_name>
               <name>Jan Kirchhoff</name>
               <team_name>Sunderland</team_name>
-              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p1992c99j15.jpg</photo>
+              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p1992c45j27.jpg</photo>
               <dob>01/10/1990</dob>
               <weight>90</weight>
               <height>195</height>
               <shirt_num>27</shirt_num>
-              <total_influence>1</total_influence>
+              <total_influence>-1</total_influence>
               <profile_url>http://www.squawka.com/players/jan-kirchhoff/stats</profile_url>
               <country>Germany</country>
               <position>Midfielder</position>
@@ -2757,7 +2757,7 @@
               <weight>80</weight>
               <height>180</height>
               <shirt_num>2</shirt_num>
-              <total_influence>1</total_influence>
+              <total_influence>-9</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/joel-ward</profile_url>
               <country>England</country>
               <position>Defender</position>
@@ -2791,7 +2791,7 @@
               <weight>76</weight>
               <height>188</height>
               <shirt_num>6</shirt_num>
-              <total_influence>-8</total_influence>
+              <total_influence>-9</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/scott-dann</profile_url>
               <country>England</country>
               <position>Defender</position>
@@ -2808,7 +2808,7 @@
               <weight>71</weight>
               <height>175</height>
               <shirt_num>7</shirt_num>
-              <total_influence>19</total_influence>
+              <total_influence>9</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/yohan-cabaye</profile_url>
               <country>France</country>
               <position>Bench</position>
@@ -2825,7 +2825,7 @@
               <weight>84</weight>
               <height>188</height>
               <shirt_num>10</shirt_num>
-              <total_influence>14</total_influence>
+              <total_influence>9</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/yannick-bolasie</profile_url>
               <country>Congo DR</country>
               <position>Midfielder</position>
@@ -2842,7 +2842,7 @@
               <weight>66</weight>
               <height>180</height>
               <shirt_num>11</shirt_num>
-              <total_influence>36</total_influence>
+              <total_influence>30</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/wilfried-zaha</profile_url>
               <country>England</country>
               <position>Midfielder</position>
@@ -2876,7 +2876,7 @@
               <weight>73</weight>
               <height>183</height>
               <shirt_num>13</shirt_num>
-              <total_influence>-17</total_influence>
+              <total_influence>-18</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/wayne-hennessey</profile_url>
               <country>Wales</country>
               <position>Goalkeeper</position>
@@ -2944,7 +2944,7 @@
               <weight>90</weight>
               <height>191</height>
               <shirt_num>21</shirt_num>
-              <total_influence>33</total_influence>
+              <total_influence>32</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/connor-wickham</profile_url>
               <country>England</country>
               <position>Forward</position>
@@ -2973,7 +2973,7 @@
               <first_name>Emmanuel</first_name>
               <name>Emmanuel Adebayor</name>
               <team_name>C. Palace</team_name>
-              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p549c47j0.jpg</photo>
+              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p549c169j25.jpg</photo>
               <dob>26/02/1984</dob>
               <weight>82</weight>
               <height>191</height>
@@ -3012,7 +3012,7 @@
               <weight>89</weight>
               <height>191</height>
               <shirt_num>27</shirt_num>
-              <total_influence>8</total_influence>
+              <total_influence>9</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/damien-delaney</profile_url>
               <country>Republic of Ireland</country>
               <position>Defender</position>
@@ -3029,7 +3029,7 @@
               <weight>73</weight>
               <height>183</height>
               <shirt_num>28</shirt_num>
-              <total_influence>14</total_influence>
+              <total_influence>11</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/joe-ledley</profile_url>
               <country>Wales</country>
               <position>Midfielder</position>
@@ -3046,7 +3046,7 @@
               <weight>77</weight>
               <height>191</height>
               <shirt_num>34</shirt_num>
-              <total_influence>-6</total_influence>
+              <total_influence>-9</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/martin-kelly</profile_url>
               <country>England</country>
               <position>Defender</position>
@@ -3124,7 +3124,7 @@
               <weight>74</weight>
               <height>177</height>
               <shirt_num>3</shirt_num>
-              <total_influence>-27</total_influence>
+              <total_influence>-39</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/patrick-van-aanholt</profile_url>
               <country>Netherlands</country>
               <position>Defender</position>
@@ -3175,7 +3175,7 @@
               <weight>80</weight>
               <height>188</height>
               <shirt_num>8</shirt_num>
-              <total_influence>3</total_influence>
+              <total_influence>-0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/jack-rodwell</profile_url>
               <country>England</country>
               <position>Midfielder</position>
@@ -3204,12 +3204,12 @@
               <first_name>Dame</first_name>
               <name>Dame N'Doye</name>
               <team_name>Sunderland</team_name>
-              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p7327c222j33.png</photo>
+              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p7327c45j10.jpg</photo>
               <dob>21/02/1985</dob>
               <weight>81</weight>
               <height>186</height>
               <shirt_num>10</shirt_num>
-              <total_influence>24</total_influence>
+              <total_influence>25</total_influence>
               <profile_url>http://www.squawka.com/players/dame-ndoye/stats</profile_url>
               <country>Senegal</country>
               <position>Midfielder</position>
@@ -3221,7 +3221,7 @@
               <first_name>Jordan</first_name>
               <name>Jordan Pickford</name>
               <team_name>Sunderland</team_name>
-              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p3783c45j13.png</photo>
+              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p3783c45j13.jpg</photo>
               <dob>07/03/1994</dob>
               <weight>77</weight>
               <height>185</height>
@@ -3243,7 +3243,7 @@
               <weight>75</weight>
               <height>182</height>
               <shirt_num>15</shirt_num>
-              <total_influence>-0</total_influence>
+              <total_influence>2</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/younes-kaboul</profile_url>
               <country>France</country>
               <position>Defender</position>
@@ -3260,7 +3260,7 @@
               <weight>75</weight>
               <height>191</height>
               <shirt_num>16</shirt_num>
-              <total_influence>3</total_influence>
+              <total_influence>1</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/john-oshea</profile_url>
               <country>Republic of Ireland</country>
               <position>Bench</position>
@@ -3277,7 +3277,7 @@
               <weight>65</weight>
               <height>171</height>
               <shirt_num>18</shirt_num>
-              <total_influence>44</total_influence>
+              <total_influence>41</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/jermain-defoe</profile_url>
               <country>England</country>
               <position>Forward</position>
@@ -3311,7 +3311,7 @@
               <weight>80</weight>
               <height>182</height>
               <shirt_num>21</shirt_num>
-              <total_influence>42</total_influence>
+              <total_influence>45</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/yann-mvila</profile_url>
               <country>France</country>
               <position>Midfielder</position>
@@ -3323,12 +3323,12 @@
               <first_name>Wahbi</first_name>
               <name>Wahbi Khazri</name>
               <team_name>Sunderland</team_name>
-              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p989c53j24.jpg</photo>
+              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p989c45j22.jpg</photo>
               <dob>08/02/1991</dob>
               <weight>76</weight>
               <height>182</height>
               <shirt_num>22</shirt_num>
-              <total_influence>18</total_influence>
+              <total_influence>24</total_influence>
               <profile_url>http://www.squawka.com/players/wahbi-khazri/stats</profile_url>
               <country>Tunisia</country>
               <position>Midfielder</position>
@@ -3340,12 +3340,12 @@
               <first_name>Lamine</first_name>
               <name>Lamine Koné</name>
               <team_name>Sunderland</team_name>
-              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p1125c57j2.jpg</photo>
+              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p1125c45j23.jpg</photo>
               <dob>01/02/1989</dob>
               <weight>83</weight>
               <height>186</height>
               <shirt_num>23</shirt_num>
-              <total_influence>20</total_influence>
+              <total_influence>-1</total_influence>
               <profile_url>http://www.squawka.com/players/lamine-kone/stats</profile_url>
               <country>Côte d'Ivoire</country>
               <position>Defender</position>
@@ -3357,12 +3357,12 @@
               <first_name>DeAndre</first_name>
               <name>DeAndre Yedlin</name>
               <team_name>Sunderland</team_name>
-              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p4807c47j24.jpg</photo>
+              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p4807c45j24.jpg</photo>
               <dob>09/07/1993</dob>
               <weight>73</weight>
               <height>173</height>
               <shirt_num>24</shirt_num>
-              <total_influence>2</total_influence>
+              <total_influence>3</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/deandre-yedlin</profile_url>
               <country>USA</country>
               <position>Defender</position>
@@ -3379,7 +3379,7 @@
               <weight>80</weight>
               <height>188</height>
               <shirt_num>25</shirt_num>
-              <total_influence>-6</total_influence>
+              <total_influence>-4</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/vito-mannone</profile_url>
               <country>Italy</country>
               <position>Goalkeeper</position>
@@ -3391,12 +3391,12 @@
               <first_name>Jan</first_name>
               <name>Jan Kirchhoff</name>
               <team_name>Sunderland</team_name>
-              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p1992c99j15.jpg</photo>
+              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p1992c45j27.jpg</photo>
               <dob>01/10/1990</dob>
               <weight>90</weight>
               <height>195</height>
               <shirt_num>27</shirt_num>
-              <total_influence>1</total_influence>
+              <total_influence>-1</total_influence>
               <profile_url>http://www.squawka.com/players/jan-kirchhoff/stats</profile_url>
               <country>Germany</country>
               <position>Midfielder</position>
@@ -3413,7 +3413,7 @@
               <weight>80</weight>
               <height>180</height>
               <shirt_num>2</shirt_num>
-              <total_influence>1</total_influence>
+              <total_influence>-9</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/joel-ward</profile_url>
               <country>England</country>
               <position>Defender</position>
@@ -3447,7 +3447,7 @@
               <weight>76</weight>
               <height>188</height>
               <shirt_num>6</shirt_num>
-              <total_influence>-8</total_influence>
+              <total_influence>-9</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/scott-dann</profile_url>
               <country>England</country>
               <position>Defender</position>
@@ -3464,7 +3464,7 @@
               <weight>71</weight>
               <height>175</height>
               <shirt_num>7</shirt_num>
-              <total_influence>19</total_influence>
+              <total_influence>9</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/yohan-cabaye</profile_url>
               <country>France</country>
               <position>Bench</position>
@@ -3481,7 +3481,7 @@
               <weight>84</weight>
               <height>188</height>
               <shirt_num>10</shirt_num>
-              <total_influence>14</total_influence>
+              <total_influence>9</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/yannick-bolasie</profile_url>
               <country>Congo DR</country>
               <position>Midfielder</position>
@@ -3498,7 +3498,7 @@
               <weight>66</weight>
               <height>180</height>
               <shirt_num>11</shirt_num>
-              <total_influence>36</total_influence>
+              <total_influence>30</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/wilfried-zaha</profile_url>
               <country>England</country>
               <position>Midfielder</position>
@@ -3532,7 +3532,7 @@
               <weight>73</weight>
               <height>183</height>
               <shirt_num>13</shirt_num>
-              <total_influence>-17</total_influence>
+              <total_influence>-18</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/wayne-hennessey</profile_url>
               <country>Wales</country>
               <position>Goalkeeper</position>
@@ -3600,7 +3600,7 @@
               <weight>90</weight>
               <height>191</height>
               <shirt_num>21</shirt_num>
-              <total_influence>33</total_influence>
+              <total_influence>32</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/connor-wickham</profile_url>
               <country>England</country>
               <position>Forward</position>
@@ -3629,7 +3629,7 @@
               <first_name>Emmanuel</first_name>
               <name>Emmanuel Adebayor</name>
               <team_name>C. Palace</team_name>
-              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p549c47j0.jpg</photo>
+              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p549c169j25.jpg</photo>
               <dob>26/02/1984</dob>
               <weight>82</weight>
               <height>191</height>
@@ -3668,7 +3668,7 @@
               <weight>89</weight>
               <height>191</height>
               <shirt_num>27</shirt_num>
-              <total_influence>8</total_influence>
+              <total_influence>9</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/damien-delaney</profile_url>
               <country>Republic of Ireland</country>
               <position>Defender</position>
@@ -3685,7 +3685,7 @@
               <weight>73</weight>
               <height>183</height>
               <shirt_num>28</shirt_num>
-              <total_influence>14</total_influence>
+              <total_influence>11</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/joe-ledley</profile_url>
               <country>Wales</country>
               <position>Midfielder</position>
@@ -3702,7 +3702,7 @@
               <weight>77</weight>
               <height>191</height>
               <shirt_num>34</shirt_num>
-              <total_influence>-6</total_influence>
+              <total_influence>-9</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/martin-kelly</profile_url>
               <country>England</country>
               <position>Defender</position>
@@ -3774,7 +3774,7 @@
               <weight>74</weight>
               <height>177</height>
               <shirt_num>3</shirt_num>
-              <total_influence>-27</total_influence>
+              <total_influence>-39</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/patrick-van-aanholt</profile_url>
               <country>Netherlands</country>
               <position>Defender</position>
@@ -3825,7 +3825,7 @@
               <weight>80</weight>
               <height>188</height>
               <shirt_num>8</shirt_num>
-              <total_influence>3</total_influence>
+              <total_influence>-0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/jack-rodwell</profile_url>
               <country>England</country>
               <position>Midfielder</position>
@@ -3854,12 +3854,12 @@
               <first_name>Dame</first_name>
               <name>Dame N'Doye</name>
               <team_name>Sunderland</team_name>
-              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p7327c222j33.png</photo>
+              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p7327c45j10.jpg</photo>
               <dob>21/02/1985</dob>
               <weight>81</weight>
               <height>186</height>
               <shirt_num>10</shirt_num>
-              <total_influence>24</total_influence>
+              <total_influence>25</total_influence>
               <profile_url>http://www.squawka.com/players/dame-ndoye/stats</profile_url>
               <country>Senegal</country>
               <position>Midfielder</position>
@@ -3871,7 +3871,7 @@
               <first_name>Jordan</first_name>
               <name>Jordan Pickford</name>
               <team_name>Sunderland</team_name>
-              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p3783c45j13.png</photo>
+              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p3783c45j13.jpg</photo>
               <dob>07/03/1994</dob>
               <weight>77</weight>
               <height>185</height>
@@ -3893,7 +3893,7 @@
               <weight>75</weight>
               <height>182</height>
               <shirt_num>15</shirt_num>
-              <total_influence>-0</total_influence>
+              <total_influence>2</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/younes-kaboul</profile_url>
               <country>France</country>
               <position>Defender</position>
@@ -3910,7 +3910,7 @@
               <weight>75</weight>
               <height>191</height>
               <shirt_num>16</shirt_num>
-              <total_influence>3</total_influence>
+              <total_influence>1</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/john-oshea</profile_url>
               <country>Republic of Ireland</country>
               <position>Bench</position>
@@ -3927,7 +3927,7 @@
               <weight>65</weight>
               <height>171</height>
               <shirt_num>18</shirt_num>
-              <total_influence>44</total_influence>
+              <total_influence>41</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/jermain-defoe</profile_url>
               <country>England</country>
               <position>Forward</position>
@@ -3961,7 +3961,7 @@
               <weight>80</weight>
               <height>182</height>
               <shirt_num>21</shirt_num>
-              <total_influence>42</total_influence>
+              <total_influence>45</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/yann-mvila</profile_url>
               <country>France</country>
               <position>Midfielder</position>
@@ -3973,12 +3973,12 @@
               <first_name>Wahbi</first_name>
               <name>Wahbi Khazri</name>
               <team_name>Sunderland</team_name>
-              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p989c53j24.jpg</photo>
+              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p989c45j22.jpg</photo>
               <dob>08/02/1991</dob>
               <weight>76</weight>
               <height>182</height>
               <shirt_num>22</shirt_num>
-              <total_influence>18</total_influence>
+              <total_influence>24</total_influence>
               <profile_url>http://www.squawka.com/players/wahbi-khazri/stats</profile_url>
               <country>Tunisia</country>
               <position>Midfielder</position>
@@ -3990,12 +3990,12 @@
               <first_name>Lamine</first_name>
               <name>Lamine Koné</name>
               <team_name>Sunderland</team_name>
-              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p1125c57j2.jpg</photo>
+              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p1125c45j23.jpg</photo>
               <dob>01/02/1989</dob>
               <weight>83</weight>
               <height>186</height>
               <shirt_num>23</shirt_num>
-              <total_influence>20</total_influence>
+              <total_influence>-1</total_influence>
               <profile_url>http://www.squawka.com/players/lamine-kone/stats</profile_url>
               <country>Côte d'Ivoire</country>
               <position>Defender</position>
@@ -4007,12 +4007,12 @@
               <first_name>DeAndre</first_name>
               <name>DeAndre Yedlin</name>
               <team_name>Sunderland</team_name>
-              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p4807c47j24.jpg</photo>
+              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p4807c45j24.jpg</photo>
               <dob>09/07/1993</dob>
               <weight>73</weight>
               <height>173</height>
               <shirt_num>24</shirt_num>
-              <total_influence>2</total_influence>
+              <total_influence>3</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/deandre-yedlin</profile_url>
               <country>USA</country>
               <position>Defender</position>
@@ -4029,7 +4029,7 @@
               <weight>80</weight>
               <height>188</height>
               <shirt_num>25</shirt_num>
-              <total_influence>-6</total_influence>
+              <total_influence>-4</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/vito-mannone</profile_url>
               <country>Italy</country>
               <position>Goalkeeper</position>
@@ -4041,12 +4041,12 @@
               <first_name>Jan</first_name>
               <name>Jan Kirchhoff</name>
               <team_name>Sunderland</team_name>
-              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p1992c99j15.jpg</photo>
+              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p1992c45j27.jpg</photo>
               <dob>01/10/1990</dob>
               <weight>90</weight>
               <height>195</height>
               <shirt_num>27</shirt_num>
-              <total_influence>1</total_influence>
+              <total_influence>-1</total_influence>
               <profile_url>http://www.squawka.com/players/jan-kirchhoff/stats</profile_url>
               <country>Germany</country>
               <position>Midfielder</position>
@@ -4063,7 +4063,7 @@
               <weight>80</weight>
               <height>180</height>
               <shirt_num>2</shirt_num>
-              <total_influence>1</total_influence>
+              <total_influence>-9</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/joel-ward</profile_url>
               <country>England</country>
               <position>Defender</position>
@@ -4097,7 +4097,7 @@
               <weight>76</weight>
               <height>188</height>
               <shirt_num>6</shirt_num>
-              <total_influence>-8</total_influence>
+              <total_influence>-9</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/scott-dann</profile_url>
               <country>England</country>
               <position>Defender</position>
@@ -4114,7 +4114,7 @@
               <weight>71</weight>
               <height>175</height>
               <shirt_num>7</shirt_num>
-              <total_influence>19</total_influence>
+              <total_influence>9</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/yohan-cabaye</profile_url>
               <country>France</country>
               <position>Bench</position>
@@ -4131,7 +4131,7 @@
               <weight>84</weight>
               <height>188</height>
               <shirt_num>10</shirt_num>
-              <total_influence>14</total_influence>
+              <total_influence>9</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/yannick-bolasie</profile_url>
               <country>Congo DR</country>
               <position>Midfielder</position>
@@ -4148,7 +4148,7 @@
               <weight>66</weight>
               <height>180</height>
               <shirt_num>11</shirt_num>
-              <total_influence>36</total_influence>
+              <total_influence>30</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/wilfried-zaha</profile_url>
               <country>England</country>
               <position>Midfielder</position>
@@ -4182,7 +4182,7 @@
               <weight>73</weight>
               <height>183</height>
               <shirt_num>13</shirt_num>
-              <total_influence>-17</total_influence>
+              <total_influence>-18</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/wayne-hennessey</profile_url>
               <country>Wales</country>
               <position>Goalkeeper</position>
@@ -4250,7 +4250,7 @@
               <weight>90</weight>
               <height>191</height>
               <shirt_num>21</shirt_num>
-              <total_influence>33</total_influence>
+              <total_influence>32</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/connor-wickham</profile_url>
               <country>England</country>
               <position>Forward</position>
@@ -4279,7 +4279,7 @@
               <first_name>Emmanuel</first_name>
               <name>Emmanuel Adebayor</name>
               <team_name>C. Palace</team_name>
-              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p549c47j0.jpg</photo>
+              <photo>http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p549c169j25.jpg</photo>
               <dob>26/02/1984</dob>
               <weight>82</weight>
               <height>191</height>
@@ -4318,7 +4318,7 @@
               <weight>89</weight>
               <height>191</height>
               <shirt_num>27</shirt_num>
-              <total_influence>8</total_influence>
+              <total_influence>9</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/damien-delaney</profile_url>
               <country>Republic of Ireland</country>
               <position>Defender</position>
@@ -4335,7 +4335,7 @@
               <weight>73</weight>
               <height>183</height>
               <shirt_num>28</shirt_num>
-              <total_influence>14</total_influence>
+              <total_influence>11</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/joe-ledley</profile_url>
               <country>Wales</country>
               <position>Midfielder</position>
@@ -4352,7 +4352,7 @@
               <weight>77</weight>
               <height>191</height>
               <shirt_num>34</shirt_num>
-              <total_influence>-6</total_influence>
+              <total_influence>-9</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/martin-kelly</profile_url>
               <country>England</country>
               <position>Defender</position>
@@ -4401,7 +4401,7 @@
           <player_inf_score id="91" possession="-10.61" attack="0" defense="1.8" goalkeeping="0" injurytime_play="0">-8.81</player_inf_score>
           <player_inf_score id="109" possession="26.55" attack="6.93" defense="11.52" goalkeeping="0" injurytime_play="0">45</player_inf_score>
           <player_inf_score id="111" possession="12.58" attack="0" defense="-3.9" goalkeeping="0" injurytime_play="0">8.68</player_inf_score>
-          <player_inf_score id="183" possession="-8.02" attack="30.9" defense="3" goalkeeping="0" injurytime_play="0">25.88</player_inf_score>
+          <player_inf_score id="183" possession="-8.02" attack="37.31" defense="3" goalkeeping="0" injurytime_play="0">32.29</player_inf_score>
           <player_inf_score id="257" possession="-5.29" attack="0" defense="6.58" goalkeeping="0" injurytime_play="0">1.29</player_inf_score>
           <player_inf_score id="370" possession="7.84" attack="0" defense="-11.94" goalkeeping="0" injurytime_play="0">-4.1</player_inf_score>
           <player_inf_score id="549" possession="-0.42" attack="0" defense="-4.49" goalkeeping="0" injurytime_play="0">-4.91</player_inf_score>
@@ -4430,7 +4430,7 @@
           <player_inf_score id="91" possession="-10.61" attack="0" defense="1.8" goalkeeping="0" injurytime_play="1">-8.81</player_inf_score>
           <player_inf_score id="109" possession="26.55" attack="6.93" defense="11.52" goalkeeping="0" injurytime_play="1">45</player_inf_score>
           <player_inf_score id="111" possession="12.58" attack="0" defense="-3.9" goalkeeping="0" injurytime_play="1">8.68</player_inf_score>
-          <player_inf_score id="183" possession="-5.5" attack="30.9" defense="3" goalkeeping="0" injurytime_play="1">28.4</player_inf_score>
+          <player_inf_score id="183" possession="-5.5" attack="37.31" defense="3" goalkeeping="0" injurytime_play="1">34.81</player_inf_score>
           <player_inf_score id="257" possession="-5.29" attack="0" defense="6.58" goalkeeping="0" injurytime_play="1">1.29</player_inf_score>
           <player_inf_score id="370" possession="7.84" attack="0" defense="-11.94" goalkeeping="0" injurytime_play="1">-4.1</player_inf_score>
           <player_inf_score id="549" possession="-2.86" attack="0" defense="-4.49" goalkeeping="0" injurytime_play="1">-7.35</player_inf_score>
@@ -4586,10 +4586,10 @@
         <time_slice name="35 - 40" id="8" attempts_count="3">
           <event type="goal" player_id="7327" team_id="45" action_type="Attack" mins="35" secs="11" minsec="2111" uid="1304259190">
             <assist_1 x="79.7" y="40.4" x2="76.2" y2="51.3" min="35">77</assist_1>
-            <passlinks>[{"type":"blocked","sub_type":"","period":"1","min":"34","start_x":"77.1","start_y":"42.5","end_x":"78.8","end_y":"43.1","goal_x":false,"goal_y":false,"gmouth_y":false,"gmouth_z":false,"swere":"","part":"right foot","club_id":"45","player_id":"109","player_name":"M\\'Vila","photo":"uploaded_icons\/players\/thumb\/p109c45j21.jpg","side":"home","sec":"59","minsec":"2099"},{"type":"completed_pass","sub_type":"","swere":"","period":"1","headed":0,"start_x":78.4,"start_y":36.4,"end_x":68.7,"end_y":29.4,"club_id":"169","player_id":"5152","player_name":"Mutch","photo":"uploaded_icons\/players\/thumb\/p5152c169j22.jpg","side":"away","min":"35","sec":"0","minsec":"2100"},{"type":"take-on-fail","sub_type":"","start_x":65.6,"start_y":29.3,"end_x":65.6,"end_y":29.3,"club_id":"169","player_id":"5188","player_name":"Bolasie","photo":"uploaded_icons\/players\/thumb\/p5188c169j10.jpg","side":"away","min":"35","sec":"3","minsec":"2103"},{"type":"completed_pass","sub_type":"","swere":"","period":"1","headed":0,"start_x":"61.8","start_y":"26.3","end_x":"64.6","end_y":"24.7","club_id":"45","player_id":"4807","player_name":"Yedlin","photo":"uploaded_icons\/players\/thumb\/p4807c47j24.jpg","side":"home","min":"35","sec":"5","minsec":"2105"},{"type":"completed_pass","sub_type":"","swere":"","period":"1","headed":0,"start_x":"65.7","start_y":"23.9","end_x":"78.4","end_y":"35.5","club_id":"45","player_id":"109","player_name":"M\\'Vila","photo":"uploaded_icons\/players\/thumb\/p109c45j21.jpg","side":"home","min":"35","sec":"7","minsec":"2107"},{"type":"assists_pass","sub_type":"","swere":"","period":"1","headed":0,"start_x":"79.7","start_y":"40.4","end_x":"76.2","end_y":"51.3","club_id":"45","player_id":"77","player_name":"Defoe","photo":"uploaded_icons\/players\/thumb\/p77c45j18.jpg","side":"home","min":"35","sec":"9","minsec":"2109"},{"type":"goal","sub_type":"","period":"1","player_id":"7327","goal_min":36,"start_x":"76.2","start_y":"51.3","is_own":0,"end_x":"50.8","end_y":"10.1","gmouth_y":"50.8","gmouth_z":"10.1","swere":"","penalty_goal":0,"club_id":"45","player_name":"Dame N\\'Doye","photo":"uploaded_icons\/players\/thumb\/p7327c222j33.png","side":"home","min":"35","sec":"11","minsec":"2111"}]</passlinks>
+            <passlinks>[{"type":"blocked","sub_type":"","period":"1","min":"34","start_x":"77.1","start_y":"42.5","end_x":"78.8","end_y":"43.1","goal_x":false,"goal_y":false,"gmouth_y":false,"gmouth_z":false,"swere":"","part":"right foot","club_id":"45","player_id":"109","player_name":"M\\'Vila","photo":"uploaded_icons\/players\/thumb\/p109c45j21.jpg","side":"home","sec":"59","minsec":"2099"},{"type":"completed_pass","sub_type":"","swere":"","period":"1","headed":0,"start_x":78.4,"start_y":36.4,"end_x":68.7,"end_y":29.4,"club_id":"169","player_id":"5152","player_name":"Mutch","photo":"uploaded_icons\/players\/thumb\/p5152c169j22.jpg","side":"away","min":"35","sec":"0","minsec":"2100"},{"type":"take-on-fail","sub_type":"","start_x":65.6,"start_y":29.3,"end_x":65.6,"end_y":29.3,"club_id":"169","player_id":"5188","player_name":"Bolasie","photo":"uploaded_icons\/players\/thumb\/p5188c169j10.jpg","side":"away","min":"35","sec":"3","minsec":"2103"},{"type":"completed_pass","sub_type":"","swere":"","period":"1","headed":0,"start_x":"61.8","start_y":"26.3","end_x":"64.6","end_y":"24.7","club_id":"45","player_id":"4807","player_name":"Yedlin","photo":"uploaded_icons\/players\/thumb\/p4807c45j24.jpg","side":"home","min":"35","sec":"5","minsec":"2105"},{"type":"completed_pass","sub_type":"","swere":"","period":"1","headed":0,"start_x":"65.7","start_y":"23.9","end_x":"78.4","end_y":"35.5","club_id":"45","player_id":"109","player_name":"M\\'Vila","photo":"uploaded_icons\/players\/thumb\/p109c45j21.jpg","side":"home","min":"35","sec":"7","minsec":"2107"},{"type":"assists_pass","sub_type":"","swere":"","period":"1","headed":0,"start_x":"79.7","start_y":"40.4","end_x":"76.2","end_y":"51.3","club_id":"45","player_id":"77","player_name":"Defoe","photo":"uploaded_icons\/players\/thumb\/p77c45j18.jpg","side":"home","min":"35","sec":"9","minsec":"2109"},{"type":"goal","sub_type":"","period":"1","player_id":"7327","goal_min":36,"start_x":"74.4","start_y":"50.3","is_own":0,"end_x":"50.8","end_y":"10.1","gmouth_y":"50.8","gmouth_z":"10.1","swere":"","penalty_goal":0,"club_id":"45","player_name":"Dame N\\'Doye","photo":"uploaded_icons\/players\/thumb\/p7327c45j10.jpg","side":"home","min":"35","sec":"11","minsec":"2111"}]</passlinks>
             <start>50.8,10.1</start>
-            <end>76.2,51.3</end>
-            <coordinates start_x="76.2" start_y="51.3" gmouth_y="50.8" gmouth_z="10.1"/>
+            <end>74.4,50.3</end>
+            <coordinates start_x="74.4" start_y="50.3" gmouth_y="50.8" gmouth_z="10.1"/>
             <shot>true</shot>
           </event>
           <event type="save" player_id="77" team_id="45" action_type="Attack" mins="38" secs="59" minsec="2339">
@@ -4682,10 +4682,10 @@
         <time_slice name="60 - 65" id="13" attempts_count="2">
           <event type="goal" player_id="799" team_id="169" action_type="Attack" mins="60" secs="24" minsec="3624" uid="30386771">
             <assist_1 x="74.8" y="56.4" x2="85.5" y2="61.2" min="60">5188</assist_1>
-            <passlinks>[{"type":"failed_pass","sub_type":"","swere":"","period":"2","headed":0,"start_x":"27.4","start_y":"93.4","end_x":"59.7","end_y":"95.6","club_id":"45","player_id":"857","player_name":"Kaboul","photo":"uploaded_icons\/players\/thumb\/p857c45j15.jpg","side":"home","min":"60","sec":"11","minsec":"3611"},{"type":"interceptions","end_x":61.4,"end_y":94.5,"start_x":61.4,"start_y":94.5,"club_id":"169","player_id":"3613","player_name":"Dann","photo":"uploaded_icons\/players\/thumb\/p3613c169j6.jpg","side":"away","min":"60","sec":"13","minsec":"3613"},{"type":"completed_pass","sub_type":"","swere":"","period":"2","headed":0,"start_x":59.4,"start_y":96.8,"end_x":38.9,"end_y":91.5,"club_id":"169","player_id":"5187","player_name":"Joel Ward","photo":"uploaded_icons\/players\/thumb\/p5187c169j2.jpg","side":"away","min":"60","sec":"15","minsec":"3615"},{"type":"take-on-success","sub_type":"","other_event_playerid":"4949","start_x":36,"start_y":90.2,"end_x":36,"end_y":90.2,"other_event_player_name":"van Aanholt","club_id":"169","player_id":"4942","player_name":"Zaha","photo":"uploaded_icons\/players\/thumb\/p4942c169j11.jpg","side":"away","min":"60","sec":"17","minsec":"3617"},{"type":"completed_pass","sub_type":"","swere":"","period":"2","headed":0,"start_x":24.1,"start_y":67.9,"end_x":26,"end_y":41,"club_id":"169","player_id":"4942","player_name":"Zaha","photo":"uploaded_icons\/players\/thumb\/p4942c169j11.jpg","side":"away","min":"60","sec":"20","minsec":"3620"},{"type":"assists_pass","sub_type":"","swere":"","period":"2","headed":0,"start_x":25.2,"start_y":43.6,"end_x":14.5,"end_y":38.8,"club_id":"169","player_id":"5188","player_name":"Bolasie","photo":"uploaded_icons\/players\/thumb\/p5188c169j10.jpg","side":"away","min":"60","sec":"23","minsec":"3623"},{"type":"goal","sub_type":"","period":"2","player_id":"799","goal_min":61,"start_x":15.9,"start_y":39.6,"is_own":0,"end_x":46.3,"end_y":85.4,"gmouth_y":"53.7","gmouth_z":"14.6","swere":"","penalty_goal":0,"club_id":"169","player_name":"Connor Wickham","photo":"uploaded_icons\/players\/thumb\/p799c169j21.jpg","side":"away","min":"60","sec":"24","minsec":"3624"}]</passlinks>
-            <start>53.7,14.6</start>
+            <passlinks>[{"type":"failed_pass","sub_type":"","swere":"","period":"2","headed":0,"start_x":"27.4","start_y":"93.4","end_x":"59.7","end_y":"95.6","club_id":"45","player_id":"857","player_name":"Kaboul","photo":"uploaded_icons\/players\/thumb\/p857c45j15.jpg","side":"home","min":"60","sec":"11","minsec":"3611"},{"type":"interceptions","end_x":61.4,"end_y":94.5,"start_x":61.4,"start_y":94.5,"club_id":"169","player_id":"3613","player_name":"Dann","photo":"uploaded_icons\/players\/thumb\/p3613c169j6.jpg","side":"away","min":"60","sec":"13","minsec":"3613"},{"type":"completed_pass","sub_type":"","swere":"","period":"2","headed":0,"start_x":59.4,"start_y":96.8,"end_x":38.9,"end_y":91.5,"club_id":"169","player_id":"5187","player_name":"Joel Ward","photo":"uploaded_icons\/players\/thumb\/p5187c169j2.jpg","side":"away","min":"60","sec":"15","minsec":"3615"},{"type":"take-on-success","sub_type":"","other_event_playerid":"4949","start_x":36,"start_y":90.2,"end_x":36,"end_y":90.2,"other_event_player_name":"van Aanholt","club_id":"169","player_id":"4942","player_name":"Zaha","photo":"uploaded_icons\/players\/thumb\/p4942c169j11.jpg","side":"away","min":"60","sec":"17","minsec":"3617"},{"type":"completed_pass","sub_type":"","swere":"","period":"2","headed":0,"start_x":24.1,"start_y":67.9,"end_x":26,"end_y":41,"club_id":"169","player_id":"4942","player_name":"Zaha","photo":"uploaded_icons\/players\/thumb\/p4942c169j11.jpg","side":"away","min":"60","sec":"20","minsec":"3620"},{"type":"assists_pass","sub_type":"","swere":"","period":"2","headed":0,"start_x":25.2,"start_y":43.6,"end_x":14.5,"end_y":38.8,"club_id":"169","player_id":"5188","player_name":"Bolasie","photo":"uploaded_icons\/players\/thumb\/p5188c169j10.jpg","side":"away","min":"60","sec":"23","minsec":"3623"},{"type":"goal","sub_type":"","period":"2","player_id":"799","goal_min":61,"start_x":15.9,"start_y":39.6,"is_own":0,"end_x":54.3,"end_y":82.3,"gmouth_y":"45.7","gmouth_z":"17.7","swere":"","penalty_goal":0,"club_id":"169","player_name":"Connor Wickham","photo":"uploaded_icons\/players\/thumb\/p799c169j21.jpg","side":"away","min":"60","sec":"24","minsec":"3624"}]</passlinks>
+            <start>45.7,17.7</start>
             <end>84.1,60.4</end>
-            <coordinates start_x="84.1" start_y="60.4" gmouth_y="53.7" gmouth_z="14.6"/>
+            <coordinates start_x="84.1" start_y="60.4" gmouth_y="45.7" gmouth_z="17.7"/>
             <shot>true</shot>
           </event>
           <event type="save" player_id="5188" team_id="169" action_type="Attack" mins="61" secs="57" minsec="3717">
@@ -4729,7 +4729,7 @@
         <time_slice name="85 - 90" id="18" attempts_count="2">
           <event type="goal" player_id="183" team_id="45" action_type="Attack" mins="89" secs="55" minsec="5395" injurytime_play="0" uid="726718200">
             <assist_1 x="69.8" y="15.8" x2="92.4" y2="21.8" min="89">4807</assist_1>
-            <passlinks>[{"type":"completed_pass","sub_type":"","swere":"","period":"2","headed":0,"start_x":61.1,"start_y":2.6,"end_x":38.9,"end_y":24.8,"club_id":"169","player_id":"91","player_name":"Martin Kelly","photo":"uploaded_icons\/players\/thumb\/p91c169j34.jpg","side":"away","min":"89","sec":"25","minsec":"5365"},{"type":"tackle-success","sub_type":"","other_event_playerid":"549","other_club_id":"169","end_x":"42.7","end_y":"26.9","start_x":"42.7","start_y":"26.9","other_event_player_name":"Adebayor","club_id":"45","player_id":"568","player_name":"Rodwell","photo":"uploaded_icons\/players\/thumb\/p568c45j8.jpg","side":"home","min":"89","sec":"31","minsec":"5371"},{"type":"failed_pass","sub_type":"","swere":"","period":"2","headed":0,"start_x":"46.2","start_y":"45.6","end_x":"81.6","end_y":"73.3","club_id":"45","player_id":"989","player_name":"Khazri","photo":"uploaded_icons\/players\/thumb\/p989c53j24.jpg","side":"home","min":"89","sec":"38","minsec":"5378"},{"type":"completed_pass","sub_type":"","swere":"","period":"2","headed":0,"start_x":"74","start_y":"82.3","end_x":"82.5","end_y":"69.0","club_id":"45","player_id":"77","player_name":"Defoe","photo":"uploaded_icons\/players\/thumb\/p77c45j18.jpg","side":"home","min":"89","sec":"43","minsec":"5383"},{"type":"failed_pass","sub_type":"","swere":"","period":"2","headed":0,"start_x":"79.4","start_y":"72","end_x":"80.0","end_y":"69.8","club_id":"45","player_id":"7327","player_name":"Dame N\\'Doye","photo":"uploaded_icons\/players\/thumb\/p7327c222j33.png","side":"home","min":"89","sec":"46","minsec":"5386"},{"type":"assists_pass","sub_type":"","swere":"","period":"2","headed":0,"start_x":"69.8","start_y":"15.8","end_x":"92.4","end_y":"21.8","club_id":"45","player_id":"4807","player_name":"Yedlin","photo":"uploaded_icons\/players\/thumb\/p4807c47j24.jpg","side":"home","min":"89","sec":"52","minsec":"5392"},{"type":"goal","sub_type":"","period":"2","player_id":"183","goal_min":90,"start_x":"92.6","start_y":"22","is_own":0,"end_x":"54.4","end_y":"5.1","gmouth_y":"54.4","gmouth_z":"5.1","swere":"","penalty_goal":0,"club_id":"45","player_name":"Borini","photo":"uploaded_icons\/players\/thumb\/p183c45j9.jpg","side":"home","min":"89","sec":"55","minsec":"5395"}]</passlinks>
+            <passlinks>[{"type":"completed_pass","sub_type":"","swere":"","period":"2","headed":0,"start_x":61.1,"start_y":2.6,"end_x":38.9,"end_y":24.8,"club_id":"169","player_id":"91","player_name":"Martin Kelly","photo":"uploaded_icons\/players\/thumb\/p91c169j34.jpg","side":"away","min":"89","sec":"25","minsec":"5365"},{"type":"tackle-success","sub_type":"","other_event_playerid":"549","other_club_id":"169","end_x":"42.7","end_y":"26.9","start_x":"42.7","start_y":"26.9","other_event_player_name":"Adebayor","club_id":"45","player_id":"568","player_name":"Rodwell","photo":"uploaded_icons\/players\/thumb\/p568c45j8.jpg","side":"home","min":"89","sec":"31","minsec":"5371"},{"type":"failed_pass","sub_type":"","swere":"","period":"2","headed":0,"start_x":"46.2","start_y":"45.6","end_x":"81.6","end_y":"73.3","club_id":"45","player_id":"989","player_name":"Khazri","photo":"uploaded_icons\/players\/thumb\/p989c45j22.jpg","side":"home","min":"89","sec":"38","minsec":"5378"},{"type":"completed_pass","sub_type":"","swere":"","period":"2","headed":0,"start_x":"74","start_y":"82.3","end_x":"82.5","end_y":"69.0","club_id":"45","player_id":"77","player_name":"Defoe","photo":"uploaded_icons\/players\/thumb\/p77c45j18.jpg","side":"home","min":"89","sec":"43","minsec":"5383"},{"type":"failed_pass","sub_type":"","swere":"","period":"2","headed":0,"start_x":"79.4","start_y":"72","end_x":"80.0","end_y":"69.8","club_id":"45","player_id":"7327","player_name":"Dame N\\'Doye","photo":"uploaded_icons\/players\/thumb\/p7327c45j10.jpg","side":"home","min":"89","sec":"46","minsec":"5386"},{"type":"assists_pass","sub_type":"","swere":"","period":"2","headed":0,"start_x":"69.8","start_y":"15.8","end_x":"92.4","end_y":"21.8","club_id":"45","player_id":"4807","player_name":"Yedlin","photo":"uploaded_icons\/players\/thumb\/p4807c45j24.jpg","side":"home","min":"89","sec":"52","minsec":"5392"},{"type":"goal","sub_type":"","period":"2","player_id":"183","goal_min":90,"start_x":"92.6","start_y":"22","is_own":0,"end_x":"54.4","end_y":"5.1","gmouth_y":"54.4","gmouth_z":"5.1","swere":"","penalty_goal":0,"club_id":"45","player_name":"Borini","photo":"uploaded_icons\/players\/thumb\/p183c45j9.jpg","side":"home","min":"89","sec":"55","minsec":"5395"}]</passlinks>
             <start>54.4,5.1</start>
             <end>92.6,22</end>
             <coordinates start_x="92.6" start_y="22" gmouth_y="54.4" gmouth_z="5.1"/>

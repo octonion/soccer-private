@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<squawka date="2016-03-06" time="20:27" timezone="BST" data_freshness="20:26">
+<squawka date="2016-03-09" time="11:24" timezone="BST" data_freshness="11:23">
   <data_panel>
     <system>
       <headline><![CDATA[Chelsea 1 - 1 Stoke]]></headline>
@@ -66,7 +66,7 @@
         <weight>84</weight>
         <height>184</height>
         <shirt_num>3</shirt_num>
-        <total_influence>18</total_influence>
+        <total_influence>25</total_influence>
         <country><![CDATA[Netherlands]]></country>
         <profile_url><![CDATA[http://www.squawka.com/uncategorized/erik-pieters]]></profile_url>
         <x_loc>21</x_loc>
@@ -87,7 +87,7 @@
         <weight>72</weight>
         <height>179</height>
         <shirt_num>5</shirt_num>
-        <total_influence>-18</total_influence>
+        <total_influence>-12</total_influence>
         <country><![CDATA[Spain]]></country>
         <profile_url><![CDATA[http://www.squawka.com/uncategorized/marc-muniesa]]></profile_url>
         <x_loc>17</x_loc>
@@ -108,7 +108,7 @@
         <weight>79</weight>
         <height>180</height>
         <shirt_num>6</shirt_num>
-        <total_influence>-2</total_influence>
+        <total_influence>1</total_influence>
         <country><![CDATA[Republic of Ireland]]></country>
         <profile_url><![CDATA[http://www.squawka.com/uncategorized/glenn-whelan]]></profile_url>
         <x_loc>40</x_loc>
@@ -150,7 +150,7 @@
         <weight>83</weight>
         <height>192</height>
         <shirt_num>10</shirt_num>
-        <total_influence>8</total_influence>
+        <total_influence>9</total_influence>
         <country><![CDATA[Austria]]></country>
         <profile_url><![CDATA[http://www.squawka.com/uncategorized/marko-arnautovic]]></profile_url>
         <x_loc>62</x_loc>
@@ -192,7 +192,7 @@
         <weight>76</weight>
         <height>180</height>
         <shirt_num>14</shirt_num>
-        <total_influence>23</total_influence>
+        <total_influence>17</total_influence>
         <country><![CDATA[Netherlands]]></country>
         <profile_url><![CDATA[http://www.squawka.com/players/ibrahim-afellay/stats]]></profile_url>
         <x_loc>62</x_loc>
@@ -213,7 +213,7 @@
         <weight>79</weight>
         <height>185</height>
         <shirt_num>18</shirt_num>
-        <total_influence>53</total_influence>
+        <total_influence>54</total_influence>
         <country><![CDATA[Senegal]]></country>
         <profile_url><![CDATA[http://www.squawka.com/uncategorized/mame-biram-diouf]]></profile_url>
         <x_loc>85</x_loc>
@@ -255,7 +255,7 @@
         <weight>84</weight>
         <height>191</height>
         <shirt_num>20</shirt_num>
-        <total_influence>-5</total_influence>
+        <total_influence>6</total_influence>
         <country><![CDATA[USA]]></country>
         <profile_url><![CDATA[http://www.squawka.com/uncategorized/geoff-cameron]]></profile_url>
         <x_loc>21</x_loc>
@@ -276,7 +276,7 @@
         <weight>78</weight>
         <height>186</height>
         <shirt_num>21</shirt_num>
-        <total_influence>44</total_influence>
+        <total_influence>33</total_influence>
         <country><![CDATA[France]]></country>
         <profile_url><![CDATA[http://www.squawka.com/players/giannelli--imbula/stats]]></profile_url>
         <x_loc>40</x_loc>
@@ -297,7 +297,7 @@
         <weight>72</weight>
         <height>169</height>
         <shirt_num>22</shirt_num>
-        <total_influence>-15</total_influence>
+        <total_influence>-13</total_influence>
         <country><![CDATA[Switzerland]]></country>
         <profile_url><![CDATA[http://www.squawka.com/players/xherdan-shaqiri/stats]]></profile_url>
         <x_loc>62</x_loc>
@@ -381,7 +381,7 @@
         <weight>65</weight>
         <height>170</height>
         <shirt_num>27</shirt_num>
-        <total_influence>6</total_influence>
+        <total_influence>-0</total_influence>
         <country><![CDATA[Spain]]></country>
         <profile_url><![CDATA[http://www.squawka.com/uncategorized/bojan]]></profile_url>
         <x_loc>0</x_loc>
@@ -486,7 +486,7 @@
         <weight>74</weight>
         <height>175</height>
         <shirt_num>4</shirt_num>
-        <total_influence>-13</total_influence>
+        <total_influence>1</total_influence>
         <country><![CDATA[Spain]]></country>
         <profile_url><![CDATA[http://www.squawka.com/uncategorized/cesc-fabregas]]></profile_url>
         <x_loc>0</x_loc>
@@ -507,7 +507,7 @@
         <weight>70</weight>
         <height>179</height>
         <shirt_num>6</shirt_num>
-        <total_influence>-12</total_influence>
+        <total_influence>-20</total_influence>
         <country><![CDATA[Ghana]]></country>
         <profile_url><![CDATA[http://www.squawka.com/players/abdul-baba/stats]]></profile_url>
         <x_loc>21</x_loc>
@@ -549,7 +549,7 @@
         <weight>74</weight>
         <height>173</height>
         <shirt_num>10</shirt_num>
-        <total_influence>16</total_influence>
+        <total_influence>20</total_influence>
         <country><![CDATA[Belgium]]></country>
         <profile_url><![CDATA[http://www.squawka.com/uncategorized/eden-hazard]]></profile_url>
         <x_loc>62</x_loc>
@@ -591,11 +591,11 @@
         <weight>83</weight>
         <height>188</height>
         <shirt_num>12</shirt_num>
-        <total_influence>-2</total_influence>
+        <total_influence>-5</total_influence>
         <country><![CDATA[Nigeria]]></country>
         <profile_url><![CDATA[http://www.squawka.com/uncategorized/john-obi-mikel]]></profile_url>
         <x_loc>40</x_loc>
-        <y_loc>66</y_loc>
+        <y_loc>31</y_loc>
         <state><![CDATA[playing]]></state>
         <age>29</age>
         <bmi>23.5</bmi>
@@ -612,7 +612,7 @@
         <weight>91</weight>
         <height>199</height>
         <shirt_num>13</shirt_num>
-        <total_influence>41</total_influence>
+        <total_influence>37</total_influence>
         <country><![CDATA[Belgium]]></country>
         <profile_url><![CDATA[http://www.squawka.com/uncategorized/thibaut-courtois]]></profile_url>
         <x_loc>5</x_loc>
@@ -654,7 +654,7 @@
         <weight>80</weight>
         <height>185</height>
         <shirt_num>18</shirt_num>
-        <total_influence>8</total_influence>
+        <total_influence>6</total_influence>
         <country><![CDATA[France]]></country>
         <profile_url><![CDATA[http://www.squawka.com/uncategorized/loic-remy]]></profile_url>
         <x_loc>0</x_loc>
@@ -696,11 +696,11 @@
         <weight>84</weight>
         <height>194</height>
         <shirt_num>21</shirt_num>
-        <total_influence>13</total_influence>
+        <total_influence>19</total_influence>
         <country><![CDATA[Serbia]]></country>
         <profile_url><![CDATA[http://www.squawka.com/uncategorized/nemanja-matic]]></profile_url>
         <x_loc>40</x_loc>
-        <y_loc>31</y_loc>
+        <y_loc>66</y_loc>
         <state><![CDATA[playing]]></state>
         <age>28</age>
         <bmi>22.3</bmi>
@@ -717,7 +717,7 @@
         <weight>75</weight>
         <height>175</height>
         <shirt_num>22</shirt_num>
-        <total_influence>21</total_influence>
+        <total_influence>15</total_influence>
         <country><![CDATA[Brazil]]></country>
         <profile_url><![CDATA[http://www.squawka.com/uncategorized/willian]]></profile_url>
         <x_loc>62</x_loc>
@@ -759,7 +759,7 @@
         <weight>75</weight>
         <height>178</height>
         <shirt_num>28</shirt_num>
-        <total_influence>14</total_influence>
+        <total_influence>9</total_influence>
         <country><![CDATA[Spain]]></country>
         <profile_url><![CDATA[http://www.squawka.com/uncategorized/cesar-azpilicueta]]></profile_url>
         <x_loc>21</x_loc>
@@ -780,7 +780,7 @@
         <weight>83</weight>
         <height>191</height>
         <shirt_num>36</shirt_num>
-        <total_influence>6</total_influence>
+        <total_influence>19</total_influence>
         <country><![CDATA[England]]></country>
         <profile_url><![CDATA[http://www.squawka.com/uncategorized/ruben-loftus-cheek]]></profile_url>
         <x_loc>0</x_loc>
@@ -981,8 +981,8 @@
           <player_inf_score id="9284" possession="-11.99" attack="0" defense="4.55" goalkeeping="0" injurytime_play="0">-7.44</player_inf_score>
         </time_slice>
         <time_slice name="35 - 40" id="8" scored_min="40">
-          <team_possession team_id="33">55</team_possession>
-          <team_possession team_id="44">45</team_possession>
+          <team_possession team_id="33">54</team_possession>
+          <team_possession team_id="44">46</team_possession>
           <player_inf_score id="0" possession="0" attack="0" defense="0" goalkeeping="0" injurytime_play="0">0</player_inf_score>
           <player_inf_score id="92" possession="4.59" attack="0" defense="6.38" goalkeeping="0" injurytime_play="0">10.97</player_inf_score>
           <player_inf_score id="200" possession="-3.57" attack="18.02" defense="0.24" goalkeeping="0" injurytime_play="0">14.69</player_inf_score>
@@ -997,9 +997,9 @@
           <player_inf_score id="1574" possession="-6.36" attack="-2.82" defense="-14.14" goalkeeping="0" injurytime_play="0">-23.32</player_inf_score>
           <player_inf_score id="2058" possession="5.54" attack="0" defense="-4.9" goalkeeping="0" injurytime_play="0">0.64</player_inf_score>
           <player_inf_score id="2172" possession="3.2" attack="-5.08" defense="6.75" goalkeeping="0" injurytime_play="0">4.87</player_inf_score>
-          <player_inf_score id="2277" possession="3.4" attack="2.82" defense="7.87" goalkeeping="0" injurytime_play="0">14.09</player_inf_score>
+          <player_inf_score id="2277" possession="6.4" attack="2.82" defense="7.87" goalkeeping="0" injurytime_play="0">17.09</player_inf_score>
           <player_inf_score id="2339" possession="-10.44" attack="-1.98" defense="7.34" goalkeeping="0" injurytime_play="0">-5.08</player_inf_score>
-          <player_inf_score id="2408" possession="1.49" attack="0" defense="-11.16" goalkeeping="0" injurytime_play="0">-9.67</player_inf_score>
+          <player_inf_score id="2408" possession="1.49" attack="-1.5" defense="-11.16" goalkeeping="0" injurytime_play="0">-11.17</player_inf_score>
           <player_inf_score id="3129" possession="-0.16" attack="29.46" defense="-10.35" goalkeeping="0" injurytime_play="0">18.95</player_inf_score>
           <player_inf_score id="3548" possession="0.83" attack="7.44" defense="-11.55" goalkeeping="0" injurytime_play="0">-3.28</player_inf_score>
           <player_inf_score id="5429" possession="-3.95" attack="0" defense="7.96" goalkeeping="0" injurytime_play="0">4.01</player_inf_score>
@@ -1026,9 +1026,9 @@
           <player_inf_score id="1574" possession="-5.7" attack="-2.82" defense="-17.94" goalkeeping="0" injurytime_play="0">-26.46</player_inf_score>
           <player_inf_score id="2058" possession="4.81" attack="0" defense="-3.5" goalkeeping="0" injurytime_play="0">1.31</player_inf_score>
           <player_inf_score id="2172" possession="1.53" attack="-5.08" defense="6.75" goalkeeping="0" injurytime_play="0">3.2</player_inf_score>
-          <player_inf_score id="2277" possession="2.56" attack="2.82" defense="7.87" goalkeeping="0" injurytime_play="0">13.25</player_inf_score>
+          <player_inf_score id="2277" possession="5.56" attack="2.82" defense="7.87" goalkeeping="0" injurytime_play="0">16.25</player_inf_score>
           <player_inf_score id="2339" possession="-9.68" attack="-1.98" defense="7.34" goalkeeping="0" injurytime_play="0">-4.32</player_inf_score>
-          <player_inf_score id="2408" possession="-2.23" attack="0" defense="-11.16" goalkeeping="0" injurytime_play="0">-13.39</player_inf_score>
+          <player_inf_score id="2408" possession="-2.23" attack="-1.5" defense="-11.16" goalkeeping="0" injurytime_play="0">-14.89</player_inf_score>
           <player_inf_score id="3129" possession="3.25" attack="29.46" defense="-22.86" goalkeeping="0" injurytime_play="0">9.85</player_inf_score>
           <player_inf_score id="3548" possession="2.45" attack="7.44" defense="-9.12" goalkeeping="0" injurytime_play="0">0.77</player_inf_score>
           <player_inf_score id="5429" possession="-3.85" attack="0" defense="15.6" goalkeeping="0" injurytime_play="0">11.75</player_inf_score>
@@ -1049,9 +1049,9 @@
           <player_inf_score id="1574" possession="-5.7" attack="-2.82" defense="-14.64" goalkeeping="0" injurytime_play="1">-23.16</player_inf_score>
           <player_inf_score id="2058" possession="5.16" attack="0" defense="-3.5" goalkeeping="0" injurytime_play="1">1.66</player_inf_score>
           <player_inf_score id="2172" possession="1.53" attack="-5.08" defense="6.75" goalkeeping="0" injurytime_play="1">3.2</player_inf_score>
-          <player_inf_score id="2277" possession="1.53" attack="2.82" defense="11.67" goalkeeping="0" injurytime_play="1">16.02</player_inf_score>
+          <player_inf_score id="2277" possession="4.53" attack="2.82" defense="11.67" goalkeeping="0" injurytime_play="1">19.02</player_inf_score>
           <player_inf_score id="2339" possession="-9.68" attack="-1.98" defense="7.34" goalkeeping="0" injurytime_play="1">-4.32</player_inf_score>
-          <player_inf_score id="2408" possession="-2.23" attack="0" defense="-11.16" goalkeeping="0" injurytime_play="1">-13.39</player_inf_score>
+          <player_inf_score id="2408" possession="-2.23" attack="-1.5" defense="-11.16" goalkeeping="0" injurytime_play="1">-14.89</player_inf_score>
           <player_inf_score id="3129" possession="3.25" attack="29.46" defense="-22.86" goalkeeping="0" injurytime_play="1">9.85</player_inf_score>
           <player_inf_score id="3548" possession="1.5" attack="7.44" defense="-9.12" goalkeeping="0" injurytime_play="1">-0.18</player_inf_score>
           <player_inf_score id="5429" possession="-3.96" attack="0" defense="18.03" goalkeeping="0" injurytime_play="1">14.07</player_inf_score>
@@ -1080,9 +1080,9 @@
           <player_inf_score id="1574" possession="-5.4" attack="-2.82" defense="-13.34" goalkeeping="0" injurytime_play="0">-21.56</player_inf_score>
           <player_inf_score id="2058" possession="3.44" attack="0" defense="1.1" goalkeeping="0" injurytime_play="0">4.54</player_inf_score>
           <player_inf_score id="2172" possession="-1.87" attack="-5.08" defense="6.75" goalkeeping="0" injurytime_play="0">-0.2</player_inf_score>
-          <player_inf_score id="2277" possession="2.98" attack="2.82" defense="7.87" goalkeeping="0" injurytime_play="0">13.67</player_inf_score>
+          <player_inf_score id="2277" possession="5.98" attack="2.82" defense="7.87" goalkeeping="0" injurytime_play="0">16.67</player_inf_score>
           <player_inf_score id="2339" possession="-11.41" attack="-1.98" defense="8.74" goalkeeping="0" injurytime_play="0">-4.65</player_inf_score>
-          <player_inf_score id="2408" possession="-4.09" attack="8.88" defense="-11.16" goalkeeping="0" injurytime_play="0">-6.37</player_inf_score>
+          <player_inf_score id="2408" possession="-4.09" attack="7.38" defense="-11.16" goalkeeping="0" injurytime_play="0">-7.87</player_inf_score>
           <player_inf_score id="3129" possession="0.24" attack="29.46" defense="-26.61" goalkeeping="0" injurytime_play="0">3.09</player_inf_score>
           <player_inf_score id="3548" possession="1.65" attack="15.19" defense="-9.12" goalkeeping="0" injurytime_play="0">7.72</player_inf_score>
           <player_inf_score id="5429" possession="-4.65" attack="0" defense="15.6" goalkeeping="0" injurytime_play="0">10.95</player_inf_score>
@@ -1107,9 +1107,9 @@
           <player_inf_score id="1574" possession="-4.75" attack="-2.82" defense="-13.34" goalkeeping="0" injurytime_play="0">-20.91</player_inf_score>
           <player_inf_score id="2058" possession="3.52" attack="0" defense="2.5" goalkeeping="0" injurytime_play="0">6.02</player_inf_score>
           <player_inf_score id="2172" possession="-1.99" attack="-10.39" defense="6.75" goalkeeping="0" injurytime_play="0">-5.63</player_inf_score>
-          <player_inf_score id="2277" possession="3.87" attack="2.82" defense="7.87" goalkeeping="0" injurytime_play="0">14.56</player_inf_score>
+          <player_inf_score id="2277" possession="6.87" attack="2.82" defense="7.87" goalkeeping="0" injurytime_play="0">17.56</player_inf_score>
           <player_inf_score id="2339" possession="-13.87" attack="-1.98" defense="9.94" goalkeeping="0" injurytime_play="0">-5.91</player_inf_score>
-          <player_inf_score id="2408" possession="-4.34" attack="6.17" defense="-7.16" goalkeeping="0" injurytime_play="0">-5.33</player_inf_score>
+          <player_inf_score id="2408" possession="-4.34" attack="4.67" defense="-7.16" goalkeeping="0" injurytime_play="0">-6.83</player_inf_score>
           <player_inf_score id="3129" possession="0.24" attack="29.46" defense="-20.29" goalkeeping="0" injurytime_play="0">9.41</player_inf_score>
           <player_inf_score id="3548" possession="2.78" attack="15.19" defense="-9.12" goalkeeping="0" injurytime_play="0">8.85</player_inf_score>
           <player_inf_score id="5429" possession="-3.37" attack="0" defense="5.42" goalkeeping="0" injurytime_play="0">2.05</player_inf_score>
@@ -1134,9 +1134,9 @@
           <player_inf_score id="1574" possession="-6.94" attack="-2.82" defense="-13.34" goalkeeping="0" injurytime_play="0">-23.1</player_inf_score>
           <player_inf_score id="2058" possession="7.05" attack="0" defense="7.35" goalkeeping="0" injurytime_play="0">14.4</player_inf_score>
           <player_inf_score id="2172" possession="4.17" attack="0.17" defense="6.75" goalkeeping="0" injurytime_play="0">11.09</player_inf_score>
-          <player_inf_score id="2277" possession="3.87" attack="2.82" defense="7.87" goalkeeping="0" injurytime_play="0">14.56</player_inf_score>
+          <player_inf_score id="2277" possession="6.87" attack="2.82" defense="7.87" goalkeeping="0" injurytime_play="0">17.56</player_inf_score>
           <player_inf_score id="2339" possession="-13.46" attack="-4.58" defense="9.94" goalkeeping="0" injurytime_play="0">-8.1</player_inf_score>
-          <player_inf_score id="2408" possession="-3.16" attack="6.17" defense="-7.16" goalkeeping="0" injurytime_play="0">-4.15</player_inf_score>
+          <player_inf_score id="2408" possession="-3.16" attack="4.67" defense="-7.16" goalkeeping="0" injurytime_play="0">-5.65</player_inf_score>
           <player_inf_score id="3129" possession="0.24" attack="27.1" defense="-28.09" goalkeeping="0" injurytime_play="0">-0.75</player_inf_score>
           <player_inf_score id="3548" possession="4.02" attack="15.19" defense="-7.58" goalkeeping="0" injurytime_play="0">11.63</player_inf_score>
           <player_inf_score id="5429" possession="-3.75" attack="0" defense="10.02" goalkeeping="0" injurytime_play="0">6.27</player_inf_score>
@@ -1174,7 +1174,7 @@
               <weight>84</weight>
               <height>184</height>
               <shirt_num>3</shirt_num>
-              <total_influence>18</total_influence>
+              <total_influence>25</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/erik-pieters</profile_url>
               <country>Netherlands</country>
               <position>Defender</position>
@@ -1191,7 +1191,7 @@
               <weight>72</weight>
               <height>179</height>
               <shirt_num>5</shirt_num>
-              <total_influence>-18</total_influence>
+              <total_influence>-12</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/marc-muniesa</profile_url>
               <country>Spain</country>
               <position>Defender</position>
@@ -1208,7 +1208,7 @@
               <weight>79</weight>
               <height>180</height>
               <shirt_num>6</shirt_num>
-              <total_influence>-2</total_influence>
+              <total_influence>1</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/glenn-whelan</profile_url>
               <country>Republic of Ireland</country>
               <position>Midfielder</position>
@@ -1242,7 +1242,7 @@
               <weight>83</weight>
               <height>192</height>
               <shirt_num>10</shirt_num>
-              <total_influence>8</total_influence>
+              <total_influence>9</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/marko-arnautovic</profile_url>
               <country>Austria</country>
               <position>Forward</position>
@@ -1276,7 +1276,7 @@
               <weight>76</weight>
               <height>180</height>
               <shirt_num>14</shirt_num>
-              <total_influence>23</total_influence>
+              <total_influence>17</total_influence>
               <profile_url>http://www.squawka.com/players/ibrahim-afellay/stats</profile_url>
               <country>Netherlands</country>
               <position>Midfielder</position>
@@ -1293,7 +1293,7 @@
               <weight>79</weight>
               <height>185</height>
               <shirt_num>18</shirt_num>
-              <total_influence>53</total_influence>
+              <total_influence>54</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/mame-biram-diouf</profile_url>
               <country>Senegal</country>
               <position>Forward</position>
@@ -1327,7 +1327,7 @@
               <weight>84</weight>
               <height>191</height>
               <shirt_num>20</shirt_num>
-              <total_influence>-5</total_influence>
+              <total_influence>6</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/geoff-cameron</profile_url>
               <country>USA</country>
               <position>Defender</position>
@@ -1344,7 +1344,7 @@
               <weight>78</weight>
               <height>186</height>
               <shirt_num>21</shirt_num>
-              <total_influence>44</total_influence>
+              <total_influence>33</total_influence>
               <profile_url>http://www.squawka.com/players/giannelli--imbula/stats</profile_url>
               <country>France</country>
               <position>Midfielder</position>
@@ -1361,7 +1361,7 @@
               <weight>72</weight>
               <height>169</height>
               <shirt_num>22</shirt_num>
-              <total_influence>-15</total_influence>
+              <total_influence>-13</total_influence>
               <profile_url>http://www.squawka.com/players/xherdan-shaqiri/stats</profile_url>
               <country>Switzerland</country>
               <position>Midfielder</position>
@@ -1429,7 +1429,7 @@
               <weight>65</weight>
               <height>170</height>
               <shirt_num>27</shirt_num>
-              <total_influence>6</total_influence>
+              <total_influence>-0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/bojan</profile_url>
               <country>Spain</country>
               <position>Forward</position>
@@ -1514,7 +1514,7 @@
               <weight>74</weight>
               <height>175</height>
               <shirt_num>4</shirt_num>
-              <total_influence>-13</total_influence>
+              <total_influence>1</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/cesc-fabregas</profile_url>
               <country>Spain</country>
               <position>Bench</position>
@@ -1531,7 +1531,7 @@
               <weight>70</weight>
               <height>179</height>
               <shirt_num>6</shirt_num>
-              <total_influence>-12</total_influence>
+              <total_influence>-20</total_influence>
               <profile_url>http://www.squawka.com/players/abdul-baba/stats</profile_url>
               <country>Ghana</country>
               <position>Defender</position>
@@ -1565,7 +1565,7 @@
               <weight>74</weight>
               <height>173</height>
               <shirt_num>10</shirt_num>
-              <total_influence>16</total_influence>
+              <total_influence>20</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/eden-hazard</profile_url>
               <country>Belgium</country>
               <position>Bench</position>
@@ -1599,7 +1599,7 @@
               <weight>83</weight>
               <height>188</height>
               <shirt_num>12</shirt_num>
-              <total_influence>-2</total_influence>
+              <total_influence>-5</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/john-obi-mikel</profile_url>
               <country>Nigeria</country>
               <position>Midfielder</position>
@@ -1616,7 +1616,7 @@
               <weight>91</weight>
               <height>199</height>
               <shirt_num>13</shirt_num>
-              <total_influence>41</total_influence>
+              <total_influence>37</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/thibaut-courtois</profile_url>
               <country>Belgium</country>
               <position>Goalkeeper</position>
@@ -1650,7 +1650,7 @@
               <weight>80</weight>
               <height>185</height>
               <shirt_num>18</shirt_num>
-              <total_influence>8</total_influence>
+              <total_influence>6</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/loic-remy</profile_url>
               <country>France</country>
               <position>Bench</position>
@@ -1684,7 +1684,7 @@
               <weight>84</weight>
               <height>194</height>
               <shirt_num>21</shirt_num>
-              <total_influence>13</total_influence>
+              <total_influence>19</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/nemanja-matic</profile_url>
               <country>Serbia</country>
               <position>Midfielder</position>
@@ -1701,7 +1701,7 @@
               <weight>75</weight>
               <height>175</height>
               <shirt_num>22</shirt_num>
-              <total_influence>21</total_influence>
+              <total_influence>15</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/willian</profile_url>
               <country>Brazil</country>
               <position>Midfielder</position>
@@ -1735,7 +1735,7 @@
               <weight>75</weight>
               <height>178</height>
               <shirt_num>28</shirt_num>
-              <total_influence>14</total_influence>
+              <total_influence>9</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/cesar-azpilicueta</profile_url>
               <country>Spain</country>
               <position>Defender</position>
@@ -1752,7 +1752,7 @@
               <weight>83</weight>
               <height>191</height>
               <shirt_num>36</shirt_num>
-              <total_influence>6</total_influence>
+              <total_influence>19</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/ruben-loftus-cheek</profile_url>
               <country>England</country>
               <position>Midfielder</position>
@@ -1779,9 +1779,9 @@
           <player_inf_score id="1574" possession="-4.9" attack="-2.82" defense="-7.79" goalkeeping="0" injurytime_play="0">-15.51</player_inf_score>
           <player_inf_score id="2058" possession="7.35" attack="0" defense="10.15" goalkeeping="0" injurytime_play="0">17.5</player_inf_score>
           <player_inf_score id="2172" possession="4.17" attack="0.17" defense="6.75" goalkeeping="0" injurytime_play="0">11.09</player_inf_score>
-          <player_inf_score id="2277" possession="4.39" attack="2.82" defense="7.87" goalkeeping="0" injurytime_play="0">15.08</player_inf_score>
+          <player_inf_score id="2277" possession="7.39" attack="2.82" defense="7.87" goalkeeping="0" injurytime_play="0">18.08</player_inf_score>
           <player_inf_score id="2339" possession="-13.46" attack="-4.58" defense="1.54" goalkeeping="0" injurytime_play="0">-16.5</player_inf_score>
-          <player_inf_score id="2408" possession="-2.37" attack="6.17" defense="-7.16" goalkeeping="0" injurytime_play="0">-3.36</player_inf_score>
+          <player_inf_score id="2408" possession="-2.37" attack="4.67" defense="-7.16" goalkeeping="0" injurytime_play="0">-4.86</player_inf_score>
           <player_inf_score id="3129" possession="0.97" attack="27.1" defense="-28.09" goalkeeping="0" injurytime_play="0">-0.02</player_inf_score>
           <player_inf_score id="3548" possession="6.02" attack="16.21" defense="-8.76" goalkeeping="0" injurytime_play="0">13.47</player_inf_score>
           <player_inf_score id="4920" possession="-0.99" attack="6.28" defense="1.54" goalkeeping="0" injurytime_play="0">6.83</player_inf_score>
@@ -1824,7 +1824,7 @@
               <weight>84</weight>
               <height>184</height>
               <shirt_num>3</shirt_num>
-              <total_influence>18</total_influence>
+              <total_influence>25</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/erik-pieters</profile_url>
               <country>Netherlands</country>
               <position>Defender</position>
@@ -1841,7 +1841,7 @@
               <weight>72</weight>
               <height>179</height>
               <shirt_num>5</shirt_num>
-              <total_influence>-18</total_influence>
+              <total_influence>-12</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/marc-muniesa</profile_url>
               <country>Spain</country>
               <position>Defender</position>
@@ -1858,7 +1858,7 @@
               <weight>79</weight>
               <height>180</height>
               <shirt_num>6</shirt_num>
-              <total_influence>-2</total_influence>
+              <total_influence>1</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/glenn-whelan</profile_url>
               <country>Republic of Ireland</country>
               <position>Midfielder</position>
@@ -1892,7 +1892,7 @@
               <weight>83</weight>
               <height>192</height>
               <shirt_num>10</shirt_num>
-              <total_influence>8</total_influence>
+              <total_influence>9</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/marko-arnautovic</profile_url>
               <country>Austria</country>
               <position>Forward</position>
@@ -1926,7 +1926,7 @@
               <weight>76</weight>
               <height>180</height>
               <shirt_num>14</shirt_num>
-              <total_influence>23</total_influence>
+              <total_influence>17</total_influence>
               <profile_url>http://www.squawka.com/players/ibrahim-afellay/stats</profile_url>
               <country>Netherlands</country>
               <position>Midfielder</position>
@@ -1943,7 +1943,7 @@
               <weight>79</weight>
               <height>185</height>
               <shirt_num>18</shirt_num>
-              <total_influence>53</total_influence>
+              <total_influence>54</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/mame-biram-diouf</profile_url>
               <country>Senegal</country>
               <position>Forward</position>
@@ -1977,7 +1977,7 @@
               <weight>84</weight>
               <height>191</height>
               <shirt_num>20</shirt_num>
-              <total_influence>-5</total_influence>
+              <total_influence>6</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/geoff-cameron</profile_url>
               <country>USA</country>
               <position>Defender</position>
@@ -1994,7 +1994,7 @@
               <weight>78</weight>
               <height>186</height>
               <shirt_num>21</shirt_num>
-              <total_influence>44</total_influence>
+              <total_influence>33</total_influence>
               <profile_url>http://www.squawka.com/players/giannelli--imbula/stats</profile_url>
               <country>France</country>
               <position>Midfielder</position>
@@ -2011,7 +2011,7 @@
               <weight>72</weight>
               <height>169</height>
               <shirt_num>22</shirt_num>
-              <total_influence>-15</total_influence>
+              <total_influence>-13</total_influence>
               <profile_url>http://www.squawka.com/players/xherdan-shaqiri/stats</profile_url>
               <country>Switzerland</country>
               <position>Midfielder</position>
@@ -2079,7 +2079,7 @@
               <weight>65</weight>
               <height>170</height>
               <shirt_num>27</shirt_num>
-              <total_influence>6</total_influence>
+              <total_influence>-0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/bojan</profile_url>
               <country>Spain</country>
               <position>Forward</position>
@@ -2164,7 +2164,7 @@
               <weight>74</weight>
               <height>175</height>
               <shirt_num>4</shirt_num>
-              <total_influence>-13</total_influence>
+              <total_influence>1</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/cesc-fabregas</profile_url>
               <country>Spain</country>
               <position>Bench</position>
@@ -2181,7 +2181,7 @@
               <weight>70</weight>
               <height>179</height>
               <shirt_num>6</shirt_num>
-              <total_influence>-12</total_influence>
+              <total_influence>-20</total_influence>
               <profile_url>http://www.squawka.com/players/abdul-baba/stats</profile_url>
               <country>Ghana</country>
               <position>Defender</position>
@@ -2215,7 +2215,7 @@
               <weight>74</weight>
               <height>173</height>
               <shirt_num>10</shirt_num>
-              <total_influence>16</total_influence>
+              <total_influence>20</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/eden-hazard</profile_url>
               <country>Belgium</country>
               <position>Bench</position>
@@ -2249,7 +2249,7 @@
               <weight>83</weight>
               <height>188</height>
               <shirt_num>12</shirt_num>
-              <total_influence>-2</total_influence>
+              <total_influence>-5</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/john-obi-mikel</profile_url>
               <country>Nigeria</country>
               <position>Midfielder</position>
@@ -2266,7 +2266,7 @@
               <weight>91</weight>
               <height>199</height>
               <shirt_num>13</shirt_num>
-              <total_influence>41</total_influence>
+              <total_influence>37</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/thibaut-courtois</profile_url>
               <country>Belgium</country>
               <position>Goalkeeper</position>
@@ -2300,7 +2300,7 @@
               <weight>80</weight>
               <height>185</height>
               <shirt_num>18</shirt_num>
-              <total_influence>8</total_influence>
+              <total_influence>6</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/loic-remy</profile_url>
               <country>France</country>
               <position>Forward</position>
@@ -2334,7 +2334,7 @@
               <weight>84</weight>
               <height>194</height>
               <shirt_num>21</shirt_num>
-              <total_influence>13</total_influence>
+              <total_influence>19</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/nemanja-matic</profile_url>
               <country>Serbia</country>
               <position>Midfielder</position>
@@ -2351,7 +2351,7 @@
               <weight>75</weight>
               <height>175</height>
               <shirt_num>22</shirt_num>
-              <total_influence>21</total_influence>
+              <total_influence>15</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/willian</profile_url>
               <country>Brazil</country>
               <position>Midfielder</position>
@@ -2385,7 +2385,7 @@
               <weight>75</weight>
               <height>178</height>
               <shirt_num>28</shirt_num>
-              <total_influence>14</total_influence>
+              <total_influence>9</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/cesar-azpilicueta</profile_url>
               <country>Spain</country>
               <position>Defender</position>
@@ -2402,7 +2402,7 @@
               <weight>83</weight>
               <height>191</height>
               <shirt_num>36</shirt_num>
-              <total_influence>6</total_influence>
+              <total_influence>19</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/ruben-loftus-cheek</profile_url>
               <country>England</country>
               <position>Midfielder</position>
@@ -2426,9 +2426,9 @@
           <player_inf_score id="1574" possession="-5.62" attack="-2.82" defense="-10.3" goalkeeping="0" injurytime_play="0">-18.74</player_inf_score>
           <player_inf_score id="2058" possession="7.85" attack="0" defense="10.15" goalkeeping="0" injurytime_play="0">18</player_inf_score>
           <player_inf_score id="2172" possession="2.18" attack="0.17" defense="4.66" goalkeeping="0" injurytime_play="0">7.01</player_inf_score>
-          <player_inf_score id="2277" possession="5.29" attack="2.82" defense="7.87" goalkeeping="0" injurytime_play="0">15.98</player_inf_score>
+          <player_inf_score id="2277" possession="8.29" attack="2.82" defense="7.87" goalkeeping="0" injurytime_play="0">18.98</player_inf_score>
           <player_inf_score id="2339" possession="-13.11" attack="-4.58" defense="1.54" goalkeeping="0" injurytime_play="0">-16.15</player_inf_score>
-          <player_inf_score id="2408" possession="-3.34" attack="16.7" defense="-7.16" goalkeeping="0" injurytime_play="0">6.2</player_inf_score>
+          <player_inf_score id="2408" possession="-3.34" attack="15.2" defense="-7.16" goalkeeping="0" injurytime_play="0">4.7</player_inf_score>
           <player_inf_score id="3129" possession="0.09" attack="27.1" defense="-28.09" goalkeeping="0" injurytime_play="0">-0.9</player_inf_score>
           <player_inf_score id="3548" possession="6.8" attack="16.21" defense="-8.76" goalkeeping="0" injurytime_play="0">14.25</player_inf_score>
           <player_inf_score id="4920" possession="-0.99" attack="6.28" defense="1.54" goalkeeping="0" injurytime_play="0">6.83</player_inf_score>
@@ -2471,7 +2471,7 @@
               <weight>84</weight>
               <height>184</height>
               <shirt_num>3</shirt_num>
-              <total_influence>18</total_influence>
+              <total_influence>25</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/erik-pieters</profile_url>
               <country>Netherlands</country>
               <position>Defender</position>
@@ -2488,7 +2488,7 @@
               <weight>72</weight>
               <height>179</height>
               <shirt_num>5</shirt_num>
-              <total_influence>-18</total_influence>
+              <total_influence>-12</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/marc-muniesa</profile_url>
               <country>Spain</country>
               <position>Defender</position>
@@ -2505,7 +2505,7 @@
               <weight>79</weight>
               <height>180</height>
               <shirt_num>6</shirt_num>
-              <total_influence>-2</total_influence>
+              <total_influence>1</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/glenn-whelan</profile_url>
               <country>Republic of Ireland</country>
               <position>Midfielder</position>
@@ -2539,7 +2539,7 @@
               <weight>83</weight>
               <height>192</height>
               <shirt_num>10</shirt_num>
-              <total_influence>8</total_influence>
+              <total_influence>9</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/marko-arnautovic</profile_url>
               <country>Austria</country>
               <position>Forward</position>
@@ -2573,7 +2573,7 @@
               <weight>76</weight>
               <height>180</height>
               <shirt_num>14</shirt_num>
-              <total_influence>23</total_influence>
+              <total_influence>17</total_influence>
               <profile_url>http://www.squawka.com/players/ibrahim-afellay/stats</profile_url>
               <country>Netherlands</country>
               <position>Midfielder</position>
@@ -2590,7 +2590,7 @@
               <weight>79</weight>
               <height>185</height>
               <shirt_num>18</shirt_num>
-              <total_influence>53</total_influence>
+              <total_influence>54</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/mame-biram-diouf</profile_url>
               <country>Senegal</country>
               <position>Forward</position>
@@ -2624,7 +2624,7 @@
               <weight>84</weight>
               <height>191</height>
               <shirt_num>20</shirt_num>
-              <total_influence>-5</total_influence>
+              <total_influence>6</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/geoff-cameron</profile_url>
               <country>USA</country>
               <position>Defender</position>
@@ -2641,7 +2641,7 @@
               <weight>78</weight>
               <height>186</height>
               <shirt_num>21</shirt_num>
-              <total_influence>44</total_influence>
+              <total_influence>33</total_influence>
               <profile_url>http://www.squawka.com/players/giannelli--imbula/stats</profile_url>
               <country>France</country>
               <position>Midfielder</position>
@@ -2658,7 +2658,7 @@
               <weight>72</weight>
               <height>169</height>
               <shirt_num>22</shirt_num>
-              <total_influence>-15</total_influence>
+              <total_influence>-13</total_influence>
               <profile_url>http://www.squawka.com/players/xherdan-shaqiri/stats</profile_url>
               <country>Switzerland</country>
               <position>Midfielder</position>
@@ -2726,7 +2726,7 @@
               <weight>65</weight>
               <height>170</height>
               <shirt_num>27</shirt_num>
-              <total_influence>6</total_influence>
+              <total_influence>-0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/bojan</profile_url>
               <country>Spain</country>
               <position>Midfielder</position>
@@ -2811,7 +2811,7 @@
               <weight>74</weight>
               <height>175</height>
               <shirt_num>4</shirt_num>
-              <total_influence>-13</total_influence>
+              <total_influence>1</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/cesc-fabregas</profile_url>
               <country>Spain</country>
               <position>Bench</position>
@@ -2828,7 +2828,7 @@
               <weight>70</weight>
               <height>179</height>
               <shirt_num>6</shirt_num>
-              <total_influence>-12</total_influence>
+              <total_influence>-20</total_influence>
               <profile_url>http://www.squawka.com/players/abdul-baba/stats</profile_url>
               <country>Ghana</country>
               <position>Defender</position>
@@ -2862,7 +2862,7 @@
               <weight>74</weight>
               <height>173</height>
               <shirt_num>10</shirt_num>
-              <total_influence>16</total_influence>
+              <total_influence>20</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/eden-hazard</profile_url>
               <country>Belgium</country>
               <position>Bench</position>
@@ -2896,7 +2896,7 @@
               <weight>83</weight>
               <height>188</height>
               <shirt_num>12</shirt_num>
-              <total_influence>-2</total_influence>
+              <total_influence>-5</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/john-obi-mikel</profile_url>
               <country>Nigeria</country>
               <position>Midfielder</position>
@@ -2913,7 +2913,7 @@
               <weight>91</weight>
               <height>199</height>
               <shirt_num>13</shirt_num>
-              <total_influence>41</total_influence>
+              <total_influence>37</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/thibaut-courtois</profile_url>
               <country>Belgium</country>
               <position>Goalkeeper</position>
@@ -2947,7 +2947,7 @@
               <weight>80</weight>
               <height>185</height>
               <shirt_num>18</shirt_num>
-              <total_influence>8</total_influence>
+              <total_influence>6</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/loic-remy</profile_url>
               <country>France</country>
               <position>Forward</position>
@@ -2981,7 +2981,7 @@
               <weight>84</weight>
               <height>194</height>
               <shirt_num>21</shirt_num>
-              <total_influence>13</total_influence>
+              <total_influence>19</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/nemanja-matic</profile_url>
               <country>Serbia</country>
               <position>Midfielder</position>
@@ -2998,7 +2998,7 @@
               <weight>75</weight>
               <height>175</height>
               <shirt_num>22</shirt_num>
-              <total_influence>21</total_influence>
+              <total_influence>15</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/willian</profile_url>
               <country>Brazil</country>
               <position>Midfielder</position>
@@ -3032,7 +3032,7 @@
               <weight>75</weight>
               <height>178</height>
               <shirt_num>28</shirt_num>
-              <total_influence>14</total_influence>
+              <total_influence>9</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/cesar-azpilicueta</profile_url>
               <country>Spain</country>
               <position>Defender</position>
@@ -3049,7 +3049,7 @@
               <weight>83</weight>
               <height>191</height>
               <shirt_num>36</shirt_num>
-              <total_influence>6</total_influence>
+              <total_influence>19</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/ruben-loftus-cheek</profile_url>
               <country>England</country>
               <position>Midfielder</position>
@@ -3073,9 +3073,9 @@
           <player_inf_score id="1574" possession="-5.27" attack="-2.82" defense="-10.3" goalkeeping="0" injurytime_play="0">-18.39</player_inf_score>
           <player_inf_score id="2058" possession="8.2" attack="0" defense="11.55" goalkeeping="0" injurytime_play="0">19.75</player_inf_score>
           <player_inf_score id="2172" possession="2.18" attack="0.17" defense="4.66" goalkeeping="0" injurytime_play="0">7.01</player_inf_score>
-          <player_inf_score id="2277" possession="3.79" attack="2.82" defense="7.87" goalkeeping="0" injurytime_play="0">14.48</player_inf_score>
+          <player_inf_score id="2277" possession="6.79" attack="2.82" defense="7.87" goalkeeping="0" injurytime_play="0">17.48</player_inf_score>
           <player_inf_score id="2339" possession="-14.06" attack="-4.58" defense="2.94" goalkeeping="0" injurytime_play="0">-15.7</player_inf_score>
-          <player_inf_score id="2408" possession="-4.24" attack="16.7" defense="-7.16" goalkeeping="0" injurytime_play="0">5.3</player_inf_score>
+          <player_inf_score id="2408" possession="-4.24" attack="15.2" defense="-7.16" goalkeeping="0" injurytime_play="0">3.8</player_inf_score>
           <player_inf_score id="2921" possession="0.41" attack="0" defense="0" goalkeeping="0" injurytime_play="0">0.41</player_inf_score>
           <player_inf_score id="3129" possession="1.14" attack="27.1" defense="-28.09" goalkeeping="0" injurytime_play="0">0.15</player_inf_score>
           <player_inf_score id="3548" possession="7.18" attack="16.21" defense="-8.76" goalkeeping="0" injurytime_play="0">14.63</player_inf_score>
@@ -3115,7 +3115,7 @@
               <weight>84</weight>
               <height>184</height>
               <shirt_num>3</shirt_num>
-              <total_influence>18</total_influence>
+              <total_influence>25</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/erik-pieters</profile_url>
               <country>Netherlands</country>
               <position>Defender</position>
@@ -3132,7 +3132,7 @@
               <weight>72</weight>
               <height>179</height>
               <shirt_num>5</shirt_num>
-              <total_influence>-18</total_influence>
+              <total_influence>-12</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/marc-muniesa</profile_url>
               <country>Spain</country>
               <position>Defender</position>
@@ -3149,7 +3149,7 @@
               <weight>79</weight>
               <height>180</height>
               <shirt_num>6</shirt_num>
-              <total_influence>-2</total_influence>
+              <total_influence>1</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/glenn-whelan</profile_url>
               <country>Republic of Ireland</country>
               <position>Bench</position>
@@ -3183,7 +3183,7 @@
               <weight>83</weight>
               <height>192</height>
               <shirt_num>10</shirt_num>
-              <total_influence>8</total_influence>
+              <total_influence>9</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/marko-arnautovic</profile_url>
               <country>Austria</country>
               <position>Midfielder</position>
@@ -3217,7 +3217,7 @@
               <weight>76</weight>
               <height>180</height>
               <shirt_num>14</shirt_num>
-              <total_influence>23</total_influence>
+              <total_influence>17</total_influence>
               <profile_url>http://www.squawka.com/players/ibrahim-afellay/stats</profile_url>
               <country>Netherlands</country>
               <position>Midfielder</position>
@@ -3234,7 +3234,7 @@
               <weight>79</weight>
               <height>185</height>
               <shirt_num>18</shirt_num>
-              <total_influence>53</total_influence>
+              <total_influence>54</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/mame-biram-diouf</profile_url>
               <country>Senegal</country>
               <position>Forward</position>
@@ -3268,7 +3268,7 @@
               <weight>84</weight>
               <height>191</height>
               <shirt_num>20</shirt_num>
-              <total_influence>-5</total_influence>
+              <total_influence>6</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/geoff-cameron</profile_url>
               <country>USA</country>
               <position>Defender</position>
@@ -3285,7 +3285,7 @@
               <weight>78</weight>
               <height>186</height>
               <shirt_num>21</shirt_num>
-              <total_influence>44</total_influence>
+              <total_influence>33</total_influence>
               <profile_url>http://www.squawka.com/players/giannelli--imbula/stats</profile_url>
               <country>France</country>
               <position>Midfielder</position>
@@ -3302,7 +3302,7 @@
               <weight>72</weight>
               <height>169</height>
               <shirt_num>22</shirt_num>
-              <total_influence>-15</total_influence>
+              <total_influence>-13</total_influence>
               <profile_url>http://www.squawka.com/players/xherdan-shaqiri/stats</profile_url>
               <country>Switzerland</country>
               <position>Midfielder</position>
@@ -3370,7 +3370,7 @@
               <weight>65</weight>
               <height>170</height>
               <shirt_num>27</shirt_num>
-              <total_influence>6</total_influence>
+              <total_influence>-0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/bojan</profile_url>
               <country>Spain</country>
               <position>Midfielder</position>
@@ -3455,7 +3455,7 @@
               <weight>74</weight>
               <height>175</height>
               <shirt_num>4</shirt_num>
-              <total_influence>-13</total_influence>
+              <total_influence>1</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/cesc-fabregas</profile_url>
               <country>Spain</country>
               <position>Bench</position>
@@ -3472,7 +3472,7 @@
               <weight>70</weight>
               <height>179</height>
               <shirt_num>6</shirt_num>
-              <total_influence>-12</total_influence>
+              <total_influence>-20</total_influence>
               <profile_url>http://www.squawka.com/players/abdul-baba/stats</profile_url>
               <country>Ghana</country>
               <position>Defender</position>
@@ -3506,7 +3506,7 @@
               <weight>74</weight>
               <height>173</height>
               <shirt_num>10</shirt_num>
-              <total_influence>16</total_influence>
+              <total_influence>20</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/eden-hazard</profile_url>
               <country>Belgium</country>
               <position>Bench</position>
@@ -3540,7 +3540,7 @@
               <weight>83</weight>
               <height>188</height>
               <shirt_num>12</shirt_num>
-              <total_influence>-2</total_influence>
+              <total_influence>-5</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/john-obi-mikel</profile_url>
               <country>Nigeria</country>
               <position>Midfielder</position>
@@ -3557,7 +3557,7 @@
               <weight>91</weight>
               <height>199</height>
               <shirt_num>13</shirt_num>
-              <total_influence>41</total_influence>
+              <total_influence>37</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/thibaut-courtois</profile_url>
               <country>Belgium</country>
               <position>Goalkeeper</position>
@@ -3591,7 +3591,7 @@
               <weight>80</weight>
               <height>185</height>
               <shirt_num>18</shirt_num>
-              <total_influence>8</total_influence>
+              <total_influence>6</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/loic-remy</profile_url>
               <country>France</country>
               <position>Forward</position>
@@ -3625,7 +3625,7 @@
               <weight>84</weight>
               <height>194</height>
               <shirt_num>21</shirt_num>
-              <total_influence>13</total_influence>
+              <total_influence>19</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/nemanja-matic</profile_url>
               <country>Serbia</country>
               <position>Midfielder</position>
@@ -3642,7 +3642,7 @@
               <weight>75</weight>
               <height>175</height>
               <shirt_num>22</shirt_num>
-              <total_influence>21</total_influence>
+              <total_influence>15</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/willian</profile_url>
               <country>Brazil</country>
               <position>Midfielder</position>
@@ -3676,7 +3676,7 @@
               <weight>75</weight>
               <height>178</height>
               <shirt_num>28</shirt_num>
-              <total_influence>14</total_influence>
+              <total_influence>9</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/cesar-azpilicueta</profile_url>
               <country>Spain</country>
               <position>Defender</position>
@@ -3693,7 +3693,7 @@
               <weight>83</weight>
               <height>191</height>
               <shirt_num>36</shirt_num>
-              <total_influence>6</total_influence>
+              <total_influence>19</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/ruben-loftus-cheek</profile_url>
               <country>England</country>
               <position>Midfielder</position>
@@ -3717,9 +3717,9 @@
           <player_inf_score id="1574" possession="-3.96" attack="-2.82" defense="-10.3" goalkeeping="0" injurytime_play="0">-17.08</player_inf_score>
           <player_inf_score id="2058" possession="9.54" attack="0" defense="13.76" goalkeeping="0" injurytime_play="0">23.3</player_inf_score>
           <player_inf_score id="2172" possession="-0.86" attack="0.17" defense="4.66" goalkeeping="0" injurytime_play="0">3.97</player_inf_score>
-          <player_inf_score id="2277" possession="4.31" attack="6.85" defense="7.87" goalkeeping="0" injurytime_play="0">19.03</player_inf_score>
+          <player_inf_score id="2277" possession="7.31" attack="6.85" defense="7.87" goalkeeping="0" injurytime_play="0">22.03</player_inf_score>
           <player_inf_score id="2339" possession="-14.41" attack="-4.58" defense="2.94" goalkeeping="0" injurytime_play="0">-16.05</player_inf_score>
-          <player_inf_score id="2408" possession="-3.45" attack="16.7" defense="-7.16" goalkeeping="0" injurytime_play="0">6.09</player_inf_score>
+          <player_inf_score id="2408" possession="-3.45" attack="15.2" defense="-7.16" goalkeeping="0" injurytime_play="0">4.59</player_inf_score>
           <player_inf_score id="2921" possession="-1.11" attack="0" defense="-2.63" goalkeeping="0" injurytime_play="0">-3.74</player_inf_score>
           <player_inf_score id="3129" possession="0.57" attack="24.39" defense="-25.44" goalkeeping="0" injurytime_play="0">-0.48</player_inf_score>
           <player_inf_score id="3548" possession="9.58" attack="20.24" defense="-8.76" goalkeeping="0" injurytime_play="0">21.06</player_inf_score>
@@ -3730,8 +3730,8 @@
           <player_inf_score id="9284" possession="-17.4" attack="15" defense="23.12" goalkeeping="0" injurytime_play="0">20.72</player_inf_score>
         </time_slice>
         <time_slice name="80 - 85" id="17" scored_min="85">
-          <team_possession team_id="33">44</team_possession>
-          <team_possession team_id="44">56</team_possession>
+          <team_possession team_id="33">45</team_possession>
+          <team_possession team_id="44">55</team_possession>
           <swap_players team_id="33" min="81" minsec="4878">
             <sub_to_player player_id="306">Fàbregas</sub_to_player>
             <player_to_sub player_id="9284">Matic</player_to_sub>
@@ -3763,7 +3763,7 @@
               <weight>84</weight>
               <height>184</height>
               <shirt_num>3</shirt_num>
-              <total_influence>18</total_influence>
+              <total_influence>25</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/erik-pieters</profile_url>
               <country>Netherlands</country>
               <position>Defender</position>
@@ -3780,7 +3780,7 @@
               <weight>72</weight>
               <height>179</height>
               <shirt_num>5</shirt_num>
-              <total_influence>-18</total_influence>
+              <total_influence>-12</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/marc-muniesa</profile_url>
               <country>Spain</country>
               <position>Defender</position>
@@ -3797,7 +3797,7 @@
               <weight>79</weight>
               <height>180</height>
               <shirt_num>6</shirt_num>
-              <total_influence>-2</total_influence>
+              <total_influence>1</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/glenn-whelan</profile_url>
               <country>Republic of Ireland</country>
               <position>Bench</position>
@@ -3831,7 +3831,7 @@
               <weight>83</weight>
               <height>192</height>
               <shirt_num>10</shirt_num>
-              <total_influence>8</total_influence>
+              <total_influence>9</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/marko-arnautovic</profile_url>
               <country>Austria</country>
               <position>Midfielder</position>
@@ -3865,7 +3865,7 @@
               <weight>76</weight>
               <height>180</height>
               <shirt_num>14</shirt_num>
-              <total_influence>23</total_influence>
+              <total_influence>17</total_influence>
               <profile_url>http://www.squawka.com/players/ibrahim-afellay/stats</profile_url>
               <country>Netherlands</country>
               <position>Midfielder</position>
@@ -3882,7 +3882,7 @@
               <weight>79</weight>
               <height>185</height>
               <shirt_num>18</shirt_num>
-              <total_influence>53</total_influence>
+              <total_influence>54</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/mame-biram-diouf</profile_url>
               <country>Senegal</country>
               <position>Forward</position>
@@ -3916,7 +3916,7 @@
               <weight>84</weight>
               <height>191</height>
               <shirt_num>20</shirt_num>
-              <total_influence>-5</total_influence>
+              <total_influence>6</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/geoff-cameron</profile_url>
               <country>USA</country>
               <position>Defender</position>
@@ -3933,7 +3933,7 @@
               <weight>78</weight>
               <height>186</height>
               <shirt_num>21</shirt_num>
-              <total_influence>44</total_influence>
+              <total_influence>33</total_influence>
               <profile_url>http://www.squawka.com/players/giannelli--imbula/stats</profile_url>
               <country>France</country>
               <position>Midfielder</position>
@@ -3950,7 +3950,7 @@
               <weight>72</weight>
               <height>169</height>
               <shirt_num>22</shirt_num>
-              <total_influence>-15</total_influence>
+              <total_influence>-13</total_influence>
               <profile_url>http://www.squawka.com/players/xherdan-shaqiri/stats</profile_url>
               <country>Switzerland</country>
               <position>Midfielder</position>
@@ -4018,7 +4018,7 @@
               <weight>65</weight>
               <height>170</height>
               <shirt_num>27</shirt_num>
-              <total_influence>6</total_influence>
+              <total_influence>-0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/bojan</profile_url>
               <country>Spain</country>
               <position>Midfielder</position>
@@ -4103,7 +4103,7 @@
               <weight>74</weight>
               <height>175</height>
               <shirt_num>4</shirt_num>
-              <total_influence>-13</total_influence>
+              <total_influence>1</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/cesc-fabregas</profile_url>
               <country>Spain</country>
               <position>Midfielder</position>
@@ -4120,7 +4120,7 @@
               <weight>70</weight>
               <height>179</height>
               <shirt_num>6</shirt_num>
-              <total_influence>-12</total_influence>
+              <total_influence>-20</total_influence>
               <profile_url>http://www.squawka.com/players/abdul-baba/stats</profile_url>
               <country>Ghana</country>
               <position>Defender</position>
@@ -4154,7 +4154,7 @@
               <weight>74</weight>
               <height>173</height>
               <shirt_num>10</shirt_num>
-              <total_influence>16</total_influence>
+              <total_influence>20</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/eden-hazard</profile_url>
               <country>Belgium</country>
               <position>Bench</position>
@@ -4188,7 +4188,7 @@
               <weight>83</weight>
               <height>188</height>
               <shirt_num>12</shirt_num>
-              <total_influence>-2</total_influence>
+              <total_influence>-5</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/john-obi-mikel</profile_url>
               <country>Nigeria</country>
               <position>Midfielder</position>
@@ -4205,7 +4205,7 @@
               <weight>91</weight>
               <height>199</height>
               <shirt_num>13</shirt_num>
-              <total_influence>41</total_influence>
+              <total_influence>37</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/thibaut-courtois</profile_url>
               <country>Belgium</country>
               <position>Goalkeeper</position>
@@ -4239,7 +4239,7 @@
               <weight>80</weight>
               <height>185</height>
               <shirt_num>18</shirt_num>
-              <total_influence>8</total_influence>
+              <total_influence>6</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/loic-remy</profile_url>
               <country>France</country>
               <position>Forward</position>
@@ -4273,7 +4273,7 @@
               <weight>84</weight>
               <height>194</height>
               <shirt_num>21</shirt_num>
-              <total_influence>13</total_influence>
+              <total_influence>19</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/nemanja-matic</profile_url>
               <country>Serbia</country>
               <position>Midfielder</position>
@@ -4290,7 +4290,7 @@
               <weight>75</weight>
               <height>175</height>
               <shirt_num>22</shirt_num>
-              <total_influence>21</total_influence>
+              <total_influence>15</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/willian</profile_url>
               <country>Brazil</country>
               <position>Midfielder</position>
@@ -4324,7 +4324,7 @@
               <weight>75</weight>
               <height>178</height>
               <shirt_num>28</shirt_num>
-              <total_influence>14</total_influence>
+              <total_influence>9</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/cesar-azpilicueta</profile_url>
               <country>Spain</country>
               <position>Defender</position>
@@ -4341,7 +4341,7 @@
               <weight>83</weight>
               <height>191</height>
               <shirt_num>36</shirt_num>
-              <total_influence>6</total_influence>
+              <total_influence>19</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/ruben-loftus-cheek</profile_url>
               <country>England</country>
               <position>Midfielder</position>
@@ -4362,13 +4362,13 @@
           <player_inf_score id="778" possession="0.48" attack="2.92" defense="-1.72" goalkeeping="0" injurytime_play="0">1.68</player_inf_score>
           <player_inf_score id="1182" possession="10.78" attack="0" defense="1.78" goalkeeping="0" injurytime_play="0">12.56</player_inf_score>
           <player_inf_score id="1183" possession="1.49" attack="0" defense="0" goalkeeping="0" injurytime_play="0">1.49</player_inf_score>
-          <player_inf_score id="1558" possession="4.14" attack="0" defense="23.6" goalkeeping="0" injurytime_play="0">27.74</player_inf_score>
+          <player_inf_score id="1558" possession="4.14" attack="0" defense="6.1" goalkeeping="0" injurytime_play="0">10.24</player_inf_score>
           <player_inf_score id="1574" possession="-3.46" attack="-2.82" defense="-10.3" goalkeeping="0" injurytime_play="0">-16.58</player_inf_score>
           <player_inf_score id="2058" possession="10.5" attack="0" defense="18.76" goalkeeping="0" injurytime_play="0">29.26</player_inf_score>
           <player_inf_score id="2172" possession="-4.79" attack="0.17" defense="0.86" goalkeeping="0" injurytime_play="0">-3.76</player_inf_score>
-          <player_inf_score id="2277" possession="5.56" attack="37.75" defense="7.87" goalkeeping="0" injurytime_play="0">51.18</player_inf_score>
+          <player_inf_score id="2277" possession="8.56" attack="37.75" defense="7.87" goalkeeping="0" injurytime_play="0">54.18</player_inf_score>
           <player_inf_score id="2339" possession="-17.36" attack="-4.58" defense="-4.06" goalkeeping="0" injurytime_play="0">-26</player_inf_score>
-          <player_inf_score id="2408" possession="-5.07" attack="20.89" defense="-7.16" goalkeeping="0" injurytime_play="0">8.66</player_inf_score>
+          <player_inf_score id="2408" possession="-5.07" attack="19.39" defense="-7.16" goalkeeping="0" injurytime_play="0">7.16</player_inf_score>
           <player_inf_score id="2921" possession="-2.72" attack="0" defense="-0.2" goalkeeping="0" injurytime_play="0">-2.92</player_inf_score>
           <player_inf_score id="3129" possession="0.57" attack="24.39" defense="-25.44" goalkeeping="0" injurytime_play="0">-0.48</player_inf_score>
           <player_inf_score id="3548" possession="10.12" attack="20.89" defense="-5.76" goalkeeping="0" injurytime_play="0">25.25</player_inf_score>
@@ -4416,7 +4416,7 @@
               <weight>84</weight>
               <height>184</height>
               <shirt_num>3</shirt_num>
-              <total_influence>18</total_influence>
+              <total_influence>25</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/erik-pieters</profile_url>
               <country>Netherlands</country>
               <position>Defender</position>
@@ -4433,7 +4433,7 @@
               <weight>72</weight>
               <height>179</height>
               <shirt_num>5</shirt_num>
-              <total_influence>-18</total_influence>
+              <total_influence>-12</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/marc-muniesa</profile_url>
               <country>Spain</country>
               <position>Defender</position>
@@ -4450,7 +4450,7 @@
               <weight>79</weight>
               <height>180</height>
               <shirt_num>6</shirt_num>
-              <total_influence>-2</total_influence>
+              <total_influence>1</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/glenn-whelan</profile_url>
               <country>Republic of Ireland</country>
               <position>Bench</position>
@@ -4484,7 +4484,7 @@
               <weight>83</weight>
               <height>192</height>
               <shirt_num>10</shirt_num>
-              <total_influence>8</total_influence>
+              <total_influence>9</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/marko-arnautovic</profile_url>
               <country>Austria</country>
               <position>Midfielder</position>
@@ -4518,7 +4518,7 @@
               <weight>76</weight>
               <height>180</height>
               <shirt_num>14</shirt_num>
-              <total_influence>23</total_influence>
+              <total_influence>17</total_influence>
               <profile_url>http://www.squawka.com/players/ibrahim-afellay/stats</profile_url>
               <country>Netherlands</country>
               <position>Midfielder</position>
@@ -4535,7 +4535,7 @@
               <weight>79</weight>
               <height>185</height>
               <shirt_num>18</shirt_num>
-              <total_influence>53</total_influence>
+              <total_influence>54</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/mame-biram-diouf</profile_url>
               <country>Senegal</country>
               <position>Forward</position>
@@ -4569,7 +4569,7 @@
               <weight>84</weight>
               <height>191</height>
               <shirt_num>20</shirt_num>
-              <total_influence>-5</total_influence>
+              <total_influence>6</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/geoff-cameron</profile_url>
               <country>USA</country>
               <position>Defender</position>
@@ -4586,7 +4586,7 @@
               <weight>78</weight>
               <height>186</height>
               <shirt_num>21</shirt_num>
-              <total_influence>44</total_influence>
+              <total_influence>33</total_influence>
               <profile_url>http://www.squawka.com/players/giannelli--imbula/stats</profile_url>
               <country>France</country>
               <position>Midfielder</position>
@@ -4603,7 +4603,7 @@
               <weight>72</weight>
               <height>169</height>
               <shirt_num>22</shirt_num>
-              <total_influence>-15</total_influence>
+              <total_influence>-13</total_influence>
               <profile_url>http://www.squawka.com/players/xherdan-shaqiri/stats</profile_url>
               <country>Switzerland</country>
               <position>Midfielder</position>
@@ -4671,7 +4671,7 @@
               <weight>65</weight>
               <height>170</height>
               <shirt_num>27</shirt_num>
-              <total_influence>6</total_influence>
+              <total_influence>-0</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/bojan</profile_url>
               <country>Spain</country>
               <position>Midfielder</position>
@@ -4756,7 +4756,7 @@
               <weight>74</weight>
               <height>175</height>
               <shirt_num>4</shirt_num>
-              <total_influence>-13</total_influence>
+              <total_influence>1</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/cesc-fabregas</profile_url>
               <country>Spain</country>
               <position>Midfielder</position>
@@ -4773,7 +4773,7 @@
               <weight>70</weight>
               <height>179</height>
               <shirt_num>6</shirt_num>
-              <total_influence>-12</total_influence>
+              <total_influence>-20</total_influence>
               <profile_url>http://www.squawka.com/players/abdul-baba/stats</profile_url>
               <country>Ghana</country>
               <position>Defender</position>
@@ -4807,7 +4807,7 @@
               <weight>74</weight>
               <height>173</height>
               <shirt_num>10</shirt_num>
-              <total_influence>16</total_influence>
+              <total_influence>20</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/eden-hazard</profile_url>
               <country>Belgium</country>
               <position>Bench</position>
@@ -4841,7 +4841,7 @@
               <weight>83</weight>
               <height>188</height>
               <shirt_num>12</shirt_num>
-              <total_influence>-2</total_influence>
+              <total_influence>-5</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/john-obi-mikel</profile_url>
               <country>Nigeria</country>
               <position>Midfielder</position>
@@ -4858,7 +4858,7 @@
               <weight>91</weight>
               <height>199</height>
               <shirt_num>13</shirt_num>
-              <total_influence>41</total_influence>
+              <total_influence>37</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/thibaut-courtois</profile_url>
               <country>Belgium</country>
               <position>Goalkeeper</position>
@@ -4892,7 +4892,7 @@
               <weight>80</weight>
               <height>185</height>
               <shirt_num>18</shirt_num>
-              <total_influence>8</total_influence>
+              <total_influence>6</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/loic-remy</profile_url>
               <country>France</country>
               <position>Forward</position>
@@ -4926,7 +4926,7 @@
               <weight>84</weight>
               <height>194</height>
               <shirt_num>21</shirt_num>
-              <total_influence>13</total_influence>
+              <total_influence>19</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/nemanja-matic</profile_url>
               <country>Serbia</country>
               <position>Midfielder</position>
@@ -4943,7 +4943,7 @@
               <weight>75</weight>
               <height>175</height>
               <shirt_num>22</shirt_num>
-              <total_influence>21</total_influence>
+              <total_influence>15</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/willian</profile_url>
               <country>Brazil</country>
               <position>Midfielder</position>
@@ -4977,7 +4977,7 @@
               <weight>75</weight>
               <height>178</height>
               <shirt_num>28</shirt_num>
-              <total_influence>14</total_influence>
+              <total_influence>9</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/cesar-azpilicueta</profile_url>
               <country>Spain</country>
               <position>Defender</position>
@@ -4994,7 +4994,7 @@
               <weight>83</weight>
               <height>191</height>
               <shirt_num>36</shirt_num>
-              <total_influence>6</total_influence>
+              <total_influence>19</total_influence>
               <profile_url>http://www.squawka.com/uncategorized/ruben-loftus-cheek</profile_url>
               <country>England</country>
               <position>Midfielder</position>
@@ -5018,14 +5018,14 @@
           <player_inf_score id="778" possession="-0.11" attack="2.92" defense="2.28" goalkeeping="0" injurytime_play="0">5.09</player_inf_score>
           <player_inf_score id="1182" possession="11.16" attack="0" defense="1.78" goalkeeping="0" injurytime_play="0">12.94</player_inf_score>
           <player_inf_score id="1183" possession="5.59" attack="0" defense="0" goalkeeping="0" injurytime_play="0">5.59</player_inf_score>
-          <player_inf_score id="1558" possession="4.83" attack="0" defense="23.6" goalkeeping="0" injurytime_play="0">28.43</player_inf_score>
+          <player_inf_score id="1558" possession="4.83" attack="0" defense="6.1" goalkeeping="0" injurytime_play="0">10.93</player_inf_score>
           <player_inf_score id="1574" possession="-3.11" attack="-2.82" defense="-9.1" goalkeeping="0" injurytime_play="0">-15.03</player_inf_score>
           <player_inf_score id="2042" possession="-1.43" attack="0" defense="0" goalkeeping="0" injurytime_play="0">-1.43</player_inf_score>
           <player_inf_score id="2058" possession="10.5" attack="0" defense="18.76" goalkeeping="0" injurytime_play="0">29.26</player_inf_score>
           <player_inf_score id="2172" possession="-4.79" attack="0.17" defense="0.86" goalkeeping="0" injurytime_play="0">-3.76</player_inf_score>
-          <player_inf_score id="2277" possession="5.56" attack="37.75" defense="7.87" goalkeeping="0" injurytime_play="0">51.18</player_inf_score>
+          <player_inf_score id="2277" possession="8.56" attack="37.75" defense="7.87" goalkeeping="0" injurytime_play="0">54.18</player_inf_score>
           <player_inf_score id="2339" possession="-15.99" attack="7.42" defense="-4.06" goalkeeping="0" injurytime_play="0">-12.63</player_inf_score>
-          <player_inf_score id="2408" possession="-5.07" attack="20.89" defense="-7.16" goalkeeping="0" injurytime_play="0">8.66</player_inf_score>
+          <player_inf_score id="2408" possession="-5.07" attack="19.39" defense="-7.16" goalkeeping="0" injurytime_play="0">7.16</player_inf_score>
           <player_inf_score id="2921" possession="-4.73" attack="0" defense="-0.2" goalkeeping="0" injurytime_play="0">-4.93</player_inf_score>
           <player_inf_score id="3129" possession="-0.95" attack="22.89" defense="-25.44" goalkeeping="0" injurytime_play="0">-3.5</player_inf_score>
           <player_inf_score id="3548" possession="8.77" attack="20.89" defense="-3.33" goalkeeping="0" injurytime_play="0">26.33</player_inf_score>
@@ -5047,14 +5047,14 @@
           <player_inf_score id="778" possession="1.27" attack="2.92" defense="2.28" goalkeeping="0" injurytime_play="1">6.47</player_inf_score>
           <player_inf_score id="1182" possession="10.93" attack="0" defense="-2.02" goalkeeping="0" injurytime_play="1">8.91</player_inf_score>
           <player_inf_score id="1183" possession="5.59" attack="0" defense="0" goalkeeping="0" injurytime_play="1">5.59</player_inf_score>
-          <player_inf_score id="1558" possession="5.99" attack="0" defense="30.6" goalkeeping="0" injurytime_play="1">36.59</player_inf_score>
+          <player_inf_score id="1558" possession="5.99" attack="0" defense="13.1" goalkeeping="0" injurytime_play="1">19.09</player_inf_score>
           <player_inf_score id="1574" possession="-3.11" attack="-2.82" defense="-5.8" goalkeeping="0" injurytime_play="1">-11.73</player_inf_score>
           <player_inf_score id="2042" possession="0.28" attack="8.88" defense="-7.8" goalkeeping="0" injurytime_play="1">1.36</player_inf_score>
           <player_inf_score id="2058" possession="9.9" attack="0" defense="19.96" goalkeeping="0" injurytime_play="1">29.86</player_inf_score>
           <player_inf_score id="2172" possession="-4.79" attack="-2.31" defense="-6.34" goalkeeping="0" injurytime_play="1">-13.44</player_inf_score>
-          <player_inf_score id="2277" possession="4.53" attack="37.75" defense="11.67" goalkeeping="0" injurytime_play="1">53.95</player_inf_score>
+          <player_inf_score id="2277" possession="7.53" attack="37.75" defense="11.67" goalkeeping="0" injurytime_play="1">56.95</player_inf_score>
           <player_inf_score id="2339" possession="-15.99" attack="7.42" defense="-11.06" goalkeeping="0" injurytime_play="1">-19.63</player_inf_score>
-          <player_inf_score id="2408" possession="-5.07" attack="20.89" defense="-7.16" goalkeeping="0" injurytime_play="1">8.66</player_inf_score>
+          <player_inf_score id="2408" possession="-5.07" attack="19.39" defense="-7.16" goalkeeping="0" injurytime_play="1">7.16</player_inf_score>
           <player_inf_score id="2921" possession="-3.64" attack="10.68" defense="-7.4" goalkeeping="0" injurytime_play="1">-0.36</player_inf_score>
           <player_inf_score id="3129" possession="-1.62" attack="22.89" defense="-25.44" goalkeeping="0" injurytime_play="1">-4.17</player_inf_score>
           <player_inf_score id="3548" possession="11.84" attack="24.77" defense="-3.33" goalkeeping="0" injurytime_play="1">33.28</player_inf_score>
@@ -5222,7 +5222,7 @@
           <ga_result team_id="33" goal="0" save="0" off_target="0" blocked="2" wood_work="0" headed="0" shot="0">0/2</ga_result>
           <ga_result team_id="44" goal="0" save="0" off_target="0" blocked="0" wood_work="0" headed="0" shot="0">0/0</ga_result>
         </time_slice>
-        <time_slice name="35 - 40" id="8" attempts_count="4">
+        <time_slice name="35 - 40" id="8" attempts_count="5">
           <event type="goal" player_id="5605" team_id="33" action_type="Attack" mins="38" secs="42" minsec="2322" uid="1761792684">
             <assist_1 x="71.7" y="27.2" x2="77.1" y2="40.2" min="38">9284</assist_1>
             <passlinks>[{"type":"completed_pass","sub_type":"","swere":"","period":"1","headed":0,"start_x":"66.8","start_y":"32","end_x":"69.8","end_y":"2.9","club_id":"33","player_id":"2339","player_name":"Baba Rahman","photo":"uploaded_icons\/players\/thumb\/p2339c33j6.jpg","side":"home","min":"38","sec":"21","minsec":"2301"},{"type":"completed_pass","sub_type":"","swere":"","period":"1","headed":0,"start_x":"77.3","start_y":"19.4","end_x":"78.0","end_y":"32.3","club_id":"33","player_id":"454","player_name":"Eden Hazard","photo":"uploaded_icons\/players\/thumb\/p454c33j10.jpg","side":"home","min":"38","sec":"30","minsec":"2310"},{"type":"failed_pass","sub_type":"","swere":"","period":"1","headed":0,"start_x":"78","start_y":"32.3","end_x":"85.4","end_y":"26.6","club_id":"33","player_id":"451","player_name":"Gary Cahill","photo":"uploaded_icons\/players\/thumb\/p451c33j24.jpg","side":"home","min":"38","sec":"31","minsec":"2311"},{"type":"completed_pass","sub_type":"","swere":"","period":"1","headed":0,"start_x":84.8,"start_y":29.3,"end_x":74.5,"end_y":27,"club_id":"44","player_id":"1574","player_name":"Muniesa","photo":"uploaded_icons\/players\/thumb\/p1574c44j5.jpg","side":"away","min":"38","sec":"33","minsec":"2313"},{"type":"balltouch","outcome":"0","end_x":67.6,"end_y":30.7,"start_x":67.6,"start_y":30.7,"club_id":"44","player_id":"200","player_name":"Afellay","photo":"uploaded_icons\/players\/thumb\/p200c73j14.jpg","side":"away","min":"38","sec":"35","minsec":"2315"},{"type":"assists_pass","sub_type":"","swere":"","period":"1","headed":0,"start_x":"71.7","start_y":"27.2","end_x":"77.1","end_y":"40.2","club_id":"33","player_id":"9284","player_name":"Nemanja Matic","photo":"uploaded_icons\/players\/thumb\/p9284c33j21.jpg","side":"home","min":"38","sec":"38","minsec":"2318"},{"type":"goal","sub_type":"","period":"1","player_id":"5605","goal_min":39,"start_x":"80.1","start_y":"31.8","is_own":0,"end_x":"54.5","end_y":"20.9","gmouth_y":"54.5","gmouth_z":"20.9","swere":"","penalty_goal":0,"club_id":"33","player_name":"Bertrand Traore","photo":"uploaded_icons\/players\/thumb\/p5605c33j14.jpg","side":"home","min":"38","sec":"42","minsec":"2322"}]</passlinks>
@@ -5236,6 +5236,12 @@
             <end>75.4,59.4</end>
             <swere>right</swere>
             <coordinates start_x="75.4" start_y="59.4" gmouth_y="28.6" gmouth_z="4.2"/>
+            <shot>true</shot>
+          </event>
+          <event type="off_target" player_id="2408" team_id="44" action_type="Attack" mins="35" secs="52" minsec="2152">
+            <start>41.5,4.2</start>
+            <end>98.4,40.1</end>
+            <coordinates start_x="98.4" start_y="40.1" gmouth_y="41.5" gmouth_z="4.2"/>
             <shot>true</shot>
           </event>
           <event type="off_target" player_id="2277" team_id="44" action_type="Attack" mins="35" secs="50" minsec="2150">
@@ -5252,7 +5258,7 @@
             <shot>true</shot>
           </event>
           <ga_result team_id="33" goal="1" save="0" off_target="1" blocked="1" wood_work="0" headed="0" shot="0">1/3</ga_result>
-          <ga_result team_id="44" goal="0" save="0" off_target="1" blocked="0" wood_work="0" headed="0" shot="0">0/1</ga_result>
+          <ga_result team_id="44" goal="0" save="0" off_target="2" blocked="0" wood_work="0" headed="0" shot="0">0/2</ga_result>
         </time_slice>
         <time_slice name="40 - 45" id="9" attempts_count="1">
           <event type="off_target" player_id="7145" team_id="33" action_type="Attack" mins="40" secs="40" minsec="2440" injurytime_play="0">
@@ -5395,8 +5401,8 @@
           </event>
           <event type="off_target" player_id="3129" team_id="33" action_type="Attack" mins="88" secs="46" minsec="5326" injurytime_play="0">
             <start>47.7,47.2</start>
-            <end>94.5,56.1</end>
-            <coordinates start_x="94.5" start_y="56.1" gmouth_y="47.7" gmouth_z="47.2"/>
+            <end>95.4,59.4</end>
+            <coordinates start_x="95.4" start_y="59.4" gmouth_y="47.7" gmouth_z="47.2"/>
             <headed>true</headed>
           </event>
           <ga_result team_id="33" goal="0" save="1" off_target="1" blocked="0" wood_work="0" headed="0" shot="0">0/2</ga_result>
@@ -6236,8 +6242,9 @@
           </action_area>
           <action_area id="7">
             <aa_team id="33">1</aa_team>
-            <aa_team id="44">2</aa_team>
+            <aa_team id="44">3</aa_team>
             <aa_player id="1558" team_id="33">1</aa_player>
+            <aa_player id="2408" team_id="44">1</aa_player>
             <aa_player id="2277" team_id="44">1</aa_player>
             <aa_player id="2172" team_id="44">1</aa_player>
           </action_area>
@@ -14441,7 +14448,7 @@
             <end>39,101.5</end>
           </event>
           <event type="out" player_id="2408" team_id="44" action_type="" mins="40" secs="7" minsec="2407" injurytime_play="0">
-            <start>59.1,92.9</start>
+            <start>98.4,40.1</start>
             <end>64.1,101.2</end>
           </event>
           <event type="corner" player_id="5429" team_id="44" action_type="" mins="42" secs="57" minsec="2577" injurytime_play="0">
@@ -14475,7 +14482,7 @@
             <end>102,48.5</end>
           </event>
           <event type="out" player_id="2408" team_id="44" action_type="" mins="46" secs="23" minsec="2783">
-            <start>89.5,98.5</start>
+            <start>98.4,40.1</start>
             <end>88.3,100.9</end>
           </event>
           <event type="out" player_id="434" team_id="33" action_type="" mins="46" secs="14" minsec="2774">

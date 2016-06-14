@@ -1,0 +1,1222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<squawka date="2016-05-17" time="17:00" timezone="BST" data_freshness="16:37">
+  <data_panel>
+    <system>
+      <headline><![CDATA[Orlando 2 - 1 Montreal]]></headline>
+      <refresh_rate>10000</refresh_rate>
+      <state>ingame</state>
+      <show_ingame_rdp>false</show_ingame_rdp>
+    </system>
+    <game>
+      <name><![CDATA[Orlando VS Montreal]]></name>
+      <team id="508">
+        <long_name><![CDATA[Orlando City SC]]></long_name>
+        <short_name><![CDATA[Orlando]]></short_name>
+        <logo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/clubs/crest/20150303040518_orlando-city.png]]></logo>
+        <shirt_url><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/clubs/jersey/20150303040518_orlando-city.png]]></shirt_url>
+        <club_url><![CDATA[orlando-city-sc]]></club_url>
+        <state>home</state>
+        <team_color><![CDATA[#900ba9]]></team_color>
+      </team>
+      <team id="157">
+        <long_name><![CDATA[Montreal Impact]]></long_name>
+        <short_name><![CDATA[Montreal]]></short_name>
+        <logo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/clubs/crest/20130515100045_home.png]]></logo>
+        <shirt_url><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/clubs/jersey/20130515100045_home.png]]></shirt_url>
+        <club_url><![CDATA[montreal-impact]]></club_url>
+        <state>away</state>
+        <team_color><![CDATA[#235c96]]></team_color>
+      </team>
+      <venue><![CDATA[Citrus Bowl]]></venue>
+      <kickoff>Sun, 04 Oct 2015 00:30:00 +0100</kickoff>
+      <timeleft>0</timeleft>
+      <competition_name><![CDATA[]]></competition_name>
+    </game>
+    <players>
+      <player id="4597" team_id="157">
+        <first_name><![CDATA[Evan]]></first_name>
+        <last_name><![CDATA[Bush]]></last_name>
+        <name><![CDATA[Evan Bush]]></name>
+        <surname><![CDATA[Bush]]></surname>
+        <team_name><![CDATA[Montreal]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p4597c157j1.jpg]]></photo>
+        <position><![CDATA[Goalkeeper]]></position>
+        <dob>06/03/1986</dob>
+        <weight>85</weight>
+        <height>186</height>
+        <shirt_num>1</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[USA]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/evan-bush/stats]]></profile_url>
+        <x_loc>5</x_loc>
+        <y_loc>50</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>30</age>
+        <bmi>24.6</bmi>
+      </player>
+      <player id="12159" team_id="157">
+        <first_name><![CDATA[Ambroise]]></first_name>
+        <last_name><![CDATA[Oyongo Bitolo]]></last_name>
+        <name><![CDATA[Ambroise Oyongo]]></name>
+        <surname><![CDATA[Oyongo Bitolo]]></surname>
+        <team_name><![CDATA[Montreal]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p12159c159j0.png]]></photo>
+        <position><![CDATA[Defender]]></position>
+        <dob>22/06/1991</dob>
+        <weight>69</weight>
+        <height>176</height>
+        <shirt_num>2</shirt_num>
+        <total_influence>-1</total_influence>
+        <country><![CDATA[Cameroon]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/ambroise-oyongo/stats]]></profile_url>
+        <x_loc>21</x_loc>
+        <y_loc>15</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>25</age>
+        <bmi>22.3</bmi>
+      </player>
+      <player id="4602" team_id="157">
+        <first_name><![CDATA[Wandrille]]></first_name>
+        <last_name><![CDATA[Lefevre]]></last_name>
+        <name><![CDATA[Wandrille Lefevre]]></name>
+        <surname><![CDATA[Lefevre]]></surname>
+        <team_name><![CDATA[Montreal]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p4602c157j5.jpg]]></photo>
+        <position><![CDATA[Defender]]></position>
+        <dob>17/12/1989</dob>
+        <weight>80</weight>
+        <height>186</height>
+        <shirt_num>5</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Canada]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/wandrille-lefevre/stats]]></profile_url>
+        <x_loc>0</x_loc>
+        <y_loc>0</y_loc>
+        <state><![CDATA[bench]]></state>
+        <age>26</age>
+        <bmi>23.1</bmi>
+      </player>
+      <player id="4373" team_id="157">
+        <first_name><![CDATA[Dilly]]></first_name>
+        <last_name><![CDATA[Duka]]></last_name>
+        <name><![CDATA[Dilly Duka]]></name>
+        <surname><![CDATA[Duka]]></surname>
+        <team_name><![CDATA[Montreal]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p4373c157j0.png]]></photo>
+        <position><![CDATA[Midfielder]]></position>
+        <dob>15/12/1989</dob>
+        <weight>73</weight>
+        <height>176</height>
+        <shirt_num>5</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[USA]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/dilly-duka/stats]]></profile_url>
+        <x_loc>0</x_loc>
+        <y_loc>0</y_loc>
+        <state><![CDATA[bench]]></state>
+        <age>26</age>
+        <bmi>23.6</bmi>
+      </player>
+      <player id="4613" team_id="157">
+        <first_name><![CDATA[Hassoun]]></first_name>
+        <last_name><![CDATA[Camara]]></last_name>
+        <name><![CDATA[Hassoun Camara]]></name>
+        <surname><![CDATA[Hassoun Camara]]></surname>
+        <team_name><![CDATA[Montreal]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p4613c157j6.jpg]]></photo>
+        <position><![CDATA[Defender]]></position>
+        <dob>03/02/1984</dob>
+        <weight>87</weight>
+        <height>188</height>
+        <shirt_num>6</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[France]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/hassoun-camara/stats]]></profile_url>
+        <x_loc>0</x_loc>
+        <y_loc>0</y_loc>
+        <state><![CDATA[bench]]></state>
+        <age>32</age>
+        <bmi>24.6</bmi>
+      </player>
+      <player id="4473" team_id="157">
+        <first_name><![CDATA[Dominic]]></first_name>
+        <last_name><![CDATA[Oduro]]></last_name>
+        <name><![CDATA[Dominic Oduro]]></name>
+        <surname><![CDATA[Oduro]]></surname>
+        <team_name><![CDATA[Montreal]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p4473c166j23.png]]></photo>
+        <position><![CDATA[Forward]]></position>
+        <dob>13/08/1985</dob>
+        <weight>73</weight>
+        <height>183</height>
+        <shirt_num>7</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Ghana]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/dominic-oduro/stats]]></profile_url>
+        <x_loc>80</x_loc>
+        <y_loc>50</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>31</age>
+        <bmi>21.8</bmi>
+      </player>
+      <player id="4594" team_id="157">
+        <first_name><![CDATA[Patrice]]></first_name>
+        <last_name><![CDATA[Bernier]]></last_name>
+        <name><![CDATA[Patrice Bernier]]></name>
+        <surname><![CDATA[Bernier]]></surname>
+        <team_name><![CDATA[Montreal]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p4594c157j8.jpg]]></photo>
+        <position><![CDATA[Midfielder]]></position>
+        <dob>23/09/1979</dob>
+        <weight>82</weight>
+        <height>176</height>
+        <shirt_num>8</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Canada]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/patrice-bernier/stats]]></profile_url>
+        <x_loc>50</x_loc>
+        <y_loc>25</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>37</age>
+        <bmi>26.5</bmi>
+      </player>
+      <player id="9414" team_id="157">
+        <first_name><![CDATA[Didier]]></first_name>
+        <last_name><![CDATA[Drogba]]></last_name>
+        <name><![CDATA[Didier Drogba]]></name>
+        <surname><![CDATA[Drogba]]></surname>
+        <team_name><![CDATA[Montreal]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p9414c33j11.jpg]]></photo>
+        <position><![CDATA[Forward]]></position>
+        <dob>11/03/1978</dob>
+        <weight>91</weight>
+        <height>189</height>
+        <shirt_num>11</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Côte d'Ivoire]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/didier-drogba/stats]]></profile_url>
+        <x_loc>0</x_loc>
+        <y_loc>0</y_loc>
+        <state><![CDATA[bench]]></state>
+        <age>38</age>
+        <bmi>25.5</bmi>
+      </player>
+      <player id="4898" team_id="157">
+        <first_name><![CDATA[Nigel]]></first_name>
+        <last_name><![CDATA[Reo-Coker]]></last_name>
+        <name><![CDATA[Nigel Reo-Coker]]></name>
+        <surname><![CDATA[Reo-Coker]]></surname>
+        <team_name><![CDATA[Montreal]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p4898c150j0.png]]></photo>
+        <position><![CDATA[Midfielder]]></position>
+        <dob>14/05/1984</dob>
+        <weight>78</weight>
+        <height>176</height>
+        <shirt_num>14</shirt_num>
+        <total_influence>-2</total_influence>
+        <country><![CDATA[England]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/nigel-reo-coker/stats]]></profile_url>
+        <x_loc>50</x_loc>
+        <y_loc>75</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>32</age>
+        <bmi>25.2</bmi>
+      </player>
+      <player id="4606" team_id="157">
+        <first_name><![CDATA[Andrés]]></first_name>
+        <last_name><![CDATA[Romero]]></last_name>
+        <name><![CDATA[Andrés Romero]]></name>
+        <surname><![CDATA[Andrés Romero]]></surname>
+        <team_name><![CDATA[Montreal]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p4606c157j15.png]]></photo>
+        <position><![CDATA[Midfielder]]></position>
+        <dob>21/12/1989</dob>
+        <weight>73</weight>
+        <height>178</height>
+        <shirt_num>15</shirt_num>
+        <total_influence>3</total_influence>
+        <country><![CDATA[Argentina]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/andres-romero/stats]]></profile_url>
+        <x_loc>75</x_loc>
+        <y_loc>85</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>26</age>
+        <bmi>23</bmi>
+      </player>
+      <player id="4836" team_id="157">
+        <first_name><![CDATA[Eric]]></first_name>
+        <last_name><![CDATA[Kronberg]]></last_name>
+        <name><![CDATA[Eric Kronberg]]></name>
+        <surname><![CDATA[Kronberg]]></surname>
+        <team_name><![CDATA[Montreal]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p4836c165j1.jpg]]></photo>
+        <position><![CDATA[Goalkeeper]]></position>
+        <dob>07/06/1983</dob>
+        <weight>96</weight>
+        <height>196</height>
+        <shirt_num>22</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[USA]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/eric-kronberg/stats]]></profile_url>
+        <x_loc>0</x_loc>
+        <y_loc>0</y_loc>
+        <state><![CDATA[bench]]></state>
+        <age>33</age>
+        <bmi>25</bmi>
+      </player>
+      <player id="9088" team_id="157">
+        <first_name><![CDATA[Laurent]]></first_name>
+        <last_name><![CDATA[Ciman]]></last_name>
+        <name><![CDATA[Laurent Ciman]]></name>
+        <surname><![CDATA[Ciman]]></surname>
+        <team_name><![CDATA[Montreal]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p9088c276j6.png]]></photo>
+        <position><![CDATA[Defender]]></position>
+        <dob>05/08/1985</dob>
+        <weight>65</weight>
+        <height>180</height>
+        <shirt_num>23</shirt_num>
+        <total_influence>-3</total_influence>
+        <country><![CDATA[Belgium]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/laurent-ciman/stats]]></profile_url>
+        <x_loc>17</x_loc>
+        <y_loc>64</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>31</age>
+        <bmi>20.1</bmi>
+      </player>
+      <player id="11760" team_id="157">
+        <first_name><![CDATA[Donny]]></first_name>
+        <last_name><![CDATA[Toia]]></last_name>
+        <name><![CDATA[Donny Toia]]></name>
+        <surname><![CDATA[Toia]]></surname>
+        <team_name><![CDATA[Montreal]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p11760c150j0.png]]></photo>
+        <position><![CDATA[Defender]]></position>
+        <dob>28/05/1992</dob>
+        <weight>73</weight>
+        <height>173</height>
+        <shirt_num>25</shirt_num>
+        <total_influence>3</total_influence>
+        <country><![CDATA[USA]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/donny-toia/stats]]></profile_url>
+        <x_loc>21</x_loc>
+        <y_loc>85</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>24</age>
+        <bmi>24.4</bmi>
+      </player>
+      <player id="18479" team_id="157">
+        <first_name><![CDATA[Johan]]></first_name>
+        <last_name><![CDATA[Venegas]]></last_name>
+        <name><![CDATA[Johan Venegas]]></name>
+        <surname><![CDATA[Johan Venegas]]></surname>
+        <team_name><![CDATA[Montreal]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/no_icon.png]]></photo>
+        <position><![CDATA[Midfielder]]></position>
+        <dob>27/11/1988</dob>
+        <weight>76</weight>
+        <height>183</height>
+        <shirt_num>27</shirt_num>
+        <total_influence>2</total_influence>
+        <country><![CDATA[Costa Rica]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/johan-venegas/stats]]></profile_url>
+        <x_loc>75</x_loc>
+        <y_loc>15</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>27</age>
+        <bmi>22.7</bmi>
+      </player>
+      <player id="4645" team_id="157">
+        <first_name><![CDATA[Eric]]></first_name>
+        <last_name><![CDATA[Alexander]]></last_name>
+        <name><![CDATA[Eric Alexander]]></name>
+        <surname><![CDATA[Eric Alexander]]></surname>
+        <team_name><![CDATA[Montreal]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p4645c159j12.png]]></photo>
+        <position><![CDATA[Midfielder]]></position>
+        <dob>14/04/1988</dob>
+        <weight>75</weight>
+        <height>186</height>
+        <shirt_num>29</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[USA]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/eric-alexander/stats]]></profile_url>
+        <x_loc>0</x_loc>
+        <y_loc>0</y_loc>
+        <state><![CDATA[bench]]></state>
+        <age>28</age>
+        <bmi>21.7</bmi>
+      </player>
+      <player id="2805" team_id="157">
+        <first_name><![CDATA[Marco]]></first_name>
+        <last_name><![CDATA[Donadel]]></last_name>
+        <name><![CDATA[Marco Donadel]]></name>
+        <surname><![CDATA[Donadel]]></surname>
+        <team_name><![CDATA[Montreal]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p2805c143j0.png]]></photo>
+        <position><![CDATA[Midfielder]]></position>
+        <dob>21/04/1983</dob>
+        <weight>73</weight>
+        <height>179</height>
+        <shirt_num>33</shirt_num>
+        <total_influence>-0</total_influence>
+        <country><![CDATA[Italy]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/marco-donadel/stats]]></profile_url>
+        <x_loc>40</x_loc>
+        <y_loc>50</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>33</age>
+        <bmi>22.8</bmi>
+      </player>
+      <player id="17612" team_id="157">
+        <first_name><![CDATA[Víctor]]></first_name>
+        <last_name><![CDATA[Cabrera]]></last_name>
+        <name><![CDATA[Víctor Cabrera]]></name>
+        <surname><![CDATA[Víctor Cabrera]]></surname>
+        <team_name><![CDATA[Montreal]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/no_icon.png]]></photo>
+        <position><![CDATA[Defender]]></position>
+        <dob>07/02/1993</dob>
+        <weight>80</weight>
+        <height>179</height>
+        <shirt_num>36</shirt_num>
+        <total_influence>3</total_influence>
+        <country><![CDATA[Argentina]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/victor-cabrera/stats]]></profile_url>
+        <x_loc>17</x_loc>
+        <y_loc>36</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>23</age>
+        <bmi>25</bmi>
+      </player>
+      <player id="4600" team_id="157">
+        <first_name><![CDATA[Maxim]]></first_name>
+        <last_name><![CDATA[Tissot]]></last_name>
+        <name><![CDATA[Maxim Tissot]]></name>
+        <surname><![CDATA[Tissot]]></surname>
+        <team_name><![CDATA[Montreal]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p4600c157j51.jpg]]></photo>
+        <position><![CDATA[Midfielder]]></position>
+        <dob>13/04/1992</dob>
+        <weight>74</weight>
+        <height>181</height>
+        <shirt_num>51</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Canada]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/maxim-tissot/stats]]></profile_url>
+        <x_loc>0</x_loc>
+        <y_loc>0</y_loc>
+        <state><![CDATA[bench]]></state>
+        <age>24</age>
+        <bmi>22.6</bmi>
+      </player>
+      <player id="4537" team_id="508">
+        <first_name><![CDATA[Tally]]></first_name>
+        <last_name><![CDATA[Hall]]></last_name>
+        <name><![CDATA[Tally Hall]]></name>
+        <surname><![CDATA[Tally Hall]]></surname>
+        <team_name><![CDATA[Orlando]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p4537c155j1.jpg]]></photo>
+        <position><![CDATA[Goalkeeper]]></position>
+        <dob>12/05/1985</dob>
+        <weight>98</weight>
+        <height>194</height>
+        <shirt_num>1</shirt_num>
+        <total_influence>1</total_influence>
+        <country><![CDATA[USA]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/tally-hall/stats]]></profile_url>
+        <x_loc>5</x_loc>
+        <y_loc>50</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>31</age>
+        <bmi>26</bmi>
+      </player>
+      <player id="10730" team_id="508">
+        <first_name><![CDATA[Sebastian]]></first_name>
+        <last_name><![CDATA[Hines]]></last_name>
+        <name><![CDATA[Seb Hines]]></name>
+        <surname><![CDATA[Seb Hines]]></surname>
+        <team_name><![CDATA[Orlando]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p10730c317j3.jpg]]></photo>
+        <position><![CDATA[Defender]]></position>
+        <dob>29/05/1988</dob>
+        <weight>83</weight>
+        <height>188</height>
+        <shirt_num>3</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[England]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/seb-hines/stats]]></profile_url>
+        <x_loc>0</x_loc>
+        <y_loc>0</y_loc>
+        <state><![CDATA[bench]]></state>
+        <age>28</age>
+        <bmi>23.5</bmi>
+      </player>
+      <player id="4801" team_id="508">
+        <first_name><![CDATA[Servando]]></first_name>
+        <last_name><![CDATA[Carrasco]]></last_name>
+        <name><![CDATA[Servando Carrasco]]></name>
+        <surname><![CDATA[Servando Carrasco]]></surname>
+        <team_name><![CDATA[Orlando]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p4801c155j17.png]]></photo>
+        <position><![CDATA[Midfielder]]></position>
+        <dob>13/08/1988</dob>
+        <weight>80</weight>
+        <height>178</height>
+        <shirt_num>5</shirt_num>
+        <total_influence>-1</total_influence>
+        <country><![CDATA[USA]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/servando-carrasco/stats]]></profile_url>
+        <x_loc>40</x_loc>
+        <y_loc>31</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>28</age>
+        <bmi>25.2</bmi>
+      </player>
+      <player id="13094" team_id="508">
+        <first_name><![CDATA[Cyle]]></first_name>
+        <last_name><![CDATA[Larin]]></last_name>
+        <name><![CDATA[Cyle Larin]]></name>
+        <surname><![CDATA[Cyle Larin]]></surname>
+        <team_name><![CDATA[Orlando]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p13094c390j0.png]]></photo>
+        <position><![CDATA[Forward]]></position>
+        <dob>17/04/1995</dob>
+        <weight>86</weight>
+        <height>188</height>
+        <shirt_num>9</shirt_num>
+        <total_influence>3</total_influence>
+        <country><![CDATA[Canada]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/cyle-larin/stats]]></profile_url>
+        <x_loc>85</x_loc>
+        <y_loc>50</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>21</age>
+        <bmi>24.3</bmi>
+      </player>
+      <player id="1843" team_id="508">
+        <first_name><![CDATA[Ricardo Izecson]]></first_name>
+        <last_name><![CDATA[Dos Santos Leite]]></last_name>
+        <name><![CDATA[Kaká]]></name>
+        <surname><![CDATA[Kaká]]></surname>
+        <team_name><![CDATA[Orlando]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p1843c193j8.png]]></photo>
+        <position><![CDATA[Midfielder]]></position>
+        <dob>22/04/1982</dob>
+        <weight>78</weight>
+        <height>186</height>
+        <shirt_num>10</shirt_num>
+        <total_influence>-0</total_influence>
+        <country><![CDATA[Brazil]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/kaka/stats]]></profile_url>
+        <x_loc>62</x_loc>
+        <y_loc>50</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>34</age>
+        <bmi>22.5</bmi>
+      </player>
+      <player id="17631" team_id="508">
+        <first_name><![CDATA[Carlos]]></first_name>
+        <last_name><![CDATA[Rivas]]></last_name>
+        <name><![CDATA[Carlos Rivas]]></name>
+        <surname><![CDATA[Carlos Rivas]]></surname>
+        <team_name><![CDATA[Orlando]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/no_icon.png]]></photo>
+        <position><![CDATA[Midfielder]]></position>
+        <dob>15/04/1994</dob>
+        <weight>68</weight>
+        <height>174</height>
+        <shirt_num>11</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Colombia]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/carlos-rivas/stats]]></profile_url>
+        <x_loc>62</x_loc>
+        <y_loc>78</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>22</age>
+        <bmi>22.5</bmi>
+      </player>
+      <player id="4399" team_id="508">
+        <first_name><![CDATA[Eric]]></first_name>
+        <last_name><![CDATA[Avila]]></last_name>
+        <name><![CDATA[Eric Avila]]></name>
+        <surname><![CDATA[Eric Avila]]></surname>
+        <team_name><![CDATA[Orlando]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p4399c150j15.png]]></photo>
+        <position><![CDATA[Midfielder]]></position>
+        <dob>24/11/1987</dob>
+        <weight>69</weight>
+        <height>173</height>
+        <shirt_num>12</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[USA]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/eric-avila/stats]]></profile_url>
+        <x_loc>0</x_loc>
+        <y_loc>0</y_loc>
+        <state><![CDATA[bench]]></state>
+        <age>28</age>
+        <bmi>23.1</bmi>
+      </player>
+      <player id="17632" team_id="508">
+        <first_name><![CDATA[Luke]]></first_name>
+        <last_name><![CDATA[Boden]]></last_name>
+        <name><![CDATA[Luke Boden]]></name>
+        <surname><![CDATA[Boden]]></surname>
+        <team_name><![CDATA[Orlando]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/no_icon.png]]></photo>
+        <position><![CDATA[Midfielder]]></position>
+        <dob>26/11/1988</dob>
+        <weight>83</weight>
+        <height>185</height>
+        <shirt_num>14</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[England]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/luke-boden/stats]]></profile_url>
+        <x_loc>0</x_loc>
+        <y_loc>0</y_loc>
+        <state><![CDATA[bench]]></state>
+        <age>27</age>
+        <bmi>24.3</bmi>
+      </player>
+      <player id="14973" team_id="508">
+        <first_name><![CDATA[Pedro]]></first_name>
+        <last_name><![CDATA[Ribeiro]]></last_name>
+        <name><![CDATA[Pedro Ribeiro]]></name>
+        <surname><![CDATA[Pedro Ribeiro]]></surname>
+        <team_name><![CDATA[Orlando]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p14973c160j30.png]]></photo>
+        <position><![CDATA[Midfielder]]></position>
+        <dob>13/06/1990</dob>
+        <weight>95</weight>
+        <height>194</height>
+        <shirt_num>15</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Brazil]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/pedro-ribeiro/stats]]></profile_url>
+        <x_loc>0</x_loc>
+        <y_loc>0</y_loc>
+        <state><![CDATA[bench]]></state>
+        <age>26</age>
+        <bmi>25.2</bmi>
+      </player>
+      <player id="13258" team_id="508">
+        <first_name><![CDATA[Darwin]]></first_name>
+        <last_name><![CDATA[Cerén]]></last_name>
+        <name><![CDATA[Darwin Cerén]]></name>
+        <surname><![CDATA[Darwin Cerén]]></surname>
+        <team_name><![CDATA[Orlando]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p13258c394j7.png]]></photo>
+        <position><![CDATA[Midfielder]]></position>
+        <dob>31/12/1989</dob>
+        <weight>73</weight>
+        <height>178</height>
+        <shirt_num>17</shirt_num>
+        <total_influence>1</total_influence>
+        <country><![CDATA[El Salvador]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/darwin-ceren/stats]]></profile_url>
+        <x_loc>40</x_loc>
+        <y_loc>66</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>26</age>
+        <bmi>23</bmi>
+      </player>
+      <player id="4210" team_id="508">
+        <first_name><![CDATA[Dane Brekken]]></first_name>
+        <last_name><![CDATA[Shea]]></last_name>
+        <name><![CDATA[Brek Shea]]></name>
+        <surname><![CDATA[Brek Shea]]></surname>
+        <team_name><![CDATA[Orlando]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p4210c295j0.png]]></photo>
+        <position><![CDATA[Defender]]></position>
+        <dob>28/02/1990</dob>
+        <weight>82</weight>
+        <height>191</height>
+        <shirt_num>20</shirt_num>
+        <total_influence>-5</total_influence>
+        <country><![CDATA[USA]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/brek-shea/stats]]></profile_url>
+        <x_loc>21</x_loc>
+        <y_loc>85</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>26</age>
+        <bmi>22.5</bmi>
+      </player>
+      <player id="4504" team_id="508">
+        <first_name><![CDATA[Lewis]]></first_name>
+        <last_name><![CDATA[Neal]]></last_name>
+        <name><![CDATA[Lewis Neal]]></name>
+        <surname><![CDATA[Neal]]></surname>
+        <team_name><![CDATA[Orlando]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p4504c153j24.jpg]]></photo>
+        <position><![CDATA[Midfielder]]></position>
+        <dob>14/07/1981</dob>
+        <weight>71</weight>
+        <height>181</height>
+        <shirt_num>24</shirt_num>
+        <total_influence>-1</total_influence>
+        <country><![CDATA[England]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/lewis-neal/stats]]></profile_url>
+        <x_loc>62</x_loc>
+        <y_loc>22</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>35</age>
+        <bmi>21.7</bmi>
+      </player>
+      <player id="17627" team_id="508">
+        <first_name><![CDATA[Rafael]]></first_name>
+        <last_name><![CDATA[Ramos]]></last_name>
+        <name><![CDATA[Rafael Ramos]]></name>
+        <surname><![CDATA[Rafael Ramos]]></surname>
+        <team_name><![CDATA[Orlando]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/no_icon.png]]></photo>
+        <position><![CDATA[Defender]]></position>
+        <dob>09/01/1995</dob>
+        <weight>70</weight>
+        <height>170</height>
+        <shirt_num>27</shirt_num>
+        <total_influence>-1</total_influence>
+        <country><![CDATA[Portugal]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/rafael-ramos/stats]]></profile_url>
+        <x_loc>21</x_loc>
+        <y_loc>15</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>21</age>
+        <bmi>24.2</bmi>
+      </player>
+      <player id="17628" team_id="508">
+        <first_name><![CDATA[Tommy]]></first_name>
+        <last_name><![CDATA[Redding]]></last_name>
+        <name><![CDATA[Tommy Redding]]></name>
+        <surname><![CDATA[Redding]]></surname>
+        <team_name><![CDATA[Orlando]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/no_icon.png]]></photo>
+        <position><![CDATA[Defender]]></position>
+        <dob>24/01/1997</dob>
+        <weight>82</weight>
+        <height>185</height>
+        <shirt_num>29</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[USA]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/tommy-redding/stats]]></profile_url>
+        <x_loc>17</x_loc>
+        <y_loc>37</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>19</age>
+        <bmi>24</bmi>
+      </player>
+      <player id="18482" team_id="508">
+        <first_name><![CDATA[Adrian]]></first_name>
+        <last_name><![CDATA[Winter]]></last_name>
+        <name><![CDATA[Adrian Winter]]></name>
+        <surname><![CDATA[Adrian Winter]]></surname>
+        <team_name><![CDATA[Orlando]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/no_icon.png]]></photo>
+        <position><![CDATA[Midfielder]]></position>
+        <dob>08/07/1988</dob>
+        <weight>75</weight>
+        <height>178</height>
+        <shirt_num>32</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Switzerland]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/adrian-winter/stats]]></profile_url>
+        <x_loc>0</x_loc>
+        <y_loc>0</y_loc>
+        <state><![CDATA[bench]]></state>
+        <age>28</age>
+        <bmi>23.7</bmi>
+      </player>
+      <player id="17634" team_id="508">
+        <first_name><![CDATA[Bryan]]></first_name>
+        <last_name><![CDATA[Rochez]]></last_name>
+        <name><![CDATA[Bryan Rochez]]></name>
+        <surname><![CDATA[Rochez]]></surname>
+        <team_name><![CDATA[Orlando]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/no_icon.png]]></photo>
+        <position><![CDATA[Forward]]></position>
+        <dob>01/01/1995</dob>
+        <weight>73</weight>
+        <height>180</height>
+        <shirt_num>35</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Honduras]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/bryan-rochez/stats]]></profile_url>
+        <x_loc>0</x_loc>
+        <y_loc>0</y_loc>
+        <state><![CDATA[bench]]></state>
+        <age>21</age>
+        <bmi>22.5</bmi>
+      </player>
+      <player id="4810" team_id="508">
+        <first_name><![CDATA[Josh]]></first_name>
+        <last_name><![CDATA[Ford]]></last_name>
+        <name><![CDATA[Josh Ford]]></name>
+        <surname><![CDATA[Ford]]></surname>
+        <team_name><![CDATA[Orlando]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p4810c164j29.jpg]]></photo>
+        <position><![CDATA[Goalkeeper]]></position>
+        <dob>06/11/1987</dob>
+        <weight>82</weight>
+        <height>183</height>
+        <shirt_num>42</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[USA]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/josh-ford/stats]]></profile_url>
+        <x_loc>0</x_loc>
+        <y_loc>0</y_loc>
+        <state><![CDATA[bench]]></state>
+        <age>29</age>
+        <bmi>24.5</bmi>
+      </player>
+      <player id="4830" team_id="508">
+        <first_name><![CDATA[Aurélien]]></first_name>
+        <last_name><![CDATA[Collin]]></last_name>
+        <name><![CDATA[Aurélien Collin]]></name>
+        <surname><![CDATA[Aurélien Collin]]></surname>
+        <team_name><![CDATA[Orlando]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p4830c165j78.jpg]]></photo>
+        <position><![CDATA[Defender]]></position>
+        <dob>08/03/1986</dob>
+        <weight>77</weight>
+        <height>188</height>
+        <shirt_num>78</shirt_num>
+        <total_influence>1</total_influence>
+        <country><![CDATA[France]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/aurelien-collin/stats]]></profile_url>
+        <x_loc>17</x_loc>
+        <y_loc>61</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>30</age>
+        <bmi>21.8</bmi>
+      </player>
+    </players>
+    <possession>
+      <period id="1">
+        <play_direction team_id="508">right-to-left</play_direction>
+        <play_direction team_id="157">left-to-right</play_direction>
+        <time_slice name="0 - 5" id="1" scored_min="4">
+          <team_possession team_id="508">41</team_possession>
+          <team_possession team_id="157">59</team_possession>
+          <player_inf_score id="0" possession="0" attack="0" defense="0" goalkeeping="0" injurytime_play="0">0</player_inf_score>
+          <player_inf_score id="1843" possession="-0.29" attack="0" defense="0" goalkeeping="0" injurytime_play="0">-0.29</player_inf_score>
+          <player_inf_score id="2805" possession="0.86" attack="-2.57" defense="1.32" goalkeeping="0" injurytime_play="0">-0.39</player_inf_score>
+          <player_inf_score id="4210" possession="-2.35" attack="0" defense="-2.3" goalkeeping="0" injurytime_play="0">-4.65</player_inf_score>
+          <player_inf_score id="4473" possession="0.45" attack="0" defense="0" goalkeeping="0" injurytime_play="0">0.45</player_inf_score>
+          <player_inf_score id="4504" possession="-0.95" attack="0" defense="0" goalkeeping="0" injurytime_play="0">-0.95</player_inf_score>
+          <player_inf_score id="4537" possession="0.74" attack="0" defense="0" goalkeeping="0" injurytime_play="0">0.74</player_inf_score>
+          <player_inf_score id="4594" possession="0.47" attack="0" defense="0" goalkeeping="0" injurytime_play="0">0.47</player_inf_score>
+          <player_inf_score id="4606" possession="2.71" attack="0" defense="0" goalkeeping="0" injurytime_play="0">2.71</player_inf_score>
+          <player_inf_score id="4801" possession="-0.63" attack="0" defense="0" goalkeeping="0" injurytime_play="0">-0.63</player_inf_score>
+          <player_inf_score id="4830" possession="1.07" attack="0" defense="0" goalkeeping="0" injurytime_play="0">1.07</player_inf_score>
+          <player_inf_score id="4898" possession="-1.58" attack="0" defense="0" goalkeeping="0" injurytime_play="0">-1.58</player_inf_score>
+          <player_inf_score id="9088" possession="-2.98" attack="0" defense="0" goalkeeping="0" injurytime_play="0">-2.98</player_inf_score>
+          <player_inf_score id="11760" possession="2.03" attack="0" defense="1.4" goalkeeping="0" injurytime_play="0">3.43</player_inf_score>
+          <player_inf_score id="12159" possession="-1.49" attack="0" defense="0" goalkeeping="0" injurytime_play="0">-1.49</player_inf_score>
+          <player_inf_score id="13094" possession="0" attack="0" defense="2.87" goalkeeping="0" injurytime_play="0">2.87</player_inf_score>
+          <player_inf_score id="13258" possession="1.07" attack="0" defense="0" goalkeeping="0" injurytime_play="0">1.07</player_inf_score>
+          <player_inf_score id="17612" possession="1.05" attack="0" defense="1.88" goalkeeping="0" injurytime_play="0">2.93</player_inf_score>
+          <player_inf_score id="17627" possession="-1.04" attack="0" defense="0" goalkeeping="0" injurytime_play="0">-1.04</player_inf_score>
+          <player_inf_score id="17628" possession="0.37" attack="0" defense="0" goalkeeping="0" injurytime_play="0">0.37</player_inf_score>
+          <player_inf_score id="17631" possession="0.31" attack="0" defense="0" goalkeeping="0" injurytime_play="0">0.31</player_inf_score>
+          <player_inf_score id="18479" possession="-0.61" attack="0" defense="2.43" goalkeeping="0" injurytime_play="0">1.82</player_inf_score>
+        </time_slice>
+      </period>
+    </possession>
+    <filters>
+      <goal_keeping/>
+      <goals_attempts>
+        <time_slice name="0 - 5" id="1" attempts_count="1">
+          <event type="off_target" player_id="2805" team_id="157" action_type="Attack" mins="2" secs="18" minsec="138">
+            <start>52.6,95.8</start>
+            <end>69.4,71.8</end>
+            <coordinates start_x="69.4" start_y="71.8" gmouth_y="52.6" gmouth_z="95.8"/>
+            <shot>true</shot>
+          </event>
+          <ga_result team_id="508" goal="0" save="0" off_target="0" blocked="0" wood_work="0" headed="0" shot="0">0/0</ga_result>
+          <ga_result team_id="157" goal="0" save="0" off_target="1" blocked="0" wood_work="0" headed="0" shot="0">0/1</ga_result>
+        </time_slice>
+      </goals_attempts>
+      <action_areas>
+        <time_slice name="0 - 5" id="1">
+          <action_area id="5">
+            <aa_team id="157">1</aa_team>
+            <aa_player id="4606" team_id="157">1</aa_player>
+          </action_area>
+          <action_area id="11">
+            <aa_team id="157">3</aa_team>
+            <aa_team id="508">1</aa_team>
+            <aa_player id="2805" team_id="157">1</aa_player>
+            <aa_player id="17612" team_id="157">2</aa_player>
+            <aa_player id="4210" team_id="508">1</aa_player>
+          </action_area>
+          <action_area id="12">
+            <aa_team id="157">3</aa_team>
+            <aa_team id="508">3</aa_team>
+            <aa_player id="11760" team_id="157">2</aa_player>
+            <aa_player id="4830" team_id="508">2</aa_player>
+            <aa_player id="4504" team_id="508">1</aa_player>
+            <aa_player id="9088" team_id="157">1</aa_player>
+          </action_area>
+          <action_area id="10">
+            <aa_team id="508">6</aa_team>
+            <aa_team id="157">5</aa_team>
+            <aa_player id="1843" team_id="508">2</aa_player>
+            <aa_player id="17612" team_id="157">2</aa_player>
+            <aa_player id="9088" team_id="157">1</aa_player>
+            <aa_player id="11760" team_id="157">1</aa_player>
+            <aa_player id="18479" team_id="157">1</aa_player>
+            <aa_player id="13258" team_id="508">2</aa_player>
+            <aa_player id="4801" team_id="508">1</aa_player>
+            <aa_player id="4504" team_id="508">1</aa_player>
+          </action_area>
+          <action_area id="9">
+            <aa_team id="508">6</aa_team>
+            <aa_team id="157">2</aa_team>
+            <aa_player id="13094" team_id="508">1</aa_player>
+            <aa_player id="2805" team_id="157">1</aa_player>
+            <aa_player id="4210" team_id="508">1</aa_player>
+            <aa_player id="17628" team_id="508">1</aa_player>
+            <aa_player id="4473" team_id="157">1</aa_player>
+            <aa_player id="4830" team_id="508">1</aa_player>
+            <aa_player id="13258" team_id="508">1</aa_player>
+            <aa_player id="1843" team_id="508">1</aa_player>
+          </action_area>
+          <action_area id="7">
+            <aa_team id="508">1</aa_team>
+            <aa_player id="4537" team_id="508">1</aa_player>
+          </action_area>
+          <action_area id="8">
+            <aa_team id="157">2</aa_team>
+            <aa_team id="508">3</aa_team>
+            <aa_player id="2805" team_id="157">1</aa_player>
+            <aa_player id="4594" team_id="157">1</aa_player>
+            <aa_player id="4801" team_id="508">3</aa_player>
+          </action_area>
+          <action_area id="2">
+            <aa_team id="157">1</aa_team>
+            <aa_player id="4606" team_id="157">1</aa_player>
+          </action_area>
+          <action_area id="14">
+            <aa_team id="508">4</aa_team>
+            <aa_player id="4210" team_id="508">3</aa_player>
+            <aa_player id="4801" team_id="508">1</aa_player>
+          </action_area>
+          <action_area id="15">
+            <aa_team id="157">4</aa_team>
+            <aa_team id="508">1</aa_team>
+            <aa_player id="18479" team_id="157">1</aa_player>
+            <aa_player id="2805" team_id="157">1</aa_player>
+            <aa_player id="4898" team_id="157">1</aa_player>
+            <aa_player id="17631" team_id="508">1</aa_player>
+            <aa_player id="12159" team_id="157">1</aa_player>
+          </action_area>
+          <action_area id="16">
+            <aa_team id="157">2</aa_team>
+            <aa_player id="17612" team_id="157">1</aa_player>
+            <aa_player id="18479" team_id="157">1</aa_player>
+          </action_area>
+          <action_area id="4">
+            <aa_team id="508">2</aa_team>
+            <aa_team id="157">1</aa_team>
+            <aa_player id="4504" team_id="508">1</aa_player>
+            <aa_player id="17627" team_id="508">1</aa_player>
+            <aa_player id="9088" team_id="157">1</aa_player>
+          </action_area>
+          <action_area id="3">
+            <aa_team id="508">1</aa_team>
+            <aa_player id="17627" team_id="508">1</aa_player>
+          </action_area>
+        </time_slice>
+      </action_areas>
+      <headed_duals>
+        <time_slice name="0 - 5" id="1">
+          <event player_id="11760" team_id="157" action_type="Possession" mins="3" secs="25" minsec="205">
+            <loc>11.8,45.2</loc>
+            <otherplayer team_id="508">4504</otherplayer>
+          </event>
+          <event player_id="4830" team_id="508" action_type="Possession" mins="3" secs="24" minsec="204">
+            <loc>86,58.3</loc>
+            <otherplayer team_id="157">9088</otherplayer>
+          </event>
+          <hd_result team_id="508" won="1" lost="1">1/2</hd_result>
+          <hd_result team_id="157" won="0" lost="0">0/0</hd_result>
+          <event mins="1" secs="10" type="aerialFoul" player_id="18479" team_id="157" action_type="Defense">
+            <loc>43.9,78.6</loc>
+            <otherplayer team_id="508">4210</otherplayer>
+          </event>
+          <event mins="2" secs="47" type="aerialFoul" player_id="13094" team_id="508" action_type="Defense">
+            <loc>36.4,27</loc>
+            <otherplayer team_id="157">17612</otherplayer>
+          </event>
+        </time_slice>
+      </headed_duals>
+      <interceptions>
+        <time_slice name="0 - 5" id="1">
+          <event player_id="17612" team_id="157" action_type="Defense" mins="0" secs="59" minsec="59">
+            <loc>28.3,24.4</loc>
+          </event>
+          <ic_result team_id="508">0</ic_result>
+          <ic_result team_id="157">1</ic_result>
+        </time_slice>
+      </interceptions>
+      <clearances>
+        <time_slice name="0 - 5" id="1">
+          <event type="headed" player_id="2805" team_id="157" action_type="Defense" mins="3" secs="28" minsec="208">
+            <loc>17.5,50.4</loc>
+            <headed>true</headed>
+          </event>
+          <event type="headed" player_id="11760" team_id="157" action_type="Defense" mins="3" secs="27" minsec="207">
+            <loc>10,55.5</loc>
+            <headed>true</headed>
+          </event>
+          <cl_result team_id="508" success="0" failed="0" headed="0">0/0</cl_result>
+          <cl_result team_id="157" success="0" failed="0" headed="2">2/2</cl_result>
+        </time_slice>
+      </clearances>
+      <all_passes>
+        <time_slice name="0 - 5" id="1">
+          <event type="completed" player_id="4606" team_id="157" action_type="Possession" mins="2" secs="14" minsec="134" k="1" throw_ins="0">
+            <start>74.1,93.5</start>
+            <end>64.4,77.8</end>
+            <assists>true</assists>
+          </event>
+          <event type="completed" player_id="4594" team_id="157" action_type="Possession" mins="2" secs="9" minsec="129" throw_ins="0">
+            <start>69.6,31.2</start>
+            <end>78.7,84.8</end>
+            <long_ball>true</long_ball>
+          </event>
+          <event type="completed" player_id="2805" team_id="157" action_type="Possession" mins="2" secs="4" minsec="124" throw_ins="0">
+            <start>61,27.1</start>
+            <end>70.0,28.6</end>
+            <headed>true</headed>
+          </event>
+          <event type="completed" player_id="4801" team_id="508" action_type="Possession" mins="2" secs="2" minsec="122" throw_ins="0">
+            <start>22.2,89.9</start>
+            <end>17.7,94.7</end>
+          </event>
+          <event type="completed" player_id="4210" team_id="508" action_type="Possession" mins="2" secs="1" minsec="121" throw_ins="1">
+            <start>18.8,100</start>
+            <end>21.9,90.9</end>
+          </event>
+          <event type="completed" player_id="17612" team_id="157" action_type="Possession" mins="1" secs="46" minsec="106" throw_ins="0">
+            <start>39.5,9.7</start>
+            <end>62.9,17.0</end>
+          </event>
+          <event type="completed" player_id="9088" team_id="157" action_type="Possession" mins="1" secs="42" minsec="102" throw_ins="0">
+            <start>34.1,59.6</start>
+            <end>34.1,23.1</end>
+          </event>
+          <event type="completed" player_id="17612" team_id="157" action_type="Possession" mins="1" secs="39" minsec="99" throw_ins="0">
+            <start>43.5,23</start>
+            <end>33.6,62.7</end>
+          </event>
+          <event type="completed" player_id="11760" team_id="157" action_type="Possession" mins="1" secs="35" minsec="95" throw_ins="0">
+            <start>44,62.6</start>
+            <end>39.4,33.9</end>
+          </event>
+          <event type="completed" player_id="17628" team_id="508" action_type="Possession" mins="1" secs="9" minsec="69" throw_ins="0">
+            <start>35.6,68.2</start>
+            <end>43.6,73.8</end>
+          </event>
+          <event type="completed" player_id="4473" team_id="157" action_type="Possession" mins="1" secs="5" minsec="65" throw_ins="0">
+            <start>54.6,27.1</start>
+            <end>55.8,12.3</end>
+          </event>
+          <event type="completed" player_id="18479" team_id="157" action_type="Possession" mins="1" secs="2" minsec="62" throw_ins="0">
+            <start>39.3,7.1</start>
+            <end>54.6,27.1</end>
+          </event>
+          <event type="completed" player_id="17612" team_id="157" action_type="Possession" mins="1" secs="0" minsec="60" throw_ins="0">
+            <start>28.8,21.9</start>
+            <end>36.6,6.5</end>
+          </event>
+          <event type="completed" player_id="13258" team_id="508" action_type="Possession" mins="0" secs="51" minsec="51" throw_ins="0">
+            <start>53.8,23.3</start>
+            <end>57.7,91.1</end>
+            <long_ball>true</long_ball>
+          </event>
+          <event type="completed" player_id="4504" team_id="508" action_type="Possession" mins="0" secs="50" minsec="50" throw_ins="0">
+            <start>53.8,8.2</start>
+            <end>53.2,18.5</end>
+          </event>
+          <event type="completed" player_id="17627" team_id="508" action_type="Possession" mins="0" secs="47" minsec="47" throw_ins="0">
+            <start>63.1,3.7</start>
+            <end>61.3,9.4</end>
+          </event>
+          <event type="completed" player_id="4830" team_id="508" action_type="Possession" mins="0" secs="42" minsec="42" throw_ins="0">
+            <start>34.1,24.4</start>
+            <end>41.4,5.2</end>
+          </event>
+          <event type="completed" player_id="13258" team_id="508" action_type="Possession" mins="0" secs="40" minsec="40" throw_ins="0">
+            <start>36.6,40.1</start>
+            <end>30.2,27.9</end>
+          </event>
+          <event type="completed" player_id="4801" team_id="508" action_type="Possession" mins="0" secs="39" minsec="39" throw_ins="0">
+            <start>33.2,62.1</start>
+            <end>35.3,44.3</end>
+          </event>
+          <event type="completed" player_id="1843" team_id="508" action_type="Possession" mins="0" secs="37" minsec="37" throw_ins="0">
+            <start>43.9,75.1</start>
+            <end>38.8,60.8</end>
+          </event>
+          <event type="completed" player_id="4801" team_id="508" action_type="Possession" mins="0" secs="35" minsec="35" throw_ins="0">
+            <start>32.2,76.9</start>
+            <end>41.3,76.9</end>
+          </event>
+          <event type="completed" player_id="17631" team_id="508" action_type="Possession" mins="0" secs="34" minsec="34" throw_ins="0">
+            <start>38.3,91.2</start>
+            <end>33.3,78.5</end>
+          </event>
+          <event type="completed" player_id="4801" team_id="508" action_type="Possession" mins="0" secs="33" minsec="33" throw_ins="0">
+            <start>32.4,76.7</start>
+            <end>38.3,91.2</end>
+          </event>
+          <event type="completed" player_id="4210" team_id="508" action_type="Possession" mins="0" secs="32" minsec="32" throw_ins="0">
+            <start>26.4,92</start>
+            <end>34.7,76.3</end>
+            <headed>true</headed>
+          </event>
+          <event type="completed" player_id="13258" team_id="508" action_type="Possession" mins="0" secs="12" minsec="12" throw_ins="0">
+            <start>60.6,38.2</start>
+            <end>51.6,55.4</end>
+          </event>
+          <event type="completed" player_id="4504" team_id="508" action_type="Possession" mins="0" secs="4" minsec="4" throw_ins="0">
+            <start>51.9,50.9</start>
+            <end>31.9,15.9</end>
+          </event>
+          <event type="completed" player_id="1843" team_id="508" action_type="Possession" mins="0" secs="1" minsec="1" throw_ins="0">
+            <start>50,50</start>
+            <end>52.6,54.8</end>
+          </event>
+          <event type="failed" player_id="4606" team_id="157" action_type="Possession" mins="3" secs="35" minsec="215" throw_ins="0">
+            <start>28.7,92.9</start>
+            <end>60.8,83.0</end>
+            <long_ball>true</long_ball>
+          </event>
+          <event type="failed" player_id="4830" team_id="508" action_type="Possession" mins="3" secs="26" minsec="206" throw_ins="0">
+            <start>85.1,65.2</start>
+            <end>88.0,54.2</end>
+            <headed>true</headed>
+          </event>
+          <event type="failed" player_id="4210" team_id="508" action_type="Possession" mins="2" secs="3" minsec="123" throw_ins="0">
+            <start>17.1,94.4</start>
+            <end>31.4,77.5</end>
+          </event>
+          <event type="failed" player_id="18479" team_id="157" action_type="Possession" mins="1" secs="49" minsec="109" throw_ins="0">
+            <start>62.9,17</start>
+            <end>75.6,0.0</end>
+            <headed>true</headed>
+          </event>
+          <event type="failed" player_id="4898" team_id="157" action_type="Possession" mins="1" secs="6" minsec="66" throw_ins="0">
+            <start>55.8,12.3</start>
+            <end>55.5,22.4</end>
+          </event>
+          <event type="failed" player_id="4210" team_id="508" action_type="Possession" mins="0" secs="58" minsec="58" throw_ins="0">
+            <start>69.2,75.4</start>
+            <end>74.8,72.0</end>
+          </event>
+          <event type="failed" player_id="12159" team_id="157" action_type="Possession" mins="0" secs="29" minsec="29" throw_ins="1">
+            <start>53.5,0</start>
+            <end>73.4,6.5</end>
+          </event>
+          <event type="failed" player_id="4801" team_id="508" action_type="Possession" mins="0" secs="13" minsec="13" throw_ins="0">
+            <start>56.4,52</start>
+            <end>49.1,100.0</end>
+            <long_ball>true</long_ball>
+          </event>
+          <event type="failed" player_id="9088" team_id="157" action_type="Possession" mins="0" secs="9" minsec="9" throw_ins="0">
+            <start>37.1,82</start>
+            <end>43.9,75.9</end>
+          </event>
+          <event type="failed" player_id="17627" team_id="508" action_type="Possession" mins="0" secs="6" minsec="6" throw_ins="0">
+            <start>34.3,14</start>
+            <end>61.5,13.5</end>
+          </event>
+          <ap_result team_id="508" completed="17" failed="5" assists="0" longball="0" headed="0" through_ball="0" throw_ins="1">17/22</ap_result>
+          <ap_result team_id="157" completed="10" failed="5" assists="0" longball="0" headed="0" through_ball="0" throw_ins="1">10/15</ap_result>
+        </time_slice>
+      </all_passes>
+      <tackles>
+        <time_slice name="0 - 5" id="1"/>
+      </tackles>
+      <crosses>
+        <time_slice name="0 - 5" id="1"/>
+      </crosses>
+      <corners>
+        <time_slice name="0 - 5" id="1"/>
+      </corners>
+      <offside/>
+      <keepersweeper/>
+      <oneonones/>
+      <setpieces/>
+      <takeons>
+        <time_slice name="0 - 5" id="1"/>
+      </takeons>
+      <fouls>
+        <time_slice name="0 - 5" id="1">
+          <event player_id="4210" mins="1" secs="10" minsec="70" team="508" type="Foul">
+            <loc>43.9,78.6</loc>
+            <otherplayer team="157">18479</otherplayer>
+          </event>
+          <event player_id="17612" mins="2" secs="47" minsec="167" team="157" type="Foul">
+            <loc>63.6,73</loc>
+            <otherplayer team="508">13094</otherplayer>
+          </event>
+        </time_slice>
+      </fouls>
+      <cards>
+        <time_slice name="0 - 5" id="1"/>
+      </cards>
+      <blocked_events/>
+      <extra_heat_maps>
+        <time_slice name="0 - 5" id="1">
+          <event player_id="4504" team_id="508" action_type="Possession" mins="3" secs="25" minsec="205" ot_id="44" ot_outcome="0">
+            <loc>88.2,54.8</loc>
+          </event>
+          <event player_id="9088" team_id="157" action_type="Possession" mins="3" secs="24" minsec="204" ot_id="44" ot_outcome="0">
+            <loc>12.6,61.5</loc>
+          </event>
+          <event player_id="1843" team_id="508" action_type="Possession" mins="3" secs="22" minsec="202" ot_id="1" ot_outcome="0">
+            <loc>63.6,68.4</loc>
+          </event>
+          <event player_id="17612" team_id="157" action_type="Defense" mins="2" secs="47" minsec="167" ot_id="4" ot_outcome="0">
+            <loc>36.4,27</loc>
+          </event>
+          <event player_id="13094" team_id="508" action_type="Defense" mins="2" secs="47" minsec="167" ot_id="4" ot_outcome="1">
+            <loc>63.6,73</loc>
+          </event>
+          <event player_id="4537" team_id="508" action_type="Possession" mins="2" secs="43" minsec="163" ot_id="1" ot_outcome="1">
+            <loc>5.1,56.4</loc>
+          </event>
+          <event player_id="2805" team_id="157" action_type="Possession" mins="1" secs="31" minsec="91" ot_id="1" ot_outcome="1">
+            <loc>56.4,15.3</loc>
+          </event>
+          <event player_id="4210" team_id="508" action_type="Defense" mins="1" secs="10" minsec="70" ot_id="4" ot_outcome="0">
+            <loc>43.9,78.6</loc>
+          </event>
+          <event player_id="18479" team_id="157" action_type="Defense" mins="1" secs="10" minsec="70" ot_id="4" ot_outcome="1">
+            <loc>56.1,21.4</loc>
+          </event>
+        </time_slice>
+      </extra_heat_maps>
+      <balls_out>
+        <time_slice name="0 - 5" id="1">
+          <event type="out" player_id="2805" team_id="157" action_type="" mins="2" secs="20" minsec="140">
+            <start>69.4,71.8</start>
+            <end>100.9,57.2</end>
+          </event>
+          <event type="out" player_id="18479" team_id="157" action_type="" mins="1" secs="50" minsec="110">
+            <start>62.9,17</start>
+            <end>77.5,-1.8</end>
+          </event>
+          <event type="out" player_id="13258" team_id="508" action_type="" mins="0" secs="16" minsec="16">
+            <start>60.6,38.2</start>
+            <end>49.3,101.7</end>
+          </event>
+          <bo_result team_id="508">1</bo_result>
+          <bo_result team_id="157">2</bo_result>
+        </time_slice>
+      </balls_out>
+    </filters>
+  </data_panel>
+</squawka>
