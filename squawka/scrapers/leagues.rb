@@ -8,7 +8,7 @@ require 'mechanize'
 agent = Mechanize.new{ |agent| agent.history.max_size=0 }
 agent.user_agent = 'Mozilla/5.0'
 
-leagues_url = "http://www.squawka.com/match-results"
+leagues_url = "https://www.squawka.com/match-results"
 
 leagues = CSV.open("tsv/leagues.tsv",
                    "w",
