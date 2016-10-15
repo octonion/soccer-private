@@ -24,7 +24,6 @@ end
 games = CSV.open("#{dir}/games.csv", "w")
 teams = CSV.open("#{dir}/teams.csv", "w")
 players = CSV.open("#{dir}/players.csv", "w")
-possessions = CSV.open("#{dir}/possessions.csv", "w")
 periods = CSV.open("#{dir}/periods.csv", "w")
 time_slices = CSV.open("#{dir}/time_slices.csv", "w")
 team_possessions = CSV.open("#{dir}/team_possessions.csv", "w")
@@ -40,6 +39,10 @@ goal_keeping_results = CSV.open("#{dir}/goal_keeping_results.csv", "w")
 
 goals_attempts_events = CSV.open("#{dir}/goals_attempts_events.csv", "w")
 goals_attempts_results = CSV.open("#{dir}/goals_attempts_results.csv", "w")
+
+goals_assists = CSV.open("#{dir}/goals_assists.csv", "w")
+
+goals_passes = CSV.open("#{dir}/goals_passes.csv", "w")
 
 args[1..-1].each do |file|
 
@@ -60,10 +63,10 @@ args[1..-1].each do |file|
 
   xml.search("/squawka").each do |squawka|
 
-    date = squawka.attribute("date") rescue nil
-    time = squawka.attribute("time") rescue nil
-    timezone = squawka.attribute("timezone") rescue nil
-    data_freshness = squawka.attribute("data_freshness") rescue nil
+    date = squawka.attribute("date").value rescue nil
+    time = squawka.attribute("time").value rescue nil
+    timezone = squawka.attribute("timezone").value rescue nil
+    data_freshness = squawka.attribute("data_freshness").value rescue nil
 
     xml.search("data_panel").each do |data_panel|
 
@@ -88,7 +91,7 @@ args[1..-1].each do |file|
       
         game.search("team").each do |team|
         
-          team_id = team.attribute("id") rescue nil
+          team_id = team.attribute("id").value rescue nil
           long_name = team.search("long_name").first.inner_text rescue nil
           short_name = team.search("short_name").first.inner_text rescue nil
           logo = team.search("logo").first.inner_text rescue nil
@@ -106,8 +109,8 @@ args[1..-1].each do |file|
 
       data_panel.search("players/player").each do |player|
         
-        player_id = player.attribute("id") rescue nil
-        team_id = player.attribute("team_id") rescue nil
+        player_id = player.attribute("id").value rescue nil
+        team_id = player.attribute("team_id").value rescue nil
         
         first_name = player.search("first_name").first.inner_text rescue nil
         last_name = player.search("last_name").first.inner_text rescue nil
@@ -139,11 +142,11 @@ args[1..-1].each do |file|
 
       data_panel.search("possession/period").each do |period|
 
-        period_id = period.attribute("id") rescue nil
+        period_id = period.attribute("id").value rescue nil
 
         period.search("play_direction").each do |play_direction|
           
-          team_id = play_direction.attribute("team_id") rescue nil
+          team_id = play_direction.attribute("team_id").value rescue nil
           play_direction_text = play_direction.inner_text rescue nil
           
           periods << [game_id, period_id, team_id, play_direction_text]
@@ -152,9 +155,9 @@ args[1..-1].each do |file|
 
         period.search("time_slice").each do |time_slice|
 
-          time_slice_name = time_slice.attribute("name") rescue nil
-          time_slice_id = time_slice.attribute("id") rescue nil
-          scored_min = time_slice.attribute("scored_min") rescue nil
+          time_slice_name = time_slice.attribute("name").value rescue nil
+          time_slice_id = time_slice.attribute("id").value rescue nil
+          scored_min = time_slice.attribute("scored_min").value rescue nil
 
           time_slices << [game_id, period_id,
                           time_slice_name, time_slice_id,
@@ -162,7 +165,7 @@ args[1..-1].each do |file|
 
           time_slice.search("team_possession").each do |team_possession|
             
-            team_id = team_possession.attribute("team_id") rescue nil
+            team_id = team_possession.attribute("team_id").value rescue nil
             team_possession_text = team_possession.inner_text rescue nil
             
             team_possessions << [game_id, period_id,
@@ -173,16 +176,16 @@ args[1..-1].each do |file|
 
           time_slice.search("swap_players").each do |swap_players|
 
-            team_id = swap_players.attribute("team_id") rescue nil
-            min = swap_players.attribute("min") rescue nil
-            minsec = swap_players.attribute("minsec") rescue nil
+            team_id = swap_players.attribute("team_id").value rescue nil
+            min = swap_players.attribute("min").value rescue nil
+            minsec = swap_players.attribute("minsec").value rescue nil
 
             sub_to_player = swap_players.search("sub_to_player").first rescue nil
-            sub_to_player_id = sub_to_player.attribute("player_id") rescue nil
+            sub_to_player_id = sub_to_player.attribute("player_id").value rescue nil
             sub_to_player_name = sub_to_player.text rescue nil
             
             player_to_sub = swap_players.search("player_to_sub").first rescue nil
-            player_to_sub_id = player_to_sub.attribute("player_id") rescue nil
+            player_to_sub_id = player_to_sub.attribute("player_id").value rescue nil
             player_to_sub_name = player_to_sub.text rescue nil
             
             swaps << [game_id, period_id,
@@ -196,7 +199,7 @@ args[1..-1].each do |file|
 
           time_slice.search("players_in_ground").each do |players_in_ground|
             
-            injurytime_play = players_in_ground.attribute("injurytime_play") rescue nil
+            injurytime_play = players_in_ground.attribute("injurytime_play").value rescue nil
 
             players_in_grounds << [game_id, period_id,
                                    time_slice_name, time_slice_id,
@@ -205,8 +208,8 @@ args[1..-1].each do |file|
             
             players_in_ground.search("ts_player").each do |ts_player|
               
-              ts_player_id = ts_player.attribute("id") rescue nil
-              team_id = ts_player.attribute("team_id") rescue nil
+              ts_player_id = ts_player.attribute("id").value rescue nil
+              team_id = ts_player.attribute("team_id").value rescue nil
               first_name = ts_player.search("first_name").first.text rescue nil
               player_name = ts_player.search("name").first.text rescue nil
               team_name = ts_player.search("team_name").first.text rescue nil
@@ -240,12 +243,12 @@ args[1..-1].each do |file|
 
             #<player_inf_score id="411" possession="2.32" attack="0" defense="5.39" goalkeeping="0" injurytime_play="0">7.71</player_inf_score>
 
-            player_inf_score_id = player_inf_score.attribute("id") rescue nil
-            possession = player_inf_score.attribute("possession") rescue nil
-            attack = player_inf_score.attribute("attack") rescue nil
-            defense = player_inf_score.attribute("defense") rescue nil
-            goalkeeping = player_inf_score.attribute("goalkeeping") rescue nil
-            injurytime_play = player_inf_score.attribute("injurytime_play") rescue nil
+            player_inf_score_id = player_inf_score.attribute("id").value rescue nil
+            possession = player_inf_score.attribute("possession").value rescue nil
+            attack = player_inf_score.attribute("attack").value rescue nil
+            defense = player_inf_score.attribute("defense").value rescue nil
+            goalkeeping = player_inf_score.attribute("goalkeeping").value rescue nil
+            injurytime_play = player_inf_score.attribute("injurytime_play").value rescue nil
             player_inf_score_text = player_inf_score.text rescue nil
 
             player_inf_scores << [game_id, period_id,
@@ -264,19 +267,19 @@ args[1..-1].each do |file|
 
       data_panel.search("filters/goal_keeping/time_slice").each do |time_slice|
 
-        time_slice_name = time_slice.attribute("name") rescue nil
-        time_slice_id = time_slice.attribute("id") rescue nil
+        time_slice_name = time_slice.attribute("name").value rescue nil
+        time_slice_id = time_slice.attribute("id").value rescue nil
 
         time_slice.search("event").each do |event|
 
-          event_type = event.attribute("type") rescue nil
-          player_id = event.attribute("player_id") rescue nil
-          team_id = event.attribute("team_id") rescue nil
-          action_type = event.attribute("action_type") rescue nil
-          mins = event.attribute("mins") rescue nil
-          secs = event.attribute("secs") rescue nil
-          minsec = event.attribute("minsec") rescue nil
-          headed = event.attribute("headed") rescue nil
+          event_type = event.attribute("type").value rescue nil
+          player_id = event.attribute("player_id").value rescue nil
+          team_id = event.attribute("team_id").value rescue nil
+          action_type = event.attribute("action_type").value rescue nil
+          mins = event.attribute("mins").value rescue nil
+          secs = event.attribute("secs").value rescue nil
+          minsec = event.attribute("minsec").value rescue nil
+          headed = event.attribute("headed").value rescue nil
 
           event_text = event.text rescue nil
 
@@ -289,13 +292,13 @@ args[1..-1].each do |file|
 
         time_slice.search("gk_result").each do |gk_result|
 
-          team_id = gk_result.attribute("team_id") rescue nil
-          saves = gk_result.attribute("saves") rescue nil
-          punches = gk_result.attribute("punches") rescue nil
-          catches = gk_result.attribute("catches") rescue nil
-          failed_catches = gk_result.attribute("failed_catches") rescue nil
-          clearances = gk_result.attribute("clearances") rescue nil
-          failedclearances = gk_result.attribute("failedclearances") rescue nil
+          team_id = gk_result.attribute("team_id").value rescue nil
+          saves = gk_result.attribute("saves").value rescue nil
+          punches = gk_result.attribute("punches").value rescue nil
+          catches = gk_result.attribute("catches").value rescue nil
+          failed_catches = gk_result.attribute("failed_catches").value rescue nil
+          clearances = gk_result.attribute("clearances").value rescue nil
+          failedclearances = gk_result.attribute("failedclearances").value rescue nil
 
           goal_keeping_results << [game_id,
                                    time_slice_name, time_slice_id,
@@ -310,19 +313,70 @@ args[1..-1].each do |file|
 
       data_panel.search("filters/goals_attempts/time_slice").each do |time_slice|
 
-        time_slice_name = time_slice.attribute("name") rescue nil
-        time_slice_id = time_slice.attribute("id") rescue nil
-        attempts_count = time_slice.attribute("attempts_count") rescue nil
+        time_slice_name = time_slice.attribute("name").value rescue nil
+        time_slice_id = time_slice.attribute("id").value rescue nil
+        attempts_count = time_slice.attribute("attempts_count").value rescue nil
+
+        #<event type="off_target" player_id="922" team_id="39" action_type="Attack" mins="1" secs="53" minsec="113">
+        #<event type="blocked" player_id="11524" team_id="514" action_type="Attack" mins="4" secs="59" minsec="299">
+        #<event type="goal" player_id="5493" team_id="39" action_type="Attack" mins="18" secs="54" minsec="1134" uid="1907116946">
+        #<assist_1 x="56.4" y="18" x2="79.0" y2="54.8" min="18">922</assist_1>
+        #<passlinks>[{"type":"failed_pass","sub_type":"","swere":"","period":"1","headed":0,"start_x":67.7,"start_y":91.6,"end_x":63.7,"end_y":97.3,"club_id":"39","player_id":"10182","player_name":"Matt Ritchie","photo":"uploaded_icons\/players\/thumb\/p10182c299j30.jpg","side":"away","min":"18","sec":"40","minsec":"1120"},]</passlinks>
 
         time_slice.search("event").each do |event|
 
-          off_target = event.attribute("off_target") rescue nil
-          player_id = event.attribute("player_id") rescue nil
-          team_id = event.attribute("team_id") rescue nil
-          action_type = event.attribute("action_type") rescue nil
-          mins = event.attribute("mins") rescue nil
-          secs = event.attribute("secs") rescue nil
-          minsec = event.attribute("minsec") rescue nil
+          event_type = event.attribute("type").value rescue nil
+          player_id = event.attribute("player_id").value rescue nil
+          team_id = event.attribute("team_id").value rescue nil
+          action_type = event.attribute("action_type").value rescue nil
+          mins = event.attribute("mins").value rescue nil
+          secs = event.attribute("secs").value rescue nil
+          minsec = event.attribute("minsec").value rescue nil
+          
+          uid = event.attribute("uid").value rescue nil
+
+          case event_type
+          when "goal"
+
+            #<assist_1 x="56.4" y="18" x2="79.0" y2="54.8" min="18">922</assist_1>
+            assist = event.search("assist_1").first rescue nil
+            
+            if not(assist==nil)
+              
+              assist_x = assist.attribute("x").value rescue nil
+              assist_y = assist.attribute("y").value rescue nil
+              assist_x2 = assist.attribute("x2").value rescue nil
+              assist_y2 = assist.attribute("y2").value rescue nil
+              assist_min = assist.attribute("min").value rescue nil
+              assist_text = assist.text rescue nil
+
+              goals_assists << [game_id,
+                                time_slice_name, time_slice_id,
+                                event_type, player_id, team_id,
+                                action_type, mins, secs, minsec,
+                                uid,
+                                assist_x, assist_y,
+                                assist_x2, assist_y2,
+                                assist_min,
+                                assist_text]
+              
+            end
+
+            passlinks = event.search("passlinks").first rescue nil
+
+            if not(passlinks==nil)
+              
+              passes = passlinks.text rescue nil
+
+              goals_passes << [passes]
+
+            end
+              
+
+          end
+            
+
+          #<passlinks>
 
           event_start = event.search("start").first.text rescue nil
           event_middle = event.search("middle").first.text rescue nil
@@ -332,19 +386,20 @@ args[1..-1].each do |file|
           # <coordinates start_x="97.6" start_y="39.8" end_x="98.8" end_y="42.2" gmouth_y="49.3" gmouth_z="1.3"/>
           
           event_coordinates = event.search("coordinates").first rescue nil
-          event_start_x = event_coordinates.attribute("start_x") rescue nil
-          event_start_y = event_coordinates.attribute("start_y") rescue nil
-          event_end_x = event_coordinates.attribute("end_x") rescue nil
-          event_end_y = event_coordinates.attribute("end_y") rescue nil
-          event_gmouth_y = event_coordinates.attribute("gmouth_y") rescue nil
-          event_gmouth_z = event_coordinates.attribute("gmouth_z") rescue nil
+          event_start_x = event_coordinates.attribute("start_x").value rescue nil
+          event_start_y = event_coordinates.attribute("start_y").value rescue nil
+          event_end_x = event_coordinates.attribute("end_x").value rescue nil
+          event_end_y = event_coordinates.attribute("end_y").value rescue nil
+          event_gmouth_y = event_coordinates.attribute("gmouth_y").value rescue nil
+          event_gmouth_z = event_coordinates.attribute("gmouth_z").value rescue nil
           
           event_shot = event.search("shot").first.text rescue nil
 
           goals_attempts_events << [game_id,
                                     time_slice_name, time_slice_id,
-                                    off_target, player_id, team_id,
+                                    event_type, player_id, team_id,
                                     action_type, mins, secs, minsec,
+                                    uid,
                                     event_start, event_middle, event_end,
                                     event_swere,
                                     event_start_x, event_start_y,
@@ -357,14 +412,14 @@ args[1..-1].each do |file|
 
         time_slice.search("ga_result").each do |ga_result|
 
-          team_id = ga_result.attribute("team_id") rescue nil
-          goal = ga_result.attribute("goal") rescue nil
-          save = ga_result.attribute("save") rescue nil
-          off_target = ga_result.attribute("off_target") rescue nil
-          blocked = ga_result.attribute("blocked") rescue nil
-          wood_work = ga_result.attribute("wood_work") rescue nil
-          headed = ga_result.attribute("headed") rescue nil
-          shot = ga_result.attribute("shot") rescue nil
+          team_id = ga_result.attribute("team_id").value rescue nil
+          goal = ga_result.attribute("goal").value rescue nil
+          save = ga_result.attribute("save").value rescue nil
+          off_target = ga_result.attribute("off_target").value rescue nil
+          blocked = ga_result.attribute("blocked").value rescue nil
+          wood_work = ga_result.attribute("wood_work").value rescue nil
+          headed = ga_result.attribute("headed").value rescue nil
+          shot = ga_result.attribute("shot").value rescue nil
           ga_result_text = ga_result.text rescue nil
 
           goals_attempts_results << [game_id,
