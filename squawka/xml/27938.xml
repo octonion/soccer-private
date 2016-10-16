@@ -1,0 +1,1053 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<squawka date="2016-10-02" time="02:09" timezone="BST" data_freshness="02:09">
+  <data_panel>
+    <system>
+      <headline><![CDATA[Rapids 0 - 0 Timbers]]></headline>
+      <refresh_rate>10000</refresh_rate>
+      <state>ingame</state>
+      <show_ingame_rdp>false</show_ingame_rdp>
+    </system>
+    <game>
+      <name><![CDATA[Rapids VS Timbers]]></name>
+      <team id="151">
+        <long_name><![CDATA[Colorado Rapids]]></long_name>
+        <short_name><![CDATA[Rapids]]></short_name>
+        <logo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/clubs/crest/20130515090200_home.png]]></logo>
+        <shirt_url><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/clubs/jersey/20130515090200_home.png]]></shirt_url>
+        <club_url><![CDATA[colorado-rapids]]></club_url>
+        <state>home</state>
+        <team_color><![CDATA[#982230]]></team_color>
+      </team>
+      <team id="161">
+        <long_name><![CDATA[Portland Timbers]]></long_name>
+        <short_name><![CDATA[Timbers]]></short_name>
+        <logo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/clubs/crest/20130515101555_home.png]]></logo>
+        <shirt_url><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/clubs/jersey/20130515101555_home.png]]></shirt_url>
+        <club_url><![CDATA[portland-timbers]]></club_url>
+        <state>away</state>
+        <team_color><![CDATA[#39945d]]></team_color>
+      </team>
+      <venue><![CDATA[Dick's Sporting Goods Park]]></venue>
+      <kickoff>Sun, 02 Oct 2016 02:00:00 +0100</kickoff>
+      <timeleft>0</timeleft>
+      <competition_name><![CDATA[]]></competition_name>
+    </game>
+    <players>
+      <player id="4685" team_id="161">
+        <first_name><![CDATA[Chris]]></first_name>
+        <last_name><![CDATA[Konopka]]></last_name>
+        <name><![CDATA[Chris Konopka]]></name>
+        <surname><![CDATA[Konopka]]></surname>
+        <team_name><![CDATA[Timbers]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p4685c161j1.jpg]]></photo>
+        <position><![CDATA[Goalkeeper]]></position>
+        <dob>14/04/1985</dob>
+        <weight>98</weight>
+        <height>196</height>
+        <shirt_num>1</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[USA]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/chris-konopka/stats]]></profile_url>
+        <x_loc>0</x_loc>
+        <y_loc>0</y_loc>
+        <state><![CDATA[bench]]></state>
+        <age>31</age>
+        <bmi>25.5</bmi>
+      </player>
+      <player id="5349" team_id="161">
+        <first_name><![CDATA[Alvas]]></first_name>
+        <last_name><![CDATA[Powell]]></last_name>
+        <name><![CDATA[Alvas Powell]]></name>
+        <surname><![CDATA[Alvas Powell]]></surname>
+        <team_name><![CDATA[Timbers]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p5349c161j2.jpg]]></photo>
+        <position><![CDATA[Defender]]></position>
+        <dob>18/07/1994</dob>
+        <weight>75</weight>
+        <height>183</height>
+        <shirt_num>2</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Jamaica]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/alvas-powell/stats]]></profile_url>
+        <x_loc>21</x_loc>
+        <y_loc>15</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>22</age>
+        <bmi>22.4</bmi>
+      </player>
+      <player id="4536" team_id="161">
+        <first_name><![CDATA[Jermaine]]></first_name>
+        <last_name><![CDATA[Taylor]]></last_name>
+        <name><![CDATA[Jermaine Taylor]]></name>
+        <surname><![CDATA[Jermaine Taylor]]></surname>
+        <team_name><![CDATA[Timbers]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p4536c161j4.jpg]]></photo>
+        <position><![CDATA[Defender]]></position>
+        <dob>14/01/1985</dob>
+        <weight>88</weight>
+        <height>178</height>
+        <shirt_num>4</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Jamaica]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/jermaine-taylor/stats]]></profile_url>
+        <x_loc>0</x_loc>
+        <y_loc>0</y_loc>
+        <state><![CDATA[bench]]></state>
+        <age>32</age>
+        <bmi>27.8</bmi>
+      </player>
+      <player id="13862" team_id="161">
+        <first_name><![CDATA[Vytautas]]></first_name>
+        <last_name><![CDATA[Andriuskevicius]]></last_name>
+        <name><![CDATA[Vytautas Andriuskevicius]]></name>
+        <surname><![CDATA[Andriuskevicius]]></surname>
+        <team_name><![CDATA[Timbers]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p13862c247j4.png]]></photo>
+        <position><![CDATA[Defender]]></position>
+        <dob>08/10/1990</dob>
+        <weight>75</weight>
+        <height>188</height>
+        <shirt_num>5</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Lithuania]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/vytautas-andriuskevicius/stats]]></profile_url>
+        <x_loc>21</x_loc>
+        <y_loc>85</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>26</age>
+        <bmi>21.2</bmi>
+      </player>
+      <player id="4699" team_id="161">
+        <first_name><![CDATA[Darlington]]></first_name>
+        <last_name><![CDATA[Nagbe]]></last_name>
+        <name><![CDATA[Darlington Nagbe]]></name>
+        <surname><![CDATA[Nagbe]]></surname>
+        <team_name><![CDATA[Timbers]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p4699c161j6.jpg]]></photo>
+        <position><![CDATA[Midfielder]]></position>
+        <dob>19/07/1990</dob>
+        <weight>75</weight>
+        <height>176</height>
+        <shirt_num>6</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[USA]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/darlington-nagbe/stats]]></profile_url>
+        <x_loc>62</x_loc>
+        <y_loc>22</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>26</age>
+        <bmi>24.2</bmi>
+      </player>
+      <player id="4722" team_id="161">
+        <first_name><![CDATA[Diego]]></first_name>
+        <last_name><![CDATA[Valeri]]></last_name>
+        <name><![CDATA[Diego Valeri]]></name>
+        <surname><![CDATA[Diego Valeri]]></surname>
+        <team_name><![CDATA[Timbers]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p4722c161j8.jpg]]></photo>
+        <position><![CDATA[Midfielder]]></position>
+        <dob>01/05/1986</dob>
+        <weight>75</weight>
+        <height>178</height>
+        <shirt_num>8</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Argentina]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/diego-valeri/stats]]></profile_url>
+        <x_loc>62</x_loc>
+        <y_loc>50</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>30</age>
+        <bmi>23.7</bmi>
+      </player>
+      <player id="9339" team_id="161">
+        <first_name><![CDATA[Fanendo]]></first_name>
+        <last_name><![CDATA[Adi]]></last_name>
+        <name><![CDATA[Fanendo Adi]]></name>
+        <surname><![CDATA[Adi]]></surname>
+        <team_name><![CDATA[Timbers]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p9339c161j9.jpg]]></photo>
+        <position><![CDATA[Forward]]></position>
+        <dob>10/10/1990</dob>
+        <weight>84</weight>
+        <height>194</height>
+        <shirt_num>9</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Nigeria]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/fanendo-adi/stats]]></profile_url>
+        <x_loc>85</x_loc>
+        <y_loc>50</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>26</age>
+        <bmi>22.3</bmi>
+      </player>
+      <player id="4737" team_id="161">
+        <first_name><![CDATA[Ned]]></first_name>
+        <last_name><![CDATA[Grabavoy]]></last_name>
+        <name><![CDATA[Ned Grabavoy]]></name>
+        <surname><![CDATA[Grabavoy]]></surname>
+        <team_name><![CDATA[Timbers]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p4737c161j10.jpg]]></photo>
+        <position><![CDATA[Midfielder]]></position>
+        <dob>01/07/1983</dob>
+        <weight>69</weight>
+        <height>171</height>
+        <shirt_num>10</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[USA]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/ned-grabavoy/stats]]></profile_url>
+        <x_loc>62</x_loc>
+        <y_loc>78</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>33</age>
+        <bmi>23.6</bmi>
+      </player>
+      <player id="4721" team_id="161">
+        <first_name><![CDATA[Jack]]></first_name>
+        <last_name><![CDATA[Jewsbury]]></last_name>
+        <name><![CDATA[Jack Jewsbury]]></name>
+        <surname><![CDATA[Jewsbury]]></surname>
+        <team_name><![CDATA[Timbers]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p4721c161j13.jpg]]></photo>
+        <position><![CDATA[Defender]]></position>
+        <dob>13/04/1981</dob>
+        <weight>84</weight>
+        <height>183</height>
+        <shirt_num>13</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[USA]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/jack-jewsbury/stats]]></profile_url>
+        <x_loc>40</x_loc>
+        <y_loc>66</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>35</age>
+        <bmi>25.1</bmi>
+      </player>
+      <player id="4712" team_id="161">
+        <first_name><![CDATA[Ben]]></first_name>
+        <last_name><![CDATA[Zemanski]]></last_name>
+        <name><![CDATA[Ben Zemanski]]></name>
+        <surname><![CDATA[Zemanski]]></surname>
+        <team_name><![CDATA[Timbers]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p4712c161j14.jpg]]></photo>
+        <position><![CDATA[Midfielder]]></position>
+        <dob>12/05/1988</dob>
+        <weight>69</weight>
+        <height>181</height>
+        <shirt_num>14</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[USA]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/ben-zemanski/stats]]></profile_url>
+        <x_loc>0</x_loc>
+        <y_loc>0</y_loc>
+        <state><![CDATA[bench]]></state>
+        <age>28</age>
+        <bmi>21.1</bmi>
+      </player>
+      <player id="11556" team_id="161">
+        <first_name><![CDATA[Zarek]]></first_name>
+        <last_name><![CDATA[Valentin]]></last_name>
+        <name><![CDATA[Zarek Valentin]]></name>
+        <surname><![CDATA[Valentin]]></surname>
+        <team_name><![CDATA[Timbers]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p11556c161j16.jpg]]></photo>
+        <position><![CDATA[Defender]]></position>
+        <dob>06/08/1991</dob>
+        <weight>71</weight>
+        <height>181</height>
+        <shirt_num>16</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[USA]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/zarek-valentin/stats]]></profile_url>
+        <x_loc>0</x_loc>
+        <y_loc>0</y_loc>
+        <state><![CDATA[bench]]></state>
+        <age>25</age>
+        <bmi>21.7</bmi>
+      </player>
+      <player id="4707" team_id="161">
+        <first_name><![CDATA[Diego]]></first_name>
+        <last_name><![CDATA[Chara]]></last_name>
+        <name><![CDATA[Diego Chara]]></name>
+        <surname><![CDATA[Diego Chara]]></surname>
+        <team_name><![CDATA[Timbers]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p4707c161j21.jpg]]></photo>
+        <position><![CDATA[Midfielder]]></position>
+        <dob>05/04/1986</dob>
+        <weight>69</weight>
+        <height>173</height>
+        <shirt_num>21</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Colombia]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/diego-chara/stats]]></profile_url>
+        <x_loc>40</x_loc>
+        <y_loc>31</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>30</age>
+        <bmi>23.1</bmi>
+      </player>
+      <player id="15143" team_id="161">
+        <first_name><![CDATA[Jack]]></first_name>
+        <last_name><![CDATA[Barmby]]></last_name>
+        <name><![CDATA[Jack Barmby]]></name>
+        <surname><![CDATA[Barmby]]></surname>
+        <team_name><![CDATA[Timbers]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p15143c161j23.jpg]]></photo>
+        <position><![CDATA[Midfielder]]></position>
+        <dob>14/11/1994</dob>
+        <weight>74</weight>
+        <height>178</height>
+        <shirt_num>23</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[England]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/jack-barmby/stats]]></profile_url>
+        <x_loc>0</x_loc>
+        <y_loc>0</y_loc>
+        <state><![CDATA[bench]]></state>
+        <age>22</age>
+        <bmi>23.4</bmi>
+      </player>
+      <player id="893" team_id="161">
+        <first_name><![CDATA[Liam]]></first_name>
+        <last_name><![CDATA[Ridgewell]]></last_name>
+        <name><![CDATA[Liam Ridgewell]]></name>
+        <surname><![CDATA[Ridgewell]]></surname>
+        <team_name><![CDATA[Timbers]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p893c161j24.jpg]]></photo>
+        <position><![CDATA[Defender]]></position>
+        <dob>21/07/1984</dob>
+        <weight>80</weight>
+        <height>188</height>
+        <shirt_num>24</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[England]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/liam-ridgewell/stats]]></profile_url>
+        <x_loc>17</x_loc>
+        <y_loc>61</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>32</age>
+        <bmi>22.6</bmi>
+      </player>
+      <player id="18484" team_id="161">
+        <first_name><![CDATA[Lucas]]></first_name>
+        <last_name><![CDATA[Melano]]></last_name>
+        <name><![CDATA[Lucas Melano]]></name>
+        <surname><![CDATA[Melano]]></surname>
+        <team_name><![CDATA[Timbers]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p18484c161j26.jpg]]></photo>
+        <position><![CDATA[Forward]]></position>
+        <dob>01/03/1993</dob>
+        <weight>71</weight>
+        <height>170</height>
+        <shirt_num>26</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Argentina]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/lucas-melano/stats]]></profile_url>
+        <x_loc>0</x_loc>
+        <y_loc>0</y_loc>
+        <state><![CDATA[bench]]></state>
+        <age>24</age>
+        <bmi>24.6</bmi>
+      </player>
+      <player id="601" team_id="161">
+        <first_name><![CDATA[Steven]]></first_name>
+        <last_name><![CDATA[Taylor]]></last_name>
+        <name><![CDATA[Steven Taylor]]></name>
+        <surname><![CDATA[Steven Taylor]]></surname>
+        <team_name><![CDATA[Timbers]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p601c39j27.jpg]]></photo>
+        <position><![CDATA[Defender]]></position>
+        <dob>23/01/1986</dob>
+        <weight>81</weight>
+        <height>188</height>
+        <shirt_num>27</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[England]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/steven-taylor/stats]]></profile_url>
+        <x_loc>17</x_loc>
+        <y_loc>37</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>31</age>
+        <bmi>22.9</bmi>
+      </player>
+      <player id="4716" team_id="161">
+        <first_name><![CDATA[Jake]]></first_name>
+        <last_name><![CDATA[Gleeson]]></last_name>
+        <name><![CDATA[Jake Gleeson]]></name>
+        <surname><![CDATA[Jake Gleeson]]></surname>
+        <team_name><![CDATA[Timbers]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p4716c161j90.jpg]]></photo>
+        <position><![CDATA[Goalkeeper]]></position>
+        <dob>26/06/1990</dob>
+        <weight>91</weight>
+        <height>191</height>
+        <shirt_num>90</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[New Zealand]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/jake-gleeson/stats]]></profile_url>
+        <x_loc>5</x_loc>
+        <y_loc>50</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>26</age>
+        <bmi>24.9</bmi>
+      </player>
+      <player id="4676" team_id="161">
+        <first_name><![CDATA[Jack]]></first_name>
+        <last_name><![CDATA[McInerney]]></last_name>
+        <name><![CDATA[Jack McInerney]]></name>
+        <surname><![CDATA[McInerney]]></surname>
+        <team_name><![CDATA[Timbers]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p4676c161j99.jpg]]></photo>
+        <position><![CDATA[Forward]]></position>
+        <dob>05/08/1992</dob>
+        <weight>69</weight>
+        <height>178</height>
+        <shirt_num>99</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[USA]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/jack-mcinerney/stats]]></profile_url>
+        <x_loc>0</x_loc>
+        <y_loc>0</y_loc>
+        <state><![CDATA[bench]]></state>
+        <age>24</age>
+        <bmi>21.8</bmi>
+      </player>
+      <player id="464" team_id="151">
+        <first_name><![CDATA[Tim]]></first_name>
+        <last_name><![CDATA[Howard]]></last_name>
+        <name><![CDATA[Tim Howard]]></name>
+        <surname><![CDATA[Tim Howard]]></surname>
+        <team_name><![CDATA[Rapids]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p464c151j1.jpg]]></photo>
+        <position><![CDATA[Goalkeeper]]></position>
+        <dob>06/03/1979</dob>
+        <weight>88</weight>
+        <height>187</height>
+        <shirt_num>1</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[USA]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/tim-howard/stats]]></profile_url>
+        <x_loc>5</x_loc>
+        <y_loc>50</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>38</age>
+        <bmi>25.2</bmi>
+      </player>
+      <player id="12025" team_id="151">
+        <first_name><![CDATA[Eric]]></first_name>
+        <last_name><![CDATA[Miller]]></last_name>
+        <name><![CDATA[Eric Miller]]></name>
+        <surname><![CDATA[Eric Miller]]></surname>
+        <team_name><![CDATA[Rapids]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p12025c151j3.jpg]]></photo>
+        <position><![CDATA[Defender]]></position>
+        <dob>15/01/1993</dob>
+        <weight>80</weight>
+        <height>183</height>
+        <shirt_num>3</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[USA]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/eric-miller/stats]]></profile_url>
+        <x_loc>21</x_loc>
+        <y_loc>15</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>24</age>
+        <bmi>23.9</bmi>
+      </player>
+      <player id="4811" team_id="151">
+        <first_name><![CDATA[Marc]]></first_name>
+        <last_name><![CDATA[Burch]]></last_name>
+        <name><![CDATA[Marc Burch]]></name>
+        <surname><![CDATA[Burch]]></surname>
+        <team_name><![CDATA[Rapids]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p4811c151j4.jpg]]></photo>
+        <position><![CDATA[Defender]]></position>
+        <dob>07/05/1984</dob>
+        <weight>83</weight>
+        <height>183</height>
+        <shirt_num>4</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[USA]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/marc-burch/stats]]></profile_url>
+        <x_loc>21</x_loc>
+        <y_loc>85</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>32</age>
+        <bmi>24.8</bmi>
+      </player>
+      <player id="20186" team_id="151">
+        <first_name><![CDATA[Mekeil]]></first_name>
+        <last_name><![CDATA[Williams]]></last_name>
+        <name><![CDATA[Mekeil Williams]]></name>
+        <surname><![CDATA[Mekeil Williams]]></surname>
+        <team_name><![CDATA[Rapids]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p20186c151j5.jpg]]></photo>
+        <position><![CDATA[Defender]]></position>
+        <dob>24/07/1990</dob>
+        <weight>Unknown</weight>
+        <height>174</height>
+        <shirt_num>5</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Trinidad and Tobago]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/mekeil-williams/stats]]></profile_url>
+        <x_loc>0</x_loc>
+        <y_loc>0</y_loc>
+        <state><![CDATA[bench]]></state>
+        <age>26</age>
+        <bmi>0</bmi>
+      </player>
+      <player id="4786" team_id="151">
+        <first_name><![CDATA[Sam]]></first_name>
+        <last_name><![CDATA[Cronin]]></last_name>
+        <name><![CDATA[Sam Cronin]]></name>
+        <surname><![CDATA[Cronin]]></surname>
+        <team_name><![CDATA[Rapids]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p4786c151j6.jpg]]></photo>
+        <position><![CDATA[Midfielder]]></position>
+        <dob>12/12/1986</dob>
+        <weight>75</weight>
+        <height>178</height>
+        <shirt_num>6</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[USA]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/sam-cronin/stats]]></profile_url>
+        <x_loc>40</x_loc>
+        <y_loc>31</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>30</age>
+        <bmi>23.7</bmi>
+      </player>
+      <player id="4680" team_id="151">
+        <first_name><![CDATA[Sebastien]]></first_name>
+        <last_name><![CDATA[Le Toux]]></last_name>
+        <name><![CDATA[Sebastien Le Toux]]></name>
+        <surname><![CDATA[Le Toux]]></surname>
+        <team_name><![CDATA[Rapids]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p4680c160j9.jpg]]></photo>
+        <position><![CDATA[Forward]]></position>
+        <dob>10/01/1984</dob>
+        <weight>71</weight>
+        <height>183</height>
+        <shirt_num>7</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[France]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/sebastien-le-toux/stats]]></profile_url>
+        <x_loc>62</x_loc>
+        <y_loc>78</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>33</age>
+        <bmi>21.2</bmi>
+      </player>
+      <player id="4442" team_id="151">
+        <first_name><![CDATA[Dillon]]></first_name>
+        <last_name><![CDATA[Powers]]></last_name>
+        <name><![CDATA[Dillon Powers]]></name>
+        <surname><![CDATA[Powers]]></surname>
+        <team_name><![CDATA[Rapids]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p4442c151j8.jpg]]></photo>
+        <position><![CDATA[Midfielder]]></position>
+        <dob>14/02/1991</dob>
+        <weight>79</weight>
+        <height>181</height>
+        <shirt_num>8</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[USA]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/dillon-powers/stats]]></profile_url>
+        <x_loc>40</x_loc>
+        <y_loc>66</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>26</age>
+        <bmi>24.1</bmi>
+      </player>
+      <player id="8061" team_id="151">
+        <first_name><![CDATA[Marco]]></first_name>
+        <last_name><![CDATA[Pappa]]></last_name>
+        <name><![CDATA[Marco Pappa]]></name>
+        <surname><![CDATA[Pappa]]></surname>
+        <team_name><![CDATA[Rapids]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p8061c151j10.jpg]]></photo>
+        <position><![CDATA[Midfielder]]></position>
+        <dob>15/11/1987</dob>
+        <weight>71</weight>
+        <height>178</height>
+        <shirt_num>10</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Guatemala]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/marco-pappa/stats]]></profile_url>
+        <x_loc>0</x_loc>
+        <y_loc>0</y_loc>
+        <state><![CDATA[bench]]></state>
+        <age>29</age>
+        <bmi>22.4</bmi>
+      </player>
+      <player id="12845" team_id="151">
+        <first_name><![CDATA[Shkelzen]]></first_name>
+        <last_name><![CDATA[Gashi]]></last_name>
+        <name><![CDATA[Shkelzen Gashi]]></name>
+        <surname><![CDATA[Shkelzen Gashi]]></surname>
+        <team_name><![CDATA[Rapids]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p12845c151j11.jpg]]></photo>
+        <position><![CDATA[Midfielder]]></position>
+        <dob>15/07/1988</dob>
+        <weight>75</weight>
+        <height>182</height>
+        <shirt_num>11</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Albania]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/shkelzen-gashi/stats]]></profile_url>
+        <x_loc>62</x_loc>
+        <y_loc>50</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>28</age>
+        <bmi>22.6</bmi>
+      </player>
+      <player id="17773" team_id="151">
+        <first_name><![CDATA[Dominique]]></first_name>
+        <last_name><![CDATA[Badji]]></last_name>
+        <name><![CDATA[Dominique Badji]]></name>
+        <surname><![CDATA[Dominique Badji]]></surname>
+        <team_name><![CDATA[Rapids]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p17773c151j14.jpg]]></photo>
+        <position><![CDATA[Forward]]></position>
+        <dob>16/10/1992</dob>
+        <weight>77</weight>
+        <height>183</height>
+        <shirt_num>14</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Senegal]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/dominique-badji/stats]]></profile_url>
+        <x_loc>85</x_loc>
+        <y_loc>50</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>24</age>
+        <bmi>23</bmi>
+      </player>
+      <player id="4675" team_id="151">
+        <first_name><![CDATA[Zac]]></first_name>
+        <last_name><![CDATA[MacMath]]></last_name>
+        <name><![CDATA[Zac MacMath]]></name>
+        <surname><![CDATA[MacMath]]></surname>
+        <team_name><![CDATA[Rapids]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p4675c151j18.jpg]]></photo>
+        <position><![CDATA[Goalkeeper]]></position>
+        <dob>07/08/1991</dob>
+        <weight>80</weight>
+        <height>188</height>
+        <shirt_num>18</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[USA]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/zac-macmath/stats]]></profile_url>
+        <x_loc>0</x_loc>
+        <y_loc>0</y_loc>
+        <state><![CDATA[bench]]></state>
+        <age>25</age>
+        <bmi>22.6</bmi>
+      </player>
+      <player id="20407" team_id="151">
+        <first_name><![CDATA[Dennis]]></first_name>
+        <last_name><![CDATA[Castillo]]></last_name>
+        <name><![CDATA[Dennis Castillo]]></name>
+        <surname><![CDATA[Dennis Castillo]]></surname>
+        <team_name><![CDATA[Rapids]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p20407c151j26.jpg]]></photo>
+        <position><![CDATA[Defender]]></position>
+        <dob>30/04/1993</dob>
+        <weight>77</weight>
+        <height>180</height>
+        <shirt_num>26</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[Costa Rica]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/dennis-castillo/stats]]></profile_url>
+        <x_loc>0</x_loc>
+        <y_loc>0</y_loc>
+        <state><![CDATA[bench]]></state>
+        <age>23</age>
+        <bmi>23.8</bmi>
+      </player>
+      <player id="5578" team_id="151">
+        <first_name><![CDATA[Caleb]]></first_name>
+        <last_name><![CDATA[Calvert]]></last_name>
+        <name><![CDATA[Caleb Calvert]]></name>
+        <surname><![CDATA[Calvert]]></surname>
+        <team_name><![CDATA[Rapids]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p5578c151j29.jpg]]></photo>
+        <position><![CDATA[Forward]]></position>
+        <dob>22/10/1996</dob>
+        <weight>73</weight>
+        <height>188</height>
+        <shirt_num>29</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[USA]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/caleb-calvert/stats]]></profile_url>
+        <x_loc>0</x_loc>
+        <y_loc>0</y_loc>
+        <state><![CDATA[bench]]></state>
+        <age>20</age>
+        <bmi>20.7</bmi>
+      </player>
+      <player id="12208" team_id="151">
+        <first_name><![CDATA[Jared]]></first_name>
+        <last_name><![CDATA[Watts]]></last_name>
+        <name><![CDATA[Jared Watts]]></name>
+        <surname><![CDATA[Watts]]></surname>
+        <team_name><![CDATA[Rapids]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p12208c151j33.jpg]]></photo>
+        <position><![CDATA[Midfielder]]></position>
+        <dob>03/02/1992</dob>
+        <weight>71</weight>
+        <height>186</height>
+        <shirt_num>33</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[USA]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/jared-watts/stats]]></profile_url>
+        <x_loc>17</x_loc>
+        <y_loc>37</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>25</age>
+        <bmi>20.5</bmi>
+      </player>
+      <player id="17595" team_id="151">
+        <first_name><![CDATA[Axel]]></first_name>
+        <last_name><![CDATA[Sjoberg]]></last_name>
+        <name><![CDATA[Axel Sjoberg]]></name>
+        <surname><![CDATA[Sjoberg]]></surname>
+        <team_name><![CDATA[Rapids]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p17595c151j44.jpg]]></photo>
+        <position><![CDATA[Defender]]></position>
+        <dob>15/09/1992</dob>
+        <weight>91</weight>
+        <height>201</height>
+        <shirt_num>44</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[USA]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/axel-sjoberg/stats]]></profile_url>
+        <x_loc>17</x_loc>
+        <y_loc>61</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>24</age>
+        <bmi>22.5</bmi>
+      </player>
+      <player id="12036" team_id="151">
+        <first_name><![CDATA[Marlon]]></first_name>
+        <last_name><![CDATA[Hairston]]></last_name>
+        <name><![CDATA[Marlon Hairston]]></name>
+        <surname><![CDATA[Hairston]]></surname>
+        <team_name><![CDATA[Rapids]]></team_name>
+        <photo><![CDATA[http://www.squawka.com/wp-content/themes/squawka_web/uploaded_icons/players/thumb/p12036c151j94.jpg]]></photo>
+        <position><![CDATA[Midfielder]]></position>
+        <dob>23/03/1994</dob>
+        <weight>72</weight>
+        <height>183</height>
+        <shirt_num>94</shirt_num>
+        <total_influence>0</total_influence>
+        <country><![CDATA[USA]]></country>
+        <profile_url><![CDATA[http://www.squawka.com/players/marlon-hairston/stats]]></profile_url>
+        <x_loc>62</x_loc>
+        <y_loc>22</y_loc>
+        <state><![CDATA[playing]]></state>
+        <age>23</age>
+        <bmi>21.5</bmi>
+      </player>
+    </players>
+    <possession>
+      <period id="1">
+        <play_direction team_id="161">left-to-right</play_direction>
+        <play_direction team_id="151">right-to-left</play_direction>
+        <play_direction team_id="151">right-to-left</play_direction>
+        <time_slice name="0 - 5" id="1" scored_min="3">
+          <team_possession team_id="151">67</team_possession>
+          <team_possession team_id="161">33</team_possession>
+          <player_inf_score id="464" possession="1.16" attack="0" defense="0" goalkeeping="0">1.16</player_inf_score>
+          <player_inf_score id="601" possession="0.35" attack="0" defense="0" goalkeeping="0">0.35</player_inf_score>
+          <player_inf_score id="893" possession="-0.92" attack="0" defense="2.21" goalkeeping="0">1.29</player_inf_score>
+          <player_inf_score id="4442" possession="0.65" attack="0" defense="0" goalkeeping="0">0.65</player_inf_score>
+          <player_inf_score id="4680" possession="0.35" attack="0" defense="0" goalkeeping="0">0.35</player_inf_score>
+          <player_inf_score id="4707" possession="0.31" attack="0" defense="1.81" goalkeeping="0">2.12</player_inf_score>
+          <player_inf_score id="4716" possession="0.71" attack="0" defense="0" goalkeeping="0">0.71</player_inf_score>
+          <player_inf_score id="4721" possession="0" attack="0" defense="2.21" goalkeeping="0">2.21</player_inf_score>
+          <player_inf_score id="4786" possession="0" attack="0" defense="2.32" goalkeeping="0">2.32</player_inf_score>
+          <player_inf_score id="4811" possession="-1.08" attack="0" defense="0" goalkeeping="0">-1.08</player_inf_score>
+          <player_inf_score id="5349" possession="-3.92" attack="0" defense="0" goalkeeping="0">-3.92</player_inf_score>
+          <player_inf_score id="12025" possession="-3.3" attack="0" defense="-2.09" goalkeeping="0">-5.39</player_inf_score>
+          <player_inf_score id="12208" possession="-0.04" attack="0" defense="0" goalkeeping="0">-0.04</player_inf_score>
+          <player_inf_score id="12845" possession="0.35" attack="0" defense="0" goalkeeping="0">0.35</player_inf_score>
+          <player_inf_score id="13862" possession="-1.04" attack="0" defense="0" goalkeeping="0">-1.04</player_inf_score>
+          <player_inf_score id="17595" possession="-0.91" attack="0" defense="0" goalkeeping="0">-0.91</player_inf_score>
+          <player_inf_score id="17773" possession="-1.44" attack="0" defense="0" goalkeeping="0">-1.44</player_inf_score>
+        </time_slice>
+      </period>
+    </possession>
+    <filters>
+      <goal_keeping/>
+      <goals_attempts/>
+      <action_areas>
+        <time_slice name="0 - 5" id="1">
+          <action_area id="5">
+            <aa_team id="161">1</aa_team>
+            <aa_player id="893" team_id="161">1</aa_player>
+          </action_area>
+          <action_area id="3">
+            <aa_team id="151">1</aa_team>
+            <aa_player id="12025" team_id="151">1</aa_player>
+          </action_area>
+          <action_area id="2">
+            <aa_team id="151">1</aa_team>
+            <aa_player id="12208" team_id="151">1</aa_player>
+          </action_area>
+          <action_area id="8">
+            <aa_team id="151">7</aa_team>
+            <aa_team id="161">1</aa_team>
+            <aa_player id="17595" team_id="151">3</aa_player>
+            <aa_player id="4707" team_id="161">1</aa_player>
+            <aa_player id="4786" team_id="151">1</aa_player>
+            <aa_player id="4442" team_id="151">1</aa_player>
+            <aa_player id="12208" team_id="151">2</aa_player>
+          </action_area>
+          <action_area id="7">
+            <aa_team id="151">2</aa_team>
+            <aa_player id="464" team_id="151">2</aa_player>
+          </action_area>
+          <action_area id="14">
+            <aa_team id="151">4</aa_team>
+            <aa_player id="4811" team_id="151">2</aa_player>
+            <aa_player id="17595" team_id="151">1</aa_player>
+            <aa_player id="4680" team_id="151">1</aa_player>
+          </action_area>
+          <action_area id="4">
+            <aa_team id="161">3</aa_team>
+            <aa_team id="151">1</aa_team>
+            <aa_player id="13862" team_id="161">1</aa_player>
+            <aa_player id="893" team_id="161">1</aa_player>
+            <aa_player id="4721" team_id="161">1</aa_player>
+            <aa_player id="12025" team_id="151">1</aa_player>
+          </action_area>
+          <action_area id="11">
+            <aa_team id="161">2</aa_team>
+            <aa_player id="893" team_id="161">1</aa_player>
+            <aa_player id="601" team_id="161">1</aa_player>
+          </action_area>
+          <action_area id="10">
+            <aa_team id="161">1</aa_team>
+            <aa_team id="151">3</aa_team>
+            <aa_player id="4707" team_id="161">1</aa_player>
+            <aa_player id="17773" team_id="151">1</aa_player>
+            <aa_player id="4442" team_id="151">1</aa_player>
+            <aa_player id="12845" team_id="151">1</aa_player>
+          </action_area>
+          <action_area id="15">
+            <aa_team id="161">1</aa_team>
+            <aa_player id="4707" team_id="161">1</aa_player>
+          </action_area>
+          <action_area id="16">
+            <aa_team id="161">3</aa_team>
+            <aa_team id="151">1</aa_team>
+            <aa_player id="5349" team_id="161">3</aa_player>
+            <aa_player id="4680" team_id="151">1</aa_player>
+          </action_area>
+          <action_area id="12">
+            <aa_team id="161">2</aa_team>
+            <aa_player id="893" team_id="161">1</aa_player>
+            <aa_player id="4716" team_id="161">1</aa_player>
+          </action_area>
+        </time_slice>
+      </action_areas>
+      <headed_duals/>
+      <interceptions>
+        <time_slice name="0 - 5" id="1">
+          <event player_id="4707" team_id="161" action_type="Defense" mins="1" secs="5" minsec="65">
+            <headed>true</headed>
+            <loc>58.7,7.9</loc>
+          </event>
+          <ic_result team_id="151">0</ic_result>
+          <ic_result team_id="161">1</ic_result>
+        </time_slice>
+      </interceptions>
+      <clearances/>
+      <all_passes>
+        <time_slice name="0 - 5" id="1">
+          <event type="completed" player_id="12208" team_id="151" action_type="Possession" mins="1" secs="51" minsec="111" throw_ins="0">
+            <start>32,8.8</start>
+            <end>41.9,2.3</end>
+          </event>
+          <event type="completed" player_id="4442" team_id="151" action_type="Possession" mins="1" secs="39" minsec="99" throw_ins="0">
+            <start>26.7,56</start>
+            <end>27.7,67.8</end>
+          </event>
+          <event type="completed" player_id="464" team_id="151" action_type="Possession" mins="1" secs="35" minsec="95" throw_ins="0">
+            <start>10.5,52.1</start>
+            <end>27.3,50.4</end>
+          </event>
+          <event type="completed" player_id="12208" team_id="151" action_type="Possession" mins="1" secs="32" minsec="92" throw_ins="0">
+            <start>24.7,21.5</start>
+            <end>9.5,49.0</end>
+          </event>
+          <event type="completed" player_id="17595" team_id="151" action_type="Possession" mins="1" secs="29" minsec="89" throw_ins="0">
+            <start>22.4,70.6</start>
+            <end>24.7,21.5</end>
+            <long_ball>true</long_ball>
+          </event>
+          <event type="completed" player_id="4811" team_id="151" action_type="Possession" mins="1" secs="25" minsec="85" throw_ins="0">
+            <start>28.1,95</start>
+            <end>23.0,82.1</end>
+          </event>
+          <event type="completed" player_id="893" team_id="161" action_type="Possession" mins="1" secs="10" minsec="70" throw_ins="0">
+            <start>30.2,57.5</start>
+            <end>39.3,95.4</end>
+          </event>
+          <event type="completed" player_id="4707" team_id="161" action_type="Possession" mins="1" secs="8" minsec="68" throw_ins="0">
+            <start>39.5,27.1</start>
+            <end>31.8,51.8</end>
+          </event>
+          <event type="completed" player_id="4680" team_id="151" action_type="Possession" mins="0" secs="45" minsec="45" throw_ins="0">
+            <start>32,96.6</start>
+            <end>25.9,96.8</end>
+          </event>
+          <event type="completed" player_id="17595" team_id="151" action_type="Possession" mins="0" secs="42" minsec="42" throw_ins="0">
+            <start>31.1,74.7</start>
+            <end>37.3,93.5</end>
+            <headed>true</headed>
+          </event>
+          <event type="completed" player_id="601" team_id="161" action_type="Possession" mins="0" secs="37" minsec="37" throw_ins="0">
+            <start>30.5,39.4</start>
+            <end>41.8,6.2</end>
+          </event>
+          <event type="completed" player_id="4442" team_id="151" action_type="Possession" mins="0" secs="2" minsec="2" throw_ins="0">
+            <start>52,51.2</start>
+            <end>23.7,33.6</end>
+            <long_ball>true</long_ball>
+          </event>
+          <event type="completed" player_id="12845" team_id="151" action_type="Possession" mins="0" secs="1" minsec="1" throw_ins="0">
+            <start>50.2,49.4</start>
+            <end>52.0,51.2</end>
+          </event>
+          <event type="failed" player_id="13862" team_id="161" action_type="Possession" mins="1" secs="14" minsec="74" throw_ins="0">
+            <start>39,97.1</start>
+            <end>90.3,45.4</end>
+            <long_ball>true</long_ball>
+          </event>
+          <event type="failed" player_id="17773" team_id="151" action_type="Possession" mins="1" secs="7" minsec="67" throw_ins="0">
+            <start>55.7,71.8</start>
+            <end>60.1,74.2</end>
+            <headed>true</headed>
+          </event>
+          <event type="failed" player_id="17595" team_id="151" action_type="Possession" mins="1" secs="3" minsec="63" throw_ins="0">
+            <start>21.9,93.8</start>
+            <end>41.9,83.0</end>
+            <headed>true</headed>
+          </event>
+          <event type="failed" player_id="5349" team_id="161" action_type="Possession" mins="1" secs="0" minsec="60" throw_ins="1">
+            <start>47.1,0</start>
+            <end>67.1,4.7</end>
+          </event>
+          <event type="failed" player_id="5349" team_id="161" action_type="Possession" mins="0" secs="49" minsec="49" throw_ins="0">
+            <start>40.6,5</start>
+            <end>49.3,7.9</end>
+            <long_ball>true</long_ball>
+          </event>
+          <event type="failed" player_id="4811" team_id="151" action_type="Possession" mins="0" secs="46" minsec="46" throw_ins="0">
+            <start>25.9,96.8</start>
+            <end>55.7,94.4</end>
+          </event>
+          <event type="failed" player_id="5349" team_id="161" action_type="Possession" mins="0" secs="40" minsec="40" throw_ins="0">
+            <start>43.6,2.8</start>
+            <end>72.2,23.0</end>
+            <long_ball>true</long_ball>
+          </event>
+          <event type="failed" player_id="893" team_id="161" action_type="Possession" mins="0" secs="22" minsec="22" throw_ins="0">
+            <start>13.8,73.3</start>
+            <end>38.8,92.7</end>
+          </event>
+          <event type="failed" player_id="12208" team_id="151" action_type="Possession" mins="0" secs="5" minsec="5" throw_ins="0">
+            <start>22.9,34.5</start>
+            <end>94.3,28.9</end>
+            <long_ball>true</long_ball>
+          </event>
+          <ap_result team_id="151" completed="10" failed="4" assists="0" longball="0" headed="0" through_ball="0" throw_ins="0">10/14</ap_result>
+          <ap_result team_id="161" completed="3" failed="5" assists="0" longball="0" headed="0" through_ball="0" throw_ins="1">3/8</ap_result>
+        </time_slice>
+      </all_passes>
+      <tackles>
+        <time_slice name="0 - 5" id="1"/>
+      </tackles>
+      <crosses>
+        <time_slice name="0 - 5" id="1"/>
+      </crosses>
+      <corners>
+        <time_slice name="0 - 5" id="1"/>
+      </corners>
+      <offside>
+        <time_slice name="0 - 5" id="1">
+          <event player_id="17773" mins="1" secs="53" minsec="113" team="151"/>
+        </time_slice>
+      </offside>
+      <keepersweeper/>
+      <oneonones/>
+      <setpieces/>
+      <takeons>
+        <time_slice name="0 - 5" id="1"/>
+      </takeons>
+      <fouls>
+        <time_slice name="0 - 5" id="1">
+          <event player_id="12025" mins="0" secs="27" minsec="27" team="151" type="Foul">
+            <loc>60.2,8.6</loc>
+            <otherplayer team="161">4721</otherplayer>
+          </event>
+          <event player_id="4707" mins="1" secs="44" minsec="104" team="161" type="Foul">
+            <loc>28.3,62.9</loc>
+            <otherplayer team="151">4786</otherplayer>
+          </event>
+        </time_slice>
+      </fouls>
+      <cards>
+        <time_slice name="0 - 5" id="1"/>
+      </cards>
+      <blocked_events/>
+      <extra_heat_maps>
+        <time_slice name="0 - 5" id="1">
+          <event player_id="893" team_id="161" action_type="Possession" mins="2" secs="9" minsec="129" ot_id="1" ot_outcome="1">
+            <loc>27.4,80.9</loc>
+          </event>
+          <event player_id="12025" team_id="151" action_type="Possession" mins="1" secs="53" minsec="113" ot_id="2" ot_outcome="1">
+            <loc>41.9,2.3</loc>
+          </event>
+          <event player_id="17595" team_id="151" action_type="Possession" mins="1" secs="47" minsec="107" ot_id="1" ot_outcome="1">
+            <loc>28.4,53</loc>
+          </event>
+          <event player_id="4707" team_id="161" action_type="Defense" mins="1" secs="44" minsec="104" ot_id="4" ot_outcome="0">
+            <loc>71.7,37.1</loc>
+          </event>
+          <event player_id="4786" team_id="151" action_type="Defense" mins="1" secs="44" minsec="104" ot_id="4" ot_outcome="1">
+            <loc>28.3,62.9</loc>
+          </event>
+          <event player_id="464" team_id="151" action_type="Possession" mins="1" secs="22" minsec="82" ot_id="1" ot_outcome="1">
+            <loc>13.5,53.3</loc>
+          </event>
+          <event player_id="4680" team_id="151" action_type="Possession" mins="0" secs="50" minsec="50" ot_id="61" ot_outcome="1">
+            <loc>53.2,93.9</loc>
+          </event>
+          <event player_id="893" team_id="161" action_type="Possession" mins="0" secs="35" minsec="35" ot_id="1" ot_outcome="1">
+            <loc>34.8,87.1</loc>
+          </event>
+          <event player_id="4721" team_id="161" action_type="Defense" mins="0" secs="27" minsec="27" ot_id="4" ot_outcome="1">
+            <loc>39.8,91.4</loc>
+          </event>
+          <event player_id="12025" team_id="151" action_type="Defense" mins="0" secs="27" minsec="27" ot_id="4" ot_outcome="0">
+            <loc>60.2,8.6</loc>
+          </event>
+          <event player_id="4716" team_id="161" action_type="Possession" mins="0" secs="18" minsec="18" ot_id="1" ot_outcome="1">
+            <loc>12.7,62.4</loc>
+          </event>
+        </time_slice>
+      </extra_heat_maps>
+      <balls_out>
+        <time_slice name="0 - 5" id="1">
+          <event type="out" player_id="4680" team_id="151" action_type="" mins="0" secs="53" minsec="53">
+            <start>53.2,93.9</start>
+            <end>53,101.8</end>
+          </event>
+          <bo_result team_id="151">1</bo_result>
+          <bo_result team_id="161">0</bo_result>
+        </time_slice>
+      </balls_out>
+    </filters>
+  </data_panel>
+</squawka>

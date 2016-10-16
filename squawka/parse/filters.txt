@@ -1,0 +1,25 @@
+    <filters>
+          <goal_keeping>
+	  <goals_attempts>
+          <action_areas>
+          <headed_duals>
+          <interceptions>
+          <clearances>
+          <all_passes>
+          <tackles>
+          <crosses>
+          <corners>
+          <offside>
+          <keepersweeper>
+          <oneonones>
+          <setpieces>
+          <takeons>
+          <fouls>
+          <cards>
+          <blocked_events>
+          <extra_heat_maps>
+          <balls_out>
+
+    <playerswap_intimeslice period_id="1">5</playerswap_intimeslice>
+  </data_panel>
+</squawka>

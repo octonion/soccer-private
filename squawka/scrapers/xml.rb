@@ -22,18 +22,21 @@ league_key = match_url.split("/")[2].split(".")[0].gsub("-","")
 
 matches.each do |match|
 
-  print "Sleeping 30 ... "
-  sleep 30
-  
   match_id = match["match_id"].to_i
   if (match_id==0)
     next
   end
 
   file_name = "xml/#{match_id}.xml"
-  if (File.file?(file_name))
-    #next
+
+  #  if (File.file?(file_name))
+  if (File.exist?(file_name))
+    print "Skipping #{league_key}/#{match_id}\n"
+    next
   end
+
+  print "Sleeping 30 ... "
+  sleep 30
 
   print "Pulling #{league_key}/#{match_id}\n"
   url = "http://s3-irl-#{league_key}.squawka.com/dp/ingame/#{match_id}"
